@@ -1,0 +1,193 @@
+import * as store from '../store.js';
+import { pergunta } from '../dados.js';
+import { hoje } from '../datas.js';
+import { esc, rico, plural, fmtTempo } from '../util.js';
+import { pendentes, montarSessao, bancoEsgotado, TAM_SESSAO } from '../estudo.js';
+import { htmlMeta, htmlEnunciado, htmlAlternativas, htmlExplicacao } from './pergunta.js';
+
+// Pausas longas (app em segundo plano) não entram no tempo da sessão.
+const TETO_POR_PERGUNTA_MS = 5 * 60 * 1000;
+
+// Cria e salva uma sessão nova, se houver perguntas pendentes.
+export function iniciarSessao() {
+  const ids = montarSessao();
+  if (!ids.length) return null;
+  const s = { ids, pos: 0, resp: {}, ms: 0, data: hoje() };
+  store.definirSessao(s);
+  return s;
+}
+
+export function telaEstudar(raiz) {
+  let marca = Date.now();
+
+  function contarTempo(s) {
+    s.ms += Math.min(Date.now() - marca, TETO_POR_PERGUNTA_MS);
+    marca = Date.now();
+  }
+
+  function desenhar() {
+    let s = store.sessao();
+
+    // Pula ids que por algum motivo já não existam nos dados.
+    if (s) {
+      const antes = s.pos;
+      while (s.pos < s.ids.length && !pergunta(s.ids[s.pos])) s.pos++;
+      if (s.pos !== antes) store.definirSessao(s);
+    }
+    // Resultado de um dia anterior não fica preso na tela.
+    if (s && s.pos >= s.ids.length && s.data !== hoje()) {
+      store.definirSessao(null);
+      s = null;
+    }
+
+    if (!s) desenharEntrada();
+    else if (s.pos >= s.ids.length) desenharResultado(s);
+    else desenharPergunta(s);
+  }
+
+  function desenharEntrada() {
+    const n = pendentes();
+    if (bancoEsgotado()) {
+      raiz.innerHTML = `
+        <section class="vazio">
+          <h1>Você respondeu todas as perguntas disponíveis 🎉</h1>
+          <p>Use Revisar e Simulado.</p>
+          <a class="btn" href="#/revisar">Ir para Revisar</a>
+        </section>`;
+      return;
+    }
+    if (n === 0) {
+      raiz.innerHTML = `
+        <section class="vazio">
+          <p class="rotulo">Estudar</p>
+          <h1>✓ Meta de hoje cumprida</h1>
+          <p>Amanhã entram mais perguntas novas. Enquanto isso, use Revisar.</p>
+          <a class="btn" href="#/inicio">Voltar ao início</a>
+        </section>`;
+      return;
+    }
+    const tamanho = Math.min(TAM_SESSAO, n);
+    raiz.innerHTML = `
+      <section class="vazio">
+        <p class="rotulo">Estudar</p>
+        <h1><span class="num">${n}</span> ${plural(n, 'pergunta nova pendente', 'perguntas novas pendentes')}</h1>
+        <p>Sessão de ${tamanho} ${plural(tamanho, 'pergunta', 'perguntas')}. Dá para fechar a app e continuar depois do mesmo ponto.</p>
+        <button class="btn primario grande" type="button" id="comecar">Começar</button>
+      </section>`;
+    raiz.querySelector('#comecar').addEventListener('click', () => {
+      iniciarSessao();
+      marca = Date.now();
+      desenhar();
+    });
+  }
+
+  function desenharPergunta(s) {
+    const q = pergunta(s.ids[s.pos]);
+    const dada = s.resp[q.id];
+    const escolha = dada ? dada[0] : null;
+    const total = s.ids.length;
+    const ultima = s.pos === total - 1;
+    const fav = store.favorita(q.id);
+
+    raiz.innerHTML = `
+      <div class="sessao-topo">
+        <div class="barra" role="progressbar" aria-valuemin="0" aria-valuemax="${total}" aria-valuenow="${s.pos + 1}"
+             aria-label="Progresso da sessão">
+          <span style="width:${((s.pos + (dada ? 1 : 0)) / total) * 100}%"></span>
+        </div>
+        <span class="num sessao-conta">${s.pos + 1}/${total}</span>
+        <button type="button" class="estrela" id="fav" aria-pressed="${fav}" aria-label="Favoritar pergunta">${fav ? '★' : '☆'}</button>
+      </div>
+      <article class="pergunta">
+        ${htmlMeta(q)}
+        ${htmlEnunciado(q)}
+        ${htmlAlternativas(q, escolha)}
+        ${dada ? htmlExplicacao(q, escolha) : ''}
+      </article>
+      ${dada ? `
+        <div class="acao-fixa">
+          <button class="btn primario grande" type="button" id="proxima">${ultima ? 'Ver resultado' : 'Próxima'}</button>
+        </div>` : ''}`;
+
+    raiz.querySelector('#fav').addEventListener('click', (e) => {
+      const agora = store.alternarFavorita(q.id);
+      e.currentTarget.setAttribute('aria-pressed', agora);
+      e.currentTarget.textContent = agora ? '★' : '☆';
+    });
+
+    if (!dada) {
+      raiz.querySelector('.alts').addEventListener('click', (e) => {
+        const botao = e.target.closest('.alt');
+        if (!botao || s.resp[q.id]) return;
+        const i = Number(botao.dataset.i);
+        const acertou = i === q.correta;
+        store.responder(q.id, i, acertou, hoje());
+        s.resp[q.id] = [i, acertou ? 1 : 0];
+        contarTempo(s);
+        store.definirSessao(s);
+        desenharPergunta(s);
+        raiz.querySelector('.explica')?.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+      });
+      return;
+    }
+
+    raiz.querySelector('#proxima').addEventListener('click', () => {
+      contarTempo(s);
+      s.pos++;
+      store.definirSessao(s);
+      desenhar();
+      window.scrollTo(0, 0);
+    });
+  }
+
+  function desenharResultado(s) {
+    const feitas = s.ids.map(pergunta).filter((q) => q && s.resp[q.id]);
+    const erradas = feitas.filter((q) => !s.resp[q.id][1]);
+    const acertos = feitas.length - erradas.length;
+    const pct = feitas.length ? Math.round((acertos / feitas.length) * 100) : 0;
+    const restam = pendentes();
+
+    const lista = erradas.map((q) => `
+      <li class="errada-item">
+        ${htmlMeta(q)}
+        ${htmlEnunciado(q)}
+        <p class="linha-resp erro"><span aria-hidden="true">✗</span> <span><b>Sua resposta:</b> ${rico(q.alternativas[s.resp[q.id][0]])}</span></p>
+        <p class="linha-resp ok"><span aria-hidden="true">✓</span> <span><b>Correta:</b> ${rico(q.alternativas[q.correta])}</span></p>
+        <p class="errada-explica">${rico(q.explicacao)}</p>
+      </li>`).join('');
+
+    raiz.innerHTML = `
+      <section class="resultado">
+        <p class="rotulo">Estudar</p>
+        <h1>Sessão concluída</h1>
+        <div class="placar">
+          <div><span class="num">${acertos}/${feitas.length}</span><small>acertos</small></div>
+          <div><span class="num">${pct}%</span><small>aproveitamento</small></div>
+          <div><span class="num">${esc(fmtTempo(s.ms))}</span><small>tempo</small></div>
+        </div>
+        <div class="botoes">
+          ${restam > 0
+            ? `<button class="btn primario grande" type="button" id="outra">Mais uma sessão <small>(${restam} ${plural(restam, 'pendente', 'pendentes')})</small></button>`
+            : ''}
+          <button class="btn grande" type="button" id="sair">Voltar ao início</button>
+        </div>
+        <h2 class="secao">${erradas.length
+          ? `${erradas.length} ${plural(erradas.length, 'pergunta errada', 'perguntas erradas')}`
+          : 'Nenhum erro nesta sessão ✓'}</h2>
+        ${erradas.length ? `<p class="nota">Elas entraram na revisão espaçada.</p><ul class="erradas">${lista}</ul>` : ''}
+      </section>`;
+
+    raiz.querySelector('#outra')?.addEventListener('click', () => {
+      iniciarSessao();
+      marca = Date.now();
+      desenhar();
+      window.scrollTo(0, 0);
+    });
+    raiz.querySelector('#sair').addEventListener('click', () => {
+      store.definirSessao(null);
+      location.hash = '#/inicio';
+    });
+  }
+
+  desenhar();
+}

@@ -1,0 +1,2340 @@
+{
+ "id": "geologia",
+ "perguntas": [
+  {
+   "id": "geo-0001",
+   "dificuldade": 1,
+   "tema": "Conceitos básicos",
+   "enunciado": "Qual é a diferença conceitual entre hidrocarbonetos e petróleo?",
+   "tipo": "multipla",
+   "alternativas": [
+    "São sinônimos exatos em qualquer contexto técnico",
+    "Petróleo é de origem inorgânica e hidrocarbonetos de origem orgânica",
+    "Petróleo contém só carbono e hidrogênio; hidrocarbonetos incluem impurezas",
+    "Hidrocarbonetos são compostos só de C e H; petróleo é a mistura de hidrocarbonetos com compostos heteroatômicos (N, O, S e organometálicos)",
+    "Hidrocarbonetos são sempre gasosos e petróleo é sempre líquido"
+   ],
+   "correta": 3,
+   "explicacao": "Hidrocarbonetos = moléculas formadas apenas por carbono e hidrogênio. O petróleo é a mistura natural desses hidrocarbonetos com impurezas (compostos de N, O, S e sais organometálicos de níquel e vanádio)."
+  },
+  {
+   "id": "geo-0002",
+   "dificuldade": 2,
+   "tema": "Conceitos básicos",
+   "enunciado": "Segundo a apresentação, como os engenheiros e químicos costumam definir “gás natural”, diferentemente dos geólogos?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Como os gases de hidrocarbonetos de C1 a C4 (metano, etano, propano e butano)",
+    "Como apenas o metano produzido por atividade bacteriana",
+    "Como o petróleo nos três estados físicos da matéria",
+    "Como a fração do petróleo insolúvel em solventes orgânicos",
+    "Como qualquer gás encontrado no reservatório, inclusive CO2 e N2"
+   ],
+   "correta": 0,
+   "explicacao": "Para os geólogos, petróleo é a mistura de hidrocarbonetos e impurezas em qualquer estado físico. Engenheiros e químicos chamam de petróleo o óleo cru e de gás natural os hidrocarbonetos gasosos C1–C4."
+  },
+  {
+   "id": "geo-0003",
+   "dificuldade": 1,
+   "tema": "Conceitos básicos",
+   "enunciado": "As atividades de exploração e produção (explotação) de petróleo pertencem a qual segmento da indústria?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Petroquímica",
+    "Distribuição",
+    "Downstream",
+    "Midstream",
+    "Upstream"
+   ],
+   "correta": 4,
+   "explicacao": "Upstream reúne exploração e produção. Downstream engloba refino, petroquímica, transporte, distribuição e comercialização; midstream é usado por alguns para transporte e refino."
+  },
+  {
+   "id": "geo-0004",
+   "dificuldade": 1,
+   "tema": "Conceitos básicos",
+   "enunciado": "Explotação (ou desenvolvimento) é o processo de busca de novas acumulações de petróleo.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 1,
+   "explicacao": "Falso. Busca de novas acumulações = exploração. Explotação/desenvolvimento é a recuperação das reservas já descobertas, com estudos de geoengenharia de reservatórios e perfuração de poços dentro do campo."
+  },
+  {
+   "id": "geo-0005",
+   "dificuldade": 2,
+   "tema": "Conceitos básicos",
+   "enunciado": "Por que as empresas de petróleo mais fortes tendem a ser verticalizadas (integradas, “do poço ao posto”)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque a receita dos derivados de maior valor agregado financia a exploração, que é cara, arriscada e de retorno lento, e a exploração alimenta o refino",
+    "Porque a legislação brasileira proíbe empresas independentes no upstream",
+    "Porque a integração elimina a necessidade de reposição de reservas",
+    "Porque a exploração tem retorno rápido e garantido, subsidiando o refino",
+    "Porque empresas de serviço não podem atuar em exploração"
+   ],
+   "correta": 0,
+   "explicacao": "O ciclo se fecha: o downstream (derivados de maior valor) gera caixa para bancar a exploração, de alto risco, custo elevado e retorno incerto e lento; e a exploração fornece o petróleo que será refinado e vendido."
+  },
+  {
+   "id": "geo-0006",
+   "dificuldade": 1,
+   "tema": "Conceitos básicos",
+   "enunciado": "Schlumberger, Halliburton e Baker Hughes são exemplos de:",
+   "tipo": "multipla",
+   "alternativas": [
+    "IOCs (“Majors”)",
+    "Empresas independentes de upstream",
+    "NOCs (National Oil Companies)",
+    "Agências reguladoras",
+    "Companhias de serviço"
+   ],
+   "correta": 4,
+   "explicacao": "São companhias de serviço, que prestam serviços (perfilagem, fluidos, cimentação, etc.) às operadoras. NOCs são estatais (Petrobras, Pemex); IOCs são as transnacionais como ExxonMobil e Shell."
+  },
+  {
+   "id": "geo-0007",
+   "dificuldade": 1,
+   "tema": "Estrutura da Terra",
+   "enunciado": "Qual camada da Terra corresponde a cerca de 85% do seu volume?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Litosfera oceânica",
+    "Manto",
+    "Núcleo externo",
+    "Núcleo interno",
+    "Crosta"
+   ],
+   "correta": 1,
+   "explicacao": "O manto tem ~2.885 km de espessura, é rico em ferro, magnésio, sílica e oxigênio e representa ~85% do volume da Terra. A crosta tem só 4 a 60 km."
+  },
+  {
+   "id": "geo-0008",
+   "dificuldade": 2,
+   "tema": "Estrutura da Terra",
+   "enunciado": "Sobre o núcleo terrestre, é correto afirmar:",
+   "tipo": "multipla",
+   "alternativas": [
+    "É sólido por inteiro devido às baixas temperaturas",
+    "É todo líquido e composto de sílica e oxigênio",
+    "É composto principalmente de ferro e níquel, com núcleo interno sólido e núcleo externo líquido",
+    "Tem entre 4 e 60 km de espessura",
+    "É a camada onde se formam as bacias sedimentares"
+   ],
+   "correta": 2,
+   "explicacao": "Núcleo = ferro e níquel, muito quente. O interno é sólido (~1.216 km) e o externo é líquido (~2.270 km)."
+  },
+  {
+   "id": "geo-0009",
+   "dificuldade": 1,
+   "tema": "História do petróleo",
+   "enunciado": "O marco do início da exploração comercial moderna de petróleo é:",
+   "tipo": "multipla",
+   "alternativas": [
+    "O poço do “Coronel” Drake, em Titusville (Pensilvânia, EUA), em 1859",
+    "A primeira perfilagem dos irmãos Schlumberger, em 1927",
+    "A descoberta do pré-sal em 2006",
+    "O uso de betume pelos fenícios para calafetar barcos",
+    "A criação da Petrobras, em 1953"
+   ],
+   "correta": 0,
+   "explicacao": "Em 27/08/1859 Drake encontrou óleo a 21 m de profundidade em Titusville, com vazão de ~2 m³/dia — o “Drake Day”, início da exploração comercial."
+  },
+  {
+   "id": "geo-0010",
+   "dificuldade": 2,
+   "tema": "História do petróleo",
+   "enunciado": "O que mudou na exploração de petróleo do início do século XX para hoje?",
+   "tipo": "multipla",
+   "alternativas": [
+    "A exploração passou a depender apenas da magnetometria",
+    "Hoje basta encontrar uma rocha reservatório para garantir um campo",
+    "Abandonou-se completamente a geologia de superfície",
+    "Hoje se perfura apenas onde há exsudações visíveis",
+    "Passou-se da busca por indícios superficiais e “achologia” para a procura da convergência dos elementos de um sistema petrolífero"
+   ],
+   "correta": 4,
+   "explicacao": "Antes se procurava óleo perto de indícios de superfície e se perfurava desenfreadamente ao redor. Hoje o objetivo é encontrar a convergência de geradora, reservatório, selo e trapa."
+  },
+  {
+   "id": "geo-0011",
+   "dificuldade": 1,
+   "tema": "Origem do petróleo",
+   "enunciado": "Qual teoria sobre a origem do petróleo é aceita pela maioria dos geólogos?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Teoria orgânica: matéria orgânica + sedimento + condições termoquímicas apropriadas",
+    "Teoria da origem meteorítica",
+    "Teoria inorgânica, que explica a maior parte das ocorrências",
+    "Teoria da origem a partir de rochas metamórficas",
+    "Teoria vulcânica, ligada à cristalização de magmas"
+   ],
+   "correta": 0,
+   "explicacao": "A teoria orgânica é a aceita. As teorias inorgânicas (antiga URSS) estão em desuso e explicariam menos de 1% das ocorrências."
+  },
+  {
+   "id": "geo-0012",
+   "dificuldade": 2,
+   "tema": "Origem do petróleo",
+   "enunciado": "Na teoria orgânica moderna, em que tipo de ambiente a matéria orgânica precisa ser depositada para ser preservada?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Ambiente redutor (pobre em oxigênio), junto com sedimentos finos como argilas, siltes e lama carbonática",
+    "Ambiente de alta energia, como praias e rios",
+    "Qualquer ambiente, desde que a temperatura seja superficial",
+    "Ambiente vulcânico, junto com lavas",
+    "Ambiente oxidante, junto com areias grossas"
+   ],
+   "correta": 0,
+   "explicacao": "Em ambiente oxidante a matéria orgânica é destruída. Ela precisa ser depositada em ambiente redutor com sedimentos pelíticos finos, que também dificultam a circulação de oxigênio."
+  },
+  {
+   "id": "geo-0013",
+   "dificuldade": 2,
+   "tema": "Origem do petróleo",
+   "enunciado": "O que é o querogênio?",
+   "tipo": "multipla",
+   "alternativas": [
+    "O gás metano gerado por bactérias",
+    "A fração solúvel da matéria orgânica, também chamada betume",
+    "A fração da matéria orgânica das rochas sedimentares insolúvel em solventes orgânicos",
+    "O resíduo de carbono que sobra após a metagênese",
+    "Um mineral argiloso que forma rochas selantes"
+   ],
+   "correta": 2,
+   "explicacao": "Querogênio é o polímero orgânico complexo, insolúvel em solventes orgânicos; a parte solúvel é o betume. É o querogênio que, com o aumento de temperatura, se converte em petróleo."
+  },
+  {
+   "id": "geo-0014",
+   "dificuldade": 1,
+   "tema": "Maturação da matéria orgânica",
+   "enunciado": "A janela de geração de petróleo (óleo) está associada principalmente à:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Diagênese inicial",
+    "Metamorfismo regional",
+    "Catagênese",
+    "Litificação superficial",
+    "Metagênese"
+   ],
+   "correta": 2,
+   "explicacao": "Na catagênese o querogênio é craqueado termicamente e gera óleo (e gás úmido). A diagênese é a fase bacteriana inicial e a metagênese gera predominantemente gás seco."
+  },
+  {
+   "id": "geo-0015",
+   "dificuldade": 2,
+   "tema": "Maturação da matéria orgânica",
+   "enunciado": "Uma rocha geradora que atingiu a metagênese tende a gerar principalmente:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Betume sólido",
+    "Óleo pesado",
+    "Óleo leve e condensado em grande quantidade",
+    "Querogênio novo",
+    "Gás seco (metano)"
+   ],
+   "correta": 4,
+   "explicacao": "Na metagênese (temperaturas mais altas, acima da janela de óleo) predomina a geração de gás seco (metano), restando resíduo carbonoso e, no extremo, grafita."
+  },
+  {
+   "id": "geo-0016",
+   "dificuldade": 2,
+   "tema": "Maturação da matéria orgânica",
+   "enunciado": "Pelas faixas de temperatura apresentadas no curso, a geração de óleo ocorre aproximadamente entre:",
+   "tipo": "multipla",
+   "alternativas": [
+    "300 °C e 550 °C",
+    "20 °C e 50 °C",
+    "165 °C e 210 °C",
+    "210 °C e 300 °C",
+    "65 °C e 165 °C"
+   ],
+   "correta": 4,
+   "explicacao": "Até ~65 °C predomina a atividade bacteriana; entre ~65 e 165 °C ocorre a quebra do querogênio e a geração de óleo; entre ~165 e 210 °C, gás; acima disso, gás seco e grafita. (300–550 °C é a faixa da pirólise em laboratório.)"
+  },
+  {
+   "id": "geo-0017",
+   "dificuldade": 3,
+   "tema": "Maturação da matéria orgânica",
+   "enunciado": "Um folhelho tem COT de 5% e querogênio tipo II, mas a reflectância da vitrinita é 0,3%. Qual a interpretação mais adequada?",
+   "tipo": "multipla",
+   "alternativas": [
+    "É uma rocha com bom potencial, mas ainda imatura: não atingiu a janela de geração",
+    "Não pode ser geradora porque o COT é baixo demais",
+    "Está na fase de gás seco (metagênese)",
+    "Está no auge da janela de óleo",
+    "É uma geradora supermatura, que já gerou todo o seu óleo"
+   ],
+   "correta": 0,
+   "explicacao": "COT de 5% e querogênio II indicam boa quantidade e qualidade. Mas Ro de 0,3% está abaixo do início da janela (~0,5–0,6%). Ou seja: falta maturação. Quantidade, qualidade e maturação precisam estar juntas."
+  },
+  {
+   "id": "geo-0018",
+   "dificuldade": 1,
+   "tema": "Sistema petrolífero",
+   "enunciado": "Quais são os elementos essenciais de um sistema petrolífero?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Geração, migração, acumulação e preservação",
+    "Querogênio, betume, óleo e gás",
+    "Porosidade, permeabilidade, saturação e pressão",
+    "Rocha geradora, rocha reservatório, rocha selante e trapa",
+    "Sísmica, gravimetria, magnetometria e perfilagem"
+   ],
+   "correta": 3,
+   "explicacao": "Elementos = geradora, reservatório, selo e trapa. Os processos são geração, migração, formação de trapa e preservação — e tudo precisa de sincronismo."
+  },
+  {
+   "id": "geo-0019",
+   "dificuldade": 2,
+   "tema": "Sistema petrolífero",
+   "enunciado": "Além dos elementos e processos, o que mais é necessário para que um sistema petrolífero gere acumulações comerciais?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Que o reservatório seja mais antigo que a geradora",
+    "Que não haja selo, para facilitar a produção",
+    "Sincronismo entre os eventos e balanço de massas positivo",
+    "Apenas que a geradora seja muito espessa",
+    "Que a trapa se forme depois da migração"
+   ],
+   "correta": 2,
+   "explicacao": "Não basta ter as peças: elas precisam ocorrer na ordem certa (a trapa deve existir quando o petróleo migra) e o volume gerado precisa superar as perdas (balanço de massas positivo)."
+  },
+  {
+   "id": "geo-0020",
+   "dificuldade": 3,
+   "tema": "Sistema petrolífero",
+   "enunciado": "Uma estrutura anticlinal perfeita foi formada há 20 milhões de anos, mas a geradora da bacia expulsou todo o seu petróleo há 60 milhões de anos. O que se espera encontrar no anticlinal?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Óleo biodegradado, mas em grande volume",
+    "Uma grande acumulação, pois a trapa é perfeita",
+    "Provavelmente nada: a trapa se formou depois da migração (falta de sincronismo)",
+    "Uma acumulação garantida, desde que haja selo",
+    "Apenas gás, por causa da idade da trapa"
+   ],
+   "correta": 2,
+   "explicacao": "É o clássico problema de sincronismo: se o petróleo migrou antes de a trapa existir, ele passou e se perdeu. Uma trapa só é útil se já estiver formada quando o petróleo migra."
+  },
+  {
+   "id": "geo-0021",
+   "dificuldade": 2,
+   "tema": "Sistema petrolífero",
+   "enunciado": "Na nomenclatura de sistemas petrolíferos, “Jandiatuba–Juruá (!)” indica que:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Juruá é a rocha selante e o sistema é conhecido",
+    "A geradora é Jandiatuba, o reservatório é Juruá e o sistema é hipotético",
+    "Jandiatuba e Juruá são duas bacias e o sistema é especulativo",
+    "A geradora é Jandiatuba, o reservatório é Juruá e o sistema é conhecido",
+    "O reservatório é Jandiatuba, a geradora é Juruá e o sistema é especulativo"
+   ],
+   "correta": 3,
+   "explicacao": "O nome segue a ordem geradora–reservatório e o símbolo indica o nível de certeza: (!) conhecido, (.) hipotético e (?) especulativo."
+  },
+  {
+   "id": "geo-0022",
+   "dificuldade": 2,
+   "tema": "Sistema petrolífero",
+   "enunciado": "O que caracteriza um sistema petrolífero atípico ígneo-sedimentar?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Um ou mais elementos ou processos estão ligados a eventos magmáticos, como o calor de intrusões que matura uma geradora imatura",
+    "O reservatório é sempre um arenito eólico",
+    "A geradora é uma rocha ígnea rica em querogênio",
+    "O petróleo tem origem exclusivamente inorgânica",
+    "Não há rocha geradora, apenas reservatório"
+   ],
+   "correta": 0,
+   "explicacao": "Em sistemas ígneo-sedimentares, diques e soleiras podem fornecer o calor para maturar geradoras que estariam imaturas, além de poderem atuar como selo, trapa ou até reservatório fraturado."
+  },
+  {
+   "id": "geo-0023",
+   "dificuldade": 1,
+   "tema": "Rocha geradora",
+   "enunciado": "Qual fator é mais determinante para a qualidade de uma rocha geradora?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Granulometria grossa",
+    "Conteúdo de matéria orgânica (COT)",
+    "Alta permeabilidade",
+    "Porosidade elevada",
+    "Presença de fraturas"
+   ],
+   "correta": 1,
+   "explicacao": "Uma geradora precisa ser rica em matéria orgânica. Permeabilidade, porosidade e granulometria grossa são atributos de reservatório, não de geradora."
+  },
+  {
+   "id": "geo-0024",
+   "dificuldade": 1,
+   "tema": "Rocha geradora",
+   "enunciado": "São exemplos típicos de rochas geradoras:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Evaporitos e diabásios",
+    "Coquinas e travertinos",
+    "Arenitos e conglomerados",
+    "Folhelhos, calcilutitos e margas",
+    "Basaltos e granitos"
+   ],
+   "correta": 3,
+   "explicacao": "Geradoras são rochas finas, ricas em matéria orgânica: folhelhos (siliciclásticos), calcilutitos e margas (carbonáticos). Arenitos e coquinas são reservatórios; evaporitos são selantes."
+  },
+  {
+   "id": "geo-0025",
+   "dificuldade": 2,
+   "tema": "Rocha geradora",
+   "enunciado": "O que define uma rocha geradora “ativa” no conceito de sistemas petrolíferos?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Conter grande quantidade de água de formação",
+    "Ter matéria orgânica em qualidade, quantidade e maturidade, e capacidade de expelir o petróleo gerado",
+    "Estar atualmente exposta em superfície",
+    "Ser de idade cenozoica",
+    "Ter alta porosidade e permeabilidade"
+   ],
+   "correta": 1,
+   "explicacao": "Geradora ativa = tem matéria orgânica suficiente (quantidade), de bom tipo (qualidade), já maturada termicamente, e consegue expulsar o petróleo gerado."
+  },
+  {
+   "id": "geo-0026",
+   "dificuldade": 2,
+   "tema": "Rocha geradora",
+   "enunciado": "Matéria orgânica derivada principalmente de algas, rica em hidrogênio, tende a gerar:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Principalmente gás",
+    "Apenas CO2",
+    "Nada, pois algas não preservam matéria orgânica",
+    "Principalmente óleo",
+    "Apenas carvão"
+   ],
+   "correta": 3,
+   "explicacao": "Algas = matéria orgânica rica em hidrogênio = óleo. Madeira/vegetais superiores = pobre em hidrogênio = gás."
+  },
+  {
+   "id": "geo-0027",
+   "dificuldade": 2,
+   "tema": "Querogênio",
+   "enunciado": "No diagrama de Van Krevelen, o querogênio tipo III está associado a:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Matéria orgânica já totalmente convertida em grafita",
+    "Lipídeos de algas lacustres, com alto potencial para óleo",
+    "Vegetais superiores transportados para deltas e estuários, com tendência a gerar gás",
+    "Algas em ambiente marinho redutor",
+    "Bactérias metanogênicas em ambiente oxidante"
+   ],
+   "correta": 2,
+   "explicacao": "Tipo I: lipídeos de algas (muito rico em H, óleo). Tipo II: algas marinhas em ambiente redutor (óleo). Tipo III: vegetais superiores (pobre em H, rico em O) — tende a gás."
+  },
+  {
+   "id": "geo-0028",
+   "dificuldade": 3,
+   "tema": "Querogênio",
+   "enunciado": "Uma amostra plota no diagrama de Van Krevelen modificado com índice de hidrogênio alto e índice de oxigênio baixo. Qual a interpretação?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Querogênio supermaturo, na fase de grafita",
+    "Matéria orgânica oxidada, sem potencial gerador",
+    "Querogênio tipo III, com potencial para gás",
+    "Rocha reservatório saturada de óleo",
+    "Querogênio tipo I ou II, com bom potencial para óleo"
+   ],
+   "correta": 4,
+   "explicacao": "O diagrama modificado usa IH (eixo vertical) e IO (horizontal). Alto IH + baixo IO = matéria orgânica rica em hidrogênio (tipos I/II), que gera óleo. O tipo III fica com IH baixo e IO alto."
+  },
+  {
+   "id": "geo-0029",
+   "dificuldade": 2,
+   "tema": "Geoquímica",
+   "enunciado": "Qual é a primeira análise geoquímica feita para identificar uma possível rocha geradora?",
+   "tipo": "multipla",
+   "alternativas": [
+    "COT (carbono orgânico total)",
+    "Índice de coloração de esporos",
+    "Cromatografia gasosa",
+    "Pirólise Rock-Eval",
+    "Reflectância da vitrinita"
+   ],
+   "correta": 0,
+   "explicacao": "O COT é a triagem inicial. Se for maior que ~1% em folhelhos (ou ~0,5% em carbonatos), a amostra segue para pirólise. Alguns autores recomendam >2% em folhelhos para garantir a expulsão."
+  },
+  {
+   "id": "geo-0030",
+   "dificuldade": 3,
+   "tema": "Geoquímica",
+   "enunciado": "Na pirólise de um folhelho foram obtidos S1 = 2 mg HC/g rocha, S2 = 8 mg HC/g rocha e COT = 2%. Qual é o índice de hidrogênio (IH)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "40 mg HC/g COT",
+    "100 mg HC/g COT",
+    "4 mg HC/g COT",
+    "500 mg HC/g COT",
+    "400 mg HC/g COT"
+   ],
+   "correta": 4,
+   "explicacao": "IH = S2/COT × 100 = 8/2 × 100 = 400 mg HC/g COT. É um valor alto, compatível com querogênio com bom potencial para óleo."
+  },
+  {
+   "id": "geo-0031",
+   "dificuldade": 3,
+   "tema": "Geoquímica",
+   "enunciado": "Com S1 = 2 e S2 = 8 (mg HC/g rocha), qual é o índice de produção (IP) e o que ele indica?",
+   "tipo": "multipla",
+   "alternativas": [
+    "IP = 0,2; indica o nível de evolução térmica da matéria orgânica",
+    "IP = 0,2; indica a porosidade da rocha",
+    "IP = 10; indica a quantidade de CO2 gerado",
+    "IP = 0,25; indica o tipo de querogênio",
+    "IP = 4; indica o potencial gerador residual"
+   ],
+   "correta": 0,
+   "explicacao": "IP = S1/(S1+S2) = 2/(2+8) = 0,2. Ele relaciona o que já foi gerado (S1) com o total, caracterizando o nível de evolução (maturação) da matéria orgânica."
+  },
+  {
+   "id": "geo-0032",
+   "dificuldade": 2,
+   "tema": "Geoquímica",
+   "enunciado": "No pirograma da pirólise, o pico S2 representa:",
+   "tipo": "multipla",
+   "alternativas": [
+    "A água de formação liberada",
+    "O CO2 liberado pela matéria orgânica",
+    "Os hidrocarbonetos livres já gerados na rocha",
+    "O potencial gerador residual, ou seja, os hidrocarbonetos gerados pelo craqueamento do querogênio durante a análise",
+    "A temperatura de início da janela de óleo"
+   ],
+   "correta": 3,
+   "explicacao": "S1 = hidrocarbonetos já gerados (livres). S2 = o que o querogênio ainda pode gerar (potencial residual), e o Tmax é medido no topo desse pico. S3 = CO2 da matéria orgânica."
+  },
+  {
+   "id": "geo-0033",
+   "dificuldade": 2,
+   "tema": "Geoquímica",
+   "enunciado": "Segundo a escala apresentada, um potencial gerador (S2) de 15 kg HC/t de rocha é considerado:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Insuficiente para qualquer geração",
+    "Bom",
+    "Médio",
+    "Pobre",
+    "Muito bom"
+   ],
+   "correta": 1,
+   "explicacao": "Escala de S2: pobre 0–5; médio 6–10; bom 11–20; muito bom acima de 20 kg HC/t de rocha."
+  },
+  {
+   "id": "geo-0034",
+   "dificuldade": 2,
+   "tema": "Geoquímica",
+   "enunciado": "Por que a pirólise usa temperaturas de 300 a 550 °C, muito maiores do que as de subsuperfície?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Para destruir a matéria orgânica e medir só os minerais",
+    "Para medir a porosidade da rocha",
+    "Porque o querogênio só existe acima de 300 °C",
+    "Porque é a temperatura real das geradoras do pré-sal",
+    "Para compensar o tempo geológico com temperatura mais alta e simular a maturação em cerca de 25 minutos"
+   ],
+   "correta": 4,
+   "explicacao": "A maturação natural leva milhões de anos a 65–165 °C. Em laboratório, aquece-se a ~25 °C/min até 550 °C em atmosfera inerte, trocando tempo por temperatura."
+  },
+  {
+   "id": "geo-0035",
+   "dificuldade": 2,
+   "tema": "Geoquímica",
+   "enunciado": "A reflectância da vitrinita (Ro) funciona como um “termômetro de máxima” porque:",
+   "tipo": "multipla",
+   "alternativas": [
+    "A vitrinita muda de cor conforme a temperatura atual do poço",
+    "Ela mede diretamente a quantidade de óleo gerado",
+    "A vitrinita se dissolve acima de 100 °C",
+    "A vitrinita só existe em rochas imaturas",
+    "A alteração da vitrinita pela temperatura é irreversível, registrando a temperatura máxima atingida"
+   ],
+   "correta": 4,
+   "explicacao": "A vitrinita (cutícula de vegetais superiores) sofre alteração química irreversível com o calor. Por isso registra a máxima temperatura atingida, mesmo que depois a rocha tenha esfriado (por soerguimento, por exemplo)."
+  },
+  {
+   "id": "geo-0036",
+   "dificuldade": 2,
+   "tema": "Geoquímica",
+   "enunciado": "Quais valores de reflectância da vitrinita costumam limitar a janela de geração de hidrocarbonetos?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Entre 0,01% e 0,1%",
+    "Entre cerca de 0,5–0,6% e 1,3–1,35%",
+    "Entre 10% e 20%",
+    "Entre 2% e 4%",
+    "Abaixo de 0,2%"
+   ],
+   "correta": 1,
+   "explicacao": "Os limites variam de autor para autor e de bacia para bacia, mas normalmente a janela fica entre Ro ≈ 0,5–0,6% (início) e 1,3–1,35% (fim da janela de óleo)."
+  },
+  {
+   "id": "geo-0037",
+   "dificuldade": 3,
+   "tema": "Geoquímica",
+   "enunciado": "Uma bacia tem rochas paleozoicas antigas (pré-Siluriano) e se quer avaliar a maturação. Por que a reflectância da vitrinita pode ser problemática?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque rochas antigas são sempre supermaturas",
+    "Porque a vitrinita vem de vegetais superiores, que só existem do Siluriano ao Recente",
+    "Porque o COT de rochas antigas é sempre zero",
+    "Porque a vitrinita se transforma em querogênio tipo I com o tempo",
+    "Porque a pirólise não funciona em rochas antigas"
+   ],
+   "correta": 1,
+   "explicacao": "Vitrinita é a cutícula externa de vegetais superiores, que surgiram no Siluriano. Em rochas mais antigas ela não existe, e é preciso usar outros indicadores de maturação."
+  },
+  {
+   "id": "geo-0038",
+   "dificuldade": 2,
+   "tema": "Geoquímica",
+   "enunciado": "Somente o teor de carbono orgânico já basta para definir uma rocha como geradora.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 1,
+   "explicacao": "Falso. Além da quantidade (COT), a qualidade da matéria orgânica (tipo de querogênio) e a maturação térmica são igualmente importantes."
+  },
+  {
+   "id": "geo-0039",
+   "dificuldade": 2,
+   "tema": "Rocha geradora",
+   "enunciado": "Sedimentos marinhos depositados em condições anóxicas costumam ter altas concentrações de quais elementos, correlacionadas ao carbono orgânico?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Urânio, cobre, molibdênio, níquel, fósforo e enxofre",
+    "Sódio, potássio e cloro apenas",
+    "Hélio e neônio",
+    "Alumínio e silício apenas",
+    "Ouro, prata e platina"
+   ],
+   "correta": 0,
+   "explicacao": "Em ambiente anóxico, esses elementos se concentram junto com a matéria orgânica — por isso, por exemplo, folhelhos geradores costumam ter raios gama altos (urânio)."
+  },
+  {
+   "id": "geo-0040",
+   "dificuldade": 2,
+   "tema": "Petróleo no tempo geológico",
+   "enunciado": "Em qual era geológica se concentra a maior parte das ocorrências de petróleo, tanto no mundo quanto no Brasil?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Pré-Cambriana",
+    "Mesozoica",
+    "Quaternária",
+    "Paleozoica",
+    "Cenozoica"
+   ],
+   "correta": 1,
+   "explicacao": "Segundo os dados do curso: no mundo, ~65% Mesozoica, 25% Cenozoica e 10% Paleozoica; no Brasil, ~70% Mesozoica, 20% Cenozoica e 10% Paleozoica."
+  },
+  {
+   "id": "geo-0041",
+   "dificuldade": 1,
+   "tema": "Migração",
+   "enunciado": "A migração primária do petróleo corresponde a:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Escape do petróleo da trapa até a superfície",
+    "Deslocamento do petróleo dentro do reservatório até a trapa",
+    "Saída do petróleo da rocha geradora",
+    "Injeção de água no reservatório",
+    "Movimento do petróleo dentro da coluna de produção"
+   ],
+   "correta": 2,
+   "explicacao": "Primária = expulsão da geradora. Secundária = trajeto pelas rochas carreadoras até a trapa. Terciária = escape/dismigração da acumulação (por exemplo, até a superfície)."
+  },
+  {
+   "id": "geo-0042",
+   "dificuldade": 2,
+   "tema": "Migração",
+   "enunciado": "Por que o petróleo tende a migrar para cima depois de expulso da geradora?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque as rochas acima são sempre mais quentes",
+    "Por ser menos denso que a água da formação e pelo diferencial de pressão",
+    "Porque o querogênio o empurra mecanicamente",
+    "Porque a gravidade age só sobre a água",
+    "Porque é atraído pelo campo magnético da Terra"
+   ],
+   "correta": 1,
+   "explicacao": "O petróleo é menos denso que a água que satura as rochas e, com o diferencial de pressão, sobe até encontrar uma rocha selante que o retenha."
+  },
+  {
+   "id": "geo-0043",
+   "dificuldade": 2,
+   "tema": "Migração",
+   "enunciado": "Exsudações de óleo em superfície e vulcões de lama são evidências de qual processo?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Migração terciária (escape do petróleo até a superfície)",
+    "Recuperação secundária",
+    "Formação de querogênio",
+    "Migração primária",
+    "Diagênese"
+   ],
+   "correta": 0,
+   "explicacao": "Quando o petróleo escapa da trapa (ou nunca é trapeado) e chega à superfície, temos migração terciária. Essas indicações diretas mostram que existe um sistema gerador na área."
+  },
+  {
+   "id": "geo-0044",
+   "dificuldade": 1,
+   "tema": "Rocha reservatório",
+   "enunciado": "Qual característica define uma rocha reservatório?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Ser impermeável",
+    "Ter granulação muito fina e ser plástica",
+    "Ser rica em matéria orgânica",
+    "Ter espaços vazios intercomunicados (porosidade e permeabilidade) capazes de armazenar e transmitir petróleo",
+    "Ser sempre de origem ígnea"
+   ],
+   "correta": 3,
+   "explicacao": "Reservatório = rocha permo-porosa: armazena (porosidade) e deixa fluir (permeabilidade). Riqueza em matéria orgânica é atributo da geradora; impermeabilidade é do selo."
+  },
+  {
+   "id": "geo-0045",
+   "dificuldade": 1,
+   "tema": "Rocha reservatório",
+   "enunciado": "São exemplos de rochas reservatório siliciclásticas:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Calcarenitos e coquinas",
+    "Folhelhos e argilitos",
+    "Halita e anidrita",
+    "Arenitos e conglomerados",
+    "Basaltos e diabásios"
+   ],
+   "correta": 3,
+   "explicacao": "Siliciclásticos: arenitos e conglomerados. Calcarenitos e coquinas são reservatórios carbonáticos. Folhelhos e evaporitos são geradoras/selos."
+  },
+  {
+   "id": "geo-0046",
+   "dificuldade": 2,
+   "tema": "Pré-sal",
+   "enunciado": "Quais rochas formam os reservatórios do pré-sal das bacias de Santos e Campos?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Folhelhos betuminosos",
+    "Evaporitos (halita e anidrita)",
+    "Basaltos fraturados exclusivamente",
+    "Arenitos turbidíticos de água profunda",
+    "Rochas carbonáticas, como coquinas, microbiolitos, shrubs, esferulitos e travertinos"
+   ],
+   "correta": 4,
+   "explicacao": "O pré-sal é carbonático: coquinas (seção rifte) e carbonatos microbiais tipo shrub, esferulitos e travertinos (seção sag, Fm. Barra Velha). O sal (evaporitos) é o selo por cima."
+  },
+  {
+   "id": "geo-0047",
+   "dificuldade": 2,
+   "tema": "Pré-sal",
+   "enunciado": "No sistema petrolífero do pré-sal, qual o papel da espessa camada de sal?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Rocha reservatório principal",
+    "Rocha geradora",
+    "Rocha carreadora para a migração",
+    "Embasamento cristalino",
+    "Rocha selante"
+   ],
+   "correta": 4,
+   "explicacao": "Os evaporitos (principalmente halita) são praticamente impermeáveis e formam um selo excelente sobre os reservatórios carbonáticos do pré-sal."
+  },
+  {
+   "id": "geo-0048",
+   "dificuldade": 2,
+   "tema": "Reservatórios não convencionais",
+   "enunciado": "Qual das alternativas lista apenas reservatórios não convencionais?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Arenitos eólicos e turbiditos",
+    "Arenitos, conglomerados e calcarenitos",
+    "Coquinas, travertinos e esferulitos",
+    "Arenitos betuminosos, folhelhos gasíferos, tight sands e hidratos de gás",
+    "Calcarenitos oolíticos e dolomitos porosos"
+   ],
+   "correta": 3,
+   "explicacao": "Não convencionais: tar sands, oil shales, gas shales, tight sands e clatratos/hidratos. Os outros grupos são reservatórios convencionais, produzidos por poços com fluxo natural."
+  },
+  {
+   "id": "geo-0049",
+   "dificuldade": 3,
+   "tema": "Hidratos",
+   "enunciado": "Em uma linha de produção submarina com água, gás, alta pressão e baixa temperatura, qual problema é esperado e como se previne?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Formação de parafina; prevenção com aumento de pressão",
+    "Formação de plugs de hidratos; prevenção com isolamento térmico e inibidores como MEG ou metanol",
+    "Precipitação de sal; prevenção com resfriamento da linha",
+    "Corrosão por CO2; prevenção com injeção de água do mar",
+    "Formação de querogênio; prevenção com aquecimento a 550 °C"
+   ],
+   "correta": 1,
+   "explicacao": "Alta pressão + baixa temperatura + água + gás = hidratos, que se formam em volta das gotículas de água e podem entupir as linhas. Previne-se com proteção térmica e inibidores (MEG, metanol); remove-se com inibidores ou despressurização/sublimação."
+  },
+  {
+   "id": "geo-0050",
+   "dificuldade": 2,
+   "tema": "Porosidade",
+   "enunciado": "Qual tipo de porosidade é mais importante para estudos de reservatório?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porosidade de fratura fechada",
+    "Porosidade absoluta, que inclui poros isolados",
+    "Porosidade total da rocha selante",
+    "Porosidade efetiva, formada só pelos poros interconectados",
+    "Porosidade isolada"
+   ],
+   "correta": 3,
+   "explicacao": "Só os poros conectados permitem que o fluido flua até o poço. Por isso a porosidade efetiva é a que importa para reservatórios; a absoluta inclui também poros isolados."
+  },
+  {
+   "id": "geo-0051",
+   "dificuldade": 1,
+   "tema": "Porosidade",
+   "enunciado": "A compactação de sedimentos durante a diagênese resulta em:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Redução da porosidade",
+    "Formação de trapas",
+    "Aumento da permeabilidade",
+    "Aumento da porosidade",
+    "Formação de petróleo"
+   ],
+   "correta": 0,
+   "explicacao": "Com o soterramento, o peso das camadas aproxima os grãos e expulsa a água, reduzindo o espaço poroso."
+  },
+  {
+   "id": "geo-0052",
+   "dificuldade": 2,
+   "tema": "Porosidade",
+   "enunciado": "Quando um grão é totalmente dissolvido e sobra apenas o seu contorno como espaço vazio, a porosidade é chamada de:",
+   "tipo": "multipla",
+   "alternativas": [
+    "De fratura",
+    "Móldica",
+    "Intergranular",
+    "Absoluta",
+    "Primária de matriz"
+   ],
+   "correta": 1,
+   "explicacao": "Porosidade intragranular ocorre quando grãos são dissolvidos parcial ou totalmente; se a dissolução é total e fica só o “molde” do grão, chama-se móldica."
+  },
+  {
+   "id": "geo-0053",
+   "dificuldade": 3,
+   "tema": "Porosidade",
+   "enunciado": "Um calcilutito tem porosidade de matriz muito baixa, mas produz bem por estar intensamente fraturado. Que conclusão sobre porosidade e permeabilidade isso ilustra?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porosidade e permeabilidade têm sempre relação direta e única",
+    "A porosidade secundária pode ser pequena em volume, mas contribuir muito para a permeabilidade",
+    "Rochas com baixa porosidade nunca produzem",
+    "Fraturas reduzem a permeabilidade de carbonatos",
+    "A porosidade primária é sempre a que controla o fluxo"
+   ],
+   "correta": 1,
+   "explicacao": "Fraturas acrescentam pouco volume poroso, mas criam caminhos eficientes para o fluxo. Por isso a porosidade secundária pode ter contribuição pequena no volume e grande na permeabilidade."
+  },
+  {
+   "id": "geo-0054",
+   "dificuldade": 2,
+   "tema": "Porosidade",
+   "enunciado": "Como a porosidade pode ser obtida de forma indireta?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Por porosímetro em testemunhos",
+    "Por pirólise Rock-Eval",
+    "Pela reflectância da vitrinita",
+    "Por perfis de poço como sônico, densidade e neutrão",
+    "Por bomba de mercúrio em laboratório"
+   ],
+   "correta": 3,
+   "explicacao": "Métodos diretos usam amostras (testemunhos) em laboratório: porosímetro, injeção de mercúrio. Métodos indiretos usam perfis: sônico, densidade e neutrão."
+  },
+  {
+   "id": "geo-0055",
+   "dificuldade": 1,
+   "tema": "Permeabilidade",
+   "enunciado": "A permeabilidade de uma rocha é:",
+   "tipo": "multipla",
+   "alternativas": [
+    "A afinidade do fluido com a superfície da rocha",
+    "O grau de compactação da rocha",
+    "A quantidade de água nos poros",
+    "A fração de vazios em relação ao volume total",
+    "A medida da capacidade de fluxo de fluidos através da rocha"
+   ],
+   "correta": 4,
+   "explicacao": "Permeabilidade = facilidade de o fluido escoar pelos poros conectados. Fração de vazios é porosidade; quantidade de água nos poros é saturação; afinidade fluido-rocha é molhabilidade."
+  },
+  {
+   "id": "geo-0056",
+   "dificuldade": 2,
+   "tema": "Permeabilidade",
+   "enunciado": "A permeabilidade efetiva de uma rocha depende:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Apenas da porosidade",
+    "Da idade da rocha",
+    "Da presença de fluidos e de sua saturação",
+    "Apenas da pressão",
+    "Apenas da composição mineralógica"
+   ],
+   "correta": 2,
+   "explicacao": "Permeabilidade efetiva é a capacidade de uma fase escoar na presença de outras. Por isso depende de quais fluidos estão nos poros e em que saturação."
+  },
+  {
+   "id": "geo-0057",
+   "dificuldade": 2,
+   "tema": "Permeabilidade",
+   "enunciado": "A permeabilidade relativa de um fluido é:",
+   "tipo": "multipla",
+   "alternativas": [
+    "A soma das permeabilidades efetivas de todos os fluidos",
+    "A diferença entre porosidade absoluta e efetiva",
+    "A razão entre a permeabilidade efetiva desse fluido e a permeabilidade absoluta, variando de 0 a 1",
+    "A permeabilidade medida com um único fluido saturando os poros",
+    "A permeabilidade medida em darcy dividida por 1000"
+   ],
+   "correta": 2,
+   "explicacao": "kr = k efetiva / k absoluta. Como a efetiva é sempre menor ou igual à absoluta, kr fica entre 0 e 1."
+  },
+  {
+   "id": "geo-0058",
+   "dificuldade": 3,
+   "tema": "Permeabilidade",
+   "enunciado": "Uma rocha tem 1 darcy de permeabilidade. Qual condição a define?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Um gás de 1 cP atravessa 1 m de rocha em 1 hora",
+    "A rocha tem 1% de porosidade efetiva",
+    "A rocha absorve 1 cm³ de água por grama",
+    "Um gradiente de 1 atm/cm faz escoar 1 cm³/s de líquido de 1 cP por cm² de seção transversal",
+    "Um gradiente de 1 psi/ft faz escoar 1 barril/dia de água"
+   ],
+   "correta": 3,
+   "explicacao": "Definição de Darcy (1856): 1 atm/cm de gradiente, viscosidade de 1 cP, vazão de 1 cm³/s por cm² de área. Como é uma unidade grande, a indústria usa o milidarcy (mD)."
+  },
+  {
+   "id": "geo-0059",
+   "dificuldade": 2,
+   "tema": "Permeabilidade",
+   "enunciado": "Existe uma relação única e direta entre a porosidade de uma rocha e sua permeabilidade.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 1,
+   "explicacao": "Falso. Não há relação unívoca: uma rocha pode ser muito porosa e pouco permeável (poros mal conectados, como folhelhos). A única certeza é que, sem porosidade, não há permeabilidade."
+  },
+  {
+   "id": "geo-0060",
+   "dificuldade": 1,
+   "tema": "Rocha selante",
+   "enunciado": "Associe as rochas às suas funções no sistema petrolífero:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Arenito-geradora; Folhelho-reservatório; Evaporito-selante",
+    "Arenito-reservatório; Folhelho-geradora; Evaporito-selante",
+    "Arenito-selante; Folhelho-reservatório; Evaporito-geradora",
+    "Arenito-geradora; Folhelho-selante; Evaporito-reservatório",
+    "Arenito-reservatório; Folhelho-selante; Evaporito-geradora"
+   ],
+   "correta": 1,
+   "explicacao": "Arenito poroso = reservatório; folhelho rico em matéria orgânica = geradora clássica; evaporito impermeável = selo."
+  },
+  {
+   "id": "geo-0061",
+   "dificuldade": 2,
+   "tema": "Rocha selante",
+   "enunciado": "Qual das rochas abaixo NÃO costuma atuar como selante?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Evaporito (halita, anidrita)",
+    "Folhelho",
+    "Calcilutito",
+    "Arenito poroso e bem selecionado",
+    "Soleira de diabásio"
+   ],
+   "correta": 3,
+   "explicacao": "Selantes são impermeáveis: folhelhos, argilitos, calcilutitos, evaporitos e até soleiras de diabásio. Um arenito poroso e bem selecionado é um ótimo reservatório, não um selo."
+  },
+  {
+   "id": "geo-0062",
+   "dificuldade": 1,
+   "tema": "Trapas",
+   "enunciado": "Qual a função de uma trapa no sistema petrolífero?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Transportar o petróleo até a superfície",
+    "Dissolver os grãos para criar porosidade",
+    "Gerar o petróleo a partir do querogênio",
+    "Aumentar a temperatura da geradora",
+    "Reter o petróleo, impedindo sua migração lateral e vertical"
+   ],
+   "correta": 4,
+   "explicacao": "A trapa é a geometria (estrutural, estratigráfica, mista ou hidrodinâmica) que concentra e retém o petróleo, junto com o selo."
+  },
+  {
+   "id": "geo-0063",
+   "dificuldade": 2,
+   "tema": "Trapas",
+   "enunciado": "Anticlinais, falhas e domos de sal formam trapas do tipo:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Deposicional",
+    "Hidrodinâmica",
+    "Estrutural",
+    "Estratigráfica",
+    "Diagenética"
+   ],
+   "correta": 2,
+   "explicacao": "Trapas estruturais resultam da deformação das camadas: dobras (anticlinais), falhas, diapirismo (domos de sal) e soleiras de diabásio."
+  },
+  {
+   "id": "geo-0064",
+   "dificuldade": 2,
+   "tema": "Trapas",
+   "enunciado": "Um arenito que se acunha lateralmente (pinchout) dentro de folhelhos forma uma trapa:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Estratigráfica",
+    "Hidrodinâmica",
+    "Estrutural por falha",
+    "Estrutural por dobra",
+    "Ígnea"
+   ],
+   "correta": 0,
+   "explicacao": "Trapas estratigráficas resultam de variações na própria rocha (acunhamentos, lentes, discordâncias, mudanças diagenéticas), sem necessidade de deformação estrutural."
+  },
+  {
+   "id": "geo-0065",
+   "dificuldade": 3,
+   "tema": "Trapas",
+   "enunciado": "Sobre as trapas estratigráficas, analise as afirmativas:",
+   "tipo": "combinacao",
+   "afirmativas": [
+    "I. Podem ser primárias ou deposicionais, como lentes e acunhamentos de arenito.",
+    "II. Podem estar associadas a discordâncias erosivas.",
+    "III. Podem ser diagenéticas, quando a cimentação ou dissolução cria a barreira ou o reservatório.",
+    "IV. Exigem sempre a presença de um anticlinal."
+   ],
+   "alternativas": [
+    "Apenas I e II",
+    "Apenas I, II e III",
+    "Apenas III e IV",
+    "Apenas IV",
+    "I, II, III e IV"
+   ],
+   "correta": 1,
+   "explicacao": "As trapas estratigráficas podem ser primárias (deposicionais), associadas a discordâncias ou diagenéticas. A IV está errada: anticlinal é trapa estrutural, e a estratigráfica não depende de dobra."
+  },
+  {
+   "id": "geo-0066",
+   "dificuldade": 1,
+   "tema": "Vocabulário exploratório",
+   "enunciado": "Na exploração, uma área de uma bacia com situação geológica conhecida e detalhada por geologia e geofísica, pronta para ser testada por um poço, é chamada de:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Play",
+    "Campo",
+    "Bacia",
+    "Acumulação",
+    "Prospecto"
+   ],
+   "correta": 4,
+   "explicacao": "O play é o modelo geológico regional; do estudo do play saem os prospectos, que são os alvos concretos a serem perfurados."
+  },
+  {
+   "id": "geo-0067",
+   "dificuldade": 2,
+   "tema": "Vocabulário exploratório",
+   "enunciado": "O que é um “play” exploratório?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Um levantamento sísmico 3D de detalhe",
+    "A superposição de várias acumulações em um campo",
+    "O volume de óleo recuperável de um campo",
+    "Um poço perfurado para conhecer a coluna estratigráfica",
+    "Um modelo geológico, numa área relativamente grande da bacia, em que fatores litológicos e/ou estruturais se combinam para gerar acumulações econômicas num certo nível estratigráfico"
+   ],
+   "correta": 4,
+   "explicacao": "Play = modelo/conceito geológico regional. Prospecto = alvo específico. Campo = jazida (pode reunir várias acumulações)."
+  },
+  {
+   "id": "geo-0068",
+   "dificuldade": 2,
+   "tema": "Vocabulário exploratório",
+   "enunciado": "Assinale a alternativa INCORRETA sobre o vocabulário exploratório:",
+   "tipo": "incorreta",
+   "alternativas": [
+    "Trapa é a feição que concentra hidrocarbonetos",
+    "Campo é sinônimo de play, pois ambos são modelos geológicos regionais",
+    "Acumulação é uma trapa que pode se tornar economicamente viável",
+    "Reservatório é a rocha permo-porosa que contém hidrocarbonetos",
+    "Prospecto é a área a ser testada pela perfuração de um poço"
+   ],
+   "correta": 1,
+   "explicacao": "Campo é uma jazida de hidrocarbonetos (pode reunir várias acumulações superpostas); play é um modelo geológico. Não são sinônimos."
+  },
+  {
+   "id": "geo-0069",
+   "dificuldade": 1,
+   "tema": "Métodos exploratórios",
+   "enunciado": "Qual é o método geofísico mais usado na exploração de petróleo?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Sísmica de refração",
+    "Gravimetria",
+    "Sísmica de reflexão",
+    "Magnetometria",
+    "Magnetotelúrico marinho"
+   ],
+   "correta": 2,
+   "explicacao": "A sísmica de reflexão fornece mais quantidade e qualidade de informação sobre a subsuperfície. A refração é usada hoje como reconhecimento ou método auxiliar."
+  },
+  {
+   "id": "geo-0070",
+   "dificuldade": 1,
+   "tema": "Métodos exploratórios",
+   "enunciado": "Na aquisição sísmica, quais sensores captam os “ecos” das ondas em terra e no mar, respectivamente?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Air guns e vibradores",
+    "Hidrofones e geofones",
+    "Geofones e hidrofones",
+    "Fluoroscópios e cromatógrafos",
+    "Magnetômetros e gravímetros"
+   ],
+   "correta": 2,
+   "explicacao": "Geofones em terra, hidrofones na água. Air guns e vibradores (ou explosivos e queda de pesos) são as fontes que geram as ondas."
+  },
+  {
+   "id": "geo-0071",
+   "dificuldade": 2,
+   "tema": "Métodos exploratórios",
+   "enunciado": "No método sísmico de reflexão, as ondas são refletidas principalmente:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Apenas na superfície do fundo do mar",
+    "Nas zonas com maior teor de matéria orgânica",
+    "Somente no embasamento cristalino",
+    "Em qualquer ponto onde haja água",
+    "Nos contatos entre camadas com propriedades físicas (elásticas) diferentes"
+   ],
+   "correta": 4,
+   "explicacao": "Quando a onda encontra um contraste de propriedades elásticas (impedância) entre duas camadas, parte da energia volta à superfície e é registrada."
+  },
+  {
+   "id": "geo-0072",
+   "dificuldade": 2,
+   "tema": "Métodos exploratórios",
+   "enunciado": "Qual a fonte sísmica usada na aquisição marítima?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Explosivos enterrados em poços rasos",
+    "Geofones de três componentes",
+    "Queda de pesos",
+    "Caminhão vibroseis",
+    "Air gun (canhão de ar comprimido)"
+   ],
+   "correta": 4,
+   "explicacao": "No mar se usa o air gun, que libera ar comprimido. Em terra se usam vibradores (vibroseis), explosivos ou queda de pesos."
+  },
+  {
+   "id": "geo-0073",
+   "dificuldade": 3,
+   "tema": "Métodos exploratórios",
+   "enunciado": "Por que uma seção sísmica é normalmente apresentada em tempo (twtt) e não diretamente em profundidade?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque o tempo é medido pelos perfis de densidade",
+    "Porque a profundidade é irrelevante para a exploração",
+    "Porque as ondas sísmicas têm velocidade constante em todas as rochas",
+    "Porque a conversão em profundidade só é possível na refração",
+    "Porque o registro mede o tempo de ida e volta da onda; converter em profundidade exige conhecer as velocidades das camadas"
+   ],
+   "correta": 4,
+   "explicacao": "O sismógrafo registra tempo duplo (ida e volta). Para ter profundidade é preciso um modelo de velocidades, calibrado, por exemplo, por checkshot ou VSP em poços."
+  },
+  {
+   "id": "geo-0074",
+   "dificuldade": 2,
+   "tema": "Métodos exploratórios",
+   "enunciado": "Qual a principal vantagem da sísmica 3D em relação à 2D?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Gera um cubo de dados que permite visualizar a geometria do reservatório e da trapa em qualquer direção",
+    "Dispensa o processamento dos dados",
+    "É muito mais barata e rápida de adquirir",
+    "Mede diretamente a saturação de óleo",
+    "Substitui completamente a perfuração de poços"
+   ],
+   "correta": 0,
+   "explicacao": "A 2D fornece seções isoladas; a 3D gera um volume (cubo) que pode ser fatiado em qualquer direção, melhorando muito o mapeamento de prospectos e reservatórios."
+  },
+  {
+   "id": "geo-0075",
+   "dificuldade": 2,
+   "tema": "Métodos exploratórios",
+   "enunciado": "A gravimetria mede variações do campo gravitacional causadas por diferenças de densidade das rochas. Para que ela é útil na exploração?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Para determinar a idade das rochas",
+    "Para medir a permeabilidade das camadas",
+    "Para estimar a espessura de sedimentos e prever corpos de densidade anômala, como domos de sal e rochas ígneas",
+    "Para medir diretamente a quantidade de óleo no reservatório",
+    "Para identificar o tipo de querogênio"
+   ],
+   "correta": 2,
+   "explicacao": "É um método potencial, auxiliar: delineia grandes feições do embasamento, altos e baixos estruturais, espessura da bacia e corpos de densidade muito diferente (sal, ígneas)."
+  },
+  {
+   "id": "geo-0076",
+   "dificuldade": 3,
+   "tema": "Métodos exploratórios",
+   "enunciado": "Por que as anomalias magnéticas detectadas numa bacia sedimentar são, em geral, atribuídas ao embasamento?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque o magnetômetro só funciona abaixo de 5 km",
+    "Porque os folhelhos geradores contêm muito ferro metálico",
+    "Porque as rochas sedimentares são essencialmente não magnéticas",
+    "Porque o sal amplifica o campo magnético",
+    "Porque o petróleo é fortemente magnético"
+   ],
+   "correta": 2,
+   "explicacao": "Sedimentos quase não respondem ao campo magnético; as variações medidas refletem principalmente a profundidade e a composição do embasamento cristalino (e corpos ígneos)."
+  },
+  {
+   "id": "geo-0077",
+   "dificuldade": 2,
+   "tema": "Métodos exploratórios",
+   "enunciado": "Em que situação a sísmica de refração costuma ser usada atualmente?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Para avaliar a cimentação do poço",
+    "Como reconhecimento ou método auxiliar onde a reflexão não deu bons resultados",
+    "Como principal método de detalhamento de prospectos",
+    "Para medir porosidade em testemunhos",
+    "Para substituir a perfilagem"
+   ],
+   "correta": 1,
+   "explicacao": "A refração dá informações em grande escala, com pouco detalhe. Por isso é usada como reconhecimento ou complemento à reflexão."
+  },
+  {
+   "id": "geo-0078",
+   "dificuldade": 1,
+   "tema": "Métodos exploratórios",
+   "enunciado": "Exsudações de óleo em afloramentos e vulcões de lama são classificados como:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Métodos geofísicos indiretos",
+    "Indicações diretas de superfície",
+    "Perfis de poço",
+    "Métodos potenciais",
+    "Testes de formação"
+   ],
+   "correta": 1,
+   "explicacao": "São evidências diretas da presença de petróleo, procuradas pelos geólogos. Todas as grandes províncias produtoras apresentam alguma evidência em superfície."
+  },
+  {
+   "id": "geo-0079",
+   "dificuldade": 2,
+   "tema": "Métodos exploratórios",
+   "enunciado": "Gravimetria e magnetometria são chamados de métodos potenciais e normalmente são usados para delinear grandes feições do embasamento.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "Verdadeiro. São métodos auxiliares que medem campos potenciais (gravitacional e magnético) e ajudam a definir grandes estruturas e a espessura da bacia."
+  },
+  {
+   "id": "geo-0080",
+   "dificuldade": 1,
+   "tema": "Poços",
+   "enunciado": "O que é um poço pioneiro?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Um poço perfurado em local inteiramente novo, para comprovar a presença de óleo ou gás",
+    "Um poço perfurado só para obter água",
+    "Um poço para delimitar uma acumulação já descoberta",
+    "Um poço para produzir de um campo já desenvolvido",
+    "Um poço perfurado para injetar água no reservatório"
+   ],
+   "correta": 0,
+   "explicacao": "Pioneiro (categoria 1) testa a ocorrência de petróleo num prospecto onde ainda não há certeza da presença de fluidos."
+  },
+  {
+   "id": "geo-0081",
+   "dificuldade": 2,
+   "tema": "Poços",
+   "enunciado": "Pela classificação da ANP, um poço “1-CAM-1-RN” é de qual categoria?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Exploratório pioneiro",
+    "Explotatório de produção",
+    "Explotatório de injeção",
+    "Exploratório estratigráfico",
+    "Exploratório de extensão"
+   ],
+   "correta": 0,
+   "explicacao": "O primeiro número indica a categoria: 1 = pioneiro, 2 = estratigráfico, 3 = extensão, 4 = pioneiro adjacente, 5 = jazida mais rasa, 6 = jazida mais profunda, 7 = produção, 8 = injeção, 9 = especial."
+  },
+  {
+   "id": "geo-0082",
+   "dificuldade": 2,
+   "tema": "Poços",
+   "enunciado": "Um poço perfurado para delimitar a acumulação de petróleo em um reservatório já descoberto é classificado como:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Categoria 3 — exploratório de extensão",
+    "Categoria 2 — estratigráfico",
+    "Categoria 7 — produção",
+    "Categoria 9 — especial",
+    "Categoria 1 — pioneiro"
+   ],
+   "correta": 0,
+   "explicacao": "O poço de extensão (ou delimitatório) serve para definir os limites da acumulação descoberta pelo pioneiro."
+  },
+  {
+   "id": "geo-0083",
+   "dificuldade": 2,
+   "tema": "Poços",
+   "enunciado": "Um poço destinado a injetar fluidos para melhorar a recuperação ou manter a energia do reservatório pertence à categoria:",
+   "tipo": "multipla",
+   "alternativas": [
+    "6 — jazida mais profunda",
+    "8 — explotatório de injeção",
+    "2 — estratigráfico",
+    "4 — pioneiro adjacente",
+    "7 — explotatório de produção"
+   ],
+   "correta": 1,
+   "explicacao": "Categoria 8 = injeção (água, gás, etc.) para recuperação ou manutenção de pressão. Categoria 7 = produção."
+  },
+  {
+   "id": "geo-0084",
+   "dificuldade": 3,
+   "tema": "Poços",
+   "enunciado": "Após uma descoberta numa área, a operadora quer testar se existem outras jazidas abaixo daquela já conhecida. Qual categoria de poço ela deve perfurar?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Categoria 7 — explotatório de produção",
+    "Categoria 6 — exploratório para jazida mais profunda",
+    "Categoria 3 — exploratório de extensão",
+    "Categoria 5 — exploratório para jazida mais rasa",
+    "Categoria 4 — pioneiro adjacente"
+   ],
+   "correta": 1,
+   "explicacao": "Jazida mais profunda = categoria 6; jazida mais rasa = categoria 5. Extensão (3) delimita a mesma acumulação; pioneiro adjacente (4) testa área vizinha."
+  },
+  {
+   "id": "geo-0085",
+   "dificuldade": 1,
+   "tema": "Poços",
+   "enunciado": "Pela norma da ANP, os campos de petróleo no mar e em terra recebem, respectivamente, nomes de:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Santos; personagens históricos",
+    "Rios; montanhas",
+    "Pássaros; peixes",
+    "Estados; cidades",
+    "Peixes e outros organismos marinhos; pássaros"
+   ],
+   "correta": 4,
+   "explicacao": "Campos marítimos: nomes de peixes e organismos marinhos (por exemplo, Marlim). Campos terrestres: nomes de pássaros."
+  },
+  {
+   "id": "geo-0086",
+   "dificuldade": 2,
+   "tema": "Poços",
+   "enunciado": "Um poço com indícios de petróleo, mas com volume antieconômico para produção, é classificado como:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Produtor",
+    "Seco",
+    "Subcomercial",
+    "Estratigráfico",
+    "Descobridor comercial"
+   ],
+   "correta": 2,
+   "explicacao": "Subcomercial = tem petróleo, mas não paga a produção. Seco = não revelou acumulação (pode até ser aproveitado para produzir água)."
+  },
+  {
+   "id": "geo-0087",
+   "dificuldade": 2,
+   "tema": "Testemunhagem",
+   "enunciado": "Qual é a finalidade da testemunhagem?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Registrar perfis de resistividade",
+    "Cimentar o revestimento",
+    "Obter amostra integral da formação para estudos de reservatório, geoquímicos, micropaleontológicos e de reconhecimento",
+    "Medir a pressão de poros em tempo real",
+    "Detectar gás na lama de perfuração"
+   ],
+   "correta": 2,
+   "explicacao": "O testemunho é um cilindro contínuo da rocha, cortado por uma coroa, que permite análises detalhadas que as amostras de calha não permitem."
+  },
+  {
+   "id": "geo-0088",
+   "dificuldade": 3,
+   "tema": "Testemunhagem",
+   "enunciado": "Ao testemunhar uma formação muito friável, por que se usa um tubo de PVC ou fibra de vidro dentro do barrilete interno?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Para isolar eletricamente a ferramenta de perfilagem",
+    "Para impedir que o fluido de perfuração entre em contato com a rocha e a desagregue",
+    "Para orientar o testemunho em relação ao norte",
+    "Para aumentar a velocidade de corte da coroa",
+    "Para medir a temperatura da formação"
+   ],
+   "correta": 1,
+   "explicacao": "Em rochas friáveis o contato com o fluido de perfuração pode desmanchar o testemunho. O tubo interno protege a amostra e melhora a recuperação — um ponto onde geologia e fluidos se encontram."
+  },
+  {
+   "id": "geo-0089",
+   "dificuldade": 2,
+   "tema": "Testemunhagem",
+   "enunciado": "Qual equipamento é preferido na testemunhagem para aumentar a recuperação, principalmente em rochas friáveis?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Canhão de amostragem lateral",
+    "Barrilete duplo giratório, com o barrilete externo acoplado a uma coroa",
+    "Broca tricônica convencional",
+    "Packer de teste de formação",
+    "Air gun"
+   ],
+   "correta": 1,
+   "explicacao": "O barrilete externo gira com a coroa e corta a rocha; o interno não gira e recebe o testemunho, protegendo-o."
+  },
+  {
+   "id": "geo-0090",
+   "dificuldade": 2,
+   "tema": "Testemunhagem",
+   "enunciado": "Qual a diferença prática entre um testemunho convencional e as amostras laterais?",
+   "tipo": "multipla",
+   "alternativas": [
+    "As amostras laterais são contínuas e o testemunho é pontual",
+    "Os dois são sinônimos",
+    "As amostras laterais são obtidas só da lama de perfuração",
+    "O testemunho é obtido por perfis elétricos",
+    "O testemunho é contínuo e cortado durante a perfuração; as amostras laterais são pontuais, retiradas da parede do poço já perfurado"
+   ],
+   "correta": 4,
+   "explicacao": "Amostras laterais (canhão ou testemunhador lateral rotativo) são pequenas e pontuais, tiradas da parede em profundidades escolhidas, normalmente após os perfis."
+  },
+  {
+   "id": "geo-0091",
+   "dificuldade": 2,
+   "tema": "Acompanhamento geológico",
+   "enunciado": "Quais são as tarefas do acompanhamento geológico de poços?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Calcular a vazão de produção do campo",
+    "Projetar a coluna de revestimento e a cimentação",
+    "Identificar indícios de hidrocarbonetos em tempo hábil, reconhecer a litologia, fazer o empilhamento estratigráfico e correlacionar com poços vizinhos",
+    "Definir o preço do petróleo produzido",
+    "Processar os dados sísmicos 3D"
+   ],
+   "correta": 2,
+   "explicacao": "O geólogo de poço (mud logging) acompanha as amostras de calha, gás e indícios, montando o perfil de acompanhamento em profundidade."
+  },
+  {
+   "id": "geo-0092",
+   "dificuldade": 2,
+   "tema": "Acompanhamento geológico",
+   "enunciado": "Onde as amostras de calha são coletadas e onde o gás da lama é captado, respectivamente?",
+   "tipo": "multipla",
+   "alternativas": [
+    "No caminhão de perfilagem; no hidrofone",
+    "Nos tanques de cimento; no CBL",
+    "Nas peneiras vibratórias; no gas trap (detector de gás) na linha de retorno da lama",
+    "No fundo do poço com packer; no air gun",
+    "Na coroa de testemunhagem; no fluoroscópio"
+   ],
+   "correta": 2,
+   "explicacao": "Os cascalhos que sobem com o fluido são separados nas peneiras vibratórias; o gás dissolvido na lama é liberado e medido no gas trap."
+  },
+  {
+   "id": "geo-0093",
+   "dificuldade": 3,
+   "tema": "Acompanhamento geológico",
+   "enunciado": "Por que é necessário corrigir a profundidade das amostras de calha antes de posicioná-las no perfil?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque os cascalhos levam um tempo para subir do fundo do poço até a superfície (lag time)",
+    "Porque a coroa corta sempre 10 m abaixo da broca",
+    "Porque o gás chega antes da broca cortar a rocha",
+    "Porque as amostras afundam nos tanques de lama",
+    "Porque a perfilagem é feita de cima para baixo"
+   ],
+   "correta": 0,
+   "explicacao": "O cascalho cortado no fundo demora para chegar às peneiras, conforme vazão e volume anular. É preciso calcular esse atraso para colocar cada amostra na profundidade real."
+  },
+  {
+   "id": "geo-0094",
+   "dificuldade": 2,
+   "tema": "Acompanhamento geológico",
+   "enunciado": "Na análise de amostras de calha com fluoroscópio, um corte radial e um corte aureolar indicam, respectivamente:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Gás e água",
+    "Água doce e água salgada",
+    "Folhelho e arenito",
+    "Óleo morto e óleo vivo",
+    "Óleo vivo e óleo morto"
+   ],
+   "correta": 4,
+   "explicacao": "Pelo material do curso: óleo vivo dá corte radial; óleo morto dá corte aureolar."
+  },
+  {
+   "id": "geo-0095",
+   "dificuldade": 1,
+   "tema": "Acompanhamento geológico",
+   "enunciado": "O exame de fluorescência das amostras de calha serve para:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Medir a permeabilidade da rocha",
+    "Detectar a presença de hidrocarbonetos nas amostras",
+    "Determinar a idade da formação",
+    "Medir a pressão de poros",
+    "Avaliar a qualidade da cimentação"
+   ],
+   "correta": 1,
+   "explicacao": "Hidrocarbonetos fluorescem sob luz ultravioleta. O fluoroscópio, junto com o teste de corte com solvente, ajuda a identificar indícios de óleo."
+  },
+  {
+   "id": "geo-0096",
+   "dificuldade": 1,
+   "tema": "Avaliação de formações",
+   "enunciado": "A avaliação das formações é realizada principalmente por meio de:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Pirólise e cromatografia",
+    "Fotografias aéreas",
+    "Sísmica de refração",
+    "Perfilagem e testes de formação",
+    "Gravimetria e magnetometria"
+   ],
+   "correta": 3,
+   "explicacao": "Perfis (registro contínuo das propriedades da rocha) e testes de formação (produção provisória) são as ferramentas para identificar fluidos, estimar volumes e diagnosticar o potencial produtivo."
+  },
+  {
+   "id": "geo-0097",
+   "dificuldade": 2,
+   "tema": "Avaliação de formações",
+   "enunciado": "Quais são os objetivos básicos da avaliação de formações?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Identificar o fluido que satura o reservatório, estimar o volume de petróleo e diagnosticar o potencial de produção",
+    "Mapear o embasamento com métodos potenciais",
+    "Determinar a idade das rochas pela paleontologia apenas",
+    "Escolher o tipo de sonda e a broca",
+    "Definir o traçado do oleoduto e o preço de venda"
+   ],
+   "correta": 0,
+   "explicacao": "São três perguntas: que fluido tem lá? quanto tem? quanto pode produzir?"
+  },
+  {
+   "id": "geo-0098",
+   "dificuldade": 2,
+   "tema": "Perfilagem",
+   "enunciado": "Em que sentido é feita a perfilagem a cabo (wireline) convencional?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Do fundo para a superfície, depois da cimentação de todo o poço",
+    "Somente nos primeiros 100 m do poço",
+    "Horizontalmente, a partir de um poço vizinho",
+    "Da superfície para o fundo, durante a perfuração",
+    "Do fundo do poço para a superfície, antes da descida do revestimento"
+   ],
+   "correta": 4,
+   "explicacao": "A ferramenta é descida até o fundo e registra enquanto sobe, a poço aberto, antes de descer o revestimento. A perfilagem final decide se o poço será completado."
+  },
+  {
+   "id": "geo-0099",
+   "dificuldade": 3,
+   "tema": "Perfilagem",
+   "enunciado": "Por que a seção repetida é registrada antes da seção principal na perfilagem a cabo?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Para ter uma leitura de controle nos intervalos de interesse (onde o acompanhamento indicou petróleo), garantindo dados mesmo que surja problema depois",
+    "Porque a seção repetida cobre sempre todo o poço aberto",
+    "Para aquecer a ferramenta antes de registrar o poço todo",
+    "Porque a seção principal só pode ser feita com o poço revestido",
+    "Porque a seção repetida substitui a calibração da ferramenta"
+   ],
+   "correta": 0,
+   "explicacao": "A seção repetida cobre, de preferência, os intervalos onde se viu petróleo e serve como controle de qualidade/repetibilidade. Depois vem a principal, cobrindo todo o poço aberto."
+  },
+  {
+   "id": "geo-0100",
+   "dificuldade": 2,
+   "tema": "Perfilagem",
+   "enunciado": "Em que situação o LWD (Logging While Drilling) é especialmente vantajoso?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Quando não há fluido de perfuração no poço",
+    "Em poços marítimos e em condições perigosas, como camadas instáveis",
+    "Quando o poço já está revestido e cimentado",
+    "Apenas para avaliar a cimentação",
+    "Somente em poços terrestres rasos"
+   ],
+   "correta": 1,
+   "explicacao": "O LWD registra durante a perfuração, reduzindo tempo de sonda (caro no mar) e o risco de descer ferramentas a cabo em poço instável."
+  },
+  {
+   "id": "geo-0101",
+   "dificuldade": 2,
+   "tema": "Perfilagem",
+   "enunciado": "Quais parâmetros principais de um reservatório os perfis elétricos, acústicos e radioativos permitem obter ou inferir?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Idade absoluta e conteúdo fossilífero",
+    "Preço do barril e fator de recuperação",
+    "Tipo de querogênio e Tmax",
+    "Porosidade, saturação de hidrocarbonetos, espessura das camadas permeáveis e permeabilidade qualitativa",
+    "Temperatura de formação de hidratos"
+   ],
+   "correta": 3,
+   "explicacao": "Esses são os parâmetros físicos para avaliar o reservatório. Os perfis também servem para litologia, correlação, mergulho de camadas, posicionamento de refletores sísmicos e ambientes deposicionais."
+  },
+  {
+   "id": "geo-0102",
+   "dificuldade": 2,
+   "tema": "Perfilagem",
+   "enunciado": "Na primeira corrida tradicional de perfis, quais medidas eram feitas?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Checkshot e VSP",
+    "CBL e VDL",
+    "Ressonância magnética, imagem e testador a cabo",
+    "Densidade, neutrão e caliper apenas",
+    "Resistividade (indução), porosidade (sônico) e raios gama (argilosidade)"
+   ],
+   "correta": 4,
+   "explicacao": "Primeira corrida: indução + sônico + raios gama. Se houvesse intervalos com hidrocarbonetos, fazia-se a segunda corrida com densidade + neutrão + raios gama. Hoje tudo pode ser feito numa descida ou em LWD."
+  },
+  {
+   "id": "geo-0103",
+   "dificuldade": 3,
+   "tema": "Perfilagem",
+   "enunciado": "Num perfil de raios gama, uma curva em forma de “sino” (argilosidade aumentando para cima) sugere qual tendência deposicional?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Granodecrescência ascendente, típica de barras de meandro e canais fluviais",
+    "Granocrescência ascendente, típica de barras de foz deltaicas",
+    "Presença de evaporitos",
+    "Ausência de areia em todo o intervalo",
+    "Granulometria constante, típica de dunas eólicas"
+   ],
+   "correta": 0,
+   "explicacao": "Sino = areia mais limpa embaixo e mais argilosa em cima (afinamento para cima): barras de meandro, canais. Funil = o contrário (engrossamento para cima): barras de foz. Cilíndrica = areia homogênea: eólico, canais amalgamados."
+  },
+  {
+   "id": "geo-0104",
+   "dificuldade": 2,
+   "tema": "Perfilagem",
+   "enunciado": "O perfil caliper mede:",
+   "tipo": "multipla",
+   "alternativas": [
+    "A pressão de poros",
+    "A resistividade da formação",
+    "A velocidade do som na rocha",
+    "A radioatividade natural",
+    "O diâmetro do poço"
+   ],
+   "correta": 4,
+   "explicacao": "O caliper é um perfil auxiliar que registra o diâmetro do poço, mostrando arrombamentos e reboco — informação útil para corrigir outros perfis e para avaliar o fluido de perfuração e a estabilidade do poço."
+  },
+  {
+   "id": "geo-0105",
+   "dificuldade": 2,
+   "tema": "Perfilagem",
+   "enunciado": "Ferramentas como RFT (Schlumberger) e RDT (Halliburton) são usadas para:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Medir o diâmetro do poço",
+    "Avaliar a aderência do cimento",
+    "Medir pressões e coletar amostras de fluido da formação a cabo",
+    "Registrar imagens elétricas da parede do poço",
+    "Gerar ondas sísmicas no poço"
+   ],
+   "correta": 2,
+   "explicacao": "São testadores a cabo: medem pré-testes de pressão e coletam amostras de fluido da formação, sem precisar de um teste de formação completo."
+  },
+  {
+   "id": "geo-0106",
+   "dificuldade": 2,
+   "tema": "Perfilagem",
+   "enunciado": "Qual foi o grande avanço dos perfis de imagem modernos (como o FMI) em relação aos antigos (SHDT)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Passaram a ser registrados só em poço revestido",
+    "Substituíram totalmente a sísmica",
+    "Passaram a medir diretamente o volume de óleo",
+    "A cobertura da parede do poço passou de cerca de 3% para cerca de 80%",
+    "Deixaram de precisar de fluido no poço"
+   ],
+   "correta": 3,
+   "explicacao": "O SHDT cobria ~3% da circunferência do poço; o FMI cobre ~80%, permitindo ver fraturas, camadas e estruturas sedimentares com muito mais detalhe."
+  },
+  {
+   "id": "geo-0107",
+   "dificuldade": 3,
+   "tema": "Geofísica de poço",
+   "enunciado": "Qual a principal diferença entre um levantamento checkshot e um VSP?",
+   "tipo": "multipla",
+   "alternativas": [
+    "O VSP só pode ser feito em terra",
+    "O checkshot mede resistividade e o VSP mede radioatividade",
+    "O checkshot usa geofones e o VSP não usa receptores",
+    "O espaçamento entre os níveis dos receptores: no checkshot é de dezenas a centenas de metros, no VSP é de 15 a 30 m",
+    "O VSP é registrado da superfície para o fundo e o checkshot não tem sentido definido"
+   ],
+   "correta": 3,
+   "explicacao": "Os dois medem o tempo de trânsito da superfície até receptores no poço. No checkshot os níveis distam ~61 a 305 m; no VSP, 15 a 30 m, gerando um registro muito mais denso."
+  },
+  {
+   "id": "geo-0108",
+   "dificuldade": 2,
+   "tema": "Geofísica de poço",
+   "enunciado": "Para que serve o levantamento checkshot?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Para construir a relação tempo-profundidade e calibrar a sísmica com o poço",
+    "Para detectar gás na lama",
+    "Para medir a qualidade da cimentação",
+    "Para medir a saturação de água",
+    "Para obter amostras de rocha"
+   ],
+   "correta": 0,
+   "explicacao": "Medindo o tempo de trânsito até cada profundidade, obtém-se a função tempo-profundidade que permite converter e amarrar as seções sísmicas (em tempo) aos dados do poço (em profundidade)."
+  },
+  {
+   "id": "geo-0109",
+   "dificuldade": 2,
+   "tema": "Perfis de cimentação",
+   "enunciado": "Qual é o objetivo dos perfis sônicos de qualidade de cimentação (CBL/VDL)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Calcular o volume original de óleo",
+    "Verificar a aderência do cimento ao revestimento e à formação, para evitar riscos como produção indesejada de água ou blowouts",
+    "Medir a porosidade efetiva do reservatório",
+    "Identificar o ambiente deposicional",
+    "Determinar o tipo de querogênio"
+   ],
+   "correta": 1,
+   "explicacao": "Usando ondas sonoras, avalia-se se o cimento isola bem as zonas. Má cimentação pode causar comunicação entre zonas, produção de água/areia e perda de controle do poço."
+  },
+  {
+   "id": "geo-0110",
+   "dificuldade": 3,
+   "tema": "Perfis de cimentação",
+   "enunciado": "Um CBL indica índice de adesão de 80% num trecho do revestimento. Qual a leitura crítica correta?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Embora seja considerado bom, 80% de adesão pode significar 20% de canal, e o CBL não avalia bem canais dentro do cimento",
+    "Indica que a formação tem 80% de porosidade",
+    "Indica que não há cimento atrás do revestimento",
+    "Garante isolamento hidráulico perfeito em 100% dos casos",
+    "Significa que 80% do poço está revestido"
+   ],
+   "correta": 0,
+   "explicacao": "O CBL é qualitativo para a ligação cimento/revestimento. Um índice >80% é tido como bom, mas os 20% restantes podem ser um canal. Ferramentas ultrassônicas (USIT, Isolation Scanner) ajudam a enxergar canais."
+  },
+  {
+   "id": "geo-0111",
+   "dificuldade": 2,
+   "tema": "Perfis de cimentação",
+   "enunciado": "Qual ferramenta ultrassônica giratória fornece imagem do cimento em contato com o revestimento e permite visualizar canais em 3D?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Raios gama",
+    "USIT",
+    "Checkshot",
+    "CBL",
+    "Caliper"
+   ],
+   "correta": 1,
+   "explicacao": "O USIT gera imagem ultrassônica de toda a circunferência, mostrando canais e defeitos da cimentação primária. O CAST-V/Isolation Scanner indica o material atrás do revestimento (sólido, líquido ou gás)."
+  },
+  {
+   "id": "geo-0112",
+   "dificuldade": 1,
+   "tema": "Saturação",
+   "enunciado": "Se a saturação de água de um reservatório é de 30%, qual é a saturação de hidrocarbonetos?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Não é possível calcular sem a porosidade",
+    "30%",
+    "130%",
+    "70%",
+    "3%"
+   ],
+   "correta": 3,
+   "explicacao": "So = 1 − Sw = 1 − 0,30 = 0,70 (70%). A saturação é uma fração do volume poroso, então as saturações somam 100%."
+  },
+  {
+   "id": "geo-0113",
+   "dificuldade": 2,
+   "tema": "Saturação",
+   "enunciado": "Saturação de hidrocarbonetos é definida como:",
+   "tipo": "multipla",
+   "alternativas": [
+    "A quantidade de água por volume de rocha",
+    "A razão entre o óleo produzido e o óleo original",
+    "A fração do volume de poros preenchida por hidrocarbonetos",
+    "A permeabilidade do óleo dividida pela da água",
+    "A fração do volume total da rocha preenchida por hidrocarbonetos"
+   ],
+   "correta": 2,
+   "explicacao": "Saturação é sempre referida ao volume poroso, não ao volume total da rocha. So = 1 − Sw."
+  },
+  {
+   "id": "geo-0114",
+   "dificuldade": 2,
+   "tema": "Teste de formação",
+   "enunciado": "Por que o teste de formação é chamado de “completação provisória” do poço?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque é feito somente após o abandono do poço",
+    "Porque mede apenas a temperatura do reservatório",
+    "Porque cimenta o revestimento de produção definitivamente",
+    "Porque isola o intervalo e reduz a pressão sobre ele para induzir a produção temporária dos fluidos da formação",
+    "Porque substitui a perfuração do restante do poço"
+   ],
+   "correta": 3,
+   "explicacao": "Com packers, o intervalo é isolado da coluna hidrostática da lama e comunicado com uma pressão menor; o fluido da formação flui e se medem vazão, pressão e tipo de fluido."
+  },
+  {
+   "id": "geo-0115",
+   "dificuldade": 3,
+   "tema": "Teste de formação",
+   "enunciado": "Num teste de formação (DST), qual a função do obturador (packer)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Medir o diâmetro do poço",
+    "Cortar o testemunho da formação",
+    "Aumentar a pressão hidrostática sobre a formação",
+    "Isolar o intervalo testado da pressão hidrostática da coluna de lama acima dele",
+    "Gerar ondas sísmicas no poço"
+   ],
+   "correta": 3,
+   "explicacao": "Sem o packer, a pressão da lama (maior que a da formação) impediria o fluxo. O packer veda o anular e permite que a formação “sinta” uma pressão menor e produza."
+  },
+  {
+   "id": "geo-0116",
+   "dificuldade": 2,
+   "tema": "Laboratório",
+   "enunciado": "Por que as lâminas petrográficas feitas de testemunhos são importantes para a produção?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque mostram mineralogia, tipos e porcentagem de porosidade, evolução diagenética e problemas potenciais como argilas expansivas",
+    "Porque determinam o preço do óleo",
+    "Porque substituem a perfilagem do poço",
+    "Porque medem diretamente a vazão do poço",
+    "Porque identificam o tipo de sonda ideal"
+   ],
+   "correta": 0,
+   "explicacao": "A petrografia ajuda a entender o reservatório e antecipar problemas — por exemplo, argilas expansivas que podem reagir com fluidos de perfuração ou completação e danificar a formação."
+  },
+  {
+   "id": "geo-0117",
+   "dificuldade": 2,
+   "tema": "Cubagem",
+   "enunciado": "Quais parâmetros são necessários para estimar o volume de hidrocarbonetos de um reservatório?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Apenas área e espessura",
+    "Idade da rocha e tipo de querogênio",
+    "Apenas porosidade e permeabilidade",
+    "Profundidade e temperatura apenas",
+    "Área, espessura, porosidade, saturação e características dos fluidos"
+   ],
+   "correta": 4,
+   "explicacao": "Volume de rocha (área × espessura) × porosidade × saturação de HC, convertido para condições de superfície pelas propriedades dos fluidos."
+  },
+  {
+   "id": "geo-0118",
+   "dificuldade": 2,
+   "tema": "Cubagem",
+   "enunciado": "Um campo tem volume original de óleo (VOIP) de 200 milhões de barris e fator de recuperação de 30%. Qual o volume recuperável?",
+   "tipo": "multipla",
+   "alternativas": [
+    "6,7 milhões de barris",
+    "230 milhões de barris",
+    "30 milhões de barris",
+    "60 milhões de barris",
+    "140 milhões de barris"
+   ],
+   "correta": 3,
+   "explicacao": "VR = VOIP × FR = 200 × 0,30 = 60 milhões de barris."
+  },
+  {
+   "id": "geo-0119",
+   "dificuldade": 3,
+   "tema": "Cubagem",
+   "enunciado": "Um reservatório tem VOIP de 500 MM bbl, fator de recuperação de 25% e produção acumulada (Np) de 80 MM bbl. Quanto ainda resta como reserva?",
+   "tipo": "multipla",
+   "alternativas": [
+    "205 MM bbl",
+    "80 MM bbl",
+    "45 MM bbl",
+    "125 MM bbl",
+    "420 MM bbl"
+   ],
+   "correta": 2,
+   "explicacao": "Volume recuperável = 500 × 0,25 = 125 MM bbl. Já foram produzidos 80; restam 125 − 80 = 45 MM bbl de reserva."
+  },
+  {
+   "id": "geo-0120",
+   "dificuldade": 2,
+   "tema": "Cubagem",
+   "enunciado": "O fator de recuperação (FR) é:",
+   "tipo": "multipla",
+   "alternativas": [
+    "O volume de óleo produzido até uma data",
+    "A razão entre o volume recuperável e o volume original",
+    "A razão entre o óleo produzido e a água produzida",
+    "A razão entre volume de reservatório e volume de superfície",
+    "A fração dos poros preenchida por óleo"
+   ],
+   "correta": 1,
+   "explicacao": "FR = VR/VOIP. Produção acumulada (Np) é o que já foi produzido até uma data; reserva é o que ainda pode ser obtido."
+  },
+  {
+   "id": "geo-0121",
+   "dificuldade": 2,
+   "tema": "Recuperação",
+   "enunciado": "Qual é o objetivo da recuperação secundária, como a injeção de água ou gás?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Repor energia e deslocar o óleo que permanece nos poros após a produção primária",
+    "Aumentar a porosidade primária",
+    "Selar o reservatório",
+    "Gerar mais petróleo a partir do querogênio",
+    "Eliminar a necessidade de poços produtores"
+   ],
+   "correta": 0,
+   "explicacao": "Grande parte do óleo (o curso cita ~60%) fica no reservatório. Água, gás, vapor, químicos e calor são injetados para empurrá-lo para os poços produtores."
+  },
+  {
+   "id": "geo-0122",
+   "dificuldade": 2,
+   "tema": "Geologia de reservatórios",
+   "enunciado": "Quais são as duas atividades principais da geologia de desenvolvimento?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Pirólise e reflectância da vitrinita",
+    "Leilão de blocos e licenciamento ambiental",
+    "Refino e distribuição",
+    "Gerenciamento do campo e caracterização de reservatórios",
+    "Sísmica de refração e magnetometria"
+   ],
+   "correta": 3,
+   "explicacao": "Gerenciamento = acompanhar a produção e agregar valor ao ativo. Caracterização = estudos para simulação de fluxo, adensamento de malha, novos poços e recuperação secundária/terciária."
+  },
+  {
+   "id": "geo-0123",
+   "dificuldade": 1,
+   "tema": "Margem Equatorial",
+   "enunciado": "A Margem Equatorial brasileira é apresentada pela Petrobras como:",
+   "tipo": "multipla",
+   "alternativas": [
+    "A principal área produtora do pré-sal",
+    "A última grande fronteira exploratória do país",
+    "Uma área sem potencial petrolífero",
+    "Uma bacia exclusivamente terrestre",
+    "Uma bacia madura em declínio de produção"
+   ],
+   "correta": 1,
+   "explicacao": "Com a necessidade de repor reservas, a Margem Equatorial (Foz do Amazonas, Pará-Maranhão, Barreirinhas, Ceará, Potiguar) é tratada como nova e última fronteira exploratória."
+  },
+  {
+   "id": "geo-0124",
+   "dificuldade": 2,
+   "tema": "Margem Equatorial",
+   "enunciado": "Por que as descobertas na Guiana e no Suriname aumentaram o interesse pela Margem Equatorial brasileira?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque há compatibilidade de sistema petrolífero entre essas bacias e as da Margem Equatorial brasileira",
+    "Porque a legislação da Guiana proíbe exploração offshore",
+    "Porque as bacias brasileiras são idênticas ao pré-sal de Santos",
+    "Porque a Guiana não tem mais reservas",
+    "Porque o petróleo da Guiana migra para o Brasil"
+   ],
+   "correta": 0,
+   "explicacao": "A Guiana passou de nada a mais de 11 bilhões de barris estimados. Como o sistema petrolífero é compatível com o das bacias brasileiras vizinhas, espera-se potencial semelhante."
+  },
+  {
+   "id": "geo-0125",
+   "dificuldade": 2,
+   "tema": "Margem Equatorial",
+   "enunciado": "O bloco FZA-M-59 (poço Morpho), na Foz do Amazonas, tem aproximadamente qual lâmina d'água e distância da costa?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Cerca de 100 m de lâmina d'água e 2 km da costa",
+    "Cerca de 2.880 m de lâmina d'água e 175 km da costa",
+    "Cerca de 300 m de lâmina d'água e 10 km da costa",
+    "Cerca de 6.000 m de lâmina d'água e 50 km da costa",
+    "Cerca de 1.500 m de lâmina d'água e 540 km da costa"
+   ],
+   "correta": 1,
+   "explicacao": "Pelos dados apresentados: lâmina d'água ~2.880 m, ~175 km da costa e ~540 km da foz do Rio Amazonas — águas ultraprofundas (>1.500 m)."
+  },
+  {
+   "id": "geo-0126",
+   "dificuldade": 2,
+   "tema": "Margem Equatorial",
+   "enunciado": "Segundo a apresentação, em maio de 2023 o IBAMA indeferiu o licenciamento do bloco FZA-M-59 e a Petrobras pediu reconsideração da decisão.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "Verdadeiro. O indeferimento foi em 17/05/2023 e o pedido de reconsideração em 25/05/2023, depois de a Petrobras ter atendido às solicitações do IBAMA em fevereiro de 2023."
+  },
+  {
+   "id": "geo-0127",
+   "dificuldade": 3,
+   "tema": "Margem Equatorial",
+   "enunciado": "Segundo a apresentação, mesmo em cenários de transição energética alinhados ao Acordo de Paris, por que se defende a exploração de novas fronteiras no Brasil?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque as energias renováveis serão proibidas",
+    "Porque a demanda de petróleo continua essencial e o petróleo brasileiro poderia substituir outros produzidos com mais emissões",
+    "Porque o pré-sal já está esgotado",
+    "Porque o Acordo de Paris exige aumento da produção",
+    "Porque a demanda mundial de petróleo deve crescer sem limite até 2100"
+   ],
+   "correta": 1,
+   "explicacao": "O argumento é de “dupla resiliência” (econômica e ambiental): a demanda cai, mas continua essencial, e o óleo brasileiro, de menor intensidade de emissões, substituiria produções mais poluentes. Isso também garante segurança e soberania energética."
+  },
+  {
+   "id": "geo-0128",
+   "dificuldade": 2,
+   "tema": "Margem Equatorial",
+   "enunciado": "O que é a AAAS (Avaliação Ambiental de Área Sedimentar)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Um teste de formação exigido pelo IBAMA",
+    "Um tipo de poço estratigráfico",
+    "Uma licença de perfuração emitida pela ANP",
+    "Um plano de emergência para vazamentos",
+    "Um estudo de planejamento para o leilão de blocos, sob responsabilidade do MME e do MMA"
+   ],
+   "correta": 4,
+   "explicacao": "A AAAS (Portaria 198/2012) é um estudo de planejamento prévio ao leilão. A Petrobras argumentou que suas conclusões só deveriam valer para áreas ainda a serem outorgadas."
+  },
+  {
+   "id": "geo-0129",
+   "dificuldade": 3,
+   "tema": "Sistema petrolífero",
+   "enunciado": "Sobre a identificação de rochas geradoras, analise:",
+   "tipo": "combinacao",
+   "afirmativas": [
+    "I. O COT é a primeira análise; acima de ~1% em folhelhos a amostra segue para pirólise.",
+    "II. A pirólise é cara e demorada, por isso é pouco usada pelas companhias.",
+    "III. A reflectância da vitrinita indica o grau de maturação.",
+    "IV. O Índice de Alteração Térmica (IAT) é hoje o método mais usado."
+   ],
+   "alternativas": [
+    "Apenas I e III",
+    "Apenas I, II e III",
+    "Apenas II e IV",
+    "Apenas III e IV",
+    "I, II, III e IV"
+   ],
+   "correta": 0,
+   "explicacao": "I e III corretas. II está errada: a pirólise é usada justamente por ser barata e rápida (~25 min). IV está errada: segundo o curso, o IAT não é mais usado."
+  },
+  {
+   "id": "geo-0130",
+   "dificuldade": 2,
+   "tema": "Rocha reservatório",
+   "enunciado": "Assinale a alternativa INCORRETA sobre rochas reservatório:",
+   "tipo": "incorreta",
+   "alternativas": [
+    "O reservatório precisa ter poros intercomunicados",
+    "Arenitos e conglomerados são os principais reservatórios siliciclásticos",
+    "Folhelhos nunca podem atuar como reservatório, em nenhuma circunstância",
+    "Coquinas e microbiolitos são reservatórios carbonáticos do pré-sal",
+    "Rochas fraturadas, como basaltos e embasamento, podem ser reservatórios"
+   ],
+   "correta": 2,
+   "explicacao": "Folhelhos fraturados aparecem na lista de “outros reservatórios”, e os folhelhos gasíferos (gas shales) são reservatórios não convencionais. Logo, “nunca” está errado."
+  },
+  {
+   "id": "geo-0131",
+   "dificuldade": 3,
+   "tema": "Perfilagem",
+   "enunciado": "Assinale a alternativa INCORRETA sobre a perfilagem:",
+   "tipo": "incorreta",
+   "alternativas": [
+    "O LWD registra os dados durante a perfuração",
+    "A ferramenta tem a sonda (aquisição) e o cartucho (eletrônica)",
+    "A perfilagem a cabo é feita depois de revestir e cimentar todo o poço, para proteger a ferramenta",
+    "A perfilagem final ajuda a decidir se o poço será completado",
+    "O perfil tem cabeçalho e trilhas com as curvas e a profundidade"
+   ],
+   "correta": 2,
+   "explicacao": "A perfilagem convencional a cabo é feita a poço aberto, antes de descer o revestimento intermediário ou de produção. Perfis em poço revestido existem (como os de cimentação), mas não é a regra da avaliação."
+  },
+  {
+   "id": "geo-0132",
+   "dificuldade": 3,
+   "tema": "Hidratos",
+   "enunciado": "Hidratos de gás são considerados um possível recurso não convencional para o futuro, mas também um risco ambiental e operacional.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "Verdadeiro. Os clatratos/hidratos aparecem como recurso não convencional “para o futuro?”, mas também são risco ambiental e podem tamponar linhas de produção."
+  },
+  {
+   "id": "geo-0133",
+   "dificuldade": 3,
+   "tema": "Rocha selante",
+   "enunciado": "Por que os evaporitos são considerados selantes tão eficientes, como no pré-sal?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque se dissolvem no óleo e formam uma barreira",
+    "Porque são muito porosos e retêm o óleo nos poros",
+    "Porque são magnéticos e atraem o petróleo",
+    "Porque são ricos em matéria orgânica",
+    "Porque são praticamente impermeáveis e o sal se deforma plasticamente, fechando fraturas"
+   ],
+   "correta": 4,
+   "explicacao": "A halita tem permeabilidade quase nula e comportamento plástico (flui), o que impede a formação de caminhos abertos. Por isso o sal é um dos melhores selos — e também um desafio para a perfuração e para os fluidos."
+  },
+  {
+   "id": "geo-0134",
+   "dificuldade": 2,
+   "tema": "Trapas",
+   "enunciado": "Na “teoria do anticlinal”, como os fluidos se distribuem dentro do fechamento estrutural?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Óleo no topo, gás no meio e água embaixo",
+    "Gás no topo, óleo no meio e água embaixo, por diferença de densidade",
+    "Misturados homogeneamente",
+    "Água no topo, óleo no meio e gás embaixo",
+    "Gás embaixo e água no topo"
+   ],
+   "correta": 1,
+   "explicacao": "Os fluidos se segregam por densidade: o gás, mais leve, fica no topo; o óleo no meio; a água, mais densa, na base."
+  }
+ ],
+ "flashcards": [
+  {
+   "id": "geo-f001",
+   "frente": "Hidrocarboneto × Petróleo",
+   "verso": "Hidrocarboneto: só C e H. Petróleo: hidrocarbonetos + impurezas (N, O, S, organometálicos de Ni e V)."
+  },
+  {
+   "id": "geo-f002",
+   "frente": "Upstream, midstream e downstream",
+   "verso": "Upstream: exploração e produção. Midstream: transporte (e refino, para alguns). Downstream: refino, petroquímica, distribuição e venda."
+  },
+  {
+   "id": "geo-f003",
+   "frente": "Exploração × Explotação",
+   "verso": "Exploração: buscar novas acumulações. Explotação (desenvolvimento): produzir as reservas já descobertas."
+  },
+  {
+   "id": "geo-f004",
+   "frente": "Teoria orgânica do petróleo",
+   "verso": "Matéria orgânica + sedimento fino + ambiente redutor → querogênio → (calor) → petróleo."
+  },
+  {
+   "id": "geo-f005",
+   "frente": "Querogênio",
+   "verso": "Fração da matéria orgânica insolúvel em solventes orgânicos. A parte solúvel é o betume."
+  },
+  {
+   "id": "geo-f006",
+   "frente": "Diagênese, catagênese, metagênese",
+   "verso": "Diagênese: bactérias e querogênio (até ~65 °C). Catagênese: janela de óleo (~65–165 °C). Metagênese: gás seco (~165–210 °C e acima)."
+  },
+  {
+   "id": "geo-f007",
+   "frente": "Elementos do sistema petrolífero",
+   "verso": "Geradora, reservatório, selo e trapa."
+  },
+  {
+   "id": "geo-f008",
+   "frente": "Processos do sistema petrolífero",
+   "verso": "Geração, migração, formação de trapa e preservação + sincronismo + balanço de massas positivo."
+  },
+  {
+   "id": "geo-f009",
+   "frente": "Níveis de certeza: (!) (.) (?)",
+   "verso": "(!) conhecido · (.) hipotético · (?) especulativo. Nome: Geradora–Reservatório."
+  },
+  {
+   "id": "geo-f010",
+   "frente": "Geradora ativa",
+   "verso": "Matéria orgânica em quantidade, qualidade e maturidade, e capaz de expulsar o petróleo."
+  },
+  {
+   "id": "geo-f011",
+   "frente": "Querogênio tipo I, II e III",
+   "verso": "I: algas/lipídeos (óleo). II: algas marinhas em ambiente redutor (óleo). III: vegetais superiores (gás)."
+  },
+  {
+   "id": "geo-f012",
+   "frente": "COT — corte para pirólise",
+   "verso": "> 1% em folhelhos ou > 0,5% em carbonatos (alguns autores pedem > 2% em folhelhos)."
+  },
+  {
+   "id": "geo-f013",
+   "frente": "Picos S1, S2 e S3 da pirólise",
+   "verso": "S1: HC já gerados. S2: potencial residual (Tmax no topo). S3: CO2 da matéria orgânica."
+  },
+  {
+   "id": "geo-f014",
+   "frente": "IH, IO e IP",
+   "verso": "IH = S2/COT. IO = S3/COT. IP = S1/(S1+S2), que indica a evolução térmica."
+  },
+  {
+   "id": "geo-f015",
+   "frente": "Escala do potencial S2 (kg HC/t)",
+   "verso": "Pobre 0–5 · Médio 6–10 · Bom 11–20 · Muito bom > 20."
+  },
+  {
+   "id": "geo-f016",
+   "frente": "Janela pela vitrinita (Ro)",
+   "verso": "De ~0,5–0,6% até ~1,3–1,35%. A vitrinita é um “termômetro de máxima” (alteração irreversível)."
+  },
+  {
+   "id": "geo-f017",
+   "frente": "Migração primária, secundária e terciária",
+   "verso": "Primária: sai da geradora. Secundária: vai até a trapa. Terciária: escapa da trapa (até a superfície)."
+  },
+  {
+   "id": "geo-f018",
+   "frente": "Reservatórios do pré-sal",
+   "verso": "Carbonatos: coquinas (rifte); microbiolitos, shrubs, esferulitos e travertinos (sag). Selo: sal."
+  },
+  {
+   "id": "geo-f019",
+   "frente": "Não convencionais",
+   "verso": "Tar sands, oil shales, gas shales, tight sands e hidratos de gás."
+  },
+  {
+   "id": "geo-f020",
+   "frente": "Hidratos em linhas",
+   "verso": "Alta pressão + baixa temperatura + água + gás → plug. Prevenção: isolamento térmico, MEG e metanol."
+  },
+  {
+   "id": "geo-f021",
+   "frente": "Porosidade absoluta × efetiva",
+   "verso": "Absoluta: todos os vazios. Efetiva: só os interconectados (a que importa para o reservatório)."
+  },
+  {
+   "id": "geo-f022",
+   "frente": "Porosidade móldica",
+   "verso": "O grão foi totalmente dissolvido e sobrou só o molde."
+  },
+  {
+   "id": "geo-f023",
+   "frente": "Permeabilidade absoluta, efetiva e relativa",
+   "verso": "Absoluta: um só fluido. Efetiva: uma fase na presença de outras. Relativa: efetiva/absoluta (0 a 1)."
+  },
+  {
+   "id": "geo-f024",
+   "frente": "1 darcy",
+   "verso": "1 atm/cm de gradiente faz escoar 1 cm³/s de um líquido de 1 cP por cm² de área. Na prática se usa o mD."
+  },
+  {
+   "id": "geo-f025",
+   "frente": "Exemplos de rochas selantes",
+   "verso": "Folhelhos, argilitos, calcilutitos, evaporitos (halita, anidrita) e soleiras de diabásio."
+  },
+  {
+   "id": "geo-f026",
+   "frente": "Tipos de trapa",
+   "verso": "Estrutural (dobra, falha, domo de sal), estratigráfica (deposicional, discordância, diagenética), mista e hidrodinâmica."
+  },
+  {
+   "id": "geo-f027",
+   "frente": "Play × Prospecto × Campo",
+   "verso": "Play: modelo geológico regional. Prospecto: alvo a ser perfurado. Campo: jazida (várias acumulações)."
+  },
+  {
+   "id": "geo-f028",
+   "frente": "Gravimetria × Magnetometria",
+   "verso": "Gravimetria: densidade (sal, ígneas, espessura da bacia). Magnetometria: embasamento (sedimentos não são magnéticos)."
+  },
+  {
+   "id": "geo-f029",
+   "frente": "Categorias de poços (ANP)",
+   "verso": "1 pioneiro · 2 estratigráfico · 3 extensão · 4 pioneiro adjacente · 5 jazida mais rasa · 6 jazida mais profunda · 7 produção · 8 injeção · 9 especial."
+  },
+  {
+   "id": "geo-f030",
+   "frente": "Nomes de campos",
+   "verso": "Mar: peixes e organismos marinhos. Terra: pássaros."
+  },
+  {
+   "id": "geo-f031",
+   "frente": "Corte radial × aureolar",
+   "verso": "Radial: óleo vivo. Aureolar: óleo morto."
+  },
+  {
+   "id": "geo-f032",
+   "frente": "Perfilagem a cabo",
+   "verso": "Poço aberto, do fundo para a superfície. Primeiro a seção repetida, depois a principal."
+  },
+  {
+   "id": "geo-f033",
+   "frente": "Curvas de GR: sino, funil e cilindro",
+   "verso": "Sino: afina para cima (meandro, canal). Funil: engrossa para cima (barra de foz). Cilindro: homogêneo (eólico)."
+  },
+  {
+   "id": "geo-f034",
+   "frente": "Checkshot × VSP",
+   "verso": "Os dois dão a relação tempo-profundidade. Checkshot: níveis a cada ~61–305 m. VSP: a cada 15–30 m."
+  },
+  {
+   "id": "geo-f035",
+   "frente": "CBL 80%",
+   "verso": "Considerado bom, mas pode ser 20% de canal. O USIT dá imagem do cimento."
+  },
+  {
+   "id": "geo-f036",
+   "frente": "Saturação",
+   "verso": "So = 1 − Sw (fração do volume poroso)."
+  },
+  {
+   "id": "geo-f037",
+   "frente": "Teste de formação",
+   "verso": "Completação provisória: o packer isola o intervalo da coluna de lama e a formação produz."
+  },
+  {
+   "id": "geo-f038",
+   "frente": "VOIP, VR, FR, Np e reserva",
+   "verso": "VR = VOIP × FR. Np = produzido até a data. Reserva = o que ainda pode ser produzido."
+  },
+  {
+   "id": "geo-f039",
+   "frente": "Margem Equatorial",
+   "verso": "Última fronteira (FZA, PAMA, BAR, CE, POT). Bloco FZA-M-59: ~2.880 m de lâmina d'água, 175 km da costa."
+  }
+ ]
+}

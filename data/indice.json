@@ -1,0 +1,10 @@
+{
+  "versao": 1,
+  "dataFim": "2026-12-06",
+  "novasPorDia": 25,
+  "unidades": [
+    { "id": "geologia", "ordem": 1, "titulo": "Fundamentos da geologia aplicada à construção de poços",
+      "curto": "Geologia", "cor": "#C8782A",
+      "arquivo": "unidades/geologia.json", "resumo": "resumos/geologia.md" }
+  ]
+}

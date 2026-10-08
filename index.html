@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#0e1417" media="(prefers-color-scheme: dark)">
+  <meta name="theme-color" content="#f2f0eb" media="(prefers-color-scheme: light)">
+  <meta name="description" content="Estudo do curso de Fluidos de Perfuração, Completação e Estimulação">
+  <title>Fluidos — Estudo</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" type="image/png" href="icons/icon-192.png">
+  <link rel="apple-touch-icon" href="icons/icon-192.png">
+  <link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+  <div id="faixa-teste" class="faixa-teste" hidden></div>
+
+  <main id="tela" tabindex="-1">
+    <p class="carregando">Carregando…</p>
+  </main>
+
+  <button id="aviso-atualizacao" class="aviso-atualizacao" type="button" hidden>
+    Atualização disponível — tocar para recarregar
+  </button>
+
+  <nav id="abas" class="abas" aria-label="Navegação principal">
+    <a href="#/inicio" data-aba="inicio">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 11.5 12 4l8 7.5M6.5 10v9.5h11V10"/></svg>
+      <span>Início</span>
+    </a>
+    <a href="#/estudar" data-aba="estudar">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="8.5"/><path d="M10 8.5v7l6-3.5z"/></svg>
+      <span>Estudar</span>
+    </a>
+    <a href="#/revisar" data-aba="revisar">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M19.5 12a7.5 7.5 0 0 1-13.2 4.9M4.5 12a7.5 7.5 0 0 1 13.2-4.9"/><path d="M18 3.5v4h-4M6 20.500v-4h4"/></svg>
+      <span>Revisar</span>
+    </a>
+    <a href="#/resumos" data-aba="resumos">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6.500 3.500h8l3 3v14h-11zM9.500 10h5M9.500 13.500h5M9.500 17h3"/></svg>
+      <span>Resumos</span>
+    </a>
+    <a href="#/mais" data-aba="mais">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="5.500" cy="12" r="1.500"/><circle cx="12" cy="12" r="1.500"/><circle cx="18.500" cy="12" r="1.500"/></svg>
+      <span>Mais</span>
+    </a>
+  </nav>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

@@ -129,6 +129,7 @@ Abas internas:
 - `manifest.webmanifest` com nome "Fluidos — Estudo", nome curto "Fluidos", `display: standalone`, tema escuro, ícones 192/512/maskable (gerar ícones simples em SVG→PNG; pode ser uma gota estilizada).
 - `sw.js`: casca da app em cache (cache-first, versionada); `data/` em network-first com fallback para cache, para que unidades novas cheguem sozinhas quando houver internet.
 - Quando uma nova versão estiver disponível, mostrar um aviso discreto "Atualização disponível — tocar para recarregar".
+- **Subir `VERSAO` em `sw.js` toda vez que mudar um arquivo da app** (não precisa para `data/`). Sem isso os celulares continuam com a versão antiga em cache.
 - Todos os caminhos **relativos** (o site vai morar em `https://<usuario>.github.io/app-fluidos/`).
 
 ## Visual

@@ -11,18 +11,19 @@
 //   } },
 //   dias: { 'YYYY-MM-DD': [respondidas, acertos] },
 //   sessao: { ids, pos, resp: { [id]: [escolha, acertou] }, ms, data } | null,
-//   simulados: [],
-//   prefs: {}
+//   simulado: { ids, pos, resp: { [id]: escolha }, inicio, data, fim?, ms?, ac? } | null,   (inicio = relógio real, em ms)
+//   simulados: [{ d, n, ac, ms }],      histórico de notas
+//   prefs: { revUnidades: [ids] | null }
 // }
 import { somarDias } from './datas.js';
 
 const CHAVE = 'fluidos:v1';
-const INTERVALOS = [1, 3, 7, 14, 30];
+export const INTERVALOS = [1, 3, 7, 14, 30];
 
 let est = vazio();
 
 function vazio() {
-  return { v: 1, dia1: null, perguntas: {}, dias: {}, sessao: null, simulados: [], prefs: {} };
+  return { v: 1, dia1: null, perguntas: {}, dias: {}, sessao: null, simulado: null, simulados: [], prefs: {} };
 }
 
 export function carregar() {
@@ -68,6 +69,16 @@ export function totalVistas() {
   return n;
 }
 
+// Ids que estão na revisão espaçada, com caixa e próxima data.
+export function emRevisao() {
+  const lista = [];
+  for (const id in est.perguntas) {
+    const rev = est.perguntas[id].rev;
+    if (rev) lista.push({ id, caixa: rev.caixa, prox: rev.prox });
+  }
+  return lista;
+}
+
 // Registra uma tentativa. `emRevisao` indica resposta dada na revisão espaçada (aí o acerto sobe de caixa).
 export function responder(id, escolha, acertou, hoje, emRevisao = false) {
   const r = (est.perguntas[id] ||= { t: [] });
@@ -111,6 +122,34 @@ export function definirSessao(s) {
   salvar();
 }
 
+export function simulado() {
+  return est.simulado;
+}
+
+export function definirSimulado(s) {
+  est.simulado = s;
+  salvar();
+}
+
+export function simulados() {
+  return est.simulados;
+}
+
+export function guardarNota(nota) {
+  est.simulados.push(nota);
+  salvar();
+}
+
+export function pref(chave, padrao = null) {
+  return est.prefs[chave] ?? padrao;
+}
+
+export function definirPref(chave, valor) {
+  if (valor === null) delete est.prefs[chave];
+  else est.prefs[chave] = valor;
+  salvar();
+}
+
 export function dias() {
   return est.dias;
 }
@@ -123,13 +162,4 @@ export function totais() {
     acertos += est.dias[d][1];
   }
   return { respondidas, acertos };
-}
-
-export function vencidas(hoje) {
-  let n = 0;
-  for (const id in est.perguntas) {
-    const rev = est.perguntas[id].rev;
-    if (rev && rev.prox <= hoje) n++;
-  }
-  return n;
 }

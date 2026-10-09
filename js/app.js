@@ -4,6 +4,7 @@ import { hoje, dataSimulada, ddmmaaaa } from './datas.js';
 import { iniciarRouter, desenhar } from './router.js';
 import { telaInicio } from './telas/inicio.js';
 import { telaEstudar } from './telas/estudar.js';
+import { telaRevisar } from './telas/revisar.js';
 import { telaEmBreve } from './telas/embreve.js';
 
 const tela = document.getElementById('tela');
@@ -38,7 +39,7 @@ async function iniciar() {
   iniciarRouter({
     inicio: telaInicio,
     estudar: telaEstudar,
-    revisar: telaEmBreve('Revisar', 'Revisão espaçada, simulado e histórico.'),
+    revisar: telaRevisar,
     resumos: telaEmBreve('Resumos', 'Resumo de cada unidade para ler no celular.'),
     mais: telaEmBreve('Mais', 'Flashcards, estatísticas e configurações.'),
   });

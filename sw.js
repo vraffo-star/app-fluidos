@@ -1,6 +1,6 @@
 // Service worker: casca da app em cache-first (versionada) e data/ em network-first.
 // Ao mudar qualquer arquivo da casca, aumente VERSAO para que a atualização chegue aos celulares.
-const VERSAO = 'v1';
+const VERSAO = 'v2';
 const CASCA = `fluidos-casca-${VERSAO}`;
 const DADOS = 'fluidos-dados';
 const ESPERA_REDE_MS = 4000;
@@ -16,9 +16,14 @@ const ARQUIVOS = [
   'js/datas.js',
   'js/util.js',
   'js/estudo.js',
+  'js/revisao.js',
   'js/telas/inicio.js',
   'js/telas/estudar.js',
   'js/telas/pergunta.js',
+  'js/telas/revisar.js',
+  'js/telas/espacada.js',
+  'js/telas/simulado.js',
+  'js/telas/historico.js',
   'js/telas/embreve.js',
   'icons/icon-192.png',
   'icons/icon-512.png',

@@ -3,6 +3,7 @@ import { dadosIndice } from '../dados.js';
 import { hoje, diasEntre, ddmm } from '../datas.js';
 import { plural } from '../util.js';
 import { pendentes, bancoEsgotado, racha } from '../estudo.js';
+import { vencidas as revisoesVencidas } from '../revisao.js';
 import { iniciarSessao } from './estudar.js';
 
 function htmlContagem() {
@@ -48,7 +49,7 @@ export function telaInicio(raiz) {
   const r = racha();
   const { respondidas, acertos } = store.totais();
   const pct = respondidas ? `${Math.round((acertos / respondidas) * 100)}%` : '—';
-  const vencidas = store.vencidas(hoje());
+  const vencidas = revisoesVencidas().length;
 
   raiz.innerHTML = `
     <header class="topo">
@@ -72,11 +73,11 @@ export function telaInicio(raiz) {
     <section class="cartao dia">${htmlCartaoDoDia()}</section>
 
     <nav class="atalhos" aria-label="Atalhos">
-      <a href="#/revisar">
+      <a href="#/revisar"${vencidas ? ' class="tem"' : ''}>
         <b>Revisão</b>
         <small><span class="num">${vencidas}</span> ${plural(vencidas, 'vencida', 'vencidas')}</small>
       </a>
-      <a href="#/revisar">
+      <a href="#/revisar/simulado">
         <b>Simulado</b>
         <small>20 perguntas</small>
       </a>

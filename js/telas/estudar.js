@@ -1,9 +1,9 @@
 import * as store from '../store.js';
 import { pergunta } from '../dados.js';
 import { hoje } from '../datas.js';
-import { esc, rico, plural, fmtTempo } from '../util.js';
+import { esc, plural, fmtTempo } from '../util.js';
 import { pendentes, montarSessao, bancoEsgotado, TAM_SESSAO } from '../estudo.js';
-import { htmlMeta, htmlEnunciado, htmlAlternativas, htmlExplicacao } from './pergunta.js';
+import { telaPergunta, htmlItemRespondido } from './pergunta.js';
 
 // Pausas longas (app em segundo plano) não entram no tempo da sessão.
 const TETO_POR_PERGUNTA_MS = 5 * 60 * 1000;
@@ -62,7 +62,7 @@ export function telaEstudar(raiz) {
           <p class="rotulo">Estudar</p>
           <h1>✓ Meta de hoje cumprida</h1>
           <p>Amanhã entram mais perguntas novas. Enquanto isso, use Revisar.</p>
-          <a class="btn" href="#/inicio">Voltar ao início</a>
+          <a class="btn" href="#/revisar">Ir para Revisar</a>
         </section>`;
       return;
     }
@@ -83,60 +83,25 @@ export function telaEstudar(raiz) {
 
   function desenharPergunta(s) {
     const q = pergunta(s.ids[s.pos]);
-    const dada = s.resp[q.id];
-    const escolha = dada ? dada[0] : null;
     const total = s.ids.length;
-    const ultima = s.pos === total - 1;
-    const fav = store.favorita(q.id);
-
-    raiz.innerHTML = `
-      <div class="sessao-topo">
-        <div class="barra" role="progressbar" aria-valuemin="0" aria-valuemax="${total}" aria-valuenow="${s.pos + 1}"
-             aria-label="Progresso da sessão">
-          <span style="width:${((s.pos + (dada ? 1 : 0)) / total) * 100}%"></span>
-        </div>
-        <span class="num sessao-conta">${s.pos + 1}/${total}</span>
-        <button type="button" class="estrela" id="fav" aria-pressed="${fav}" aria-label="Favoritar pergunta">${fav ? '★' : '☆'}</button>
-      </div>
-      <article class="pergunta">
-        ${htmlMeta(q)}
-        ${htmlEnunciado(q)}
-        ${htmlAlternativas(q, escolha)}
-        ${dada ? htmlExplicacao(q, escolha) : ''}
-      </article>
-      ${dada ? `
-        <div class="acao-fixa">
-          <button class="btn primario grande" type="button" id="proxima">${ultima ? 'Ver resultado' : 'Próxima'}</button>
-        </div>` : ''}`;
-
-    raiz.querySelector('#fav').addEventListener('click', (e) => {
-      const agora = store.alternarFavorita(q.id);
-      e.currentTarget.setAttribute('aria-pressed', agora);
-      e.currentTarget.textContent = agora ? '★' : '☆';
-    });
-
-    if (!dada) {
-      raiz.querySelector('.alts').addEventListener('click', (e) => {
-        const botao = e.target.closest('.alt');
-        if (!botao || s.resp[q.id]) return;
-        const i = Number(botao.dataset.i);
-        const acertou = i === q.correta;
+    telaPergunta(raiz, {
+      q,
+      escolha: s.resp[q.id] ? s.resp[q.id][0] : null,
+      progresso: { atual: s.pos + 1, total },
+      proxima: s.pos === total - 1 ? 'Ver resultado' : 'Próxima',
+      aoResponder(i, acertou) {
         store.responder(q.id, i, acertou, hoje());
         s.resp[q.id] = [i, acertou ? 1 : 0];
         contarTempo(s);
         store.definirSessao(s);
-        desenharPergunta(s);
-        raiz.querySelector('.explica')?.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
-      });
-      return;
-    }
-
-    raiz.querySelector('#proxima').addEventListener('click', () => {
-      contarTempo(s);
-      s.pos++;
-      store.definirSessao(s);
-      desenhar();
-      window.scrollTo(0, 0);
+      },
+      aoProxima() {
+        contarTempo(s);
+        s.pos++;
+        store.definirSessao(s);
+        desenhar();
+        window.scrollTo(0, 0);
+      },
     });
   }
 
@@ -147,14 +112,9 @@ export function telaEstudar(raiz) {
     const pct = feitas.length ? Math.round((acertos / feitas.length) * 100) : 0;
     const restam = pendentes();
 
-    const lista = erradas.map((q) => `
-      <li class="errada-item">
-        ${htmlMeta(q)}
-        ${htmlEnunciado(q)}
-        <p class="linha-resp erro"><span aria-hidden="true">✗</span> <span><b>Sua resposta:</b> ${rico(q.alternativas[s.resp[q.id][0]])}</span></p>
-        <p class="linha-resp ok"><span aria-hidden="true">✓</span> <span><b>Correta:</b> ${rico(q.alternativas[q.correta])}</span></p>
-        <p class="errada-explica">${rico(q.explicacao)}</p>
-      </li>`).join('');
+    const lista = erradas
+      .map((q) => `<li class="errada-item">${htmlItemRespondido(q, s.resp[q.id][0])}</li>`)
+      .join('');
 
     raiz.innerHTML = `
       <section class="resultado">

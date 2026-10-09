@@ -1,13 +1,34 @@
 {
-  "versao": 2,
+  "versao": 3,
   "dataFim": "2026-12-06",
   "novasPorDia": 25,
   "unidades": [
-    { "id": "geologia", "ordem": 1, "titulo": "Fundamentos da geologia aplicada à construção de poços",
-      "curto": "Geologia", "cor": "#C8782A",
-      "arquivo": "unidades/geologia.json", "resumo": "resumos/geologia.md" },
-    { "id": "ep", "ordem": 2, "titulo": "Introdução à exploração e produção de petróleo",
-      "curto": "E&P", "cor": "#2F9C8F",
-      "arquivo": "unidades/ep.json", "resumo": "resumos/ep.md" }
+    {
+      "id": "geologia",
+      "ordem": 1,
+      "titulo": "Fundamentos da geologia aplicada à construção de poços",
+      "curto": "Geologia",
+      "cor": "#C8782A",
+      "arquivo": "unidades/geologia.json",
+      "resumo": "resumos/geologia.md"
+    },
+    {
+      "id": "ep",
+      "ordem": 2,
+      "titulo": "Introdução à exploração e produção de petróleo",
+      "curto": "E&P",
+      "cor": "#2F9C8F",
+      "arquivo": "unidades/ep.json",
+      "resumo": "resumos/ep.md"
+    },
+    {
+      "id": "reservatorios",
+      "ordem": 3,
+      "titulo": "Noções gerais sobre reservatórios",
+      "curto": "Reservatórios",
+      "cor": "#4A7BD0",
+      "arquivo": "unidades/reservatorios.json",
+      "resumo": "resumos/reservatorios.md"
+    }
   ]
 }

@@ -1,0 +1,2245 @@
+{
+ "id": "reservatorios",
+ "perguntas": [
+  {
+   "id": "res-0001",
+   "dificuldade": 1,
+   "tema": "Tipos de reservatório",
+   "enunciado": "Segundo o curso, quais são os principais tipos de reservatório?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Reservatórios primários, secundários e terciários",
+    "Reservatórios de óleo, de gás (retrógrado, úmido e seco) e de óleo com capa de gás",
+    "Reservatórios rasos, profundos e ultraprofundos",
+    "Reservatórios de água, de vapor e de CO2",
+    "Reservatórios de arenito, de folhelho e de sal"
+   ],
+   "correta": 1,
+   "explicacao": "A classificação é pela fase dos hidrocarbonetos: óleo, gás (com os subtipos retrógrado, úmido e seco) e óleo com capa de gás."
+  },
+  {
+   "id": "res-0002",
+   "dificuldade": 1,
+   "tema": "Tipos de reservatório",
+   "enunciado": "Um reservatório contendo predominantemente hidrocarbonetos líquidos pode ser classificado como reservatório de óleo mesmo quando:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Não existe gás associado",
+    "Apresenta apenas gás dissolvido",
+    "A quantidade de água é superior à de óleo",
+    "Existe grande volume de gás, mas o interesse econômico principal é o óleo",
+    "Produz exclusivamente óleo pesado"
+   ],
+   "correta": 3,
+   "explicacao": "A jazida é classificada pela fase preponderante e pelo interesse econômico. Mesmo com muito gás livre (capa), se o interesse é o óleo, ela é reservatório de óleo com capa de gás."
+  },
+  {
+   "id": "res-0003",
+   "dificuldade": 2,
+   "tema": "Tipos de reservatório",
+   "enunciado": "Quando um reservatório de gás deixa de poder ser classificado como reservatório de óleo?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Quando a pressão do reservatório é maior que a de saturação",
+    "Sempre que houver qualquer quantidade de gás livre",
+    "Quando a quantidade de gás é muito maior que a de líquido e o interesse econômico principal passa a ser o gás",
+    "Quando não há aquífero ligado ao reservatório",
+    "Quando o óleo tem mais de 31° API"
+   ],
+   "correta": 2,
+   "explicacao": "Reservatório de gás = hidrocarbonetos em estado gasoso nas condições do reservatório. Se o gás domina em volume e em interesse econômico, a jazida é de gás."
+  },
+  {
+   "id": "res-0004",
+   "dificuldade": 2,
+   "tema": "Tipos de reservatório",
+   "enunciado": "Os reservatórios de gás são classificados em seco, úmido e retrógrado com base em quê?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Apenas na profundidade do reservatório",
+    "No comportamento do fluido resultante nos equipamentos de superfície",
+    "No tipo de sonda usada na perfuração",
+    "Na cor do gás produzido",
+    "Na idade da rocha reservatório"
+   ],
+   "correta": 1,
+   "explicacao": "A classificação depende do que acontece com o fluido quando ele vai do reservatório às condições de superfície: se condensa líquido ou não, e se isso já ocorre no reservatório (retrógrado)."
+  },
+  {
+   "id": "res-0005",
+   "dificuldade": 2,
+   "tema": "Tipos de reservatório",
+   "enunciado": "Gás que ocorre junto com o óleo (dissolvido ou em capa) e gás de um reservatório só de gás são chamados, respectivamente, de:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Gás natural e gás de petróleo",
+    "Gás associado e gás não associado",
+    "Gás seco e gás úmido",
+    "Gás de alta e gás de baixa",
+    "Gás retrógrado e gás livre"
+   ],
+   "correta": 1,
+   "explicacao": "Gás associado vem de poços de óleo (dissolvido no óleo ou na capa). Gás não associado vem de reservatórios de gás, onde o gás é o produto principal."
+  },
+  {
+   "id": "res-0006",
+   "dificuldade": 2,
+   "tema": "Comportamento de fases",
+   "enunciado": "No diagrama de fases, como se chama um óleo cuja pressão de reservatório está acima da pressão de saturação (bolha)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Gás retrógrado",
+    "Fluido supercrítico",
+    "Óleo saturado",
+    "Gás seco",
+    "Óleo subsaturado"
+   ],
+   "correta": 4,
+   "explicacao": "Subsaturado = acima da pressão de bolha: todo o gás está dissolvido e o óleo é monofásico. Saturado = na pressão de bolha (ou abaixo): já há gás livre."
+  },
+  {
+   "id": "res-0007",
+   "dificuldade": 1,
+   "tema": "Comportamento de fases",
+   "enunciado": "Em um reservatório inicialmente subsaturado, enquanto a pressão média permanece acima da pressão de bolha, é correto afirmar que:",
+   "tipo": "multipla",
+   "alternativas": [
+    "O óleo permanece monofásico",
+    "A permeabilidade relativa ao gás é máxima",
+    "A saturação de gás livre aumenta continuamente",
+    "Ocorre liberação maciça de gás livre em todo o reservatório",
+    "A RGO aumenta abruptamente desde o início da produção"
+   ],
+   "correta": 0,
+   "explicacao": "Acima da pressão de bolha não há gás livre: o gás continua dissolvido e o óleo é uma fase só. O gás só começa a sair quando a pressão cai abaixo da pressão de bolha."
+  },
+  {
+   "id": "res-0008",
+   "dificuldade": 2,
+   "tema": "Comportamento de fases",
+   "enunciado": "O que representa a “curva RS” mencionada no diagrama de fases?",
+   "tipo": "multipla",
+   "alternativas": [
+    "A curva de permeabilidade relativa",
+    "A curva de pressão de saturação do reservatório",
+    "A relação entre porosidade e profundidade",
+    "A razão de solubilidade em função do tempo",
+    "O caminho do fluido produzido, das condições de P e T do reservatório até as condições de superfície"
+   ],
+   "correta": 4,
+   "explicacao": "R = condições de reservatório, S = superfície. Ao ser produzido, o fluido sai de alta P e T para baixa P e T, e pode mudar de fase no caminho."
+  },
+  {
+   "id": "res-0009",
+   "dificuldade": 2,
+   "tema": "Comportamento de fases",
+   "enunciado": "No diagrama P × T de uma substância pura, acima do ponto crítico o fluido é chamado de:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Fluido supercrítico",
+    "Líquido compressível",
+    "Gás seco",
+    "Sólido",
+    "Vapor saturado"
+   ],
+   "correta": 0,
+   "explicacao": "Acima da pressão e da temperatura críticas não há distinção entre líquido e gás: o fluido é supercrítico. O ponto triplo é onde coexistem sólido, líquido e gás."
+  },
+  {
+   "id": "res-0010",
+   "dificuldade": 3,
+   "tema": "Gás retrógrado",
+   "enunciado": "Num reservatório de gás retrógrado, o que acontece quando a pressão cai, a temperatura constante, abaixo da pressão de orvalho?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Começa a condensar líquido no próprio reservatório; o volume de líquido cresce até um máximo e depois, com mais queda de pressão, o líquido revaporiza",
+    "Nada acontece até a superfície",
+    "O gás se transforma em sólido",
+    "A pressão volta a subir sozinha",
+    "Todo o gás se dissolve no óleo"
+   ],
+   "correta": 0,
+   "explicacao": "É o fenômeno retrógrado: entre a curva de orvalho (ponto 1) e um máximo de líquido, a redução de pressão condensa líquido; depois, o líquido volta à fase vapor até atingir novamente a curva de orvalho (ponto 2)."
+  },
+  {
+   "id": "res-0011",
+   "dificuldade": 3,
+   "tema": "Gás retrógrado",
+   "enunciado": "Por que a condensação retrógrada dentro do reservatório costuma ser indesejável?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque elimina a necessidade de separadores",
+    "Porque aumenta a pressão do reservatório",
+    "Porque aumenta a permeabilidade da rocha",
+    "Porque o condensado formado nos poros, o mais valioso, tende a ficar retido e não é produzido, além de reduzir a permeabilidade ao gás",
+    "Porque transforma o gás em água"
+   ],
+   "correta": 3,
+   "explicacao": "O líquido que condensa no meio poroso geralmente fica abaixo da saturação crítica e não flui. Perde-se o componente mais valioso e ainda se cria uma barreira ao fluxo de gás perto do poço."
+  },
+  {
+   "id": "res-0012",
+   "dificuldade": 2,
+   "tema": "Gás retrógrado",
+   "enunciado": "No fenômeno retrógrado descrito no curso, a temperatura do reservatório permanece constante enquanto a pressão cai.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "Verdadeiro. A produção é considerada isotérmica no reservatório: o que muda é a pressão, que atravessa a curva de orvalho."
+  },
+  {
+   "id": "res-0013",
+   "dificuldade": 1,
+   "tema": "Fluidos do reservatório",
+   "enunciado": "Esquematicamente, quais são os três fluidos de um reservatório?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Água, ar e areia",
+    "Óleo, lama e cimento",
+    "Óleo, água e gás",
+    "Óleo, betume e querogênio",
+    "Gás, vapor e CO2"
+   ],
+   "correta": 2,
+   "explicacao": "Os fluidos de reservatório são óleo, água e gás, que dividem o volume poroso: So + Sw + Sg = 1."
+  },
+  {
+   "id": "res-0014",
+   "dificuldade": 2,
+   "tema": "Fluidos do reservatório",
+   "enunciado": "Pela definição do curso, o óleo é o hidrocarboneto que:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Está na fase gasosa no reservatório e condensa em superfície",
+    "Tem viscosidade sempre maior que 10.000 cP",
+    "É sólido nas condições de reservatório",
+    "Só existe dissolvido na água",
+    "Está na fase líquida nas condições originais de reservatório, permanece líquido em superfície e tem viscosidade menor ou igual a 10.000 cP"
+   ],
+   "correta": 4,
+   "explicacao": "Óleo: líquido no reservatório e na superfície, com viscosidade de até 10.000 cP (acima disso fala-se de betume)."
+  },
+  {
+   "id": "res-0015",
+   "dificuldade": 1,
+   "tema": "Grau API",
+   "enunciado": "Um óleo de 35° API é classificado como:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Leve",
+    "Extrapesado",
+    "Pesado",
+    "Médio",
+    "Betume"
+   ],
+   "correta": 0,
+   "explicacao": "Leve: ≥ 31° API (densidade ≤ 0,87). Médio: 22–31° API. Pesado: 10–21,9° API. Extrapesado: < 10° API (mais denso que a água)."
+  },
+  {
+   "id": "res-0016",
+   "dificuldade": 2,
+   "tema": "Grau API",
+   "enunciado": "Um óleo com densidade relativa de 0,95 (20/20 °C) é classificado como:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Extrapesado",
+    "Leve",
+    "Médio",
+    "Pesado",
+    "Condensado"
+   ],
+   "correta": 3,
+   "explicacao": "Densidade entre 0,92 e 1,00 corresponde a óleo pesado (10 a 21,9° API). Acima de 1,00 seria extrapesado; ele afundaria na água."
+  },
+  {
+   "id": "res-0017",
+   "dificuldade": 3,
+   "tema": "Grau API",
+   "enunciado": "Qual é o grau API aproximado de um óleo com densidade relativa (SG) igual a 1,00?",
+   "tipo": "multipla",
+   "alternativas": [
+    "31° API",
+    "141,5° API",
+    "100° API",
+    "0° API",
+    "10° API"
+   ],
+   "correta": 4,
+   "explicacao": "°API = 141,5/SG − 131,5 = 141,5/1,00 − 131,5 = 10. Por isso 10° API é a fronteira: abaixo disso o óleo é mais denso que a água (extrapesado)."
+  },
+  {
+   "id": "res-0018",
+   "dificuldade": 3,
+   "tema": "Grau API",
+   "enunciado": "Se a densidade de um óleo aumenta, o que acontece com o seu grau API?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Não muda, pois o API depende só da viscosidade",
+    "Fica sempre igual a 10",
+    "Aumenta na mesma proporção",
+    "Aumenta exponencialmente",
+    "Diminui, porque o API é inversamente relacionado à densidade"
+   ],
+   "correta": 4,
+   "explicacao": "°API = 141,5/SG − 131,5: SG está no denominador. Óleos mais densos (pesados) têm API menor; óleos leves têm API alto."
+  },
+  {
+   "id": "res-0019",
+   "dificuldade": 1,
+   "tema": "Porosidade",
+   "enunciado": "A porosidade absoluta de uma rocha é definida como:",
+   "tipo": "multipla",
+   "alternativas": [
+    "A relação entre o volume de vazios interconectados e o volume de grãos",
+    "A capacidade de transmitir fluidos",
+    "A relação entre o volume total de vazios e o volume total da rocha",
+    "A fração dos poros ocupada por óleo",
+    "A tendência de um fluido aderir à rocha"
+   ],
+   "correta": 2,
+   "explicacao": "φ = Vvazios / Vtotal. Se considerarmos só os vazios interconectados, temos a porosidade efetiva."
+  },
+  {
+   "id": "res-0020",
+   "dificuldade": 2,
+   "tema": "Porosidade",
+   "enunciado": "Do ponto de vista da engenharia de reservatórios, qual porosidade interessa para o estudo do movimento dos fluidos?",
+   "tipo": "multipla",
+   "alternativas": [
+    "A porosidade absoluta",
+    "A porosidade isolada",
+    "A porosidade efetiva",
+    "A porosidade total incluindo poros fechados",
+    "A porosidade de folhelhos"
+   ],
+   "correta": 2,
+   "explicacao": "Só os poros conectados permitem que o fluido se desloque até os poços. Por isso, para fluxo, interessa a porosidade efetiva."
+  },
+  {
+   "id": "res-0021",
+   "dificuldade": 3,
+   "tema": "Porosidade",
+   "enunciado": "Pelo gráfico porosidade × profundidade do curso, por que os folhelhos perdem porosidade muito mais rápido que os arenitos com o soterramento?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque os folhelhos não têm água",
+    "Porque as argilas são mais compressíveis: com o peso das camadas, a água é expulsa e as placas se arrumam, enquanto o arcabouço de grãos dos arenitos resiste mais",
+    "Porque os arenitos ficam mais quentes",
+    "Porque a pressão não age sobre os folhelhos",
+    "Porque os arenitos se dissolvem em profundidade"
+   ],
+   "correta": 1,
+   "explicacao": "A porosidade é função do grau de compactação, que depende da profundidade máxima já atingida. Folhelhos (argilosos) compactam muito mais que arenitos, cujo arcabouço de grãos rígidos sustenta o espaço poroso."
+  },
+  {
+   "id": "res-0022",
+   "dificuldade": 2,
+   "tema": "Compressibilidade",
+   "enunciado": "Segundo o curso, a compressibilidade influi em quais compressibilidades?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Da sísmica, da gravimetria e da magnetometria",
+    "Do revestimento, do cimento e da broca",
+    "Do óleo, do gás e da água apenas",
+    "Da rocha matriz, dos poros e total da rocha",
+    "Do separador, do tratador e do flare"
+   ],
+   "correta": 3,
+   "explicacao": "A porosidade depende da compactação; a compressibilidade se divide em compressibilidade da matriz, dos poros e total da rocha."
+  },
+  {
+   "id": "res-0023",
+   "dificuldade": 2,
+   "tema": "Compressibilidade",
+   "enunciado": "Qual fator controla as forças de compactação a que uma rocha sedimentar foi submetida?",
+   "tipo": "multipla",
+   "alternativas": [
+    "A cor dos grãos",
+    "A salinidade da água de formação",
+    "A máxima profundidade em que a rocha já se encontrou",
+    "A profundidade atual apenas",
+    "O teor de matéria orgânica"
+   ],
+   "correta": 2,
+   "explicacao": "Mesmo que uma rocha tenha sido soerguida, ela guarda a compactação da maior profundidade que atingiu."
+  },
+  {
+   "id": "res-0024",
+   "dificuldade": 3,
+   "tema": "Compressibilidade",
+   "enunciado": "Por que a expansão dos fluidos é uma fonte de energia mais importante quando há gás no reservatório?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque o gás é muito mais compressível que o líquido: uma pequena queda de pressão provoca grande expansão de volume",
+    "Porque o gás aumenta a densidade do óleo",
+    "Porque o gás reduz a porosidade",
+    "Porque o gás não se expande com a queda de pressão",
+    "Porque o gás é incompressível"
+   ],
+   "correta": 0,
+   "explicacao": "Os pistões do curso mostram: o gás se comprime e se expande muito; o líquido quase nada. Por isso a capa de gás e o gás em solução fornecem energia de expansão."
+  },
+  {
+   "id": "res-0025",
+   "dificuldade": 1,
+   "tema": "Saturação",
+   "enunciado": "A saturação de um fluido em um meio poroso é:",
+   "tipo": "multipla",
+   "alternativas": [
+    "A fração do volume total da rocha ocupada pelo fluido",
+    "A capacidade de transmissão do fluido",
+    "O volume de fluido produzido até uma data",
+    "A relação entre a vazão de óleo e a de gás",
+    "A fração do volume de poros ocupada por esse fluido"
+   ],
+   "correta": 4,
+   "explicacao": "Sf = Vf / Vp, sempre em relação ao volume poroso."
+  },
+  {
+   "id": "res-0026",
+   "dificuldade": 2,
+   "tema": "Saturação",
+   "enunciado": "Num reservatório com So = 0,60 e Sw = 0,25, qual é a saturação de gás?",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,85",
+    "0,25",
+    "0,40",
+    "0,35",
+    "0,15"
+   ],
+   "correta": 4,
+   "explicacao": "So + Sw + Sg = 1 → Sg = 1 − 0,60 − 0,25 = 0,15 (15% do volume poroso)."
+  },
+  {
+   "id": "res-0027",
+   "dificuldade": 1,
+   "tema": "Permeabilidade",
+   "enunciado": "A permeabilidade absoluta de um meio poroso é:",
+   "tipo": "multipla",
+   "alternativas": [
+    "A relação entre volume de vazios e volume total",
+    "A fração dos poros ocupada por água",
+    "A razão entre as vazões de água e óleo",
+    "A tendência de um fluido espalhar na rocha",
+    "A medida da capacidade de se deixar atravessar por fluidos, com um único fluido saturando 100% dos poros"
+   ],
+   "correta": 4,
+   "explicacao": "Permeabilidade = condutividade a fluidos. Absoluta = medida com um só fluido saturando 100% do meio."
+  },
+  {
+   "id": "res-0028",
+   "dificuldade": 2,
+   "tema": "Permeabilidade",
+   "enunciado": "Pela lei de Darcy (q = kAΔp/μL), o que acontece com a vazão se a viscosidade do fluido dobrar, mantidas as demais condições?",
+   "tipo": "multipla",
+   "alternativas": [
+    "A vazão cai a um quarto",
+    "A vazão dobra",
+    "A vazão não muda",
+    "A vazão cai pela metade",
+    "A vazão quadruplica"
+   ],
+   "correta": 3,
+   "explicacao": "A viscosidade está no denominador: vazão inversamente proporcional a μ. Dobrar μ reduz q pela metade — por isso óleos pesados (viscosos) produzem menos."
+  },
+  {
+   "id": "res-0029",
+   "dificuldade": 3,
+   "tema": "Permeabilidade",
+   "enunciado": "Pela lei de Darcy, o que aumenta a vazão de um fluido através de uma amostra de rocha?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Somente aumentar a porosidade",
+    "Reduzir a área e o diferencial de pressão",
+    "Aumentar o comprimento da amostra e a viscosidade",
+    "Aumentar a viscosidade e reduzir a permeabilidade",
+    "Aumentar a permeabilidade, a área ou o diferencial de pressão, ou reduzir a viscosidade ou o comprimento"
+   ],
+   "correta": 4,
+   "explicacao": "q = kAΔp/(μL): k, A e Δp no numerador; μ e L no denominador. A porosidade não aparece diretamente na equação."
+  },
+  {
+   "id": "res-0030",
+   "dificuldade": 2,
+   "tema": "Permeabilidade",
+   "enunciado": "Quando dois ou mais fluidos saturam o meio poroso, a capacidade de transmissão de um deles chama-se:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porosidade efetiva",
+    "Permeabilidade absoluta",
+    "Molhabilidade",
+    "Compressibilidade",
+    "Permeabilidade efetiva"
+   ],
+   "correta": 4,
+   "explicacao": "Permeabilidade efetiva = capacidade de um fluido escoar na presença de outros. Dividida pela absoluta, dá a relativa."
+  },
+  {
+   "id": "res-0031",
+   "dificuldade": 2,
+   "tema": "Permeabilidade relativa",
+   "enunciado": "Nas curvas de permeabilidade relativa óleo-água, o que acontece à medida que a saturação de água aumenta?",
+   "tipo": "multipla",
+   "alternativas": [
+    "As duas diminuem",
+    "Nenhuma muda",
+    "As duas aumentam",
+    "A krw diminui e a kro aumenta",
+    "A krw aumenta e a kro diminui"
+   ],
+   "correta": 4,
+   "explicacao": "Com mais água nos poros, a água ocupa mais caminhos e flui melhor (krw sobe), enquanto o óleo perde espaço e conectividade (kro cai)."
+  },
+  {
+   "id": "res-0032",
+   "dificuldade": 3,
+   "tema": "Permeabilidade relativa",
+   "enunciado": "Nas curvas de permeabilidade relativa, a soma kro + krw costuma ser menor que 1. Por quê?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque a permeabilidade absoluta é sempre zero",
+    "Porque a rocha perde porosidade durante o ensaio",
+    "Porque o óleo e a água não ocupam os poros",
+    "Porque a curva está errada por definição",
+    "Porque cada fluido atrapalha o escoamento do outro: parte dos caminhos é ocupada pela outra fase, e há interferência capilar"
+   ],
+   "correta": 4,
+   "explicacao": "Com duas fases, nenhum fluido tem todos os poros para si e há interações capilares entre eles. Por isso as permeabilidades efetivas somadas não chegam à absoluta."
+  },
+  {
+   "id": "res-0033",
+   "dificuldade": 2,
+   "tema": "Molhabilidade",
+   "enunciado": "Molhabilidade é:",
+   "tipo": "multipla",
+   "alternativas": [
+    "A fração de vazios da rocha",
+    "A relação entre vazão de água e de óleo",
+    "A quantidade de água em uma amostra",
+    "A capacidade de transmissão de fluidos",
+    "A tendência de um fluido espalhar-se ou aderir sobre uma superfície sólida, definida pelo ângulo de contato"
+   ],
+   "correta": 4,
+   "explicacao": "Molhabilidade é a afinidade fluido-rocha. Não é a quantidade de água (isso é saturação). É medida pelo ângulo de contato."
+  },
+  {
+   "id": "res-0034",
+   "dificuldade": 2,
+   "tema": "Propriedades da rocha",
+   "enunciado": "Assinale a alternativa INCORRETA sobre propriedades de reservatórios:",
+   "tipo": "incorreta",
+   "alternativas": [
+    "A molhabilidade é a propriedade que trata de quanta água se tem numa amostra",
+    "A porosidade absoluta é a relação entre o volume total de vazios e o volume total da rocha",
+    "A permeabilidade é a capacidade de transmissão de um fluido em um meio poroso",
+    "A compressibilidade se relaciona ao grau de compactação das rochas",
+    "NDA"
+   ],
+   "correta": 0,
+   "explicacao": "Molhabilidade trata da afinidade do fluido com a rocha (qual fluido “molha” a superfície), não da quantidade de água — isso é saturação."
+  },
+  {
+   "id": "res-0035",
+   "dificuldade": 3,
+   "tema": "Molhabilidade",
+   "enunciado": "Numa rocha molhável à água, onde a água tende a ficar nos poros?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Nas fraturas, sem tocar os grãos",
+    "Recobrindo a superfície dos grãos e nos poros menores, enquanto o óleo ocupa o centro dos poros maiores",
+    "Somente fora da rocha",
+    "Apenas no centro dos poros maiores",
+    "Misturada homogeneamente com o óleo"
+   ],
+   "correta": 1,
+   "explicacao": "O fluido molhante adere aos grãos e ocupa os poros menores e as gargantas; o não molhante fica no centro dos poros grandes. Isso afeta permeabilidades relativas e saturação residual."
+  },
+  {
+   "id": "res-0036",
+   "dificuldade": 2,
+   "tema": "Qualidade do reservatório",
+   "enunciado": "Qual combinação indica o reservatório de melhor qualidade para produção?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Alta porosidade e permeabilidade nula",
+    "Baixa porosidade e alta compressibilidade",
+    "Alta porosidade efetiva e alta permeabilidade",
+    "Baixa porosidade e baixa permeabilidade",
+    "Alta saturação de água e baixa permeabilidade"
+   ],
+   "correta": 2,
+   "explicacao": "Porosidade dá volume para armazenar; permeabilidade dá capacidade de entregar. Um bom reservatório precisa dos dois."
+  },
+  {
+   "id": "res-0037",
+   "dificuldade": 1,
+   "tema": "Termos de produção",
+   "enunciado": "A RGO (razão gás-óleo) é:",
+   "tipo": "multipla",
+   "alternativas": [
+    "O quociente entre as vazões instantâneas de gás e de óleo, medidas em condições-padrão",
+    "A fração de água no líquido produzido",
+    "O volume de gás dissolvido na água",
+    "O quociente entre as vazões de água e de óleo",
+    "A razão entre gás injetado e água injetada"
+   ],
+   "correta": 0,
+   "explicacao": "RGO = Qgás/Qóleo (condições-padrão). RAO = Qágua/Qóleo. Corte de água = Qágua/(Qóleo + Qágua)."
+  },
+  {
+   "id": "res-0038",
+   "dificuldade": 2,
+   "tema": "Termos de produção",
+   "enunciado": "Um poço produz 300 m³/d de óleo e 100 m³/d de água. Qual é o corte de água (BSW)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "33%",
+    "75%",
+    "10%",
+    "25%",
+    "300%"
+   ],
+   "correta": 3,
+   "explicacao": "Corte de água = Qágua/(Qóleo + Qágua) = 100/(300 + 100) = 0,25 = 25%. A RAO seria 100/300 = 0,33."
+  },
+  {
+   "id": "res-0039",
+   "dificuldade": 3,
+   "tema": "Termos de produção",
+   "enunciado": "No mesmo poço (300 m³/d de óleo e 100 m³/d de água), qual a RAO e qual a diferença conceitual para o corte de água?",
+   "tipo": "multipla",
+   "alternativas": [
+    "RAO = 3; a RAO divide óleo por água",
+    "RAO = 0,25; são o mesmo conceito",
+    "RAO = 400; a RAO soma as vazões",
+    "RAO = 0,33; a RAO divide água por óleo, enquanto o corte de água divide água pelo total de líquido",
+    "RAO = 0,75; a RAO inclui o gás"
+   ],
+   "correta": 3,
+   "explicacao": "RAO = 100/300 ≈ 0,33. Corte de água = 100/400 = 0,25. São parecidos, mas o denominador muda: óleo (RAO) ou óleo + água (corte)."
+  },
+  {
+   "id": "res-0040",
+   "dificuldade": 2,
+   "tema": "Termos de produção",
+   "enunciado": "O fator de recuperação é:",
+   "tipo": "multipla",
+   "alternativas": [
+    "A vazão máxima do poço",
+    "A relação entre gás e óleo produzidos",
+    "A fração do volume original de hidrocarbonetos (em condições-padrão) recuperada durante a vida produtiva do reservatório",
+    "O volume injetado dividido pelo volume produzido",
+    "A fração de poros ocupada por óleo"
+   ],
+   "correta": 2,
+   "explicacao": "FR = volume recuperado / volume original, ambos em condições-padrão."
+  },
+  {
+   "id": "res-0041",
+   "dificuldade": 2,
+   "tema": "PVT",
+   "enunciado": "Ao ser levado do reservatório para a superfície, o que acontece com os hidrocarbonetos líquidos do reservatório?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Dão origem a óleo e a gás de solução, que sai do óleo com a queda de pressão",
+    "Viram água",
+    "Solidificam no separador",
+    "Continuam só como óleo, sem liberar gás",
+    "Transformam-se totalmente em gás seco"
+   ],
+   "correta": 0,
+   "explicacao": "No esquema do curso: gás livre → gás; hidrocarbonetos líquidos → óleo + gás de solução (do óleo); água → água + gás de solução (da água)."
+  },
+  {
+   "id": "res-0042",
+   "dificuldade": 2,
+   "tema": "PVT",
+   "enunciado": "O fator volume de formação do óleo (Bo) representa:",
+   "tipo": "multipla",
+   "alternativas": [
+    "A viscosidade do óleo no reservatório",
+    "A razão entre o volume de óleo (com gás dissolvido) nas condições de reservatório e o volume de óleo morto em condições-padrão",
+    "O volume de gás em condições de reservatório dividido pelo de superfície",
+    "A quantidade de gás dissolvida por volume de óleo",
+    "A razão entre gás e óleo produzidos"
+   ],
+   "correta": 1,
+   "explicacao": "Bo > 1 porque o óleo no reservatório tem gás dissolvido e está mais quente: ao chegar à superfície, perde gás e encolhe."
+  },
+  {
+   "id": "res-0043",
+   "dificuldade": 3,
+   "tema": "PVT",
+   "enunciado": "Na análise PVT do curso, 2,60 m³ de líquido no reservatório resultaram em 2,00 m³ de óleo em condições-padrão. Qual o Bo inicial?",
+   "tipo": "multipla",
+   "alternativas": [
+    "1,00 m³/m³",
+    "2,60 m³/m³",
+    "1,30 m³/m³",
+    "4,60 m³/m³",
+    "0,77 m³/m³"
+   ],
+   "correta": 2,
+   "explicacao": "Bo = Vreservatório/Vsuperfície = 2,60/2,00 = 1,30. Ou seja: cada 1 m³ de óleo em superfície ocupava 1,30 m³ no reservatório."
+  },
+  {
+   "id": "res-0044",
+   "dificuldade": 3,
+   "tema": "PVT",
+   "enunciado": "No gráfico de Bo × pressão, por que Bo aumenta com a pressão até a pressão de saturação e depois diminui?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque acima da Psat o óleo perde todo o gás",
+    "Porque o óleo vira gás acima da Psat",
+    "Porque a temperatura cai com a pressão",
+    "Abaixo da Psat, mais pressão dissolve mais gás no óleo (ele incha); acima da Psat todo o gás já está dissolvido e a pressão só comprime o óleo",
+    "Porque Bo depende apenas da viscosidade"
+   ],
+   "correta": 3,
+   "explicacao": "Até a Psat o efeito dominante é a dissolução de gás (Bo sobe). Acima dela não há mais gás para dissolver e o líquido apenas se comprime levemente (Bo cai). No exemplo do curso, o volume máximo (2,66 m³) aparece perto da pressão de bolha."
+  },
+  {
+   "id": "res-0045",
+   "dificuldade": 2,
+   "tema": "PVT",
+   "enunciado": "Como se comporta a razão de solubilidade (Rs) com a pressão?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Diminui sempre com a pressão",
+    "Cai a zero na pressão de saturação",
+    "É constante em qualquer pressão",
+    "Aumenta indefinidamente acima da pressão de saturação",
+    "Aumenta com a pressão até a pressão de saturação e fica constante acima dela"
+   ],
+   "correta": 4,
+   "explicacao": "Rs = gás dissolvido por volume de óleo. Abaixo da Psat, mais pressão = mais gás em solução. Acima da Psat todo o gás disponível já está dissolvido: Rs constante."
+  },
+  {
+   "id": "res-0046",
+   "dificuldade": 2,
+   "tema": "PVT",
+   "enunciado": "O fator volume de formação do gás (Bg) é pequeno (da ordem de 0,01) e diminui com o aumento da pressão porque:",
+   "tipo": "multipla",
+   "alternativas": [
+    "O gás vira óleo a alta pressão",
+    "Bg só depende da temperatura",
+    "O gás é incompressível",
+    "O gás é muito compressível: no reservatório, a alta pressão o comprime muito em relação às condições de superfície",
+    "O gás se dissolve na rocha"
+   ],
+   "correta": 3,
+   "explicacao": "Bg = volume no reservatório/volume em superfície. Como o gás é comprimido no reservatório, ocupa uma fração pequena do volume que terá na superfície."
+  },
+  {
+   "id": "res-0047",
+   "dificuldade": 2,
+   "tema": "PVT",
+   "enunciado": "Quais são as condições-padrão de referência usadas na análise PVT do curso?",
+   "tipo": "multipla",
+   "alternativas": [
+    "200 kgf/cm² e 90 °C",
+    "1 atm e 100 °C",
+    "246 atm e 71 °C",
+    "10 atm e 0 °C",
+    "1 atm e 20 °C"
+   ],
+   "correta": 4,
+   "explicacao": "As condições-padrão (superfície) usadas foram P = 1 atm e T = 20 °C. As condições do exemplo de reservatório eram 246 atm e 71 °C."
+  },
+  {
+   "id": "res-0048",
+   "dificuldade": 2,
+   "tema": "Viscosidade",
+   "enunciado": "Pelo gráfico de viscosidade do óleo, o que acontece com a viscosidade quando a temperatura aumenta?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Diminui fortemente, sobretudo nos óleos mais viscosos",
+    "Aumenta só nos óleos leves",
+    "Não muda",
+    "Cai a zero acima de 100 °C",
+    "Aumenta"
+   ],
+   "correta": 0,
+   "explicacao": "Aquecer o óleo reduz muito sua viscosidade (óleos de 1.000 a 3.000 cP caem várias ordens de grandeza). É o princípio dos métodos térmicos, como a injeção de vapor."
+  },
+  {
+   "id": "res-0049",
+   "dificuldade": 2,
+   "tema": "Índice de produtividade",
+   "enunciado": "No gráfico de IPR, por que a curva deixa de ser uma reta abaixo da pressão de saturação?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque o óleo vira água",
+    "Porque abaixo da Psat sai gás livre e o escoamento passa a ser multifásico, reduzindo a permeabilidade relativa ao óleo",
+    "Porque a porosidade aumenta",
+    "Porque o poço deixa de produzir",
+    "Porque a temperatura do reservatório cai"
+   ],
+   "correta": 1,
+   "explicacao": "Acima da Psat o fluxo é monofásico e a IPR é linear (IP constante). Abaixo, o gás livre ocupa poros e atrapalha o óleo: a curva se encurva até a vazão máxima (qmax)."
+  },
+  {
+   "id": "res-0050",
+   "dificuldade": 3,
+   "tema": "Índice de produtividade",
+   "enunciado": "Um poço tem IP de 5 m³/d/(kgf/cm²) e pressão estática de 200 kgf/cm². Qual a vazão se a pressão de fluxo no fundo for 160 kgf/cm² (acima da Psat)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "32 m³/d",
+    "40 m³/d",
+    "200 m³/d",
+    "1.000 m³/d",
+    "800 m³/d"
+   ],
+   "correta": 2,
+   "explicacao": "q = IP × (Pe − Pw) = 5 × (200 − 160) = 5 × 40 = 200 m³/d. Vale a relação linear porque o fluxo ainda é monofásico."
+  },
+  {
+   "id": "res-0051",
+   "dificuldade": 2,
+   "tema": "Razão de mobilidade",
+   "enunciado": "A mobilidade de um fluido é definida como:",
+   "tipo": "multipla",
+   "alternativas": [
+    "A velocidade do poço produtor",
+    "A diferença entre pressão estática e de fluxo",
+    "A razão entre viscosidade e permeabilidade",
+    "O produto da porosidade pela saturação",
+    "A razão entre a permeabilidade efetiva e a viscosidade do fluido nas condições de reservatório"
+   ],
+   "correta": 4,
+   "explicacao": "λ = k/μ. Quanto mais permeável o caminho e menos viscoso o fluido, mais “móvel” ele é."
+  },
+  {
+   "id": "res-0052",
+   "dificuldade": 3,
+   "tema": "Razão de mobilidade",
+   "enunciado": "Numa injeção de água, a razão de mobilidade M = (kw/μw)/(ko/μo) resultou muito maior que 1. O que se espera?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Que não haja produção de água",
+    "Que o óleo empurre a água",
+    "Que a pressão do reservatório aumente sem limite",
+    "Varrido perfeito, em pistão",
+    "Varrido ruim: a água, muito mais móvel, forma dedos (fingering) através do óleo e chega cedo aos produtores"
+   ],
+   "correta": 4,
+   "explicacao": "M > 1 é desfavorável: o fluido deslocante (água) escoa mais fácil que o deslocado (óleo) e passa por ele. M ≤ 1 é favorável. Por isso se injeta polímero, que aumenta μw e reduz M."
+  },
+  {
+   "id": "res-0053",
+   "dificuldade": 3,
+   "tema": "Razão de mobilidade",
+   "enunciado": "Por que a injeção de polímeros melhora a eficiência de varrido em reservatórios de óleo viscoso?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque reduz a viscosidade do óleo por aquecimento",
+    "Porque aumenta a viscosidade da água injetada, reduzindo a razão de mobilidade",
+    "Porque transforma o óleo em gás",
+    "Porque dissolve a rocha e aumenta a porosidade",
+    "Porque aumenta a permeabilidade relativa à água"
+   ],
+   "correta": 1,
+   "explicacao": "M = (kw/μw)/(ko/μo). Aumentando μw, M cai e a frente de água avança de forma mais uniforme. O gráfico do curso mostra a viscosidade subindo com a concentração do polímero."
+  },
+  {
+   "id": "res-0054",
+   "dificuldade": 2,
+   "tema": "Modelo de produção",
+   "enunciado": "No modelo de produção comercial, em que momento um volume passa a ser considerado reserva?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Na licitação do bloco",
+    "Na declaração de comercialidade",
+    "Na perfuração do poço pioneiro",
+    "Na identificação do prospecto",
+    "No abandono do campo"
+   ],
+   "correta": 1,
+   "explicacao": "Sequência: licitação → prospectos → pioneiro → avaliação/delimitação → declaração de comercialidade (→ reserva) → plano de desenvolvimento → desenvolvimento da produção."
+  },
+  {
+   "id": "res-0055",
+   "dificuldade": 2,
+   "tema": "Modelo de produção",
+   "enunciado": "Na construção dos modelos de reservatório, o que se obtém ao unir petrofísica e geologia?",
+   "tipo": "multipla",
+   "alternativas": [
+    "A estimativa de reservas",
+    "O plano de abandono",
+    "O dimensionamento da plataforma",
+    "O modelo dinâmico",
+    "O modelo estático"
+   ],
+   "correta": 4,
+   "explicacao": "Petrofísica + geologia = modelo estático. + engenharia de reservatórios = modelo dinâmico (previsão de comportamento). + viabilidade econômica = dimensionamento das unidades e estimativa de reservas."
+  },
+  {
+   "id": "res-0056",
+   "dificuldade": 2,
+   "tema": "Mecanismos de produção",
+   "enunciado": "Qual é o mecanismo básico que permite a produção dos fluidos de um reservatório?",
+   "tipo": "multipla",
+   "alternativas": [
+    "A descompressão causa expansão dos fluidos e contração do meio poroso, provocando o deslocamento",
+    "A dissolução da rocha pelo óleo",
+    "O aquecimento natural do reservatório",
+    "A atração magnética entre o óleo e o poço",
+    "A injeção obrigatória de água desde o início"
+   ],
+   "correta": 0,
+   "explicacao": "Para produzir, outro material precisa ocupar o espaço deixado pelos fluidos. Ao cair a pressão, os fluidos se expandem e os poros se contraem, empurrando o óleo para os poços."
+  },
+  {
+   "id": "res-0057",
+   "dificuldade": 1,
+   "tema": "Mecanismos de produção",
+   "enunciado": "O que é “net-pay”?",
+   "tipo": "multipla",
+   "alternativas": [
+    "A espessura da camada de rocha que contém hidrocarbonetos",
+    "A pressão líquida do reservatório",
+    "O volume de água produzido",
+    "A espessura total da bacia sedimentar",
+    "O lucro líquido do campo"
+   ],
+   "correta": 0,
+   "explicacao": "Net-pay é a espessura útil, portadora de hidrocarbonetos, do reservatório."
+  },
+  {
+   "id": "res-0058",
+   "dificuldade": 1,
+   "tema": "Mecanismos de produção",
+   "enunciado": "Quais são os mecanismos de produção de reservatórios citados no curso?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Gás em solução, capa de gás, influxo de água, combinado e segregação gravitacional",
+    "Térmico, miscível, químico e microbiológico",
+    "Bombeio mecânico, BCS, BCP e gas lift",
+    "Diagênese, catagênese e metagênese",
+    "Reflexão, refração, gravimetria e magnetometria"
+   ],
+   "correta": 0,
+   "explicacao": "Esses são os mecanismos naturais (energia do próprio reservatório). Bombeio e gas lift são métodos de elevação; térmico e químico são métodos de recuperação."
+  },
+  {
+   "id": "res-0059",
+   "dificuldade": 2,
+   "tema": "Gás em solução",
+   "enunciado": "Qual é a característica do mecanismo de gás em solução?",
+   "tipo": "multipla",
+   "alternativas": [
+    "A pressão cai suavemente e o FR é elevado",
+    "Há grande produção de água desde o início",
+    "Os poços ficam surgentes por muito tempo",
+    "A pressão declina rápida e continuamente e o fator de recuperação é baixo",
+    "A RGO permanece baixa durante toda a vida"
+   ],
+   "correta": 3,
+   "explicacao": "Gás em solução: pressão cai rápido, RGO baixa no início, sobe muito e depois cai, FR baixo, elevação artificial cedo, pouca água, bom candidato à recuperação secundária."
+  },
+  {
+   "id": "res-0060",
+   "dificuldade": 3,
+   "tema": "Gás em solução",
+   "enunciado": "No mecanismo de gás em solução, por que a RGO é baixa no início, cresce muito e depois cai?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque o óleo se transforma em água",
+    "Porque a capa de gás desce até os poços desde o início",
+    "No início o gás está dissolvido; abaixo da Psat o gás livre se forma e, ao atingir saturação crítica, flui com facilidade (RGO sobe); depois o gás do reservatório se esgota (RGO cai)",
+    "Porque a temperatura do reservatório oscila",
+    "Porque o aquífero injeta gás no reservatório"
+   ],
+   "correta": 2,
+   "explicacao": "A sequência acompanha o gás: dissolvido → livre e imóvel → livre e móvel (pico de RGO) → esgotado. Por isso esse mecanismo perde energia rápido e recupera pouco."
+  },
+  {
+   "id": "res-0061",
+   "dificuldade": 2,
+   "tema": "Gás em solução",
+   "enunciado": "Por que reservatórios de gás em solução são bons candidatos à recuperação secundária?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque não precisam de poços injetores",
+    "Porque têm forte influxo de aquífero",
+    "Porque produzem muita água naturalmente",
+    "Porque recuperam pouco óleo com a energia natural e perdem pressão rapidamente",
+    "Porque já têm FR máximo"
+   ],
+   "correta": 3,
+   "explicacao": "Como sobra muito óleo e a energia se esgota cedo, injetar água ou gás para manter a pressão traz grande ganho."
+  },
+  {
+   "id": "res-0062",
+   "dificuldade": 2,
+   "tema": "Capa de gás",
+   "enunciado": "Quais características marcam o mecanismo de capa de gás?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Pressão cai rapidamente e FR é baixo",
+    "Muita produção de água nos poços baixos",
+    "Requer elevação artificial desde o início",
+    "RGO baixa e constante em todos os poços",
+    "Pressão cai vagarosa e continuamente, FR elevado, poços surgentes por mais tempo e pouca ou nenhuma água"
+   ],
+   "correta": 4,
+   "explicacao": "A capa se expande e empurra o óleo para baixo, mantendo melhor a pressão. A RGO cresce devagar, com picos nos poços do alto da estrutura."
+  },
+  {
+   "id": "res-0063",
+   "dificuldade": 2,
+   "tema": "Capa de gás",
+   "enunciado": "No mecanismo de capa de gás, em quais poços aparecem picos de RGO e o que se faz?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Em todos os poços ao mesmo tempo, sem correção possível",
+    "Nos poços injetores de água",
+    "Nos poços do alto da estrutura, que exigem restaurações frequentes para corrigir a RGO",
+    "Nos poços mais baixos, que são fechados definitivamente",
+    "Não há variação de RGO nesse mecanismo"
+   ],
+   "correta": 2,
+   "explicacao": "Com a expansão, o contato gás-óleo desce e atinge primeiro os poços altos. Faz-se restauração (por exemplo, isolar os canhoneados superiores) para reduzir a RGO."
+  },
+  {
+   "id": "res-0064",
+   "dificuldade": 2,
+   "tema": "Capa de gás",
+   "enunciado": "O que acontece com o contato gás-óleo durante a produção por capa de gás?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Vira contato óleo-água",
+    "Desce, à medida que a capa se expande e ocupa o espaço do óleo produzido",
+    "Desaparece no início da produção",
+    "Sobe, porque o óleo empurra o gás",
+    "Fica fixo durante toda a vida do campo"
+   ],
+   "correta": 1,
+   "explicacao": "A expansão do gás da capa empurra o óleo para baixo e para os poços: o contato gás-óleo vai descendo."
+  },
+  {
+   "id": "res-0065",
+   "dificuldade": 1,
+   "tema": "Influxo de água",
+   "enunciado": "Em reservatórios com forte influxo de água, espera-se que:",
+   "tipo": "multipla",
+   "alternativas": [
+    "A RGO aumente continuamente",
+    "A pressão decline rapidamente",
+    "Não exista recuperação secundária",
+    "Não exista produção de água",
+    "A pressão decline lentamente"
+   ],
+   "correta": 4,
+   "explicacao": "O aquífero repõe o volume produzido e mantém a pressão: declínio suave, FR elevado e RGO baixa, mas a produção de água aumenta com o tempo."
+  },
+  {
+   "id": "res-0066",
+   "dificuldade": 2,
+   "tema": "Influxo de água",
+   "enunciado": "No mecanismo de influxo de água, onde a produção de água cresce primeiro?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Em nenhum poço, pois a água fica no aquífero",
+    "Nos poços do topo da estrutura",
+    "Nos poços injetores de gás",
+    "Igualmente em todos os poços desde o primeiro dia",
+    "Nos poços da parte baixa da estrutura, que exigem restaurações frequentes para corrigir a RAO"
+   ],
+   "correta": 4,
+   "explicacao": "O contato óleo-água sobe a partir da base. Os poços baixos são atingidos primeiro, e a RAO cresce em degraus (com picos e restaurações)."
+  },
+  {
+   "id": "res-0067",
+   "dificuldade": 3,
+   "tema": "Influxo de água",
+   "enunciado": "O que é o “cone de água” mostrado no curso?",
+   "tipo": "multipla",
+   "alternativas": [
+    "A elevação localizada do contato óleo-água em volta de um poço, causada pela queda de pressão concentrada perto dele",
+    "Uma fratura que liga o aquífero à superfície",
+    "O formato da capa de gás no topo do reservatório",
+    "O equipamento que separa água e óleo no FPSO",
+    "Uma estrutura geológica em forma de cone que forma a trapa"
+   ],
+   "correta": 0,
+   "explicacao": "Perto do poço a pressão cai mais; a água de baixo sobe em forma de cone até os canhoneados. Produzir com vazão menor ou canhonear mais alto ajuda a retardar o cone. Já o fingering é a invasão em “dedos” por camadas mais permeáveis."
+  },
+  {
+   "id": "res-0068",
+   "dificuldade": 2,
+   "tema": "Influxo de água",
+   "enunciado": "Como se comporta a RGO num reservatório com influxo de água?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Cai a zero imediatamente",
+    "Tem picos enormes nos poços altos",
+    "É sempre maior que no mecanismo de gás em solução",
+    "Sobe rapidamente desde o início",
+    "Permanece baixa, porque a pressão se mantém e pouco gás sai de solução"
+   ],
+   "correta": 4,
+   "explicacao": "Com a pressão mantida pelo aquífero (muitas vezes acima da Psat), o gás continua dissolvido e a RGO fica baixa."
+  },
+  {
+   "id": "res-0069",
+   "dificuldade": 1,
+   "tema": "Mecanismo combinado",
+   "enunciado": "No mecanismo combinado, a energia responsável pela produção resulta:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Da atuação simultânea de mais de um mecanismo",
+    "Exclusivamente da capa de gás",
+    "Da injeção artificial de fluidos",
+    "Exclusivamente do aquífero",
+    "Exclusivamente do gás dissolvido"
+   ],
+   "correta": 0,
+   "explicacao": "No combinado, capa de gás (por cima) e aquífero (por baixo) atuam ao mesmo tempo, com contribuição também da expansão do óleo e do gás em solução."
+  },
+  {
+   "id": "res-0070",
+   "dificuldade": 2,
+   "tema": "Segregação gravitacional",
+   "enunciado": "Quais são aspectos da segregação gravitacional?",
+   "tipo": "multipla",
+   "alternativas": [
+    "O óleo sobe e o gás desce no reservatório",
+    "Formação de capa de gás secundária ou ampliação da existente, crescimento da RGO retardado nos poços baixos e declínio de pressão suavizado",
+    "Formação de cone de água e RAO crescente nos poços altos",
+    "Pressão cai rapidamente e não se forma gás livre",
+    "Exige sempre injeção de vapor"
+   ],
+   "correta": 1,
+   "explicacao": "Com boa permeabilidade vertical e tempo, o gás liberado migra para o topo, formando ou aumentando a capa. Isso melhora a recuperação em relação ao gás em solução puro."
+  },
+  {
+   "id": "res-0071",
+   "dificuldade": 3,
+   "tema": "Mecanismos de produção",
+   "enunciado": "Compare os mecanismos de produção e analise:",
+   "tipo": "combinacao",
+   "afirmativas": [
+    "I. O gás em solução tem o menor fator de recuperação entre os mecanismos estudados.",
+    "II. No influxo de água, a RGO permanece baixa.",
+    "III. Na capa de gás, os poços do alto da estrutura são os primeiros a produzir muita água.",
+    "IV. O mecanismo combinado reúne, por exemplo, capa de gás e aquífero."
+   ],
+   "alternativas": [
+    "Apenas I e II",
+    "Apenas I, II e IV",
+    "Apenas II e III",
+    "Apenas III e IV",
+    "I, II, III e IV"
+   ],
+   "correta": 1,
+   "explicacao": "III está errada: na capa de gás, os poços altos sofrem com aumento de RGO (gás), não de água. Água em poços baixos é típica do influxo de água."
+  },
+  {
+   "id": "res-0072",
+   "dificuldade": 3,
+   "tema": "Mecanismos de produção",
+   "enunciado": "Um reservatório tem pressão que cai rapidamente, RGO que dispara após alguns meses e quase nenhuma produção de água. Qual mecanismo é mais provável?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Gás em solução",
+    "Influxo de água",
+    "Capa de gás",
+    "Segregação gravitacional bem desenvolvida",
+    "Mecanismo combinado com aquífero forte"
+   ],
+   "correta": 0,
+   "explicacao": "Queda rápida de pressão + pico de RGO + pouca água é a assinatura do gás em solução. O influxo mantém a pressão e produz água; a capa mantém a pressão razoavelmente."
+  },
+  {
+   "id": "res-0073",
+   "dificuldade": 1,
+   "tema": "Recuperação de petróleo",
+   "enunciado": "O principal objetivo dos métodos de aumento da recuperação é:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Eliminar a necessidade de poços produtores",
+    "Substituir a recuperação primária",
+    "Reduzir a porosidade",
+    "Acelerar a produção e/ou aumentar o fator de recuperação",
+    "Aumentar a viscosidade do óleo"
+   ],
+   "correta": 3,
+   "explicacao": "Finalidade: acelerar a produção e/ou aumentar o FR. Como: suplementando energia (injetando fluidos) e/ou reduzindo resistências viscosas e capilares."
+  },
+  {
+   "id": "res-0074",
+   "dificuldade": 2,
+   "tema": "Recuperação de petróleo",
+   "enunciado": "Segundo o curso, como os métodos de recuperação atingem seus objetivos?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Diminuindo a permeabilidade da rocha",
+    "Suplementando energia com injeção de fluidos e/ou reduzindo as resistências viscosas e capilares",
+    "Aumentando a tensão interfacial",
+    "Aumentando a viscosidade do óleo",
+    "Fechando os poços produtores"
+   ],
+   "correta": 1,
+   "explicacao": "Injeção de água/gás repõe energia; métodos especiais atacam as forças viscosas (térmicos, polímeros) e capilares (surfactantes, miscíveis)."
+  },
+  {
+   "id": "res-0075",
+   "dificuldade": 1,
+   "tema": "Recuperação de petróleo",
+   "enunciado": "Um projeto de recuperação avançada tende a ser economicamente mais atrativo quando:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Não há infraestrutura de produção",
+    "O fator de recuperação já é máximo",
+    "O reservatório já foi abandonado",
+    "Ainda existe volume significativo de óleo remanescente no reservatório",
+    "Não existe permeabilidade"
+   ],
+   "correta": 3,
+   "explicacao": "Só vale gastar com métodos especiais se houver muito óleo para recuperar e condições (permeabilidade, infraestrutura) para isso."
+  },
+  {
+   "id": "res-0076",
+   "dificuldade": 2,
+   "tema": "Recuperação de petróleo",
+   "enunciado": "Pelos números do curso, quanto do óleo original costuma ser recuperado com a recuperação primária?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Exatamente 100%",
+    "Cerca de 50 a 80%",
+    "Cerca de 80 a 90%",
+    "Cerca de 10 a 15% (geralmente menos de 30%)",
+    "Menos de 1%"
+   ],
+   "correta": 3,
+   "explicacao": "Primária: 10–15% (até ~15% no esquema; geralmente < 30%). Secundária soma ~15–35% (até ~50%). Avançada soma ~5–10% (até ~60%)."
+  },
+  {
+   "id": "res-0077",
+   "dificuldade": 2,
+   "tema": "Recuperação de petróleo",
+   "enunciado": "Qual a diferença entre IOR e EOR, segundo o esquema do curso?",
+   "tipo": "multipla",
+   "alternativas": [
+    "São sinônimos exatos",
+    "IOR (recuperação avançada) inclui a secundária e a terciária; EOR (recuperação especial) refere-se aos métodos terciários/especiais",
+    "IOR é usado só em gás e EOR só em óleo",
+    "IOR é só a primária e EOR só a secundária",
+    "EOR inclui a primária e IOR exclui a terciária"
+   ],
+   "correta": 1,
+   "explicacao": "No esquema: IOR abrange secundária + terciária. EOR abrange os métodos especiais (térmicos, gás miscível, químicos, outros). A terciária atua sobre o óleo “imóvel”."
+  },
+  {
+   "id": "res-0078",
+   "dificuldade": 3,
+   "tema": "Recuperação de petróleo",
+   "enunciado": "No esquema do curso, as recuperações primária e secundária atuam sobre o “fluido móvel” e a terciária sobre o “fluido imóvel”. O que isso significa?",
+   "tipo": "multipla",
+   "alternativas": [
+    "A terciária atua só na capa de gás",
+    "A terciária precisa mobilizar óleo preso por forças capilares ou muito viscoso, que a água sozinha não consegue deslocar",
+    "O fluido imóvel é a água conata, que é produzida na terciária",
+    "A terciária só produz água",
+    "O fluido móvel é o óleo que fica no reservatório para sempre"
+   ],
+   "correta": 1,
+   "explicacao": "Depois da injeção de água sobra óleo residual, preso por capilaridade ou alta viscosidade. Os métodos especiais reduzem tensão interfacial, viscosidade ou criam miscibilidade para mobilizá-lo."
+  },
+  {
+   "id": "res-0079",
+   "dificuldade": 2,
+   "tema": "Métodos convencionais",
+   "enunciado": "Quais são os métodos convencionais de recuperação?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Injeção de vapor e combustão in situ",
+    "MEOR e estimulação sísmica",
+    "Injeção de água e injeção de gás imiscível (manutenção de pressão)",
+    "SAGD e THAI",
+    "Injeção de CO2 miscível e surfactantes"
+   ],
+   "correta": 2,
+   "explicacao": "Convencionais = água e gás imiscível. Especiais = térmicos, miscíveis, químicos e outros."
+  },
+  {
+   "id": "res-0080",
+   "dificuldade": 2,
+   "tema": "Métodos especiais",
+   "enunciado": "Injeção de vapor, água quente, combustão in situ e aquecimento eletromagnético pertencem a qual grupo de métodos especiais?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Convencionais",
+    "Microbiológicos",
+    "Miscíveis",
+    "Térmicos",
+    "Químicos"
+   ],
+   "correta": 3,
+   "explicacao": "Térmicos aquecem o reservatório para reduzir a viscosidade do óleo. Miscíveis: CO2, N2, hidrocarbonetos. Químicos: polímeros, surfactantes, álcalis."
+  },
+  {
+   "id": "res-0081",
+   "dificuldade": 2,
+   "tema": "Métodos especiais",
+   "enunciado": "CO2, nitrogênio e hidrocarbonetos são usados em qual tipo de método especial?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Bombeio mecânico",
+    "Métodos térmicos",
+    "Métodos miscíveis",
+    "Métodos convencionais de água",
+    "Métodos químicos"
+   ],
+   "correta": 2,
+   "explicacao": "Na injeção miscível, o gás se mistura ao óleo (sem interface), eliminando as forças capilares que prendem o óleo residual."
+  },
+  {
+   "id": "res-0082",
+   "dificuldade": 1,
+   "tema": "Métodos especiais",
+   "enunciado": "Um reservatório de óleo leve com mecanismo de capa de gás, para ter boa eficiência de varrido, pode usar qual método de recuperação secundária?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Injeção de óleo",
+    "Injeção de vapor",
+    "Injeção de gás",
+    "Injeção de polímeros",
+    "NDA"
+   ],
+   "correta": 2,
+   "explicacao": "Com capa de gás e óleo leve, injetar gás (na capa) reforça o mecanismo natural e dá boa eficiência de varrido."
+  },
+  {
+   "id": "res-0083",
+   "dificuldade": 3,
+   "tema": "Métodos especiais",
+   "enunciado": "Um reservatório tem boa permeabilidade e porosidade, net-pay de óleo de 30 m, óleo de 35° API, capa de gás e nenhum aquífero embaixo. Qual o mecanismo, o fluido de interesse e o método secundário mais indicado?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Gás em solução; produzir gás; injeção de vapor",
+    "Capa de gás; produzir óleo (e gás); injeção de gás na capa",
+    "Segregação gravitacional; produzir água; injeção de vapor",
+    "Influxo de água; produzir petróleo; injeção de água",
+    "NDA"
+   ],
+   "correta": 1,
+   "explicacao": "Sem aquífero, a energia vem da capa de gás. Com óleo leve e boa rocha, injetar gás na capa mantém a pressão e melhora o varrido. Vapor é para óleo pesado."
+  },
+  {
+   "id": "res-0084",
+   "dificuldade": 3,
+   "tema": "Métodos especiais",
+   "enunciado": "Para um reservatório raso de óleo pesado (12° API, alta viscosidade), qual família de métodos especiais tende a ser a mais indicada?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Apenas recuperação primária",
+    "Métodos térmicos, como injeção de vapor",
+    "Injeção de gás imiscível na capa",
+    "Injeção de água pura sem aditivos",
+    "Injeção de nitrogênio para formar capa"
+   ],
+   "correta": 1,
+   "explicacao": "O problema do óleo pesado é a viscosidade, e o calor a reduz drasticamente. Injeção cíclica/contínua de vapor, SAGD e combustão in situ são os candidatos naturais."
+  },
+  {
+   "id": "res-0085",
+   "dificuldade": 2,
+   "tema": "Esquemas de injeção",
+   "enunciado": "A injeção em malha é aplicada preferencialmente em reservatórios:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Muito inclinados e espessos",
+    "Extensos e com pequenas inclinações e espessuras",
+    "Sem permeabilidade",
+    "Com capa de gás muito grande apenas",
+    "Fraturados e de pequena área"
+   ],
+   "correta": 1,
+   "explicacao": "Em reservatórios extensos e pouco inclinados, distribuir injetores e produtores em malha (linhas diretas, esconsas, five, seven, nine-spot) é mais eficiente que injetar na periferia."
+  },
+  {
+   "id": "res-0086",
+   "dificuldade": 2,
+   "tema": "Esquemas de injeção",
+   "enunciado": "Em termos gerais, qual é a ideia dos esquemas convencionais de injeção (periférica, no topo, na base)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Aquecer o reservatório para reduzir a viscosidade",
+    "Tentar reproduzir o mecanismo de produção de capa de gás e/ou de influxo de água",
+    "Fraturar a rocha para aumentar a permeabilidade",
+    "Criar miscibilidade entre óleo e gás",
+    "Produzir sem nenhum poço injetor"
+   ],
+   "correta": 1,
+   "explicacao": "Injetar gás no topo imita uma capa de gás; injetar água na base ou na periferia imita um aquífero."
+  },
+  {
+   "id": "res-0087",
+   "dificuldade": 3,
+   "tema": "Esquemas de injeção",
+   "enunciado": "No modelo five-spot com linhas esconsas, qual a relação entre a distância entre linhas (d) e a distância entre poços (a)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "d = a/2",
+    "d = a",
+    "d = a/3",
+    "d = 3a/2",
+    "d = 2a"
+   ],
+   "correta": 0,
+   "explicacao": "O five-spot é o caso das linhas esconsas com d = a/2 — o esquema mais difundido, com ábacos, gráficos e tabelas adimensionais."
+  },
+  {
+   "id": "res-0088",
+   "dificuldade": 3,
+   "tema": "Esquemas de injeção",
+   "enunciado": "Sobre os princípios básicos de um projeto de injeção, analise:",
+   "tipo": "combinacao",
+   "afirmativas": [
+    "I. O volume de fluidos injetados deve ser o menor possível.",
+    "II. A maior quantidade possível do gás injetado deve permanecer no reservatório.",
+    "III. É preciso observar pressão e vazão ao longo do tempo, atentando para a pressão de fraturamento.",
+    "IV. As características do reservatório, como falhas e estratificações, são irrelevantes."
+   ],
+   "alternativas": [
+    "Apenas I e II",
+    "Apenas I, II e III",
+    "Apenas III e IV",
+    "Apenas II e IV",
+    "I, II, III e IV"
+   ],
+   "correta": 1,
+   "explicacao": "I, II e III corretas. IV está errada: falhas, variações de permeabilidade e estratificações controlam por onde o fluido injetado vai."
+  },
+  {
+   "id": "res-0089",
+   "dificuldade": 3,
+   "tema": "Esquemas de injeção",
+   "enunciado": "Por que é preciso atentar para a pressão de fraturamento num projeto de injeção de água?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque a pressão de fraturamento aumenta a viscosidade do óleo",
+    "Porque abaixo dela não há injeção possível",
+    "Porque injetar acima dela pode fraturar a rocha e criar caminhos preferenciais que levam a água direto aos produtores, prejudicando o varrido",
+    "Porque acima dela a água vira vapor",
+    "Porque abaixo dela a água congela"
+   ],
+   "correta": 2,
+   "explicacao": "Fraturas induzidas canalizam a água e reduzem a eficiência de varrido, além de riscos ao selo. Monitorar p(t) e qinj(t) evita isso."
+  },
+  {
+   "id": "res-0090",
+   "dificuldade": 2,
+   "tema": "Métodos especiais",
+   "enunciado": "Segundo o curso, por que aplicar métodos especiais de recuperação secundária?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque dispensam estudos de reservatório",
+    "Porque eliminam os custos com produtos químicos",
+    "Porque são sempre mais baratos que a injeção de água",
+    "Porque substituem a perfuração de qualquer poço",
+    "Para recuperar parte do óleo deixado pela secundária convencional e aproveitar os poços antes de tamponar ou abandonar"
+   ],
+   "correta": 4,
+   "explicacao": "São três aspectos: recuperar óleo deixado, aproveitar poços existentes antes do abandono e lembrar que esses métodos são penalizados pelos custos de químicos e equipamentos."
+  },
+  {
+   "id": "res-0091",
+   "dificuldade": 1,
+   "tema": "Métodos especiais",
+   "enunciado": "Sobre os métodos especiais de recuperação secundária, é correto afirmar:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Quanto mais fluido se injeta, melhor, mesmo produzindo mais água e gás",
+    "A razão de mobilidade dá uma ideia da eficiência de varrido e ajuda a escolher o melhor método para o campo",
+    "Não é necessário um estudo geológico detalhado",
+    "O fluido injetado deve ser o mais caro possível",
+    "NDA"
+   ],
+   "correta": 1,
+   "explicacao": "Com a razão de mobilidade se verifica qual fluido é mais fácil de deslocar e qual método pode deslocá-lo."
+  },
+  {
+   "id": "res-0092",
+   "dificuldade": 2,
+   "tema": "Métodos especiais",
+   "enunciado": "Qual é a chave de um estudo de recuperação especial, segundo o curso?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Medir o grau API do gás",
+    "Definir o tipo de sonda de perfuração",
+    "Determinar a saturação de óleo residual após a injeção de água",
+    "Determinar a idade da rocha geradora",
+    "Calcular o pico de produção primária"
+   ],
+   "correta": 2,
+   "explicacao": "É preciso saber quanto óleo ficou e se ele ficou como óleo residual (preso nos poros varridos) ou como óleo não varrido (em regiões que a água não alcançou). Isso define o método."
+  },
+  {
+   "id": "res-0093",
+   "dificuldade": 3,
+   "tema": "Métodos especiais",
+   "enunciado": "Qual a diferença entre óleo residual e óleo não varrido, e por que importa?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Residual fica preso nas regiões já varridas pela água; não varrido fica em regiões que a água não alcançou. O primeiro pede métodos que reduzam forças capilares; o segundo, métodos que melhorem o varrido",
+    "O não varrido é sempre gás e o residual é sempre água",
+    "O residual só existe em reservatórios de gás",
+    "O residual está na capa de gás e o não varrido no aquífero",
+    "São sinônimos e exigem o mesmo método"
+   ],
+   "correta": 0,
+   "explicacao": "Óleo residual: surfactantes, miscíveis. Óleo não varrido: controle de mobilidade (polímeros), melhor distribuição de poços. Por isso o diagnóstico vem antes da escolha."
+  },
+  {
+   "id": "res-0094",
+   "dificuldade": 2,
+   "tema": "Métodos especiais",
+   "enunciado": "Quais são as recomendações para avaliar candidatos à recuperação especial?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Escolher o método mais barato sem estudos",
+    "Estudo geológico detalhado, testes de laboratório, simulação numérica do reservatório e projeto-piloto antes de estender ao campo",
+    "Fazer o piloto só depois de aplicar no campo",
+    "Aplicar direto no campo inteiro para economizar tempo",
+    "Dispensar simulação e laboratório"
+   ],
+   "correta": 1,
+   "explicacao": "A ordem prudente: geologia → laboratório → simulação (ajustada ao histórico) → piloto → expansão."
+  },
+  {
+   "id": "res-0095",
+   "dificuldade": 2,
+   "tema": "Métodos especiais",
+   "enunciado": "No processo WAG (Water Alternating Gas), o que se faz?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Produz-se água e gás sem injeção",
+    "Injeta-se alternadamente água e gás, combinando a boa eficiência de deslocamento do gás com o melhor controle de mobilidade da água",
+    "Injeta-se gás e queima-se no reservatório",
+    "Injetam-se bactérias e nutrientes",
+    "Injeta-se apenas água quente"
+   ],
+   "correta": 1,
+   "explicacao": "O gás desloca bem o óleo, mas tende a subir e a escapar (segregação, dedos). Alternar com água melhora o controle e o varrido."
+  },
+  {
+   "id": "res-0096",
+   "dificuldade": 3,
+   "tema": "Métodos especiais",
+   "enunciado": "Na injeção de gás enriquecido, como se atinge a miscibilidade?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Misturando o gás com polímero na superfície",
+    "Por múltiplos contatos: componentes intermediários (C2–C6) passam do gás para o óleo, formando in situ um banco miscível",
+    "Por contato único, imediatamente na entrada do poço",
+    "Adicionando bactérias ao gás",
+    "Aquecendo o gás a 550 °C"
+   ],
+   "correta": 1,
+   "explicacao": "O gás rico em intermediários transfere componentes ao óleo a cada contato até a frente ficar miscível — a obtenção “in situ” do banco miscível."
+  },
+  {
+   "id": "res-0097",
+   "dificuldade": 3,
+   "tema": "Métodos especiais",
+   "enunciado": "Na injeção de gás pobre a alta pressão, como se forma a frente miscível?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Pela condensação do gás em água",
+    "Pela adição de surfactantes",
+    "Pela reação do gás com a rocha carbonática",
+    "Pela queima do óleo no reservatório",
+    "Pela vaporização retrógrada de componentes intermediários do óleo para o gás, formando uma frente rica em intermediários"
+   ],
+   "correta": 4,
+   "explicacao": "Aqui o caminho é o inverso do gás enriquecido: é o gás pobre, sob alta pressão, que “arranca” intermediários do óleo até a frente ficar miscível."
+  },
+  {
+   "id": "res-0098",
+   "dificuldade": 2,
+   "tema": "Métodos especiais",
+   "enunciado": "No SAGD (Steam Assisted Gravity Drainage), como os poços são dispostos?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Um poço vertical injetor de ar e um horizontal produtor",
+    "Um único poço que injeta e produz ao mesmo tempo, sempre",
+    "Dois poços horizontais paralelos: o injetor de vapor acima e o produtor abaixo",
+    "Poços injetores apenas na periferia do campo",
+    "Uma malha five-spot de poços verticais"
+   ],
+   "correta": 2,
+   "explicacao": "O vapor forma uma câmara acima; o óleo aquecido, menos viscoso, escorre por gravidade até o produtor horizontal de baixo."
+  },
+  {
+   "id": "res-0099",
+   "dificuldade": 2,
+   "tema": "Métodos especiais",
+   "enunciado": "O que é o THAI (Toe to Heel Air Injection)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Um método de combustão in situ com poço vertical injetor de ar e poço horizontal produtor, com a frente de combustão avançando do “dedão” ao “calcanhar”",
+    "Injeção de polímeros em malha nine-spot",
+    "Um método microbiológico",
+    "Injeção cíclica de vapor em poço vertical",
+    "Injeção alternada de água e gás"
+   ],
+   "correta": 0,
+   "explicacao": "Injeta-se ar e queima-se parte do óleo; o calor mobiliza o óleo pesado à frente (zona de óleo móvel), que é drenado pelo poço horizontal."
+  },
+  {
+   "id": "res-0100",
+   "dificuldade": 2,
+   "tema": "Métodos especiais",
+   "enunciado": "Na injeção de surfactantes (solução micelar), por que o banco micelar é seguido por um banco de polímero?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Para aumentar a tensão interfacial",
+    "Para aquecer o reservatório",
+    "Para dissolver a rocha",
+    "Para controlar a mobilidade e evitar que a água de empurre fure o banco micelar",
+    "Para separar o gás do óleo"
+   ],
+   "correta": 3,
+   "explicacao": "O surfactante reduz a tensão interfacial e mobiliza o óleo residual. O polímero logo atrás, mais viscoso, empurra o banco de forma estável."
+  },
+  {
+   "id": "res-0101",
+   "dificuldade": 2,
+   "tema": "Métodos especiais",
+   "enunciado": "No MEOR (Microbial Enhanced Oil Recovery), qual é o princípio descrito no curso?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Bactérias aumentam a viscosidade do óleo para facilitar a produção",
+    "Bactérias e nutrientes injetados geram um biopolímero in situ que bloqueia canais de alta permeabilidade e desvia a água para áreas não varridas",
+    "Bactérias substituem a necessidade de poços injetores",
+    "Micro-organismos aumentam a temperatura até 550 °C",
+    "Bactérias consomem todo o óleo e geram gás seco"
+   ],
+   "correta": 1,
+   "explicacao": "É semelhante à injeção de polímero: bloquear caminhos preferenciais e melhorar o varrido, aumentando o FR."
+  },
+  {
+   "id": "res-0102",
+   "dificuldade": 3,
+   "tema": "Métodos especiais",
+   "enunciado": "Na curva de crescimento dos micro-organismos do MEOR, qual a sequência de fases?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Morte → estabilização → crescimento → inicial",
+    "Crescimento exponencial → inicial → morte → estabilização",
+    "Fase inicial → crescimento exponencial → estabilização → morte",
+    "Estabilização → inicial → morte → crescimento",
+    "Inicial → morte → crescimento → estabilização"
+   ],
+   "correta": 2,
+   "explicacao": "Como em qualquer cultura microbiana. O crescimento e o metabolismo dependem da quantidade e qualidade dos nutrientes — por isso se injetam nutrientes depois das bactérias."
+  },
+  {
+   "id": "res-0103",
+   "dificuldade": 2,
+   "tema": "Métodos especiais",
+   "enunciado": "Nos 1.507 projetos internacionais de recuperação citados no curso, em que tipo de rocha está a maioria dos projetos?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Carbonatos (cerca de 78%)",
+    "Folhelhos (cerca de 50%)",
+    "Evaporitos (cerca de 18%)",
+    "Arenitos (cerca de 78%)",
+    "Basaltos (cerca de 60%)"
+   ],
+   "correta": 3,
+   "explicacao": "Arenitos ~78%, carbonatos ~18% e outros ~4%. Nos arenitos predominam os métodos térmicos."
+  },
+  {
+   "id": "res-0104",
+   "dificuldade": 2,
+   "tema": "Métodos especiais",
+   "enunciado": "Qual é a eficiência média dos métodos de aumento de recuperação citada no curso?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Em média 1 a 2%",
+    "Exatamente 100% em qualquer caso",
+    "Em média 30 a 50%, chegando a cerca de 60% em projetos bem-sucedidos",
+    "Sempre acima de 95%",
+    "Em média 80 a 90%"
+   ],
+   "correta": 2,
+   "explicacao": "Eficiência média de 30–50%; projetos bem-sucedidos chegam a ~60%."
+  },
+  {
+   "id": "res-0105",
+   "dificuldade": 1,
+   "tema": "Reservas",
+   "enunciado": "Qual a diferença entre reserva e recurso?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Recurso é sempre menor que a reserva",
+    "São sinônimos",
+    "Reserva é o volume que é ou será recuperável (viés técnico-econômico); recurso é o volume presente na jazida sem considerar restrições de acesso ou custo",
+    "Reserva inclui volumes não descobertos e não econômicos",
+    "Recurso é o volume já produzido"
+   ],
+   "correta": 2,
+   "explicacao": "O conceito de reserva tem viés técnico-econômico, não apenas geológico."
+  },
+  {
+   "id": "res-0106",
+   "dificuldade": 2,
+   "tema": "Reservas",
+   "enunciado": "Por que o curso diz que “reservas recuperáveis” é um pleonasmo?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque toda reserva é irrecuperável",
+    "Porque reservas só existem em gás",
+    "Porque o termo correto é “recursos recuperáveis prováveis”",
+    "Porque o termo reserva já se refere a um volume a ser produzido e economicamente viável",
+    "Porque recuperável significa já produzido"
+   ],
+   "correta": 3,
+   "explicacao": "Pela definição de McKelvey (1972) e Brobst & Pratt (1973), reserva são depósitos identificados extraíveis com lucro, com técnicas existentes e nas condições econômicas presentes."
+  },
+  {
+   "id": "res-0107",
+   "dificuldade": 2,
+   "tema": "Reservas",
+   "enunciado": "Segundo o curso, a reserva de um campo é:",
+   "tipo": "multipla",
+   "alternativas": [
+    "A soma da produção futura, a partir de uma data, até o limite econômico ou contratual",
+    "Todo o óleo existente no reservatório",
+    "A produção acumulada até hoje",
+    "O volume original in place",
+    "A vazão máxima de um poço"
+   ],
+   "correta": 0,
+   "explicacao": "Reserva olha para frente: quanto ainda será produzido até deixar de ser econômico (limite econômico) ou até o fim do contrato (limite contratual)."
+  },
+  {
+   "id": "res-0108",
+   "dificuldade": 3,
+   "tema": "Reservas",
+   "enunciado": "Se o preço do petróleo cai muito e os custos se mantêm, o que tende a acontecer com as reservas de um campo maduro?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Aumentam automaticamente",
+    "Diminuem, porque o limite econômico sobe e parte da produção futura deixa de compensar",
+    "Não mudam, pois dependem só da geologia",
+    "Transformam-se em produção acumulada",
+    "Viram recursos não descobertos"
+   ],
+   "correta": 1,
+   "explicacao": "O limite econômico depende de preço e custo. Com preço menor, a vazão mínima que paga a operação é maior, e o campo chega antes a esse limite."
+  },
+  {
+   "id": "res-0109",
+   "dificuldade": 2,
+   "tema": "Reservas",
+   "enunciado": "Por que as reservas são tão importantes para uma empresa de E&P?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque são seus ativos mais importantes e base de boa parte da percepção de valor de mercado da companhia",
+    "Porque substituem a necessidade de produção",
+    "Porque são exigidas só pela ANP, sem importância para o mercado",
+    "Porque só importam para o refino",
+    "Porque definem o salário dos funcionários"
+   ],
+   "correta": 0,
+   "explicacao": "Visão empresa: reservas = ativos. Visão país: indicador da capacidade da indústria petrolífera. Investidores, analistas e agências exigem informações confiáveis sobre elas."
+  },
+  {
+   "id": "res-0110",
+   "dificuldade": 2,
+   "tema": "Reservas",
+   "enunciado": "Qual fonte de informação tem o objetivo de identificar e acompanhar a produtividade dos poços e reservatórios e delimitar a jazida?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Os testes (de formação, TLDs e de produção)",
+    "O balanço energético mundial",
+    "A sísmica de reconhecimento",
+    "A licitação de blocos",
+    "Os planos de desenvolvimento"
+   ],
+   "correta": 0,
+   "explicacao": "Sísmica: oportunidades e modelo geológico. Poços: identificar fluido e calibrar a sísmica. Testes: produtividade e delimitação. Produção: desempenho e resposta a métodos suplementares."
+  },
+  {
+   "id": "res-0111",
+   "dificuldade": 2,
+   "tema": "Reservas",
+   "enunciado": "Pelos dados apresentados, quais países tinham as maiores reservas provadas de petróleo em 2020?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Brasil e Argentina",
+    "Venezuela e Arábia Saudita",
+    "EUA e China",
+    "Nigéria e Angola",
+    "Noruega e Reino Unido"
+   ],
+   "correta": 1,
+   "explicacao": "Venezuela (~303,8 bilhões de barris) e Arábia Saudita (~297,5) lideravam; o Brasil aparecia em 16º, com ~11,9 bilhões."
+  },
+  {
+   "id": "res-0112",
+   "dificuldade": 2,
+   "tema": "Reservas",
+   "enunciado": "Na matriz energética mundial de 2021 apresentada, qual fonte tinha a maior participação?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Carvão mineral (~50%)",
+    "Petróleo e derivados (~31,5%)",
+    "Hidráulica (~25%)",
+    "Nuclear (~20%)",
+    "Gás natural (~45%)"
+   ],
+   "correta": 1,
+   "explicacao": "Petróleo ~31,5%, carvão ~26,9%, gás natural ~22,8%, biomassa ~9,3%, nuclear ~5% e hidráulica ~2,5%."
+  },
+  {
+   "id": "res-0113",
+   "dificuldade": 2,
+   "tema": "Reservas",
+   "enunciado": "Pelos dados do curso, a matriz energética brasileira tem participação de renováveis bem maior que a média mundial, na casa de 45%.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "Verdadeiro. A oferta interna de energia tinha ~44,7% de renováveis em 2021 e ~46,7% em 2022, muito acima da média mundial."
+  },
+  {
+   "id": "res-0114",
+   "dificuldade": 3,
+   "tema": "Reservas",
+   "enunciado": "No exemplo do curso, o mesmo campo (33 MMbbl) tem VPL de ~578 MM US$ no contrato de concessão brasileiro e ~299 MM US$ num contrato de partilha (PSC) na Nigéria. O que explica a diferença?",
+   "tipo": "multipla",
+   "alternativas": [
+    "O regime fiscal: na partilha, parte do óleo (reserva líquida bem menor) fica com o governo, reduzindo a receita da empresa",
+    "A geologia é diferente nos dois casos",
+    "O custo operacional é zero no Brasil",
+    "O VPL não depende do contrato",
+    "Na Nigéria o óleo é mais pesado"
+   ],
+   "correta": 0,
+   "explicacao": "Com reserva, investimentos e custos iguais, o que muda é a fatia do governo. Na partilha, a reserva líquida da empresa cai de 33 para ~13,3 MMbbl, e o VPL quase cai pela metade."
+  },
+  {
+   "id": "res-0115",
+   "dificuldade": 1,
+   "tema": "Grau API",
+   "enunciado": "Quanto maior o grau API, mais leve é o óleo.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "Verdadeiro. O API é inversamente ligado à densidade: óleos leves têm API alto (≥ 31°) e os pesados, API baixo."
+  },
+  {
+   "id": "res-0116",
+   "dificuldade": 1,
+   "tema": "Grau API",
+   "enunciado": "Abaixo de qual grau API o óleo é considerado extrapesado (mais denso que a água)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "10° API",
+    "45° API",
+    "0° API",
+    "22° API",
+    "31° API"
+   ],
+   "correta": 0,
+   "explicacao": "Extrapesado: < 10° API (densidade > 1,00). Pesado: 10–21,9°. Médio: 22–31°. Leve: ≥ 31°."
+  },
+  {
+   "id": "res-0117",
+   "dificuldade": 1,
+   "tema": "Saturação",
+   "enunciado": "A soma das saturações de óleo, água e gás num reservatório é igual a 1 (100%).",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "Verdadeiro. So + Sw + Sg = 1, porque os três fluidos dividem todo o volume poroso."
+  },
+  {
+   "id": "res-0118",
+   "dificuldade": 1,
+   "tema": "Termos de produção",
+   "enunciado": "A RAO (razão água-óleo) é:",
+   "tipo": "multipla",
+   "alternativas": [
+    "O volume de água no aquífero",
+    "O quociente entre as vazões de gás e de óleo",
+    "A razão entre água injetada e gás injetado",
+    "A fração de óleo no líquido produzido",
+    "O quociente entre as vazões instantâneas de água e de óleo, em condições-padrão"
+   ],
+   "correta": 4,
+   "explicacao": "RAO = Qágua/Qóleo. Não confundir com a RGO (gás/óleo) nem com o corte de água (água/líquido total)."
+  },
+  {
+   "id": "res-0119",
+   "dificuldade": 1,
+   "tema": "Mecanismos de produção",
+   "enunciado": "Em qual mecanismo de produção um aquífero empurra o óleo para os poços, fazendo subir o contato óleo-água?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Influxo de água",
+    "Capa de gás",
+    "Segregação gravitacional",
+    "Gás em solução",
+    "Expansão da rocha apenas"
+   ],
+   "correta": 0,
+   "explicacao": "No influxo de água, a água do aquífero ocupa o lugar do óleo produzido e o contato óleo-água sobe."
+  },
+  {
+   "id": "res-0120",
+   "dificuldade": 1,
+   "tema": "Mecanismos de produção",
+   "enunciado": "Em qual mecanismo a energia vem principalmente da expansão do gás acumulado no topo do reservatório?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Injeção de vapor",
+    "Influxo de água",
+    "Combustão in situ",
+    "Capa de gás",
+    "Gás em solução"
+   ],
+   "correta": 3,
+   "explicacao": "A capa de gás se expande com a queda de pressão e empurra o óleo para baixo, para os poços."
+  },
+  {
+   "id": "res-0121",
+   "dificuldade": 1,
+   "tema": "Gás em solução",
+   "enunciado": "Qual mecanismo exige elevação artificial muito cedo?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Capa de gás",
+    "Gás em solução",
+    "Combinado com aquífero forte",
+    "Segregação gravitacional",
+    "Influxo de água"
+   ],
+   "correta": 1,
+   "explicacao": "Como a pressão cai rápido, os poços logo deixam de ser surgentes e precisam de elevação artificial."
+  },
+  {
+   "id": "res-0122",
+   "dificuldade": 1,
+   "tema": "Recuperação de petróleo",
+   "enunciado": "A injeção de água é considerada um método convencional de recuperação secundária.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "Verdadeiro. Injeção de água e de gás imiscível são os métodos convencionais."
+  },
+  {
+   "id": "res-0123",
+   "dificuldade": 1,
+   "tema": "Métodos especiais",
+   "enunciado": "Qual é o efeito principal do vapor injetado em um reservatório de óleo pesado?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Aquecer o óleo e reduzir sua viscosidade",
+    "Transformar o óleo em água",
+    "Dissolver a rocha reservatório",
+    "Aumentar a tensão interfacial",
+    "Aumentar a viscosidade do óleo"
+   ],
+   "correta": 0,
+   "explicacao": "Calor = menor viscosidade = óleo mais móvel. Base dos métodos térmicos."
+  },
+  {
+   "id": "res-0124",
+   "dificuldade": 1,
+   "tema": "Métodos especiais",
+   "enunciado": "Qual a função dos polímeros injetados com a água?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Dissolver os carbonatos",
+    "Reduzir a viscosidade do óleo por aquecimento",
+    "Formar uma capa de gás",
+    "Aumentar a viscosidade da água para melhorar o controle de mobilidade",
+    "Queimar o óleo no reservatório"
+   ],
+   "correta": 3,
+   "explicacao": "Água mais viscosa avança de forma mais uniforme, sem furar o óleo. Isso melhora a eficiência de varrido."
+  },
+  {
+   "id": "res-0125",
+   "dificuldade": 1,
+   "tema": "Reservas",
+   "enunciado": "A reserva de hidrocarbonetos tem um viés:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Técnico-econômico, e não apenas geológico",
+    "Apenas ambiental",
+    "Exclusivamente geológico",
+    "Somente histórico",
+    "Exclusivamente político"
+   ],
+   "correta": 0,
+   "explicacao": "Um volume só é reserva se puder ser produzido com a tecnologia existente e de forma econômica."
+  },
+  {
+   "id": "res-0126",
+   "dificuldade": 1,
+   "tema": "Tipos de reservatório",
+   "enunciado": "O gás livre que forma uma camada acima do óleo no reservatório é chamado de:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Gás retrógrado",
+    "Água conata",
+    "Capa de gás",
+    "Gás de solução",
+    "Aquífero"
+   ],
+   "correta": 2,
+   "explicacao": "Quando há gás livre em grande volume acima da zona de óleo, temos um reservatório de óleo com capa de gás."
+  }
+ ],
+ "flashcards": [
+  {
+   "id": "res-f001",
+   "frente": "Tipos de reservatório",
+   "verso": "Óleo · Gás (retrógrado, úmido, seco) · Óleo com capa de gás."
+  },
+  {
+   "id": "res-f002",
+   "frente": "Como se classifica a jazida?",
+   "verso": "Pela fase preponderante e pelo interesse econômico (muito gás + interesse no óleo = reservatório de óleo)."
+  },
+  {
+   "id": "res-f003",
+   "frente": "Óleo saturado × subsaturado",
+   "verso": "Subsaturado: P > Psat, todo o gás dissolvido, monofásico. Saturado: P ≤ Psat, já há gás livre."
+  },
+  {
+   "id": "res-f004",
+   "frente": "Gás retrógrado",
+   "verso": "A T constante, P cai abaixo do ponto de orvalho → condensa líquido no reservatório (até um máximo) → depois revaporiza."
+  },
+  {
+   "id": "res-f005",
+   "frente": "Gás associado × não associado",
+   "verso": "Associado: vem com o óleo (dissolvido ou capa). Não associado: reservatório de gás."
+  },
+  {
+   "id": "res-f006",
+   "frente": "Definição de óleo",
+   "verso": "Líquido no reservatório e na superfície, viscosidade ≤ 10.000 cP."
+  },
+  {
+   "id": "res-f007",
+   "frente": "Fórmula do API",
+   "verso": "°API = 141,5/SG − 131,5. SG = 1,00 → 10° API."
+  },
+  {
+   "id": "res-f008",
+   "frente": "Classes de API",
+   "verso": "Leve ≥ 31° (≤ 0,87) · Médio 22–31° · Pesado 10–21,9° (0,92–1,00) · Extrapesado < 10° (> 1,00)."
+  },
+  {
+   "id": "res-f009",
+   "frente": "Porosidade",
+   "verso": "φ = Vvazios/Vtotal. Absoluta: todos os vazios. Efetiva: só os conectados (a que interessa para fluxo)."
+  },
+  {
+   "id": "res-f010",
+   "frente": "Porosidade × profundidade",
+   "verso": "Folhelhos perdem porosidade muito mais rápido que arenitos com o soterramento."
+  },
+  {
+   "id": "res-f011",
+   "frente": "Compressibilidade",
+   "verso": "Da matriz, dos poros e total. A compactação depende da profundidade máxima já atingida."
+  },
+  {
+   "id": "res-f012",
+   "frente": "Saturação",
+   "verso": "Sf = Vf/Vporos. So + Sw + Sg = 1."
+  },
+  {
+   "id": "res-f013",
+   "frente": "Lei de Darcy",
+   "verso": "q = k·A·Δp / (μ·L)."
+  },
+  {
+   "id": "res-f014",
+   "frente": "Permeabilidade absoluta, efetiva e relativa",
+   "verso": "Absoluta: 1 fluido a 100%. Efetiva: 1 fluido na presença de outros. Relativa: efetiva/absoluta (0 a 1)."
+  },
+  {
+   "id": "res-f015",
+   "frente": "Curvas kro × krw",
+   "verso": "Quando Sw aumenta, krw sobe e kro cai."
+  },
+  {
+   "id": "res-f016",
+   "frente": "Molhabilidade",
+   "verso": "Tendência de um fluido espalhar ou aderir sobre o sólido (ângulo de contato). NÃO é quantidade de água."
+  },
+  {
+   "id": "res-f017",
+   "frente": "RGO, RAO e corte de água",
+   "verso": "RGO = Qg/Qo. RAO = Qw/Qo. Corte = Qw/(Qo + Qw)."
+  },
+  {
+   "id": "res-f018",
+   "frente": "Bo",
+   "verso": "V óleo no reservatório / V óleo em superfície (> 1). Sobe até a Psat e depois cai."
+  },
+  {
+   "id": "res-f019",
+   "frente": "Rs",
+   "verso": "Gás dissolvido por volume de óleo: sobe até a Psat e fica constante acima dela."
+  },
+  {
+   "id": "res-f020",
+   "frente": "Bg",
+   "verso": "V gás no reservatório / V em superfície (≈ 0,01). Diminui com a pressão."
+  },
+  {
+   "id": "res-f021",
+   "frente": "Condições-padrão",
+   "verso": "1 atm e 20 °C."
+  },
+  {
+   "id": "res-f022",
+   "frente": "IPR",
+   "verso": "Linear acima da Psat (monofásico); curva abaixo (multifásico). IP = q/(Pe − Pw)."
+  },
+  {
+   "id": "res-f023",
+   "frente": "Mobilidade e razão de mobilidade",
+   "verso": "λ = k/μ. M = (kw/μw)/(ko/μo). M > 1: desfavorável (fingering). M ≤ 1: favorável."
+  },
+  {
+   "id": "res-f024",
+   "frente": "Modelo estático × dinâmico",
+   "verso": "Estático: petrofísica + geologia. Dinâmico: + engenharia de reservatórios (previsão)."
+  },
+  {
+   "id": "res-f025",
+   "frente": "Mecanismo básico",
+   "verso": "Descompressão → expansão dos fluidos + contração dos poros → deslocamento."
+  },
+  {
+   "id": "res-f026",
+   "frente": "Net-pay",
+   "verso": "Espessura da camada com hidrocarbonetos."
+  },
+  {
+   "id": "res-f027",
+   "frente": "Gás em solução",
+   "verso": "P cai rápido · RGO baixa → alta → cai · FR baixo · elevação artificial cedo · pouca água · candidato à secundária."
+  },
+  {
+   "id": "res-f028",
+   "frente": "Capa de gás",
+   "verso": "P cai devagar · RGO cresce devagar com picos nos poços altos · FR alto · surgente por mais tempo · pouca água · contato G/O desce."
+  },
+  {
+   "id": "res-f029",
+   "frente": "Influxo de água",
+   "verso": "P cai suave · água cresce nos poços baixos · FR alto · RGO baixa · contato O/A sobe · cone de água."
+  },
+  {
+   "id": "res-f030",
+   "frente": "Combinado",
+   "verso": "Atuação simultânea de mais de um mecanismo (ex.: capa + aquífero)."
+  },
+  {
+   "id": "res-f031",
+   "frente": "Segregação gravitacional",
+   "verso": "Forma capa secundária, retarda a RGO nos poços baixos, suaviza o declínio de pressão."
+  },
+  {
+   "id": "res-f032",
+   "frente": "Finalidade × Como (recuperação)",
+   "verso": "Finalidade: acelerar e/ou aumentar o FR. Como: injetar energia e/ou reduzir resistências viscosas e capilares."
+  },
+  {
+   "id": "res-f033",
+   "frente": "Recuperação por fase",
+   "verso": "Primária 10–15% · Secundária +15–35% (até 50%) · Avançada +5–10% (até 60%)."
+  },
+  {
+   "id": "res-f034",
+   "frente": "IOR × EOR",
+   "verso": "IOR: secundária + terciária. EOR: métodos especiais (térmicos, miscíveis, químicos, outros)."
+  },
+  {
+   "id": "res-f035",
+   "frente": "Métodos especiais",
+   "verso": "Térmicos (vapor, água quente, combustão) · Miscíveis (CO2, N2, HC) · Químicos (polímeros, surfactantes, álcalis) · Outros (microbiais, acústicos)."
+  },
+  {
+   "id": "res-f036",
+   "frente": "Injeção em malha",
+   "verso": "Para reservatórios extensos, pouco inclinados e finos. Five-spot: linhas esconsas com d = a/2."
+  },
+  {
+   "id": "res-f037",
+   "frente": "Chave da recuperação especial",
+   "verso": "Determinar a saturação de óleo residual após a injeção de água (residual × não varrido)."
+  },
+  {
+   "id": "res-f038",
+   "frente": "Recomendações para EOR",
+   "verso": "Estudo geológico → laboratório → simulação → projeto-piloto."
+  },
+  {
+   "id": "res-f039",
+   "frente": "SAGD",
+   "verso": "Dois poços horizontais: injetor de vapor em cima, produtor embaixo; o óleo escorre por gravidade."
+  },
+  {
+   "id": "res-f040",
+   "frente": "THAI",
+   "verso": "Combustão in situ: poço vertical injeta ar e poço horizontal produz (do dedão ao calcanhar)."
+  },
+  {
+   "id": "res-f041",
+   "frente": "Surfactante + polímero",
+   "verso": "O banco micelar reduz a tensão interfacial; o banco de polímero atrás controla a mobilidade."
+  },
+  {
+   "id": "res-f042",
+   "frente": "MEOR",
+   "verso": "Bactérias + nutrientes → biopolímero in situ que bloqueia canais e desvia a água."
+  },
+  {
+   "id": "res-f043",
+   "frente": "Reserva × Recurso",
+   "verso": "Reserva: volume recuperável (técnico-econômico). Recurso: volume presente, sem considerar acesso ou custo."
+  },
+  {
+   "id": "res-f044",
+   "frente": "Definição de reserva (data)",
+   "verso": "Soma da produção futura a partir de uma data até o limite econômico ou contratual."
+  },
+  {
+   "id": "res-f045",
+   "frente": "Maiores reservas (2020)",
+   "verso": "Venezuela ~304 e Arábia Saudita ~298 bilhões de bbl. Brasil: 16º (~11,9)."
+  }
+ ]
+}

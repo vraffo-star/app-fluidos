@@ -1,0 +1,2007 @@
+{
+ "id": "ep",
+ "perguntas": [
+  {
+   "id": "ep-0001",
+   "dificuldade": 1,
+   "tema": "Cadeia do petróleo",
+   "enunciado": "A indústria do petróleo engloba quais processos?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Apenas refino e petroquímica",
+    "Exploração, extração, refino, transporte e comercialização de produtos de petróleo",
+    "Apenas a venda de combustíveis nos postos",
+    "Apenas exploração e perfuração",
+    "Somente transporte por navios e dutos"
+   ],
+   "correta": 1,
+   "explicacao": "A indústria do petróleo é global e abrange desde a busca (exploração) e a extração até o refino, o transporte (navios petroleiros, dutos) e a comercialização dos produtos."
+  },
+  {
+   "id": "ep-0002",
+   "dificuldade": 1,
+   "tema": "Cadeia do petróleo",
+   "enunciado": "Na divisão upstream–midstream–downstream, o refino e o marketing de derivados ficam em qual segmento?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Produção",
+    "Downstream",
+    "Exploração",
+    "Upstream",
+    "Midstream"
+   ],
+   "correta": 1,
+   "explicacao": "Upstream = exploração e produção. Midstream = processamento e transporte. Downstream = refino, distribuição e marketing."
+  },
+  {
+   "id": "ep-0003",
+   "dificuldade": 2,
+   "tema": "Cadeia do petróleo",
+   "enunciado": "Qual sequência representa corretamente as etapas do upstream?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Produção → delimitação → interpretação → sondagem exploratória → levantamento",
+    "Interpretação → refino → delimitação → marketing",
+    "Desenvolvimento → refino → transporte → produção",
+    "Sondagem exploratória → levantamento → produção → delimitação → interpretação",
+    "Levantamento e processamento de dados → interpretação → sondagem exploratória → delimitação → estudos de reservatório → desenvolvimento → produção"
+   ],
+   "correta": 4,
+   "explicacao": "Primeiro se adquirem e processam dados, depois se interpretam, perfura-se o poço exploratório, delimita-se o campo, estudam-se os reservatórios e só então se desenvolve e produz."
+  },
+  {
+   "id": "ep-0004",
+   "dificuldade": 1,
+   "tema": "Cadeia do petróleo",
+   "enunciado": "Qual etapa ocorre após a delimitação de um campo descoberto?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Comercialização",
+    "Refino",
+    "Desenvolvimento da produção",
+    "Abandono",
+    "Transporte"
+   ],
+   "correta": 2,
+   "explicacao": "Depois de descobrir e delimitar o campo vêm os estudos de reservatório e o desenvolvimento da produção (poços, plataformas, instalações)."
+  },
+  {
+   "id": "ep-0005",
+   "dificuldade": 1,
+   "tema": "Vida de um campo",
+   "enunciado": "Durante a vida produtiva de um campo, a fase de maturidade caracteriza-se normalmente por:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Declínio natural da produção",
+    "Inexistência de investimentos",
+    "Abandono imediato do campo",
+    "Crescimento contínuo da produção",
+    "Ausência de água produzida"
+   ],
+   "correta": 0,
+   "explicacao": "Depois do pico, a pressão do reservatório cai e a produção declina naturalmente. Novos investimentos (recuperação, novas tecnologias) podem suavizar esse declínio."
+  },
+  {
+   "id": "ep-0006",
+   "dificuldade": 2,
+   "tema": "Vida de um campo",
+   "enunciado": "Na curva de vida de um campo, em qual fase se concentram os maiores investimentos?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Abandono",
+    "Maturidade",
+    "Desenvolvimento, antes do início da produção",
+    "Logo após o pico de produção",
+    "Exploração apenas"
+   ],
+   "correta": 2,
+   "explicacao": "No desenvolvimento se constroem poços, plataformas, dutos e plantas: é quando o investimento é máximo e ainda não há receita de produção."
+  },
+  {
+   "id": "ep-0007",
+   "dificuldade": 3,
+   "tema": "Vida de um campo",
+   "enunciado": "Na curva de vida de um campo, o que define o momento do abandono?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Quando o reservatório fica sem nenhuma gota de óleo",
+    "Quando a produção atinge o pico",
+    "Quando termina a fase de desenvolvimento",
+    "Quando a produção cai abaixo do limite econômico, ou seja, quando a receita deixa de cobrir os custos",
+    "Quando se perfura o primeiro poço injetor"
+   ],
+   "correta": 3,
+   "explicacao": "O campo é abandonado quando produzir deixa de ser econômico (limite econômico), mesmo que ainda haja muito óleo no reservatório. Investimentos em novas tecnologias podem estender essa vida útil."
+  },
+  {
+   "id": "ep-0008",
+   "dificuldade": 2,
+   "tema": "Vida de um campo",
+   "enunciado": "Novos investimentos na fase de maturidade, como recuperação melhorada, podem estender a vida útil de um campo.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "Verdadeiro. A curva potencial com novos investimentos mostra um declínio mais suave, adiando o momento em que a produção cruza o limite econômico."
+  },
+  {
+   "id": "ep-0009",
+   "dificuldade": 1,
+   "tema": "História do petróleo",
+   "enunciado": "Desde quando há registros do uso do petróleo pela humanidade?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Cerca de 4000 a.C., graças a exsudações e afloramentos no Oriente Médio",
+    "Desde o ano 1000 d.C., na Europa",
+    "Somente a partir do século XX",
+    "Apenas a partir de 1859",
+    "Desde a Revolução Industrial, no século XVIII"
+   ],
+   "correta": 0,
+   "explicacao": "Mesopotâmios, egípcios, persas e povos da Judeia já usavam betume em estradas, construções, iluminação, aquecimento, como lubrificante e até como laxativo."
+  },
+  {
+   "id": "ep-0010",
+   "dificuldade": 2,
+   "tema": "História do petróleo",
+   "enunciado": "Segundo o curso, qual povo já perfurava poços usando hastes de bambu, por volta de 347 a.C.?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Os fenícios",
+    "Os romanos",
+    "Os incas",
+    "Os chineses",
+    "Os egípcios"
+   ],
+   "correta": 3,
+   "explicacao": "Os chineses perfuravam poços com hastes de bambu já em 347 a.C., no mínimo."
+  },
+  {
+   "id": "ep-0011",
+   "dificuldade": 2,
+   "tema": "História do petróleo",
+   "enunciado": "Em 1850, na Escócia, James Young ficou conhecido por:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Descobrir o pré-sal do Mar do Norte",
+    "Inventar a sísmica de reflexão",
+    "Perfurar o primeiro poço comercial do mundo",
+    "Descobrir que o petróleo podia ser extraído do carvão e do xisto betuminoso e criar processos de refinação",
+    "Fundar a primeira companhia estatal de petróleo"
+   ],
+   "correta": 3,
+   "explicacao": "Young desenvolveu processos de refino a partir de carvão e xisto, marco da moderna indústria do petróleo em meados do século XIX."
+  },
+  {
+   "id": "ep-0012",
+   "dificuldade": 1,
+   "tema": "História do petróleo",
+   "enunciado": "O poço de Edwin Drake, em 1859, na Pensilvânia, tinha aproximadamente:",
+   "tipo": "multipla",
+   "alternativas": [
+    "210 metros de profundidade e 0,5 m³/dia",
+    "2.100 metros de profundidade e 200 m³/dia",
+    "488 metros de profundidade e 0,5 m³/dia",
+    "21 metros de profundidade e produção de 2 m³/dia",
+    "7.000 metros de profundidade, no pré-sal"
+   ],
+   "correta": 3,
+   "explicacao": "Drake perfurou em agosto de 1859 um poço de 21 m que produziu cerca de 2 m³/dia de óleo — o início da indústria moderna."
+  },
+  {
+   "id": "ep-0013",
+   "dificuldade": 2,
+   "tema": "História no Brasil",
+   "enunciado": "Qual foi o poço descobridor de petróleo no Brasil, em 21 de janeiro de 1939?",
+   "tipo": "multipla",
+   "alternativas": [
+    "O primeiro poço de Candeias (BA)",
+    "DNPM-163, em Lobato (BA)",
+    "O poço de Miranga (BA)",
+    "O poço de Bofete (SP), de Eugênio Ferreira Camargo",
+    "O poço 1-RJS-652, na Bacia de Santos"
+   ],
+   "correta": 1,
+   "explicacao": "O DNPM-163, em Lobato (BA), encontrou petróleo a 210 m. Era antieconômico, mas foi fundamental para o desenvolvimento das atividades no país."
+  },
+  {
+   "id": "ep-0014",
+   "dificuldade": 2,
+   "tema": "História no Brasil",
+   "enunciado": "Onde e quando foi descoberto o primeiro campo comercial de petróleo do Brasil?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Na Bacia de Campos, em 1974",
+    "Em Mossoró (RN), em 1953",
+    "Em Bofete (SP), em 1897",
+    "Em Lobato (BA), em 1939",
+    "Em Candeias (BA), em 1941"
+   ],
+   "correta": 4,
+   "explicacao": "Lobato (1939) foi a primeira descoberta, mas antieconômica. O primeiro campo comercial foi Candeias (BA), em 1941."
+  },
+  {
+   "id": "ep-0015",
+   "dificuldade": 2,
+   "tema": "História no Brasil",
+   "enunciado": "O primeiro poço perfurado no Brasil com o objetivo de encontrar petróleo foi:",
+   "tipo": "multipla",
+   "alternativas": [
+    "O DNPM-163, em Lobato, em 1939",
+    "O de Drake, em Titusville",
+    "Um poço da Petrobras em 1953",
+    "O de Candeias, em 1941",
+    "O de Bofete (SP), em 1897, com 488 m e produção relatada de 0,5 m³ de óleo"
+   ],
+   "correta": 4,
+   "explicacao": "Eugênio Ferreira Camargo perfurou em Bofete (SP), em 1897, um poço de 488 m. Antes disso, em 1858, houve apenas uma concessão para extrair mineral betuminoso na Bahia."
+  },
+  {
+   "id": "ep-0016",
+   "dificuldade": 2,
+   "tema": "História no Brasil",
+   "enunciado": "Em 1858, o Decreto nº 2.266, assinado pelo Marquês de Olinda, concedeu a José Barros Pimentel o direito de:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Perfurar poços no pré-sal",
+    "Explorar petróleo em Bofete (SP)",
+    "Extrair mineral betuminoso para fabricar querosene às margens do Rio Marau, na Bahia",
+    "Criar a Petrobras",
+    "Importar petróleo dos EUA"
+   ],
+   "correta": 2,
+   "explicacao": "É considerado o início da história do petróleo no Brasil: uma concessão para extração de mineral betuminoso, na então província da Bahia."
+  },
+  {
+   "id": "ep-0017",
+   "dificuldade": 1,
+   "tema": "História no Brasil",
+   "enunciado": "Em que ano foi criada a Petrobras, instituindo o monopólio estatal do petróleo?",
+   "tipo": "multipla",
+   "alternativas": [
+    "1919",
+    "1941",
+    "1939",
+    "1953",
+    "1997"
+   ],
+   "correta": 3,
+   "explicacao": "Em 1953, no governo Vargas, foi criada a Petrobras com o monopólio estatal, dando partida decisiva às pesquisas do petróleo brasileiro."
+  },
+  {
+   "id": "ep-0018",
+   "dificuldade": 3,
+   "tema": "História do petróleo",
+   "enunciado": "Segundo o curso, qual fator dos anos 70 impulsionou avanços nos métodos sísmicos e na recuperação avançada?",
+   "tipo": "multipla",
+   "alternativas": [
+    "A proibição do uso de petróleo como combustível",
+    "As elevações bruscas de preço do petróleo e o fato de as reservas dos EUA estarem “esgotadas”",
+    "A descoberta do pré-sal brasileiro",
+    "A abundância de petróleo barato no Oriente Médio",
+    "A queda de 60% nos custos de exploração"
+   ],
+   "correta": 1,
+   "explicacao": "Nos anos 70 houve choques de preço, grandes descobertas no Mar do Norte e no México e reservas americanas em declínio, o que estimulou tecnologia sísmica e recuperação avançada."
+  },
+  {
+   "id": "ep-0019",
+   "dificuldade": 3,
+   "tema": "História do petróleo",
+   "enunciado": "O que caracterizou as décadas de 80 e 90, segundo a linha do tempo apresentada?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Proibição de exportação de petróleo",
+    "Abandono da exploração offshore",
+    "Fim do uso de sísmica 3D",
+    "Descoberta do primeiro campo comercial brasileiro",
+    "Avanços tecnológicos que reduziram custos, com reservas maiores e custos de E&P cerca de 60% menores em 1996 em relação a 1980"
+   ],
+   "correta": 4,
+   "explicacao": "A tecnologia criou um novo ciclo econômico: em 1996 as reservas provadas eram ~60% maiores que em 1980 e os custos médios de exploração e produção tinham caído ~60%."
+  },
+  {
+   "id": "ep-0020",
+   "dificuldade": 1,
+   "tema": "Composição do petróleo",
+   "enunciado": "A palavra “petróleo” vem do latim e significa:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Fogo líquido",
+    "Óleo de animal",
+    "Água negra",
+    "Óleo de pedra (petrus = pedra; oleum = óleo)",
+    "Óleo de planta"
+   ],
+   "correta": 3,
+   "explicacao": "Petroleum = petrus (pedra) + oleum (óleo). Basicamente é uma mistura de compostos orgânicos, os hidrocarbonetos."
+  },
+  {
+   "id": "ep-0021",
+   "dificuldade": 2,
+   "tema": "Composição do petróleo",
+   "enunciado": "Pela tabela de frações apresentada, o querosene corresponde aproximadamente a qual faixa de carbonos e de ponto de ebulição?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Resíduo sólido não volátil",
+    "C12 a C18, com PE entre 150 e 250 °C",
+    "C1 a C2, com PE abaixo de 20 °C",
+    "C5 a C6, com PE entre 20 e 60 °C",
+    "C20 a C34, líquido não volátil"
+   ],
+   "correta": 1,
+   "explicacao": "Querosene: C12–C18, 150–250 °C, usado em iluminação e aviões a jato. Gás natural: C1–C2. Éter de petróleo: C5–C6. Óleo lubrificante: C20–C34."
+  },
+  {
+   "id": "ep-0022",
+   "dificuldade": 2,
+   "tema": "Composição do petróleo",
+   "enunciado": "Na tabela de frações do petróleo, qual alternativa está na ordem crescente de tamanho de molécula (número de carbonos)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Gás natural → gasolina → querosene → óleo lubrificante",
+    "Óleo lubrificante → querosene → gasolina → gás natural",
+    "Querosene → gás natural → gasolina → óleo lubrificante",
+    "Gasolina → gás natural → óleo lubrificante → querosene",
+    "Gás natural → óleo lubrificante → gasolina → querosene"
+   ],
+   "correta": 0,
+   "explicacao": "Mais carbonos = molécula maior = ponto de ebulição mais alto. Gás (C1–C4) < gasolina (C5–C10) < querosene (C12–C18) < lubrificante (C20–C34) < resíduos."
+  },
+  {
+   "id": "ep-0023",
+   "dificuldade": 3,
+   "tema": "Composição do petróleo",
+   "enunciado": "Um petróleo cujo resíduo da destilação é principalmente asfalto é classificado como:",
+   "tipo": "multipla",
+   "alternativas": [
+    "De base asfáltica",
+    "De base parafínica",
+    "Éter de petróleo",
+    "Condensado",
+    "Gás natural"
+   ],
+   "correta": 0,
+   "explicacao": "Conforme o tipo, o resíduo pode ser asfalto (base asfáltica) ou parafina (base parafínica)."
+  },
+  {
+   "id": "ep-0024",
+   "dificuldade": 1,
+   "tema": "Métodos exploratórios",
+   "enunciado": "Por que a pesquisa de petróleo é feita nas bacias sedimentares?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque o petróleo se forma no manto",
+    "Porque são as regiões mais quentes da Terra",
+    "Porque os fluidos (óleo, gás e água) ocupam os espaços vazios das rochas, e as rochas sedimentares têm esses espaços e a matéria orgânica",
+    "Porque só nelas existe ferro e níquel",
+    "Porque as rochas ígneas são mais porosas"
+   ],
+   "correta": 2,
+   "explicacao": "Todos os fluidos de subsuperfície ocupam os poros das rochas. As bacias sedimentares reúnem geradoras, reservatórios e selos."
+  },
+  {
+   "id": "ep-0025",
+   "dificuldade": 1,
+   "tema": "Métodos exploratórios",
+   "enunciado": "Qual dos métodos abaixo é considerado um método geofísico de exploração?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Perfilagem de produção",
+    "Fluoroscopia",
+    "Gravimetria",
+    "Testemunhagem lateral",
+    "Completação"
+   ],
+   "correta": 2,
+   "explicacao": "Os métodos geofísicos são sísmica, gravimetria e magnetometria. Completação, testemunhagem e fluoroscopia são atividades de poço."
+  },
+  {
+   "id": "ep-0026",
+   "dificuldade": 1,
+   "tema": "Métodos exploratórios",
+   "enunciado": "A gravimetria baseia-se na medição:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Da diferença de potencial elétrico",
+    "Do campo magnético terrestre",
+    "Da velocidade de perfuração",
+    "Das variações do campo gravitacional",
+    "Da radioatividade das rochas"
+   ],
+   "correta": 3,
+   "explicacao": "A gravimetria mede variações do campo gravitacional causadas por contrastes de densidade nos materiais de subsuperfície."
+  },
+  {
+   "id": "ep-0027",
+   "dificuldade": 1,
+   "tema": "Métodos exploratórios",
+   "enunciado": "A magnetometria é utilizada na exploração de petróleo para:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Determinar a salinidade da água produzida",
+    "Medir a pressão do reservatório",
+    "Identificar diferenças de suscetibilidade magnética das rochas",
+    "Medir diretamente a porosidade",
+    "Determinar a viscosidade do óleo"
+   ],
+   "correta": 2,
+   "explicacao": "A magnetometria mede o campo magnético e as diferenças de suscetibilidade magnética dos materiais da crosta."
+  },
+  {
+   "id": "ep-0028",
+   "dificuldade": 1,
+   "tema": "Métodos exploratórios",
+   "enunciado": "A principal vantagem da sísmica 3D em relação à 2D é:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Eliminar a necessidade de perfuração",
+    "Dispensar interpretação geológica",
+    "Representação volumétrica mais detalhada do reservatório",
+    "Menor custo operacional",
+    "Maior velocidade de aquisição"
+   ],
+   "correta": 2,
+   "explicacao": "A 3D gera um volume de dados que mostra a geometria do reservatório e das falhas em detalhe. Não elimina a perfuração nem a interpretação."
+  },
+  {
+   "id": "ep-0029",
+   "dificuldade": 2,
+   "tema": "Métodos exploratórios",
+   "enunciado": "Pelo organograma dos métodos de pesquisa, quais são os quatro grandes grupos?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Indicações diretas, métodos geofísicos, métodos geológicos e métodos geoquímicos",
+    "Sísmica, perfuração, completação e produção",
+    "Reflexão, refração, gravimetria e magnetometria",
+    "Testemunhagem, perfilagem, DST e cimentação",
+    "Upstream, midstream, downstream e petroquímica"
+   ],
+   "correta": 0,
+   "explicacao": "Os geofísicos se dividem em sísmicos (reflexão e refração) e gravimétricos/magnéticos."
+  },
+  {
+   "id": "ep-0030",
+   "dificuldade": 2,
+   "tema": "Métodos exploratórios",
+   "enunciado": "Na sísmica, o que acontece com a energia da onda quando ela encontra a interface entre duas camadas?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Toda a energia é absorvida",
+    "Toda a energia é refletida",
+    "A onda para completamente",
+    "A energia se converte em calor e não volta",
+    "Parte da energia é refletida e a maior parte é transmitida para as camadas inferiores"
+   ],
+   "correta": 4,
+   "explicacao": "Em cada interface uma pequena parte volta (reflexão) e a maior parte segue para baixo. Assim se registram reflexões de várias camadas."
+  },
+  {
+   "id": "ep-0031",
+   "dificuldade": 3,
+   "tema": "Métodos exploratórios",
+   "enunciado": "Para que ocorra a onda refratada que retorna à superfície (head wave) na sísmica de refração, qual condição é necessária?",
+   "tipo": "multipla",
+   "alternativas": [
+    "A camada inferior deve ter velocidade menor (V2 < V1)",
+    "A camada inferior deve ter velocidade maior que a superior (V2 > V1) e a onda deve incidir com um ângulo determinado (crítico)",
+    "As duas camadas devem ter a mesma velocidade",
+    "A onda deve incidir sempre na vertical",
+    "A camada inferior deve ser água"
+   ],
+   "correta": 1,
+   "explicacao": "A refração crítica só ocorre quando a velocidade aumenta com a profundidade e a onda atinge a interface no ângulo crítico. Aí ela viaja pela interface e volta à superfície."
+  },
+  {
+   "id": "ep-0032",
+   "dificuldade": 2,
+   "tema": "Métodos exploratórios",
+   "enunciado": "Na sísmica marítima, como se chamam os dispositivos que geram as ondas e os cabos com sensores puxados pelo navio?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Fluoroscópios e lupas",
+    "Hidrocanhões (air guns) e cabos com hidrofones (streamers)",
+    "Geofones e vibradores",
+    "Packers e mandris",
+    "Gravímetros e magnetômetros"
+   ],
+   "correta": 1,
+   "explicacao": "O navio sísmico dispara os hidrocanhões e reboca longos cabos com hidrofones que registram os ecos."
+  },
+  {
+   "id": "ep-0033",
+   "dificuldade": 3,
+   "tema": "Métodos exploratórios",
+   "enunciado": "Numa seção sísmica marinha aparece um refletor que imita o fundo do mar (BSR), com perda de amplitude acima dele (“blanking”). O que isso costuma indicar?",
+   "tipo": "multipla",
+   "alternativas": [
+    "A posição do embasamento cristalino",
+    "Um erro de aquisição sem significado geológico",
+    "Um domo de sal aflorando",
+    "Um reservatório de óleo pesado no pré-sal",
+    "A base da zona de estabilidade de hidratos de gás, com possível gás livre abaixo"
+   ],
+   "correta": 4,
+   "explicacao": "O BSR (Bottom Simulating Reflector) marca a base dos hidratos: acima há hidrato (que reduz a amplitude) e abaixo pode haver gás livre trapeado."
+  },
+  {
+   "id": "ep-0034",
+   "dificuldade": 2,
+   "tema": "Métodos exploratórios",
+   "enunciado": "Qual é o produto final do tratamento (processamento) dos dados sísmicos usado pelos intérpretes?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Curvas de IPR e TPR",
+    "Seções e volumes sísmicos em que se mapeiam horizontes, falhas e alvos",
+    "Testemunhos serrados longitudinalmente",
+    "Perfis de cimentação",
+    "Amostras de calha descritas na lupa"
+   ],
+   "correta": 1,
+   "explicacao": "Os dados brutos passam por várias etapas até virar seções/cubos onde se identificam horizontes (base do Terciário, do Cretáceo, etc.), falhas e alvos para perfuração."
+  },
+  {
+   "id": "ep-0035",
+   "dificuldade": 2,
+   "tema": "Métodos exploratórios",
+   "enunciado": "Aerofotogrametria e fotogeologia fazem parte de qual grupo de métodos exploratórios?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Métodos de completação",
+    "Métodos potenciais",
+    "Métodos sísmicos",
+    "Métodos de elevação artificial",
+    "Métodos geológicos (geologia de superfície)"
+   ],
+   "correta": 4,
+   "explicacao": "Métodos geológicos incluem geologia de superfície, mapeamento de campo, aerofotogrametria e fotogeologia, além de estudos topográficos e de solo."
+  },
+  {
+   "id": "ep-0036",
+   "dificuldade": 1,
+   "tema": "Métodos exploratórios",
+   "enunciado": "A sísmica de reflexão registra as ondas refletidas em interfaces rochosas.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "Verdadeiro. Já a sísmica de refração registra ondas refratadas nos contatos litológicos que voltam à superfície por incidirem num ângulo determinado."
+  },
+  {
+   "id": "ep-0037",
+   "dificuldade": 2,
+   "tema": "Bacias brasileiras",
+   "enunciado": "Pelos dados apresentados, como se distribui aproximadamente a área sedimentar brasileira?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Cerca de 6,4 milhões de km², todos no mar",
+    "Cerca de 1,5 milhão de km² no total, todo no mar",
+    "Cerca de 64 milhões de km²",
+    "Cerca de 6,4 milhões de km² no total, dos quais ~4,9 em terra e ~1,5 no mar",
+    "Cerca de 0,78 milhão de km² em terra e 4,9 no mar"
+   ],
+   "correta": 3,
+   "explicacao": "Total ~6,4 MM km²: terra ~4,9 MM km²; mar ~1,5 MM km² (0,78 até 400 m de lâmina d'água e 0,74 além de 400 m)."
+  },
+  {
+   "id": "ep-0038",
+   "dificuldade": 1,
+   "tema": "Exploração",
+   "enunciado": "O principal objetivo da perfuração exploratória é:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Aumentar a recuperação do campo",
+    "Aumentar a pressão do reservatório",
+    "Reduzir a viscosidade do óleo",
+    "Confirmar a existência de hidrocarbonetos",
+    "Melhorar a qualidade do petróleo"
+   ],
+   "correta": 3,
+   "explicacao": "Geologia e geofísica indicam onde pode haver petróleo; só o poço exploratório confirma."
+  },
+  {
+   "id": "ep-0039",
+   "dificuldade": 1,
+   "tema": "Exploração",
+   "enunciado": "Em termos exploratórios, uma descoberta comercial ocorre quando:",
+   "tipo": "multipla",
+   "alternativas": [
+    "A profundidade é inferior a 1.000 m",
+    "Existe qualquer indício de óleo",
+    "A produção é economicamente viável",
+    "Existe apenas gás natural",
+    "A sísmica indica uma armadilha"
+   ],
+   "correta": 2,
+   "explicacao": "Indício não é sinônimo de descoberta comercial: ela exige volume e produtividade que paguem o desenvolvimento."
+  },
+  {
+   "id": "ep-0040",
+   "dificuldade": 3,
+   "tema": "Exploração",
+   "enunciado": "Durante a perfuração de um poço exploratório não se observou nenhum indício de hidrocarboneto. O que se pode concluir?",
+   "tipo": "multipla",
+   "alternativas": [
+    "A rocha geradora não existe na bacia",
+    "O detector de gás estava com defeito, obrigatoriamente",
+    "Não se pode afirmar que o poço não tenha zonas com HC: indícios podem passar despercebidos, e os perfis e testes ainda podem revelá-los",
+    "O poço certamente é seco e deve ser abandonado imediatamente",
+    "O reservatório tem óleo certamente, pois não houve indício de água"
+   ],
+   "correta": 2,
+   "explicacao": "Foi a pergunta provocativa da aula: a ausência de indícios na calha não prova a ausência de HC (lavagem pelo fluido, gás não detectado, amostragem espaçada). E o contrário também vale: ter indícios não garante que o poço será produtor."
+  },
+  {
+   "id": "ep-0041",
+   "dificuldade": 2,
+   "tema": "Exploração",
+   "enunciado": "Se forem constatados indícios de hidrocarbonetos durante a perfuração, o poço certamente será produtor.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 1,
+   "explicacao": "Falso. Indícios mostram que houve petróleo, mas a acumulação pode ser pequena, residual ou com baixa permeabilidade. É preciso avaliar com perfis e testes."
+  },
+  {
+   "id": "ep-0042",
+   "dificuldade": 2,
+   "tema": "Concessão",
+   "enunciado": "No fluxo dos períodos exploratórios (regime de concessão), o que vem após a avaliação de uma descoberta, quando ela é viável?",
+   "tipo": "multipla",
+   "alternativas": [
+    "A declaração de comercialidade e a entrada na fase de produção",
+    "A apresentação da garantia financeira do 1º período",
+    "A devolução imediata de toda a área",
+    "A assinatura do contrato de concessão",
+    "O início do 1º período exploratório"
+   ],
+   "correta": 0,
+   "explicacao": "Fluxo: contrato → períodos exploratórios → perfuração → notificação de descoberta → avaliação → declaração de comercialidade (sim) → fase de produção. Se não for comercial, a área é devolvida."
+  },
+  {
+   "id": "ep-0043",
+   "dificuldade": 3,
+   "tema": "Concessão",
+   "enunciado": "No fluxo genérico dos períodos exploratórios, o que acontece se a concessionária decide NÃO ingressar no 2º período exploratório?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Apresenta notificação e plano de devolução da área e recebe de volta a garantia financeira do 1º período",
+    "Declara comercialidade sem perfurar",
+    "Passa automaticamente para a fase de produção",
+    "Mantém a área indefinidamente sem atividades",
+    "É obrigada a perfurar dois poços adicionais"
+   ],
+   "correta": 0,
+   "explicacao": "Sem ingresso no 2º período, a área é devolvida (notificação + plano de devolução) e a garantia financeira do 1º período é devolvida. Ingressando, apresenta nova garantia e tem perfuração obrigatória de um poço."
+  },
+  {
+   "id": "ep-0044",
+   "dificuldade": 1,
+   "tema": "Acompanhamento geológico",
+   "enunciado": "O que são amostras de calha?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Amostras de fluido coletadas por testador a cabo",
+    "Cilindros contínuos de rocha cortados por uma coroa",
+    "Pedaços de cimento retirados do revestimento",
+    "Fragmentos de rocha resultantes da ação da broca, trazidos à superfície pelo fluido de perfuração",
+    "Amostras de óleo coletadas no separador"
+   ],
+   "correta": 3,
+   "explicacao": "Calha = cascalho. A broca tritura a rocha e o fluido de perfuração traz os fragmentos até as peneiras, onde são coletados."
+  },
+  {
+   "id": "ep-0045",
+   "dificuldade": 2,
+   "tema": "Acompanhamento geológico",
+   "enunciado": "Do que depende o intervalo de coleta das amostras de calha (3, 6, 9 ou 18 m)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Da cor do fluido de perfuração",
+    "Do preço do petróleo",
+    "Do diâmetro do revestimento",
+    "Do tipo de sonda (terrestre ou marítima) apenas",
+    "Da finalidade do poço"
+   ],
+   "correta": 4,
+   "explicacao": "Poços exploratórios, em que se quer mais detalhe, têm coleta mais frequente; em poços de desenvolvimento o intervalo pode ser maior."
+  },
+  {
+   "id": "ep-0046",
+   "dificuldade": 1,
+   "tema": "Acompanhamento geológico",
+   "enunciado": "Qual equipamento é usado para descrever as amostras de calha?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Hidrofone",
+    "Packer",
+    "Gravímetro",
+    "Lupa binocular",
+    "Turbocompressor"
+   ],
+   "correta": 3,
+   "explicacao": "A descrição é feita em lupa binocular e registrada em formulários ou programa específico (como o Exata), formando o Perfil de Acompanhamento Geológico (PAG)."
+  },
+  {
+   "id": "ep-0047",
+   "dificuldade": 2,
+   "tema": "Acompanhamento geológico",
+   "enunciado": "Quais das características abaixo são observadas na descrição das amostras de calha?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Apenas a cor da amostra",
+    "Pressão de poros e temperatura",
+    "Viscosidade e densidade do óleo",
+    "Tipo de rocha e percentual, cor, granulometria, arredondamento, seleção, composição, matriz, cimento, porosidade e indícios de HC",
+    "Apenas o teor de matéria orgânica"
+   ],
+   "correta": 3,
+   "explicacao": "O geólogo descreve a rocha de forma completa e procura indícios de hidrocarbonetos (fluorescência, corte e mancha)."
+  },
+  {
+   "id": "ep-0048",
+   "dificuldade": 1,
+   "tema": "Acompanhamento geológico",
+   "enunciado": "O detector de gás utilizado no acompanhamento geológico auxilia principalmente na:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Medição da pressão hidrostática",
+    "Medição da densidade da rocha",
+    "Identificação de hidrocarbonetos gasosos",
+    "Análise granulométrica",
+    "Determinação da porosidade"
+   ],
+   "correta": 2,
+   "explicacao": "O detector de gás identifica gases leves e totais no fluido que retorna do poço."
+  },
+  {
+   "id": "ep-0049",
+   "dificuldade": 3,
+   "tema": "Acompanhamento geológico",
+   "enunciado": "Além de identificar hidrocarbonetos, por que o detector de gás é importante para a segurança da sonda?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque controla a rotação da broca",
+    "Porque mede a qualidade da cimentação",
+    "Porque substitui o BOP",
+    "Porque mede a temperatura do separador",
+    "Porque ajuda a prevenir kicks e blowouts, ao mostrar a entrada de gás da formação no poço"
+   ],
+   "correta": 4,
+   "explicacao": "Aumentos de gás na lama podem indicar influxo da formação. Detectá-los cedo permite agir antes de um kick virar blowout. Também detecta HC que não fluorescem sob UV."
+  },
+  {
+   "id": "ep-0050",
+   "dificuldade": 2,
+   "tema": "Acompanhamento geológico",
+   "enunciado": "Uma mancha de óleo com aspecto preto e viscoso nas amostras indica:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Gás condensado",
+    "Óleo morto",
+    "Água de formação",
+    "Contaminação por cimento",
+    "Óleo de boa qualidade"
+   ],
+   "correta": 1,
+   "explicacao": "Mancha preta e viscosa = óleo morto. Mancha castanho-clara indica óleo de boa qualidade."
+  },
+  {
+   "id": "ep-0051",
+   "dificuldade": 2,
+   "tema": "Acompanhamento geológico",
+   "enunciado": "O que é a fluorescência observada no fluoroscópio?",
+   "tipo": "multipla",
+   "alternativas": [
+    "A medida da radioatividade natural",
+    "A emissão de ondas eletromagnéticas por algumas substâncias (como hidrocarbonetos) quando submetidas à luz ultravioleta",
+    "A dissolução da rocha pela lama",
+    "A queima do gás no flare",
+    "A reação do óleo com ácido clorídrico"
+   ],
+   "correta": 1,
+   "explicacao": "Sob luz ultravioleta, hidrocarbonetos emitem luz visível (fluorescem), o que ajuda a detectar indícios nas amostras."
+  },
+  {
+   "id": "ep-0052",
+   "dificuldade": 2,
+   "tema": "Acompanhamento geológico",
+   "enunciado": "O “corte” é a disseminação do hidrocarboneto dos poros da rocha quando em contato com:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Água destilada",
+    "Ácido clorídrico concentrado",
+    "Fluido de perfuração base água",
+    "Um solvente orgânico, como o tricloroetano",
+    "Luz infravermelha"
+   ],
+   "correta": 3,
+   "explicacao": "Pinga-se o solvente na amostra e observa-se a saída do HC. O corte é classificado pela rapidez (imediato, moderado, provocado) e pela forma (radial ou aureolar)."
+  },
+  {
+   "id": "ep-0053",
+   "dificuldade": 3,
+   "tema": "Acompanhamento geológico",
+   "enunciado": "Sobre a classificação do corte em amostras de calha, analise:",
+   "tipo": "combinacao",
+   "afirmativas": [
+    "I. Quanto à rapidez, pode ser imediato, moderado ou provocado.",
+    "II. Quanto à forma, pode ser radial ou aureolar.",
+    "III. O corte é feito com água para não contaminar a amostra.",
+    "IV. O corte aureolar está associado a óleo morto."
+   ],
+   "alternativas": [
+    "Apenas I e II",
+    "Apenas I, II e IV",
+    "Apenas II e III",
+    "Apenas III e IV",
+    "I, II, III e IV"
+   ],
+   "correta": 1,
+   "explicacao": "I, II e IV corretas. III está errada: o corte usa solvente orgânico (tricloroetano), não água."
+  },
+  {
+   "id": "ep-0054",
+   "dificuldade": 2,
+   "tema": "Acompanhamento geológico",
+   "enunciado": "Quais são as principais atividades do acompanhamento geológico de poço?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Interpretar a sísmica 3D e definir prospectos",
+    "Descrever calha e testemunhos, identificar indícios de HC, confeccionar o PAG e fazer correlação",
+    "Calcular o IP e a curva de IPR",
+    "Projetar a coluna de produção e instalar a ANM",
+    "Operar o turbocompressor e o flare"
+   ],
+   "correta": 1,
+   "explicacao": "O geólogo de poço descreve amostras, procura indícios (calha, testemunho, detector de gás, fluido), monta o PAG e correlaciona com outros poços."
+  },
+  {
+   "id": "ep-0055",
+   "dificuldade": 2,
+   "tema": "Testemunhagem",
+   "enunciado": "Qual a diferença entre testemunho e amostra lateral, segundo o curso?",
+   "tipo": "multipla",
+   "alternativas": [
+    "A amostra lateral é contínua e o testemunho é pontual",
+    "Os dois são obtidos por canhoneio",
+    "O testemunho é obtido durante a perfuração, em qualquer metragem; a amostra lateral é obtida depois, em zonas pré-selecionadas por perfis, com cerca de 2\" × 1\"",
+    "O testemunho é obtido após os perfis e a amostra lateral durante a perfuração",
+    "O testemunho é feito só em poços de produção"
+   ],
+   "correta": 2,
+   "explicacao": "Testemunho = seção contínua da rocha durante a perfuração. Amostra lateral = pequena (≈5 cm × 2,5 cm), da parede do poço, em pontos escolhidos depois da perfilagem."
+  },
+  {
+   "id": "ep-0056",
+   "dificuldade": 2,
+   "tema": "Testemunhagem",
+   "enunciado": "Qual NÃO é um objetivo da testemunhagem citado no curso?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Fazer estudos estratigráficos e sedimentares",
+    "Avaliar indícios",
+    "Obter dados paleontológicos",
+    "Determinar parâmetros petrofísicos da rocha",
+    "Aumentar a vazão de produção do poço"
+   ],
+   "correta": 4,
+   "explicacao": "A testemunhagem serve para conhecer a rocha (indícios, paleontologia, estratigrafia, reservatório, petrofísica). Ela não aumenta a produção."
+  },
+  {
+   "id": "ep-0057",
+   "dificuldade": 2,
+   "tema": "Geoquímica",
+   "enunciado": "Qual é a ideia por trás do método da pirólise?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Queimar o óleo para medir sua viscosidade",
+    "Simular a migração secundária",
+    "Medir a radioatividade da matéria orgânica",
+    "Substituir milhões de anos a ~100 °C por poucos minutos a ~550 °C para simular a maturação",
+    "Medir a porosidade pelo aquecimento"
+   ],
+   "correta": 3,
+   "explicacao": "Na natureza: temperatura moderada + milhões de anos = óleo. No laboratório: 550 °C + minutos = o mesmo efeito. Tempo e temperatura se compensam."
+  },
+  {
+   "id": "ep-0058",
+   "dificuldade": 2,
+   "tema": "Geoquímica",
+   "enunciado": "Segundo o curso, qual o COT mínimo para análise e qual o COT das geradoras de maior interesse?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Mínimo de 0,01%; geradoras efetivas > 0,1%",
+    "Mínimo de 10% em qualquer rocha; geradoras efetivas > 50%",
+    "Não há mínimo; qualquer COT é suficiente",
+    "Mínimo de 1% em folhelhos e 0,5% em calcilutitos; geradoras efetivas de maior interesse têm COT > 3%",
+    "Mínimo de 3% em calcilutitos e 1% em arenitos"
+   ],
+   "correta": 3,
+   "explicacao": "A quantidade de matéria orgânica precisa de um mínimo para valer a análise. As geradoras efetivas de maior interesse normalmente têm COT acima de 3%."
+  },
+  {
+   "id": "ep-0059",
+   "dificuldade": 3,
+   "tema": "Geoquímica",
+   "enunciado": "A taxa de transformação (TT) é calculada como (S2o − S2r)/S2o. O que ela representa?",
+   "tipo": "multipla",
+   "alternativas": [
+    "A fração do potencial gerador original que já foi convertida em petróleo",
+    "A velocidade de migração secundária",
+    "O teor de enxofre do óleo",
+    "A porosidade efetiva da geradora",
+    "A razão entre óleo e gás produzidos"
+   ],
+   "correta": 0,
+   "explicacao": "S2o = potencial original; S2r = potencial residual. A diferença dividida pelo original mostra quanto do querogênio já se transformou em petróleo."
+  },
+  {
+   "id": "ep-0060",
+   "dificuldade": 2,
+   "tema": "Geoquímica",
+   "enunciado": "O que a pirólise Rock-Eval mede diretamente, segundo o curso?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Velocidade sísmica e densidade",
+    "Pressão de poros e gradiente de fratura",
+    "Viscosidade e grau API",
+    "Índice de hidrogênio, índice de oxigênio, potencial gerador (S2) e temperatura máxima (Tmax)",
+    "Porosidade, permeabilidade e saturação"
+   ],
+   "correta": 3,
+   "explicacao": "O Rock-Eval avalia a qualidade (IH, IO, normalmente plotados em diagramas tipo Van Krevelen) e a maturação (Tmax) da matéria orgânica."
+  },
+  {
+   "id": "ep-0061",
+   "dificuldade": 1,
+   "tema": "Sistema petrolífero",
+   "enunciado": "Uma rocha selante eficiente deve apresentar:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Intensa fraturação",
+    "Baixa permeabilidade",
+    "Elevada permeabilidade",
+    "Alta porosidade conectada",
+    "Elevada produção"
+   ],
+   "correta": 1,
+   "explicacao": "O selo precisa impedir a passagem do petróleo: baixa permeabilidade é a característica essencial."
+  },
+  {
+   "id": "ep-0062",
+   "dificuldade": 2,
+   "tema": "Sistema petrolífero",
+   "enunciado": "No esquema de geoquímica do petróleo, qual rocha conduz o petróleo da geradora até a armadilha?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Rocha selante",
+    "Rocha carreadora",
+    "Rocha capeadora",
+    "Rocha geradora",
+    "Embasamento"
+   ],
+   "correta": 1,
+   "explicacao": "Na migração secundária o petróleo se move por camadas permeáveis, as rochas carreadoras, até ser retido na armadilha sob o selo."
+  },
+  {
+   "id": "ep-0063",
+   "dificuldade": 1,
+   "tema": "Sondas e plataformas",
+   "enunciado": "Qual unidade de perfuração marítima é apoiada no fundo do mar por pernas que se elevam e opera em lâminas d'água de até cerca de 120 m?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Sonda terrestre",
+    "FPSO",
+    "Plataforma auto-elevável (PA)",
+    "Navio-sonda (NS)",
+    "Sonda semissubmersível (SS)"
+   ],
+   "correta": 2,
+   "explicacao": "A auto-elevável apoia as pernas no fundo e eleva o casco acima das ondas, formando uma plataforma fixa não afetada pelo tempo. É de baixo custo e limitada a lâminas d'água rasas (~120 m)."
+  },
+  {
+   "id": "ep-0064",
+   "dificuldade": 2,
+   "tema": "Sondas e plataformas",
+   "enunciado": "Sobre a plataforma fixa com sonda modulada (SM), é correto afirmar:",
+   "tipo": "multipla",
+   "alternativas": [
+    "É a menos estável de todas as unidades",
+    "Precisa obrigatoriamente de compensador de movimentos",
+    "Tem propulsão própria e grande capacidade de armazenagem",
+    "Opera em águas rasas (~200 m), com a jaqueta cravada em estacas no fundo e módulos montados sobre ela, sem necessidade de compensador de movimentos",
+    "Opera em águas ultraprofundas com posicionamento dinâmico"
+   ],
+   "correta": 3,
+   "explicacao": "A plataforma fixa não se mexe com as ondas: a jaqueta é encaixada em estacas no fundo e os módulos ficam em cima. Os poços podem ser perfurados antes ou depois da jaqueta."
+  },
+  {
+   "id": "ep-0065",
+   "dificuldade": 2,
+   "tema": "Sondas e plataformas",
+   "enunciado": "Qual unidade é estável o suficiente para trabalhar em mar e tempo mais severos que os navios, pode ser ancorada ou usar posicionamento dinâmico e precisa de compensador de movimentos?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Plataforma fixa (SM)",
+    "Sonda terrestre",
+    "Sonda semissubmersível (SS)",
+    "Plataforma de concreto por gravidade",
+    "Plataforma auto-elevável (PA)"
+   ],
+   "correta": 2,
+   "explicacao": "A semissubmersível flutua sobre colunas e flutuadores submersos, o que a torna mais estável que um navio. Como flutua, precisa de compensador de movimentos."
+  },
+  {
+   "id": "ep-0066",
+   "dificuldade": 2,
+   "tema": "Sondas e plataformas",
+   "enunciado": "Qual característica é própria do navio-sonda (NS)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Só opera em lâminas d'água de até 120 m",
+    "É montado sobre jaqueta cravada em estacas",
+    "Propulsão própria e grande capacidade de armazenagem de suprimentos, mas menor estabilidade que a semissubmersível",
+    "Não precisa de compensador de movimentos",
+    "Apoia pernas no fundo do mar"
+   ],
+   "correta": 2,
+   "explicacao": "O navio-sonda se desloca sozinho, leva muito material e pode ser ancorado ou usar DP. É menos estável que a SS e precisa de compensador de movimentos."
+  },
+  {
+   "id": "ep-0067",
+   "dificuldade": 3,
+   "tema": "Sondas e plataformas",
+   "enunciado": "Uma operadora precisa perfurar um poço exploratório em 2.500 m de lâmina d'água, longe da costa. Quais unidades são adequadas?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Plataforma fixa com jaqueta",
+    "Qualquer unidade que se apoie no fundo do mar",
+    "Plataforma auto-elevável",
+    "Navio-sonda ou semissubmersível com posicionamento dinâmico",
+    "Sonda terrestre modulada"
+   ],
+   "correta": 3,
+   "explicacao": "Em águas ultraprofundas não dá para apoiar a unidade no fundo (auto-elevável ~120 m; fixa ~200 m). São usadas unidades flutuantes — NS ou SS — normalmente com posicionamento dinâmico."
+  },
+  {
+   "id": "ep-0068",
+   "dificuldade": 2,
+   "tema": "Sondas e plataformas",
+   "enunciado": "Assinale a alternativa INCORRETA sobre as unidades de perfuração:",
+   "tipo": "incorreta",
+   "alternativas": [
+    "A plataforma auto-elevável precisa de compensador de movimentos porque flutua durante a perfuração",
+    "A semissubmersível pode ser ancorada ou ter posicionamento dinâmico",
+    "O navio-sonda tem propulsão própria",
+    "A plataforma fixa é usada em águas rasas",
+    "Semissubmersível e navio-sonda precisam de compensador de movimentos"
+   ],
+   "correta": 0,
+   "explicacao": "A auto-elevável perfura apoiada no fundo, com o casco elevado: comporta-se como plataforma fixa e não precisa de compensador."
+  },
+  {
+   "id": "ep-0069",
+   "dificuldade": 1,
+   "tema": "Perfuração e completação",
+   "enunciado": "Segundo o curso, a perfuração de um poço consiste basicamente em:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Instalar a ANM e retirar o BOP",
+    "Separar óleo, gás e água",
+    "Canhonear, estimular e produzir",
+    "Injetar gás e água no reservatório",
+    "Perfurar, revestir e cimentar"
+   ],
+   "correta": 4,
+   "explicacao": "Perfuração = abrir o poço por fases, descer revestimentos e cimentá-los. Canhoneio, estimulação e ANM pertencem à completação."
+  },
+  {
+   "id": "ep-0070",
+   "dificuldade": 3,
+   "tema": "Perfuração e completação",
+   "enunciado": "Num esquema típico de poço, qual sequência de diâmetros de fase (do topo para o fundo) faz sentido?",
+   "tipo": "multipla",
+   "alternativas": [
+    "36\" → 26\" → 17 1/2\" → 12 1/4\" → 8 1/2\"",
+    "12 1/4\" → 36\" → 8 1/2\" → 26\" → 17 1/2\"",
+    "8 1/2\" → 12 1/4\" → 17 1/2\" → 26\" → 36\"",
+    "26\" → 36\" → 12 1/4\" → 17 1/2\" → 8 1/2\"",
+    "Todas as fases com o mesmo diâmetro"
+   ],
+   "correta": 0,
+   "explicacao": "O poço é telescópico: cada fase é perfurada por dentro do revestimento anterior, com broca menor. Os revestimentos correspondentes seriam 30\", 20\", 13 3/8\", 9 5/8\" e 7\"."
+  },
+  {
+   "id": "ep-0071",
+   "dificuldade": 2,
+   "tema": "Perfuração e completação",
+   "enunciado": "Qual das operações abaixo faz parte da completação?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Perfuração da fase de 17 1/2\"",
+    "Processamento do gás no turbocompressor",
+    "Canhoneio da zona de interesse para comunicar o reservatório com o poço",
+    "Descrição das amostras de calha",
+    "Aquisição sísmica 3D"
+   ],
+   "correta": 2,
+   "explicacao": "Completação: canhoneio (ou liner rasgado), avaliação, estimulação ou redução do dano, coluna de produção, mandris, tubing hanger, DHSV, retirada do BOP e instalação da ANM."
+  },
+  {
+   "id": "ep-0072",
+   "dificuldade": 2,
+   "tema": "Perfuração e completação",
+   "enunciado": "Na sequência da completação de um poço submarino, o que acontece no final?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Instala-se o BOP e retira-se a ANM",
+    "Inicia-se a testemunhagem",
+    "Perfura-se a fase de 36\"",
+    "Retira-se o BOP e instala-se a árvore de natal molhada (ANM)",
+    "Corre-se a sísmica de refração"
+   ],
+   "correta": 3,
+   "explicacao": "O BOP é o equipamento de segurança da perfuração/completação. Concluída a instalação dos equipamentos, ele sai e entra a ANM, que controla o poço na produção."
+  },
+  {
+   "id": "ep-0073",
+   "dificuldade": 2,
+   "tema": "Perfuração e completação",
+   "enunciado": "Qual é a função da DHSV (down hole safety valve) na coluna de produção?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Medir a vazão de óleo no separador",
+    "Válvula de segurança de subsuperfície, que fecha o poço em caso de emergência",
+    "Cortar o testemunho",
+    "Isolar o intervalo no teste de formação",
+    "Injetar gás de gas lift"
+   ],
+   "correta": 1,
+   "explicacao": "A DHSV fica na coluna, abaixo do leito marinho, e fecha automaticamente o poço numa emergência — uma barreira de segurança."
+  },
+  {
+   "id": "ep-0074",
+   "dificuldade": 3,
+   "tema": "Perfuração e completação",
+   "enunciado": "“Estimulação do poço ou redução do fator de dano” aparece como etapa da completação. O que é o dano, nesse contexto?",
+   "tipo": "multipla",
+   "alternativas": [
+    "A corrosão da árvore de natal",
+    "A perda de sinal da sísmica",
+    "Um defeito no revestimento de superfície",
+    "O desgaste da broca",
+    "A redução da permeabilidade perto do poço, causada, por exemplo, pela invasão de fluidos e sólidos durante a perfuração"
+   ],
+   "correta": 4,
+   "explicacao": "A região em volta do poço pode ser danificada por filtrado e sólidos do fluido de perfuração. Estimulação (acidificação, fraturamento) e fluidos adequados reduzem esse dano — tema central para quem trabalha com fluidos."
+  },
+  {
+   "id": "ep-0075",
+   "dificuldade": 2,
+   "tema": "Perfuração e completação",
+   "enunciado": "Para que servem os poços direcionais?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Para substituir a sísmica",
+    "Para evitar a necessidade de revestimento",
+    "Para coletar amostras de calha mais limpas",
+    "Para atingir alvos não alinhados verticalmente com a sonda, como áreas sob obstáculos, vários poços a partir de uma mesma locação ou um poço de alívio de blowout",
+    "Somente para perfurar mais rápido em poços rasos"
+   ],
+   "correta": 3,
+   "explicacao": "O esquema do curso mostra direcionais para alívio de blowout, vários poços com a mesma cabeça (em terra e no mar) e alvos sob obstáculos."
+  },
+  {
+   "id": "ep-0076",
+   "dificuldade": 3,
+   "tema": "Perfuração e completação",
+   "enunciado": "Por que um poço horizontal pode produzir muito mais que um vertical no mesmo reservatório delgado?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque a pressão do reservatório aumenta na horizontal",
+    "Porque não precisa de revestimento",
+    "Porque elimina a necessidade de completação",
+    "Porque o óleo fica menos viscoso na horizontal",
+    "Porque expõe um comprimento muito maior de reservatório ao poço, aumentando a área de contato"
+   ],
+   "correta": 4,
+   "explicacao": "Num reservatório fino, um poço vertical atravessa poucos metros de rocha produtora. O horizontal navega dentro da camada por centenas de metros, aumentando a vazão."
+  },
+  {
+   "id": "ep-0077",
+   "dificuldade": 1,
+   "tema": "Recuperação e injeção",
+   "enunciado": "Qual das opções é uma forma de armazenamento geológico de CO2 citada no curso?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Liberar na atmosfera pelo flare",
+    "Injetar no separador atmosférico",
+    "Armazenar em reservatórios de óleo e gás depletados",
+    "Armazenar nos tanques de lastro do FPSO",
+    "Dissolver no óleo exportado"
+   ],
+   "correta": 2,
+   "explicacao": "As opções citadas: reservatórios depletados, uso na recuperação avançada de óleo (EOR), aquíferos salinos profundos (on e offshore) e recuperação de metano de camadas de carvão."
+  },
+  {
+   "id": "ep-0078",
+   "dificuldade": 2,
+   "tema": "Recuperação e injeção",
+   "enunciado": "Na injeção periférica de água, onde ficam os poços injetores?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Sempre fora da bacia sedimentar",
+    "Na periferia do reservatório, abaixo do contato óleo-água, empurrando o óleo em direção aos produtores no centro",
+    "No mesmo poço que os produtores",
+    "Misturados aleatoriamente com os produtores",
+    "No topo da estrutura, dentro da capa de gás"
+   ],
+   "correta": 1,
+   "explicacao": "Os injetores ficam na borda (na água) e os produtores no alto da estrutura. Ao longo do projeto a água avança e o óleo é deslocado para o centro."
+  },
+  {
+   "id": "ep-0079",
+   "dificuldade": 2,
+   "tema": "Recuperação e injeção",
+   "enunciado": "Na malha de injeção five-spot, a relação entre poços produtores e injetores (P/I) é:",
+   "tipo": "multipla",
+   "alternativas": [
+    "5",
+    "0,5",
+    "3",
+    "1",
+    "2"
+   ],
+   "correta": 3,
+   "explicacao": "Five-spot: P/I = 1. Seven-spot: P/I = 2. Nine-spot: P/I = 3."
+  },
+  {
+   "id": "ep-0080",
+   "dificuldade": 3,
+   "tema": "Recuperação e injeção",
+   "enunciado": "Ao trocar uma malha five-spot por uma nine-spot (mesmos injetores), o que acontece com a proporção de poços?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Todos os poços passam a ser injetores",
+    "Deixam de existir poços injetores",
+    "Passa a haver três injetores para cada produtor",
+    "Passa a haver três produtores para cada injetor (P/I = 3)",
+    "A proporção se mantém em 1"
+   ],
+   "correta": 3,
+   "explicacao": "Five-spot tem P/I = 1; nine-spot tem P/I = 3. A escolha da malha depende de injetividade, produtividade e geometria do reservatório."
+  },
+  {
+   "id": "ep-0081",
+   "dificuldade": 1,
+   "tema": "Elevação",
+   "enunciado": "Quando a pressão do reservatório é suficiente para levar os fluidos livremente até a superfície, diz-se que o poço produz por:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Elevação artificial",
+    "Bombeio mecânico",
+    "Elevação natural (poço surgente)",
+    "BCS",
+    "Gas lift intermitente"
+   ],
+   "correta": 2,
+   "explicacao": "Poço surgente = produz sozinho, pela energia do reservatório. Quando a pressão não basta, usa-se elevação artificial."
+  },
+  {
+   "id": "ep-0082",
+   "dificuldade": 2,
+   "tema": "Elevação",
+   "enunciado": "No caminho do fluxo reservatório–UEP, quais são as três etapas citadas?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Exploração, perfuração e completação",
+    "Refino, transporte e distribuição",
+    "Recuperação (no meio poroso), elevação (na coluna de produção) e coleta (no duto até a UEP)",
+    "Geração, migração e acumulação",
+    "Separação, tratamento e exportação"
+   ],
+   "correta": 2,
+   "explicacao": "O fluido sai do reservatório pelo meio poroso (recuperação), sobe pela coluna (elevação) e vai pelos dutos até a unidade de produção (coleta)."
+  },
+  {
+   "id": "ep-0083",
+   "dificuldade": 2,
+   "tema": "Elevação",
+   "enunciado": "Quais são os regimes de fluxo vertical multifásico apresentados no curso, do menor para o maior teor de gás?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Laminar → turbulento → transição → bolha",
+    "Bolha → golfada → transição → anular-nevoeiro",
+    "Anular-nevoeiro → transição → golfada → bolha",
+    "Estratificado → ondulado → bolha → golfada",
+    "Golfada → bolha → anular → transição"
+   ],
+   "correta": 1,
+   "explicacao": "Com mais gás, as bolhas crescem e viram golfadas (bolsões de gás), depois um regime de transição e, finalmente, o anular/nevoeiro, com gás no centro e líquido nas paredes."
+  },
+  {
+   "id": "ep-0084",
+   "dificuldade": 2,
+   "tema": "Elevação",
+   "enunciado": "O índice de produtividade (IP) de um poço é definido como:",
+   "tipo": "multipla",
+   "alternativas": [
+    "IP = q / (Pe − Pwf), a vazão dividida pela diferença entre a pressão estática e a pressão de fluxo no fundo",
+    "IP = S1/(S1+S2)",
+    "IP = VOIP × FR",
+    "IP = Pe × Pwf / q",
+    "IP = q × viscosidade"
+   ],
+   "correta": 0,
+   "explicacao": "O IP diz quanto o poço produz por unidade de diferencial de pressão (drawdown). Atenção: no curso de geologia, IP também é o índice de produção da pirólise — outro conceito."
+  },
+  {
+   "id": "ep-0085",
+   "dificuldade": 3,
+   "tema": "Elevação",
+   "enunciado": "Um poço tem pressão estática de 250 kgf/cm², pressão de fluxo no fundo de 150 kgf/cm² e produz 300 m³/d. Qual é o seu IP?",
+   "tipo": "multipla",
+   "alternativas": [
+    "100 m³/d/(kgf/cm²)",
+    "0,33 m³/d/(kgf/cm²)",
+    "1,2 m³/d/(kgf/cm²)",
+    "2 m³/d/(kgf/cm²)",
+    "3 m³/d/(kgf/cm²)"
+   ],
+   "correta": 4,
+   "explicacao": "IP = q/(Pe − Pwf) = 300/(250 − 150) = 300/100 = 3 m³/d por kgf/cm²."
+  },
+  {
+   "id": "ep-0086",
+   "dificuldade": 3,
+   "tema": "Elevação",
+   "enunciado": "Num gráfico de pressão de fundo × vazão, onde fica o ponto de operação natural de um poço?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Onde a IPR cruza o eixo das pressões",
+    "No cruzamento da curva de IPR (o que o reservatório entrega) com a curva de TPR (o que a coluna exige)",
+    "No ponto de vazão zero da IPR",
+    "No ponto máximo da TPR",
+    "Em qualquer ponto abaixo da IPR"
+   ],
+   "correta": 1,
+   "explicacao": "A IPR mostra a pressão disponível no fundo para cada vazão; a TPR mostra a pressão necessária para elevar aquela vazão. Onde se cruzam, oferta = demanda: esse é o ponto de operação."
+  },
+  {
+   "id": "ep-0087",
+   "dificuldade": 2,
+   "tema": "Elevação",
+   "enunciado": "A perda de carga total no escoamento vertical é a soma de quais parcelas?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Hidrostática (elevação), fricção (atrito viscoso) e aceleração",
+    "Temperatura, pressão e volume",
+    "Capilar, gravitacional e magnética",
+    "Densidade, viscosidade e API",
+    "Porosidade, permeabilidade e saturação"
+   ],
+   "correta": 0,
+   "explicacao": "ΔPtotal = ΔPelev + ΔPfricção + ΔPacel. Em poços, a parcela hidrostática costuma ser a maior."
+  },
+  {
+   "id": "ep-0088",
+   "dificuldade": 3,
+   "tema": "Elevação",
+   "enunciado": "Por que injetar gás na coluna de produção (gas lift) ajuda o poço a produzir?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque o gás reduz a densidade da mistura na coluna, diminuindo a parcela hidrostática da perda de carga",
+    "Porque reduz a permeabilidade da formação",
+    "Porque aumenta a viscosidade do óleo",
+    "Porque substitui a necessidade de separação na UEP",
+    "Porque aumenta a pressão estática do reservatório"
+   ],
+   "correta": 0,
+   "explicacao": "Com a coluna mais leve, a pressão necessária no fundo diminui e o reservatório consegue empurrar o fluido até a superfície. O gás entra pelas válvulas instaladas nos mandris de gas lift."
+  },
+  {
+   "id": "ep-0089",
+   "dificuldade": 2,
+   "tema": "Elevação",
+   "enunciado": "Em que componentes da coluna de produção ficam as válvulas de gas lift?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Na árvore de natal molhada apenas",
+    "Na coroa de testemunhagem",
+    "Nos mandris de gas lift",
+    "No turbocompressor",
+    "No separador de produção"
+   ],
+   "correta": 2,
+   "explicacao": "Os mandris são peças da coluna com alojamento para as válvulas de gas lift, por onde o gás injetado no anular passa para dentro da coluna."
+  },
+  {
+   "id": "ep-0090",
+   "dificuldade": 1,
+   "tema": "Elevação",
+   "enunciado": "Pelos dados apresentados (CONEPETRO, 2010), qual método de elevação tem o maior número de aplicações no Brasil?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Bombeio por cavidades progressivas (BCP)",
+    "Bombeio mecânico",
+    "Bombeio centrífugo submerso (BCS)",
+    "Poço surgente",
+    "Gas lift contínuo"
+   ],
+   "correta": 1,
+   "explicacao": "O bombeio mecânico (o famoso “cavalinho de pau”) tinha cerca de 5.849 aplicações de um total de ~8.474, principalmente em campos terrestres."
+  },
+  {
+   "id": "ep-0091",
+   "dificuldade": 2,
+   "tema": "Elevação",
+   "enunciado": "No bombeio centrífugo submerso (BCS), onde fica o motor que aciona a bomba?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Na árvore de natal, acionado por gás",
+    "No separador de produção",
+    "No fundo do poço, alimentado por um cabo elétrico de potência",
+    "Na superfície, girando hastes",
+    "Não há motor; a bomba é acionada pelo reservatório"
+   ],
+   "correta": 2,
+   "explicacao": "No BCS, motor elétrico, protetor e bomba centrífuga multiestágio descem juntos no poço, e um cabo leva energia da superfície."
+  },
+  {
+   "id": "ep-0092",
+   "dificuldade": 2,
+   "tema": "Elevação",
+   "enunciado": "No bombeio por cavidades progressivas (BCP), como a bomba de fundo é normalmente acionada?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Por injeção de gás nos mandris",
+    "Pelo movimento alternativo de um balancim",
+    "Pela pressão da água injetada",
+    "Por um motor na superfície (cabeçote de acionamento) que gira uma coluna de hastes ligada ao rotor da bomba",
+    "Por um cabo elétrico até um motor de fundo"
+   ],
+   "correta": 3,
+   "explicacao": "No BCP o motor e o cabeçote ficam na superfície e transmitem rotação pelas hastes até o rotor, que gira dentro do estator (ECP) e cria cavidades que empurram o fluido."
+  },
+  {
+   "id": "ep-0093",
+   "dificuldade": 3,
+   "tema": "Elevação",
+   "enunciado": "Assinale a alternativa INCORRETA sobre métodos de elevação:",
+   "tipo": "incorreta",
+   "alternativas": [
+    "O BCS usa bomba centrífuga de múltiplos estágios no fundo",
+    "O poço surgente produz pela própria energia do reservatório",
+    "O gas lift pode ser contínuo ou intermitente",
+    "O BCP usa rotor e estator, com acionamento na superfície por hastes",
+    "No bombeio mecânico, um motor elétrico de fundo gira um rotor dentro de um estator"
+   ],
+   "correta": 4,
+   "explicacao": "Rotor e estator são do BCP. O bombeio mecânico usa unidade de bombeio na superfície (balancim, biela/manivela) com movimento alternativo das hastes, acionando uma bomba de pistão no fundo."
+  },
+  {
+   "id": "ep-0094",
+   "dificuldade": 1,
+   "tema": "Processamento primário",
+   "enunciado": "Qual o objetivo do processamento primário de petróleo?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Separar óleo, gás e água e tratá-los para exportação, uso ou descarte",
+    "Gerar petróleo a partir do querogênio",
+    "Adquirir dados sísmicos",
+    "Transformar o óleo em gasolina e diesel",
+    "Perfurar e completar os poços"
+   ],
+   "correta": 0,
+   "explicacao": "Na UEP (como um FPSO) o fluido dos poços é separado nas três fases, que são tratadas: óleo para exportação, gás para compressão/uso e água para descarte ou reinjeção."
+  },
+  {
+   "id": "ep-0095",
+   "dificuldade": 2,
+   "tema": "Processamento primário",
+   "enunciado": "No fluxograma do FPSO, por que o petróleo que chega dos poços (~13 °C) passa por aquecedores (~90 °C) antes do separador de produção?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Para reduzir a viscosidade e facilitar a separação do óleo, gás e água (quebra de emulsões)",
+    "Para gerar mais gás por craqueamento",
+    "Para esterilizar a água produzida",
+    "Para destilar o óleo em frações",
+    "Para aumentar a densidade do óleo"
+   ],
+   "correta": 0,
+   "explicacao": "O aquecimento diminui a viscosidade e ajuda a desestabilizar emulsões água-óleo, tornando a separação mais eficiente."
+  },
+  {
+   "id": "ep-0096",
+   "dificuldade": 2,
+   "tema": "Processamento primário",
+   "enunciado": "Qual é a sequência do óleo no processamento primário mostrado no curso?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Separador atmosférico → aquecedores → turbocompressor → flare",
+    "Aquecedores → separador de produção → tratador de óleo (TO) → separador atmosférico (surge) → estocagem → exportação",
+    "Tratador de óleo → separador de produção → desidratação com glicol",
+    "Estocagem → aquecedores → hidrociclones → separador",
+    "Hidrociclones → flotador → tratador de óleo → navio"
+   ],
+   "correta": 1,
+   "explicacao": "O óleo é aquecido, separado, tratado (TO, ~60 °C), passa pelo separador atmosférico (surge), vai aos tanques e é exportado por navio aliviador (off-loading)."
+  },
+  {
+   "id": "ep-0097",
+   "dificuldade": 3,
+   "tema": "Processamento primário",
+   "enunciado": "Na planta de gás do FPSO, para que serve o compressor booster?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Para retirar a água do gás com glicol",
+    "Para queimar o gás excedente",
+    "Para levar o gás de 9 a 200 kgf/cm² para exportação",
+    "Para comprimir o gás de baixa pressão do separador atmosférico (~0,18 kgf/cm²) até a pressão do gás de alta (~9 kgf/cm²)",
+    "Para injetar água no reservatório"
+   ],
+   "correta": 3,
+   "explicacao": "O booster junta o gás de baixa ao gás de alta (9 kgf/cm²). Depois tudo passa pelo safety K.O. drum e pelo turbocompressor, que eleva a ~200 kgf/cm²."
+  },
+  {
+   "id": "ep-0098",
+   "dificuldade": 2,
+   "tema": "Processamento primário",
+   "enunciado": "Por que o gás é desidratado com glicol antes da exportação, do uso como combustível ou do gas lift?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Para aumentar o teor de água do gás",
+    "Para aquecer o óleo no tratador",
+    "Para transformar o gás em óleo",
+    "Para medir o TOG da água",
+    "Para retirar a água e evitar formação de hidratos e corrosão nas linhas"
+   ],
+   "correta": 4,
+   "explicacao": "Gás úmido a alta pressão e baixa temperatura forma hidratos e favorece corrosão. A desidratação com glicol remove a água."
+  },
+  {
+   "id": "ep-0099",
+   "dificuldade": 2,
+   "tema": "Processamento primário",
+   "enunciado": "Quais são os destinos do gás tratado no FPSO, segundo o fluxograma?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Descarte no mar",
+    "Exportação, consumo como gás combustível no FPSO e gas lift",
+    "Apenas queima no flare",
+    "Mistura com o óleo exportado",
+    "Injeção nos tanques de lastro"
+   ],
+   "correta": 1,
+   "explicacao": "Depois da desidratação, o gás vai para exportação, para a geração de energia do próprio FPSO e para o gas lift dos poços. O flare é para excesso ou paradas."
+  },
+  {
+   "id": "ep-0100",
+   "dificuldade": 1,
+   "tema": "Processamento primário",
+   "enunciado": "Para que serve o flare no FPSO?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Medir a vazão de gás exportado",
+    "Aquecer o óleo antes do separador",
+    "Gerar energia elétrica principal",
+    "Separar a água do óleo",
+    "Queimar o gás em situações de excesso ou parada do processamento"
+   ],
+   "correta": 4,
+   "explicacao": "O flare é uma medida de segurança: queima o gás que não pode ser processado (excesso, emergência, parada)."
+  },
+  {
+   "id": "ep-0101",
+   "dificuldade": 3,
+   "tema": "Processamento primário",
+   "enunciado": "A água produzida sai do separador com 300 a 1.000 ppm de óleo. Qual sequência de tratamento a deixa em condições de descarte?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Flotador → turbocompressor → flare",
+    "Aquecedores → tanque de estocagem → navio",
+    "Hidrociclones (até ~200 ppm) → flotador (até ~15 ppm) → analisador de TOG",
+    "Separador atmosférico → booster → K.O. drum",
+    "Tratador de óleo → glicol → hidrociclones"
+   ],
+   "correta": 2,
+   "explicacao": "Os hidrociclones fazem a primeira separação por centrifugação; o flotador refina até ~15 ppm. O analisador de TOG decide: abaixo de 15 ppm vai para o mar; acima, volta para tratamento."
+  },
+  {
+   "id": "ep-0102",
+   "dificuldade": 2,
+   "tema": "Processamento primário",
+   "enunciado": "Segundo o fluxograma, o que acontece com a água tratada se o analisador indicar TOG maior que 15 ppm?",
+   "tipo": "multipla",
+   "alternativas": [
+    "É enviada para o flare",
+    "É usada como gás combustível",
+    "É descartada no mar mesmo assim",
+    "É misturada ao óleo exportado",
+    "Retorna para tratamento"
+   ],
+   "correta": 4,
+   "explicacao": "Só é descartada no mar a água com TOG (teor de óleos e graxas) abaixo de 15 ppm; acima disso ela volta ao sistema de tratamento."
+  },
+  {
+   "id": "ep-0103",
+   "dificuldade": 2,
+   "tema": "Processamento primário",
+   "enunciado": "No FPSO, as utilidades incluem gerador auxiliar, tratamento e distribuição de água, compressão de ar e produtos químicos para o óleo.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "Verdadeiro. As utilidades fornecem água (potável, resfriamento, aquecimento), ar de serviço e de instrumento e produtos químicos para todo o FPSO."
+  },
+  {
+   "id": "ep-0104",
+   "dificuldade": 2,
+   "tema": "Processamento primário",
+   "enunciado": "Como o óleo estocado no FPSO é normalmente exportado?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Por caminhões-tanque",
+    "Pelos risers de injeção de gás lift",
+    "Por injeção nos poços",
+    "Pelo flare",
+    "Por off-loading para navios aliviadores"
+   ],
+   "correta": 4,
+   "explicacao": "O FPSO armazena o óleo nos tanques e o transfere periodicamente para navios aliviadores (off-loading)."
+  },
+  {
+   "id": "ep-0105",
+   "dificuldade": 3,
+   "tema": "Processamento primário",
+   "enunciado": "Sobre o processamento primário em um FPSO, analise:",
+   "tipo": "combinacao",
+   "afirmativas": [
+    "I. O separador de produção divide o fluido em gás, óleo e água.",
+    "II. O turbocompressor eleva o gás até cerca de 200 kgf/cm².",
+    "III. A água com TOG abaixo de 15 ppm pode ser descartada no mar.",
+    "IV. O tratador de óleo serve para destilar o óleo em gasolina e diesel."
+   ],
+   "alternativas": [
+    "Apenas I e II",
+    "Apenas I, II e III",
+    "Apenas II e IV",
+    "Apenas III e IV",
+    "I, II, III e IV"
+   ],
+   "correta": 1,
+   "explicacao": "I, II e III corretas. IV está errada: destilar em frações é refino (downstream). O tratador de óleo remove água e sais para enquadrar o óleo."
+  },
+  {
+   "id": "ep-0106",
+   "dificuldade": 1,
+   "tema": "Transporte e refino",
+   "enunciado": "Quais modais de transporte de petróleo e derivados foram apresentados no curso?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Dutos, navios, caminhões-tanque e vagões ferroviários",
+    "Somente aviões cargueiros",
+    "Apenas dutos",
+    "Apenas caminhões",
+    "Apenas navios"
+   ],
+   "correta": 0,
+   "explicacao": "O petróleo e os derivados são transportados por dutos (oleodutos e gasodutos), navios petroleiros, caminhões e trens."
+  },
+  {
+   "id": "ep-0107",
+   "dificuldade": 2,
+   "tema": "Transporte e refino",
+   "enunciado": "Em que princípio se baseia a destilação do petróleo na refinaria?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Na separação das frações por diferença de ponto de ebulição",
+    "Na diferença de cor das frações",
+    "Na separação magnética",
+    "Na centrifugação em hidrociclones",
+    "Na reação com ácido clorídrico"
+   ],
+   "correta": 0,
+   "explicacao": "O petróleo aquecido entra na coluna de destilação; as frações mais leves sobem mais e saem pelo topo, as mais pesadas saem embaixo."
+  },
+  {
+   "id": "ep-0108",
+   "dificuldade": 2,
+   "tema": "Transporte e refino",
+   "enunciado": "Na coluna de destilação, onde saem as frações mais leves, como gás e nafta?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Não saem, pois são queimadas",
+    "No topo da coluna, onde a temperatura é menor",
+    "Na caldeira",
+    "No meio, junto com o óleo lubrificante",
+    "No fundo, junto com os resíduos"
+   ],
+   "correta": 1,
+   "explicacao": "Topo (mais frio): gases, nafta, gasolina. Meio: querosene, diesel. Embaixo: lubrificantes, gasóleo pesado e resíduos."
+  },
+  {
+   "id": "ep-0109",
+   "dificuldade": 3,
+   "tema": "Transporte e refino",
+   "enunciado": "Por que as refinarias usam unidades de craqueamento além da destilação?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Para transformar gás em petróleo bruto",
+    "Para aumentar o teor de resíduo",
+    "Para separar a água do óleo",
+    "Para quebrar frações pesadas, de menor valor, em frações mais leves e valiosas, como gasolina e diesel",
+    "Para medir o TOG"
+   ],
+   "correta": 3,
+   "explicacao": "A destilação apenas separa. O craqueamento (e o coqueamento) quebram moléculas grandes, aumentando a produção de derivados de maior valor agregado."
+  },
+  {
+   "id": "ep-0110",
+   "dificuldade": 2,
+   "tema": "Petroquímica",
+   "enunciado": "Na cadeia petroquímica, o que é produzido na 1ª geração?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Resinas como polietileno e PVC, por polimerização",
+    "Produtos finais de plástico",
+    "Químicos básicos como eteno, propeno, butadieno e BTX, por craqueamento",
+    "Gás natural seco",
+    "Petróleo bruto"
+   ],
+   "correta": 2,
+   "explicacao": "1ª geração: craqueamento da nafta ou do gás → eteno, propeno, butadieno, BTX. 2ª geração: polimerização → PE, PP, PVC. 3ª geração: transformadores de plástico."
+  },
+  {
+   "id": "ep-0111",
+   "dificuldade": 2,
+   "tema": "Petroquímica",
+   "enunciado": "Polietileno (PE), polipropileno (PP) e PVC são produtos de qual geração da indústria petroquímica?",
+   "tipo": "multipla",
+   "alternativas": [
+    "3ª geração, por conversão",
+    "2ª geração, por polimerização",
+    "1ª geração, por craqueamento",
+    "Do upstream",
+    "Do processamento primário"
+   ],
+   "correta": 1,
+   "explicacao": "As resinas são produzidas na 2ª geração, polimerizando os monômeros (eteno, propeno, cloreto de vinila) vindos da 1ª geração."
+  },
+  {
+   "id": "ep-0112",
+   "dificuldade": 1,
+   "tema": "Petroquímica",
+   "enunciado": "Quais matérias-primas alimentam a indústria petroquímica, segundo o esquema apresentado?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Somente minério de ferro",
+    "Apenas petróleo bruto não refinado",
+    "Apenas água do mar",
+    "Nafta, líquidos de gás natural (etano, propano, butano), carvão/metanol e etanol",
+    "Apenas carvão mineral"
+   ],
+   "correta": 3,
+   "explicacao": "A matéria-prima pode vir do petróleo (nafta), do gás natural (etano, propano, butano), de carvão/metanol ou do etanol."
+  },
+  {
+   "id": "ep-0113",
+   "dificuldade": 1,
+   "tema": "Petroquímica",
+   "enunciado": "Os transformadores de plástico, que convertem resinas em produtos finais, formam a 3ª geração da cadeia petroquímica.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "Verdadeiro. A 3ª geração transforma as resinas em produtos (embalagens, peças, tubos, brinquedos) vendidos no mercado."
+  }
+ ],
+ "flashcards": [
+  {
+   "id": "ep-f001",
+   "frente": "Etapas do upstream",
+   "verso": "Levantamento e processamento → interpretação → sondagem exploratória → delimitação → estudos de reservatório → desenvolvimento → produção."
+  },
+  {
+   "id": "ep-f002",
+   "frente": "Fases da vida de um campo",
+   "verso": "Exploração → desenvolvimento (investimento máximo) → início (pico) → maturidade (declínio) → abandono (limite econômico)."
+  },
+  {
+   "id": "ep-f003",
+   "frente": "Drake, 1859",
+   "verso": "Pensilvânia (EUA), 21 m de profundidade, ~2 m³/dia. Início da indústria moderna."
+  },
+  {
+   "id": "ep-f004",
+   "frente": "James Young, 1850",
+   "verso": "Escócia: petróleo a partir de carvão e xisto betuminoso + processos de refinação."
+  },
+  {
+   "id": "ep-f005",
+   "frente": "Marcos do Brasil",
+   "verso": "1858: decreto de Olinda (BA). 1897: Bofete (SP), 488 m. 1939: Lobato (BA), DNPM-163, 210 m. 1941: Candeias (BA), 1º campo comercial. 1953: Petrobras."
+  },
+  {
+   "id": "ep-f006",
+   "frente": "Origem da palavra petróleo",
+   "verso": "Latim: petrus (pedra) + oleum (óleo)."
+  },
+  {
+   "id": "ep-f007",
+   "frente": "Frações por nº de carbonos",
+   "verso": "Gás C1–C4 · gasolina C5–C10 · querosene C12–C18 · diesel C12+ · lubrificante C20–C34 · resíduo (parafina, asfalto)."
+  },
+  {
+   "id": "ep-f008",
+   "frente": "Grupos de métodos exploratórios",
+   "verso": "Indicações diretas, geofísicos (sísmica de reflexão/refração, gravimetria, magnetometria), geológicos e geoquímicos."
+  },
+  {
+   "id": "ep-f009",
+   "frente": "Gravimetria × Magnetometria",
+   "verso": "Gravimetria: campo gravitacional, contrastes de densidade. Magnetometria: suscetibilidade magnética das rochas."
+  },
+  {
+   "id": "ep-f010",
+   "frente": "Reflexão × Refração",
+   "verso": "Reflexão: ondas refletidas em interfaces. Refração: ondas refratadas que voltam à superfície (exige V2 > V1 e ângulo crítico)."
+  },
+  {
+   "id": "ep-f011",
+   "frente": "Sísmica 3D",
+   "verso": "Representação volumétrica mais detalhada do reservatório. Não elimina a perfuração nem a interpretação."
+  },
+  {
+   "id": "ep-f012",
+   "frente": "BSR",
+   "verso": "Refletor que imita o fundo do mar: base da zona de estabilidade de hidratos (gás livre abaixo)."
+  },
+  {
+   "id": "ep-f013",
+   "frente": "Área sedimentar brasileira",
+   "verso": "~6,4 MM km²: 4,9 em terra e 1,5 no mar."
+  },
+  {
+   "id": "ep-f014",
+   "frente": "Descoberta comercial",
+   "verso": "Quando a produção é economicamente viável (indício ≠ descoberta comercial)."
+  },
+  {
+   "id": "ep-f015",
+   "frente": "Amostras de calha",
+   "verso": "Fragmentos da broca trazidos pelo fluido. Coleta a cada 3, 6, 9 ou 18 m (depende da finalidade do poço). Descrição em lupa binocular → PAG."
+  },
+  {
+   "id": "ep-f016",
+   "frente": "Detector de gás",
+   "verso": "Identifica HC gasosos (leves e totais), ajuda a prevenir kicks e blowouts e detecta HC sem fluorescência."
+  },
+  {
+   "id": "ep-f017",
+   "frente": "Mancha de óleo",
+   "verso": "Preta e viscosa: óleo morto. Castanho-clara: óleo de boa qualidade."
+  },
+  {
+   "id": "ep-f018",
+   "frente": "Corte",
+   "verso": "HC sai dos poros com solvente (tricloroetano). Rapidez: imediato, moderado, provocado. Forma: radial ou aureolar."
+  },
+  {
+   "id": "ep-f019",
+   "frente": "Testemunho × Amostra lateral",
+   "verso": "Testemunho: durante a perfuração, qualquer metragem. Lateral: depois, em zonas escolhidas por perfis, ~2\" × 1\"."
+  },
+  {
+   "id": "ep-f020",
+   "frente": "COT mínimo",
+   "verso": "1% em folhelhos, 0,5% em calcilutitos. Geradoras efetivas de maior interesse: COT > 3%."
+  },
+  {
+   "id": "ep-f021",
+   "frente": "Taxa de transformação (TT)",
+   "verso": "(S2o − S2r)/S2o: fração do potencial original já convertida em petróleo."
+  },
+  {
+   "id": "ep-f022",
+   "frente": "Plataforma fixa (SM)",
+   "verso": "Águas rasas (~200 m), jaqueta em estacas + módulos, sem compensador."
+  },
+  {
+   "id": "ep-f023",
+   "frente": "Auto-elevável (PA)",
+   "verso": "Pernas no fundo; fixa, não afetada pelo tempo; baixo custo; lâmina d'água de até ~120 m."
+  },
+  {
+   "id": "ep-f024",
+   "frente": "Semissubmersível (SS)",
+   "verso": "Mais estável que navio; ancorada ou DP; precisa de compensador."
+  },
+  {
+   "id": "ep-f025",
+   "frente": "Navio-sonda (NS)",
+   "verso": "Propulsão própria, grande armazenagem, menos estável que a SS; ancorado ou DP; compensador."
+  },
+  {
+   "id": "ep-f026",
+   "frente": "Perfuração × Completação",
+   "verso": "Perfuração: perfurar, revestir, cimentar. Completação: canhoneio, avaliação, estimulação, coluna, mandris, tubing hanger, DHSV, sai o BOP e entra a ANM."
+  },
+  {
+   "id": "ep-f027",
+   "frente": "Poço telescópico",
+   "verso": "Fases 36\" → 26\" → 17 1/2\" → 12 1/4\" → 8 1/2\" (revestimentos 30\", 20\", 13 3/8\", 9 5/8\", 7\")."
+  },
+  {
+   "id": "ep-f028",
+   "frente": "Malhas de injeção",
+   "verso": "Five-spot P/I = 1 · Seven-spot P/I = 2 · Nine-spot P/I = 3."
+  },
+  {
+   "id": "ep-f029",
+   "frente": "Elevação natural × artificial",
+   "verso": "Natural (surgente): a pressão do reservatório basta. Artificial: gas lift, bombeio mecânico, BCS, BCP."
+  },
+  {
+   "id": "ep-f030",
+   "frente": "Regimes de fluxo vertical",
+   "verso": "Bolha → golfada → transição → anular-nevoeiro (com mais gás)."
+  },
+  {
+   "id": "ep-f031",
+   "frente": "Índice de produtividade",
+   "verso": "IP = q / (Pe − Pwf)."
+  },
+  {
+   "id": "ep-f032",
+   "frente": "Ponto de operação",
+   "verso": "Cruzamento da curva de IPR (reservatório) com a de TPR (coluna)."
+  },
+  {
+   "id": "ep-f033",
+   "frente": "Perda de carga vertical",
+   "verso": "ΔP total = ΔP elevação (hidrostática) + ΔP fricção + ΔP aceleração."
+  },
+  {
+   "id": "ep-f034",
+   "frente": "BCS × BCP",
+   "verso": "BCS: motor elétrico no fundo + bomba centrífuga. BCP: motor na superfície gira hastes; rotor dentro do estator."
+  },
+  {
+   "id": "ep-f035",
+   "frente": "Caminho do óleo no FPSO",
+   "verso": "Aquecedores (13→90 °C) → separador de produção → tratador de óleo (60 °C) → separador atmosférico → tanques → off-loading."
+  },
+  {
+   "id": "ep-f036",
+   "frente": "Caminho do gás no FPSO",
+   "verso": "Baixa (0,18) → booster → 9 kgf/cm² → K.O. drum → turbocompressor (200) → glicol → exportação / combustível / gas lift."
+  },
+  {
+   "id": "ep-f037",
+   "frente": "Caminho da água no FPSO",
+   "verso": "300–1.000 ppm → hidrociclones (200) → flotador (15) → TOG < 15 ppm: mar; > 15: volta."
+  },
+  {
+   "id": "ep-f038",
+   "frente": "Destilação",
+   "verso": "Separa por ponto de ebulição: leves no topo (gás, nafta), pesados embaixo (resíduos)."
+  },
+  {
+   "id": "ep-f039",
+   "frente": "Gerações da petroquímica",
+   "verso": "1ª: craqueamento → eteno, propeno, BTX. 2ª: polimerização → PE, PP, PVC. 3ª: transformadores de plástico."
+  }
+ ]
+}

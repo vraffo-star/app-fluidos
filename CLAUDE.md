@@ -46,6 +46,7 @@ data/
 }
 ```
 `versao` aumenta toda vez que o conteúdo muda; use-o para invalidar o cache dos dados.
+`dataFim` é só um dado interno: **não mostrar** em nenhuma tela (sem contagem regressiva).
 
 ### `data/unidades/<id>.json`
 ```json
@@ -84,7 +85,6 @@ Markdown simples: `#`, `##`, `###`, parágrafos, listas (`-` e `1.`), **negrito*
 Navegação inferior fixa com 5 abas: **Início · Estudar · Revisar · Resumos · Mais**. Roteamento por hash (`#/inicio`, etc.).
 
 ### 1. Início
-- Contagem regressiva: "Faltam N dias para 06/12".
 - Racha (dias seguidos estudando — um dia conta se respondeu pelo menos 1 pergunta) e maior racha.
 - Cartão do dia: "X perguntas novas pendentes" + botão grande **Estudar**.
 - Atalhos: Revisão (com o número de perguntas vencidas), Simulado, Flashcards.

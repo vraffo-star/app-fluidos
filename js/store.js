@@ -13,7 +13,7 @@
 //   sessao: { ids, pos, resp: { [id]: [escolha, acertou] }, ms, data } | null,
 //   simulado: { ids, pos, resp: { [id]: escolha }, inicio, data, fim?, ms?, ac? } | null,   (inicio = relógio real, em ms)
 //   simulados: [{ d, n, ac, ms }],      histórico de notas
-//   prefs: { revUnidades: [ids] | null }
+//   prefs: { revUnidades: [ids] | null, fonteResumo: px }
 // }
 import { somarDias } from './datas.js';
 
@@ -49,6 +49,12 @@ export function primeiraAbertura(hoje) {
   est.dia1 = hoje;
   salvar();
   return true;
+}
+
+// Apaga o progresso e recomeça a contagem de dias hoje. As preferências (tamanho da letra, filtro) ficam.
+export function zerar(hoje) {
+  est = { ...vazio(), dia1: hoje, prefs: est.prefs };
+  salvar();
 }
 
 export function dia1() {

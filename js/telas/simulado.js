@@ -15,6 +15,18 @@ function relogio(ms) {
   return `${String(Math.floor(seg / 60)).padStart(2, '0')}:${String(seg % 60).padStart(2, '0')}`;
 }
 
+// Notas dos simulados, da mais recente para a mais antiga.
+export function htmlNotas(notas) {
+  if (!notas.length) return '<p class="nota">Nenhum simulado feito ainda.</p>';
+  return `<ul class="notas">${notas.slice().reverse().map((r) => `
+    <li>
+      <span class="num">${ddmm(r.d)}</span>
+      <span class="nota-barra"><span style="width:${r.n ? (r.ac / r.n) * 100 : 0}%"></span></span>
+      <span class="num">${r.ac}/${r.n}</span>
+      <span class="num nota-pct">${r.n ? Math.round((r.ac / r.n) * 100) : 0}%</span>
+    </li>`).join('')}</ul>`;
+}
+
 export function subSimulado(raiz, partes, moldura) {
   let tique = null;
   let confirmando = false;
@@ -37,7 +49,6 @@ export function subSimulado(raiz, partes, moldura) {
     const corpo = moldura(entrada);
     const disponiveis = vistas(filtroUnidades());
     const n = Math.min(TAMANHO, disponiveis.length);
-    const notas = store.simulados().slice().reverse();
 
     corpo.innerHTML = `
       <section class="cartao dia">
@@ -52,15 +63,7 @@ export function subSimulado(raiz, partes, moldura) {
 
       <section aria-label="Notas dos simulados">
         <p class="rotulo">Notas anteriores</p>
-        ${notas.length
-          ? `<ul class="notas">${notas.map((r) => `
-              <li>
-                <span class="num">${ddmm(r.d)}</span>
-                <span class="nota-barra"><span style="width:${r.n ? (r.ac / r.n) * 100 : 0}%"></span></span>
-                <span class="num">${r.ac}/${r.n}</span>
-                <span class="num nota-pct">${r.n ? Math.round((r.ac / r.n) * 100) : 0}%</span>
-              </li>`).join('')}</ul>`
-          : '<p class="nota">Nenhum simulado feito ainda.</p>'}
+        ${htmlNotas(store.simulados())}
       </section>`;
 
     corpo.querySelector('#comecar')?.addEventListener('click', () => {

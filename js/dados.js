@@ -4,6 +4,7 @@ let indice = null;
 let unidades = [];
 const porId = new Map();
 let perguntas = [];
+const resumos = new Map();
 
 async function lerJson(url, opcoes) {
   const resp = await fetch(url, opcoes);
@@ -47,6 +48,17 @@ export async function carregarDados() {
   });
 
   if (!unidades.length) throw new Error('Nenhuma unidade pôde ser carregada');
+}
+
+// Texto markdown do resumo de uma unidade (lido uma vez por abertura da app).
+export async function carregarResumo(u) {
+  if (!resumos.has(u.id)) {
+    const url = `data/${u.resumo}?v=${indice.versao}`;
+    const resp = await fetch(url);
+    if (!resp.ok) throw new Error(`${url}: HTTP ${resp.status}`);
+    resumos.set(u.id, await resp.text());
+  }
+  return resumos.get(u.id);
 }
 
 export function dadosIndice() {

@@ -19,6 +19,11 @@ export function limparFiltro() {
   store.definirPref('revUnidades', null);
 }
 
+export function definirFiltro(ids) {
+  const total = listaUnidades().length;
+  store.definirPref('revUnidades', ids.length && ids.length < total ? ids : null);
+}
+
 // Partindo de "todas", tocar numa unidade fica só com ela; depois disso, cada toque liga/desliga.
 export function alternarUnidade(id) {
   const total = listaUnidades().length;
@@ -30,7 +35,7 @@ export function alternarUnidade(id) {
     else atual.add(id);
     novo = [...atual];
   }
-  store.definirPref('revUnidades', novo.length && novo.length < total ? novo : null);
+  definirFiltro(novo);
 }
 
 // Perguntas na revisão espaçada (que ainda existem nos dados). `unidades` nulo = todas.

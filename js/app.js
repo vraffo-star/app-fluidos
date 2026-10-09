@@ -5,7 +5,8 @@ import { iniciarRouter, desenhar } from './router.js';
 import { telaInicio } from './telas/inicio.js';
 import { telaEstudar } from './telas/estudar.js';
 import { telaRevisar } from './telas/revisar.js';
-import { telaEmBreve } from './telas/embreve.js';
+import { telaResumos } from './telas/resumos.js';
+import { telaMais } from './telas/mais.js';
 
 const tela = document.getElementById('tela');
 
@@ -40,11 +41,11 @@ async function iniciar() {
     inicio: telaInicio,
     estudar: telaEstudar,
     revisar: telaRevisar,
-    resumos: telaEmBreve('Resumos', 'Resumo de cada unidade para ler no celular.'),
-    mais: telaEmBreve('Mais', 'Flashcards, estatísticas e configurações.'),
+    resumos: telaResumos,
+    mais: telaMais,
   });
 
-  // Ao voltar para a app em outro dia, refaz a tela (contagem, pendentes, racha).
+  // Ao voltar para a app em outro dia, refaz a tela (pendentes, racha, revisões vencidas).
   let diaDesenhado = hoje();
   document.addEventListener('visibilitychange', () => {
     if (document.visibilityState === 'visible' && hoje() !== diaDesenhado) {

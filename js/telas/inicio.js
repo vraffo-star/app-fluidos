@@ -1,20 +1,8 @@
 import * as store from '../store.js';
-import { dadosIndice } from '../dados.js';
-import { hoje, diasEntre, ddmm } from '../datas.js';
 import { plural } from '../util.js';
 import { pendentes, bancoEsgotado, racha } from '../estudo.js';
 import { vencidas as revisoesVencidas } from '../revisao.js';
 import { iniciarSessao } from './estudar.js';
-
-function htmlContagem() {
-  const fim = dadosIndice().dataFim;
-  if (!fim) return '';
-  const n = diasEntre(hoje(), fim);
-  if (n > 0) {
-    return `<p class="contagem">${plural(n, 'Falta', 'Faltam')} <span class="num">${n}</span> ${plural(n, 'dia', 'dias')} <span class="contagem-fim">para ${ddmm(fim)}</span></p>`;
-  }
-  return `<p class="contagem">${n === 0 ? `É hoje: ${ddmm(fim)}` : `O curso terminou em ${ddmm(fim)}`}</p>`;
-}
 
 function htmlCartaoDoDia() {
   const s = store.sessao();
@@ -54,7 +42,6 @@ export function telaInicio(raiz) {
   raiz.innerHTML = `
     <header class="topo">
       <p class="marca">Fluidos <span>· Estudo</span></p>
-      ${htmlContagem()}
     </header>
 
     <section class="par" aria-label="Racha">
@@ -81,7 +68,7 @@ export function telaInicio(raiz) {
         <b>Simulado</b>
         <small>20 perguntas</small>
       </a>
-      <a href="#/mais">
+      <a href="#/mais/flashcards">
         <b>Flashcards</b>
         <small>por unidade</small>
       </a>

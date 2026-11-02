@@ -1,0 +1,12 @@
+# Material do curso nunca entra no repositório (repo público)
+*.pdf
+*.odp
+*.pptx
+*.xlsx
+*.docx
+PROVA*
+_app_conteudo/
+
+# Imagens só em icons/
+*.png
+!icons/*.png

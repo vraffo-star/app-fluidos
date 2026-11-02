@@ -1,0 +1,3133 @@
+{
+ "id": "aquosos",
+ "perguntas": [
+  {
+   "id": "aq-0001",
+   "dificuldade": 1,
+   "tema": "pH e alcalinidade",
+   "enunciado": "Um litro de água pura recebe 4,0 mg de NaOH (40 g/mol). Qual o pH resultante (desprezando o pH inicial)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "8",
+    "11",
+    "4",
+    "9",
+    "10"
+   ],
+   "correta": 4,
+   "explicacao": "[NaOH] = 4,0 mg/L ÷ 40 g/mol = 1 × 10⁻4 mol/L → pOH = 4 → pH = 14 − 4 = 10. Por isso 0,3–0,5 lb/bbl de soda levam o fluido a pH 9–10."
+  },
+  {
+   "id": "aq-0002",
+   "dificuldade": 1,
+   "tema": "pH e alcalinidade",
+   "enunciado": "Um litro de água pura recebe 40,0 mg de NaOH (40 g/mol). Qual o pH resultante (desprezando o pH inicial)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "11",
+    "12",
+    "3",
+    "10",
+    "9"
+   ],
+   "correta": 0,
+   "explicacao": "[NaOH] = 40,0 mg/L ÷ 40 g/mol = 1 × 10⁻3 mol/L → pOH = 3 → pH = 14 − 3 = 11. Por isso 0,3–0,5 lb/bbl de soda levam o fluido a pH 9–10."
+  },
+  {
+   "id": "aq-0003",
+   "dificuldade": 2,
+   "tema": "pH e alcalinidade",
+   "enunciado": "Um litro de água pura recebe 0,4 mg de NaOH (40 g/mol). Qual o pH resultante (desprezando o pH inicial)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "7",
+    "10",
+    "9",
+    "5",
+    "8"
+   ],
+   "correta": 2,
+   "explicacao": "[NaOH] = 0,4 mg/L ÷ 40 g/mol = 1 × 10⁻5 mol/L → pOH = 5 → pH = 14 − 5 = 9. Por isso 0,3–0,5 lb/bbl de soda levam o fluido a pH 9–10."
+  },
+  {
+   "id": "aq-0004",
+   "dificuldade": 1,
+   "tema": "pH e alcalinidade",
+   "enunciado": "Qual o pH de uma solução de HCl com concentração 0,01 mol/L (ácido forte, ionização total)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "3",
+    "4",
+    "2",
+    "7",
+    "1"
+   ],
+   "correta": 2,
+   "explicacao": "[H⁺] = 0,01 M → pH = −log[H⁺] = 2."
+  },
+  {
+   "id": "aq-0005",
+   "dificuldade": 1,
+   "tema": "pH e alcalinidade",
+   "enunciado": "Qual o pH de uma solução de HCl com concentração 0,001 mol/L (ácido forte, ionização total)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "4",
+    "3",
+    "7",
+    "2",
+    "11"
+   ],
+   "correta": 1,
+   "explicacao": "[H⁺] = 0,001 M → pH = −log[H⁺] = 3."
+  },
+  {
+   "id": "aq-0006",
+   "dificuldade": 1,
+   "tema": "pH e alcalinidade",
+   "enunciado": "Qual o pH de uma solução de HCl com concentração 0,0001 mol/L (ácido forte, ionização total)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "4",
+    "10",
+    "7",
+    "5",
+    "3"
+   ],
+   "correta": 0,
+   "explicacao": "[H⁺] = 0,0001 M → pH = −log[H⁺] = 4."
+  },
+  {
+   "id": "aq-0007",
+   "dificuldade": 1,
+   "tema": "Conversões",
+   "enunciado": "Uma solução 1,0 mol/L de NaOH (40 g/mol) equivale a quantas lb/bbl? (1 g/L = 0,3505 lb/bbl)",
+   "tipo": "multipla",
+   "alternativas": [
+    "14,02 lb/bbl",
+    "28,04 lb/bbl",
+    "17,52 lb/bbl",
+    "11,22 lb/bbl",
+    "21,03 lb/bbl"
+   ],
+   "correta": 0,
+   "explicacao": "1 mol/L = 40 g/L; × 0,3505 = 14,02 lb/bbl."
+  },
+  {
+   "id": "aq-0008",
+   "dificuldade": 1,
+   "tema": "Conversões",
+   "enunciado": "Converta 40 mg/L em lb/bbl (1 g/L = 0,3505 lb/bbl).",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,0112 lb/bbl",
+    "0,0210 lb/bbl",
+    "0,0140 lb/bbl",
+    "0,0094 lb/bbl",
+    "0,0175 lb/bbl"
+   ],
+   "correta": 2,
+   "explicacao": "40 mg/L = 0,040 g/L × 0,3505 = 0,0140 lb/bbl. Regra: 1 mg/L = 3,505 × 10⁻⁴ lb/bbl."
+  },
+  {
+   "id": "aq-0009",
+   "dificuldade": 1,
+   "tema": "Conversões",
+   "enunciado": "Converta 250 mg/L em lb/bbl (1 g/L = 0,3505 lb/bbl).",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,0587 lb/bbl",
+    "0,0701 lb/bbl",
+    "0,1095 lb/bbl",
+    "0,0876 lb/bbl",
+    "0,1314 lb/bbl"
+   ],
+   "correta": 3,
+   "explicacao": "250 mg/L = 0,250 g/L × 0,3505 = 0,0876 lb/bbl. Regra: 1 mg/L = 3,505 × 10⁻⁴ lb/bbl."
+  },
+  {
+   "id": "aq-0010",
+   "dificuldade": 1,
+   "tema": "Conversões",
+   "enunciado": "Converta 2.000 mg/L em lb/bbl (1 g/L = 0,3505 lb/bbl).",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,470 lb/bbl",
+    "0,701 lb/bbl",
+    "1,051 lb/bbl",
+    "0,876 lb/bbl",
+    "0,561 lb/bbl"
+   ],
+   "correta": 1,
+   "explicacao": "2.000 mg/L = 2,000 g/L × 0,3505 = 0,701 lb/bbl. Regra: 1 mg/L = 3,505 × 10⁻⁴ lb/bbl."
+  },
+  {
+   "id": "aq-0011",
+   "dificuldade": 2,
+   "tema": "Normalidade",
+   "enunciado": "Qual a massa de soluto em 100 mL de NaOH 0,5 N? (equivalente-grama = 40 g)",
+   "tipo": "multipla",
+   "alternativas": [
+    "4,00 g",
+    "2,00 g",
+    "3,00 g",
+    "2,50 g",
+    "1,60 g"
+   ],
+   "correta": 1,
+   "explicacao": "m = N × E × V(L) = 0,5 × 40 × 0,1 = 2,00 g. O equivalente do H₂SO₄ é 98/2 = 49 g; o do NaOH, 40 g."
+  },
+  {
+   "id": "aq-0012",
+   "dificuldade": 2,
+   "tema": "Normalidade",
+   "enunciado": "Qual a massa de soluto em 500 mL de H₂SO₄ 0,02 N? (equivalente-grama = 49 g)",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,98 g",
+    "0,39 g",
+    "0,73 g",
+    "0,49 g",
+    "0,61 g"
+   ],
+   "correta": 3,
+   "explicacao": "m = N × E × V(L) = 0,02 × 49 × 0,5 = 0,49 g. O equivalente do H₂SO₄ é 98/2 = 49 g; o do NaOH, 40 g."
+  },
+  {
+   "id": "aq-0013",
+   "dificuldade": 1,
+   "tema": "Titulação Pf/Mf",
+   "enunciado": "Qual a solução titulante padrão usada nos testes de Pf e Mf do filtrado?",
+   "tipo": "multipla",
+   "alternativas": [
+    "AgNO₃ 0,282 N",
+    "EDTA 0,01 M",
+    "NaOH 0,1 N",
+    "HCl 1 N",
+    "H₂SO₄ N/50 (0,02 N)"
+   ],
+   "correta": 4,
+   "explicacao": "Pf e Mf são volumes (mL) de H₂SO₄ 0,02 N consumidos até a fenolftaleína (pH ≈ 8,3) e até o alaranjado de metila (pH ≈ 4,3), respectivamente."
+  },
+  {
+   "id": "aq-0014",
+   "dificuldade": 1,
+   "tema": "Titulação Pf/Mf",
+   "enunciado": "Em qual pH ocorre a viragem da fenolftaleína (Pf) e em qual a do alaranjado de metila (Mf)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Pf em pH ≈ 12; Mf em pH ≈ 9",
+    "Pf em pH ≈ 8,3; Mf em pH ≈ 4,3",
+    "Ambos em pH ≈ 7",
+    "Pf em pH ≈ 4,3; Mf em pH ≈ 8,3",
+    "Pf em pH ≈ 10; Mf em pH ≈ 7"
+   ],
+   "correta": 1,
+   "explicacao": "A fenolftaleína vira de rosa para incolor em pH 8,3 (OH⁻ neutralizado e CO₃²⁻ → HCO₃⁻). O alaranjado de metila vira em pH 4,3 (HCO₃⁻ → CO₂ + H₂O)."
+  },
+  {
+   "id": "aq-0015",
+   "dificuldade": 1,
+   "tema": "Alcalinidade Pf/Mf",
+   "enunciado": "Um filtrado apresentou Pf = 0,0 mL e Mf = 0,9 mL. Quais íons causam a alcalinidade?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Apenas HCO₃⁻",
+    "Apenas OH⁻",
+    "OH⁻ e CO₃²⁻",
+    "CO₃²⁻ e HCO₃⁻",
+    "Apenas CO₃²⁻"
+   ],
+   "correta": 0,
+   "explicacao": "Mf/2 = 0,45. Pf = 0 → apenas HCO₃⁻ (pH < 8,3)."
+  },
+  {
+   "id": "aq-0016",
+   "dificuldade": 1,
+   "tema": "Alcalinidade Pf/Mf",
+   "enunciado": "Um filtrado apresentou Pf = 0,8 mL e Mf = 1,6 mL. Quais íons causam a alcalinidade?",
+   "tipo": "multipla",
+   "alternativas": [
+    "CO₃²⁻ e HCO₃⁻",
+    "Apenas HCO₃⁻",
+    "OH⁻ e CO₃²⁻",
+    "Apenas OH⁻",
+    "Apenas CO₃²⁻"
+   ],
+   "correta": 4,
+   "explicacao": "Mf/2 = 0,80. Pf = Mf/2 → apenas CO₃²⁻."
+  },
+  {
+   "id": "aq-0017",
+   "dificuldade": 1,
+   "tema": "Alcalinidade Pf/Mf",
+   "enunciado": "Um filtrado apresentou Pf = 0,7 mL e Mf = 0,7 mL. Quais íons causam a alcalinidade?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Apenas CO₃²⁻",
+    "OH⁻ e CO₃²⁻",
+    "CO₃²⁻ e HCO₃⁻",
+    "Apenas OH⁻",
+    "Apenas HCO₃⁻"
+   ],
+   "correta": 3,
+   "explicacao": "Mf/2 = 0,35. Pf = Mf → apenas OH⁻."
+  },
+  {
+   "id": "aq-0018",
+   "dificuldade": 2,
+   "tema": "Alcalinidade Pf/Mf",
+   "enunciado": "Um filtrado apresentou Pf = 0,8 mL e Mf = 1,8 mL. Quais íons causam a alcalinidade?",
+   "tipo": "multipla",
+   "alternativas": [
+    "OH⁻ e CO₃²⁻",
+    "CO₃²⁻ e HCO₃⁻",
+    "Apenas OH⁻",
+    "Apenas HCO₃⁻",
+    "Apenas CO₃²⁻"
+   ],
+   "correta": 1,
+   "explicacao": "Mf/2 = 0,90. Pf < Mf/2 → CO₃²⁻ e HCO₃⁻."
+  },
+  {
+   "id": "aq-0019",
+   "dificuldade": 2,
+   "tema": "Alcalinidade Pf/Mf",
+   "enunciado": "Um filtrado apresentou Pf = 1,0 mL e Mf = 1,8 mL. Quais íons causam a alcalinidade?",
+   "tipo": "multipla",
+   "alternativas": [
+    "CO₃²⁻ e HCO₃⁻",
+    "Apenas HCO₃⁻",
+    "OH⁻ e CO₃²⁻",
+    "Apenas CO₃²⁻",
+    "Apenas OH⁻"
+   ],
+   "correta": 2,
+   "explicacao": "Mf/2 = 0,90. Pf > Mf/2 (e Pf < Mf) → OH⁻ e CO₃²⁻."
+  },
+  {
+   "id": "aq-0020",
+   "dificuldade": 2,
+   "tema": "Alcalinidade Pf/Mf",
+   "enunciado": "Um filtrado apresentou Pf = 0,5 mL e Mf = 0,8 mL. Quais íons causam a alcalinidade?",
+   "tipo": "multipla",
+   "alternativas": [
+    "OH⁻ e CO₃²⁻",
+    "CO₃²⁻ e HCO₃⁻",
+    "Apenas CO₃²⁻",
+    "Apenas HCO₃⁻",
+    "Apenas OH⁻"
+   ],
+   "correta": 0,
+   "explicacao": "Mf/2 = 0,40. Pf > Mf/2 (e Pf < Mf) → OH⁻ e CO₃²⁻."
+  },
+  {
+   "id": "aq-0021",
+   "dificuldade": 2,
+   "tema": "Alcalinidade Pf/Mf",
+   "enunciado": "Um filtrado apresentou Pf = 0,3 mL e Mf = 0,9 mL. Quais íons causam a alcalinidade?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Apenas HCO₃⁻",
+    "OH⁻ e CO₃²⁻",
+    "CO₃²⁻ e HCO₃⁻",
+    "Apenas CO₃²⁻",
+    "Apenas OH⁻"
+   ],
+   "correta": 2,
+   "explicacao": "Mf/2 = 0,45. Pf < Mf/2 → CO₃²⁻ e HCO₃⁻."
+  },
+  {
+   "id": "aq-0022",
+   "dificuldade": 1,
+   "tema": "Alcalinidade Pf/Mf",
+   "enunciado": "Um filtrado apresentou Pf = 1,2 mL e Mf = 1,2 mL. Quais íons causam a alcalinidade?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Apenas CO₃²⁻",
+    "CO₃²⁻ e HCO₃⁻",
+    "OH⁻ e CO₃²⁻",
+    "Apenas HCO₃⁻",
+    "Apenas OH⁻"
+   ],
+   "correta": 4,
+   "explicacao": "Mf/2 = 0,60. Pf = Mf → apenas OH⁻."
+  },
+  {
+   "id": "aq-0023",
+   "dificuldade": 1,
+   "tema": "Alcalinidade Pf/Mf",
+   "enunciado": "Um filtrado apresentou Pf = 0,0 mL e Mf = 2,1 mL. Quais íons causam a alcalinidade?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Apenas OH⁻",
+    "Apenas HCO₃⁻",
+    "CO₃²⁻ e HCO₃⁻",
+    "Apenas CO₃²⁻",
+    "OH⁻ e CO₃²⁻"
+   ],
+   "correta": 1,
+   "explicacao": "Mf/2 = 1,05. Pf = 0 → apenas HCO₃⁻ (pH < 8,3)."
+  },
+  {
+   "id": "aq-0024",
+   "dificuldade": 2,
+   "tema": "Alcalinidade Pf/Mf",
+   "enunciado": "Um filtrado apresentou Pf = 0,4 mL e Mf = 1,9 mL. Quais íons causam a alcalinidade?",
+   "tipo": "multipla",
+   "alternativas": [
+    "OH⁻ e CO₃²⁻",
+    "CO₃²⁻ e HCO₃⁻",
+    "Apenas CO₃²⁻",
+    "Apenas HCO₃⁻",
+    "Apenas OH⁻"
+   ],
+   "correta": 1,
+   "explicacao": "Mf/2 = 0,95. Pf < Mf/2 → CO₃²⁻ e HCO₃⁻."
+  },
+  {
+   "id": "aq-0025",
+   "dificuldade": 2,
+   "tema": "Alcalinidade Pf/Mf",
+   "enunciado": "Um filtrado apresentou Pf = 1,1 mL e Mf = 1,5 mL. Quais íons causam a alcalinidade?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Apenas HCO₃⁻",
+    "OH⁻ e CO₃²⁻",
+    "Apenas OH⁻",
+    "CO₃²⁻ e HCO₃⁻",
+    "Apenas CO₃²⁻"
+   ],
+   "correta": 1,
+   "explicacao": "Mf/2 = 0,75. Pf > Mf/2 (e Pf < Mf) → OH⁻ e CO₃²⁻."
+  },
+  {
+   "id": "aq-0026",
+   "dificuldade": 1,
+   "tema": "Alcalinidade Pf/Mf",
+   "enunciado": "Um filtrado apresentou Pf = 0,9 mL e Mf = 1,8 mL. Quais íons causam a alcalinidade?",
+   "tipo": "multipla",
+   "alternativas": [
+    "CO₃²⁻ e HCO₃⁻",
+    "OH⁻ e CO₃²⁻",
+    "Apenas HCO₃⁻",
+    "Apenas CO₃²⁻",
+    "Apenas OH⁻"
+   ],
+   "correta": 3,
+   "explicacao": "Mf/2 = 0,90. Pf = Mf/2 → apenas CO₃²⁻."
+  },
+  {
+   "id": "aq-0027",
+   "dificuldade": 2,
+   "tema": "Alcalinidade Pf/Mf",
+   "enunciado": "Com Pf = 0,0 mL e Mf = 0,9 mL, qual a concentração de HCO₃⁻ no filtrado (mg/L)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "1.372 mg/L",
+    "878 mg/L",
+    "306 mg/L",
+    "1.098 mg/L",
+    "1.647 mg/L"
+   ],
+   "correta": 3,
+   "explicacao": "Para estes valores (apenas HCO₃⁻): [HCO₃⁻] = 1.220 × Mf = 1.098 mg/L."
+  },
+  {
+   "id": "aq-0028",
+   "dificuldade": 2,
+   "tema": "Alcalinidade Pf/Mf",
+   "enunciado": "Com Pf = 0,0 mL e Mf = 1,8 mL, qual a concentração de HCO₃⁻ no filtrado (mg/L)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "2.196 mg/L",
+    "3.294 mg/L",
+    "612 mg/L",
+    "1.757 mg/L",
+    "2.745 mg/L"
+   ],
+   "correta": 0,
+   "explicacao": "Para estes valores (apenas HCO₃⁻): [HCO₃⁻] = 1.220 × Mf = 2.196 mg/L."
+  },
+  {
+   "id": "aq-0029",
+   "dificuldade": 2,
+   "tema": "Alcalinidade Pf/Mf",
+   "enunciado": "Com Pf = 0,8 mL e Mf = 1,6 mL, qual a concentração de CO₃²⁻ no filtrado (mg/L)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "960 mg/L",
+    "1.920 mg/L",
+    "272 mg/L",
+    "1.952 mg/L",
+    "544 mg/L"
+   ],
+   "correta": 0,
+   "explicacao": "Para estes valores (apenas CO₃²⁻): [CO₃²⁻] = 1.200 × Pf = 960 mg/L."
+  },
+  {
+   "id": "aq-0030",
+   "dificuldade": 2,
+   "tema": "Alcalinidade Pf/Mf",
+   "enunciado": "Com Pf = 0,7 mL e Mf = 0,7 mL, qual a concentração de OH⁻ no filtrado (mg/L)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "238 mg/L",
+    "298 mg/L",
+    "840 mg/L",
+    "190 mg/L",
+    "854 mg/L"
+   ],
+   "correta": 0,
+   "explicacao": "Para estes valores (apenas OH⁻): [OH⁻] = 340 × Pf = 238 mg/L."
+  },
+  {
+   "id": "aq-0031",
+   "dificuldade": 2,
+   "tema": "Alcalinidade Pf/Mf",
+   "enunciado": "Com Pf = 1,2 mL e Mf = 1,2 mL, qual a concentração de OH⁻ no filtrado (mg/L)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "408 mg/L",
+    "326 mg/L",
+    "1.440 mg/L",
+    "510 mg/L",
+    "1.464 mg/L"
+   ],
+   "correta": 0,
+   "explicacao": "Para estes valores (apenas OH⁻): [OH⁻] = 340 × Pf = 408 mg/L."
+  },
+  {
+   "id": "aq-0032",
+   "dificuldade": 3,
+   "tema": "Alcalinidade Pf/Mf",
+   "enunciado": "Com Pf = 0,8 mL e Mf = 1,8 mL, qual a concentração de HCO₃⁻ no filtrado (mg/L)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "976 mg/L",
+    "244 mg/L",
+    "612 mg/L",
+    "960 mg/L",
+    "272 mg/L"
+   ],
+   "correta": 1,
+   "explicacao": "Para estes valores (CO₃²⁻ e HCO₃⁻): [HCO₃⁻] = 1.220 × (Mf − 2Pf) = 244 mg/L."
+  },
+  {
+   "id": "aq-0033",
+   "dificuldade": 3,
+   "tema": "Alcalinidade Pf/Mf",
+   "enunciado": "Com Pf = 0,8 mL e Mf = 1,8 mL, qual a concentração de CO₃²⁻ no filtrado (mg/L)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "612 mg/L",
+    "272 mg/L",
+    "2.196 mg/L",
+    "2.160 mg/L",
+    "960 mg/L"
+   ],
+   "correta": 4,
+   "explicacao": "Para estes valores (CO₃²⁻ e HCO₃⁻): [CO₃²⁻] = 1.200 × Pf = 960 mg/L."
+  },
+  {
+   "id": "aq-0034",
+   "dificuldade": 3,
+   "tema": "Alcalinidade Pf/Mf",
+   "enunciado": "Com Pf = 1,0 mL e Mf = 1,8 mL, qual a concentração de OH⁻ no filtrado (mg/L)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "85 mg/L",
+    "46 mg/L",
+    "68 mg/L",
+    "54 mg/L",
+    "102 mg/L"
+   ],
+   "correta": 2,
+   "explicacao": "Para estes valores (OH⁻ e CO₃²⁻): [OH⁻] = 340 × (2Pf − Mf) = 68 mg/L."
+  },
+  {
+   "id": "aq-0035",
+   "dificuldade": 3,
+   "tema": "Alcalinidade Pf/Mf",
+   "enunciado": "Com Pf = 1,0 mL e Mf = 1,8 mL, qual a concentração de CO₃²⁻ no filtrado (mg/L)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "960 mg/L",
+    "1.220 mg/L",
+    "2.196 mg/L",
+    "612 mg/L",
+    "2.160 mg/L"
+   ],
+   "correta": 0,
+   "explicacao": "Para estes valores (OH⁻ e CO₃²⁻): [CO₃²⁻] = 1.200 × (Mf − Pf) = 960 mg/L."
+  },
+  {
+   "id": "aq-0036",
+   "dificuldade": 3,
+   "tema": "Alcalinidade Pf/Mf",
+   "enunciado": "Com Pf = 0,7 mL e Mf = 1,7 mL, qual a concentração de HCO₃⁻ no filtrado (mg/L)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "578 mg/L",
+    "854 mg/L",
+    "840 mg/L",
+    "366 mg/L",
+    "238 mg/L"
+   ],
+   "correta": 3,
+   "explicacao": "Para estes valores (CO₃²⁻ e HCO₃⁻): [HCO₃⁻] = 1.220 × (Mf − 2Pf) = 366 mg/L."
+  },
+  {
+   "id": "aq-0037",
+   "dificuldade": 3,
+   "tema": "Alcalinidade Pf/Mf",
+   "enunciado": "Com Pf = 0,5 mL e Mf = 0,8 mL, qual a concentração de OH⁻ no filtrado (mg/L)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "85 mg/L",
+    "170 mg/L",
+    "272 mg/L",
+    "54 mg/L",
+    "68 mg/L"
+   ],
+   "correta": 4,
+   "explicacao": "Para estes valores (OH⁻ e CO₃²⁻): [OH⁻] = 340 × (2Pf − Mf) = 68 mg/L."
+  },
+  {
+   "id": "aq-0038",
+   "dificuldade": 3,
+   "tema": "Alcalinidade Pf/Mf",
+   "enunciado": "Com Pf = 0,5 mL e Mf = 0,8 mL, qual a concentração de CO₃²⁻ no filtrado (mg/L)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "272 mg/L",
+    "976 mg/L",
+    "610 mg/L",
+    "960 mg/L",
+    "360 mg/L"
+   ],
+   "correta": 4,
+   "explicacao": "Para estes valores (OH⁻ e CO₃²⁻): [CO₃²⁻] = 1.200 × (Mf − Pf) = 360 mg/L."
+  },
+  {
+   "id": "aq-0039",
+   "dificuldade": 3,
+   "tema": "Alcalinidade Pf/Mf",
+   "enunciado": "Com Pf = 0,3 mL e Mf = 0,9 mL, qual a concentração de HCO₃⁻ no filtrado (mg/L)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "366 mg/L",
+    "306 mg/L",
+    "102 mg/L",
+    "1.080 mg/L",
+    "1.098 mg/L"
+   ],
+   "correta": 0,
+   "explicacao": "Para estes valores (CO₃²⁻ e HCO₃⁻): [HCO₃⁻] = 1.220 × (Mf − 2Pf) = 366 mg/L."
+  },
+  {
+   "id": "aq-0040",
+   "dificuldade": 3,
+   "tema": "Alcalinidade Pf/Mf",
+   "enunciado": "Com Pf = 0,4 mL e Mf = 1,9 mL, qual a concentração de CO₃²⁻ no filtrado (mg/L)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "136 mg/L",
+    "1.800 mg/L",
+    "646 mg/L",
+    "1.342 mg/L",
+    "480 mg/L"
+   ],
+   "correta": 4,
+   "explicacao": "Para estes valores (CO₃²⁻ e HCO₃⁻): [CO₃²⁻] = 1.200 × Pf = 480 mg/L."
+  },
+  {
+   "id": "aq-0041",
+   "dificuldade": 1,
+   "tema": "Alcalinidade Pf/Mf",
+   "enunciado": "Para Pf = 0,0 e Mf = 0,9 mL, qual a concentração de NaHCO₃ na fase aquosa em lb/bbl?",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,424 lb/bbl",
+    "0,669 lb/bbl",
+    "0,252 lb/bbl",
+    "0,530 lb/bbl",
+    "0,663 lb/bbl"
+   ],
+   "correta": 3,
+   "explicacao": "NaHCO₃ = 0,589 × Mf = 0,530 lb/bbl de fase aquosa (fatores já incluem a conversão mg/L → lb/bbl)."
+  },
+  {
+   "id": "aq-0042",
+   "dificuldade": 1,
+   "tema": "Alcalinidade Pf/Mf",
+   "enunciado": "Para Pf = 0,8 e Mf = 1,6 mL, qual a concentração de Na₂CO₃ na fase aquosa em lb/bbl?",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,594 lb/bbl",
+    "0,471 lb/bbl",
+    "0,942 lb/bbl",
+    "0,448 lb/bbl",
+    "1,189 lb/bbl"
+   ],
+   "correta": 0,
+   "explicacao": "Na₂CO₃ = 0,743 × Pf = 0,594 lb/bbl de fase aquosa (fatores já incluem a conversão mg/L → lb/bbl)."
+  },
+  {
+   "id": "aq-0043",
+   "dificuldade": 1,
+   "tema": "Alcalinidade Pf/Mf",
+   "enunciado": "Para Pf = 0,7 e Mf = 0,7 mL, qual a concentração de NaOH na fase aquosa em lb/bbl?",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,157 lb/bbl",
+    "0,520 lb/bbl",
+    "0,412 lb/bbl",
+    "0,245 lb/bbl",
+    "0,196 lb/bbl"
+   ],
+   "correta": 4,
+   "explicacao": "NaOH = 0,28 × Pf = 0,196 lb/bbl de fase aquosa (fatores já incluem a conversão mg/L → lb/bbl)."
+  },
+  {
+   "id": "aq-0044",
+   "dificuldade": 3,
+   "tema": "Alcalinidade Pf/Mf",
+   "enunciado": "Para Pf = 0,8 e Mf = 1,8 mL, qual a concentração de Na₂CO₃ na fase aquosa em lb/bbl?",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,594 lb/bbl",
+    "1,337 lb/bbl",
+    "0,504 lb/bbl",
+    "0,471 lb/bbl",
+    "1,060 lb/bbl"
+   ],
+   "correta": 0,
+   "explicacao": "Na₂CO₃ = 0,743 × Pf = 0,594 lb/bbl de fase aquosa (fatores já incluem a conversão mg/L → lb/bbl)."
+  },
+  {
+   "id": "aq-0045",
+   "dificuldade": 3,
+   "tema": "Alcalinidade Pf/Mf",
+   "enunciado": "Para Pf = 0,8 e Mf = 1,8 mL, qual a concentração de NaHCO₃ na fase aquosa em lb/bbl?",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,118 lb/bbl",
+    "0,147 lb/bbl",
+    "0,471 lb/bbl",
+    "0,094 lb/bbl",
+    "0,177 lb/bbl"
+   ],
+   "correta": 0,
+   "explicacao": "NaHCO₃ = 0,589 × (Mf − 2Pf) = 0,118 lb/bbl de fase aquosa (fatores já incluem a conversão mg/L → lb/bbl)."
+  },
+  {
+   "id": "aq-0046",
+   "dificuldade": 3,
+   "tema": "Alcalinidade Pf/Mf",
+   "enunciado": "Para Pf = 1,0 e Mf = 1,8 mL, qual a concentração de NaOH na fase aquosa em lb/bbl?",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,084 lb/bbl",
+    "0,038 lb/bbl",
+    "0,070 lb/bbl",
+    "0,056 lb/bbl",
+    "0,045 lb/bbl"
+   ],
+   "correta": 3,
+   "explicacao": "NaOH = 0,28 × (2Pf − Mf) = 0,056 lb/bbl de fase aquosa (fatores já incluem a conversão mg/L → lb/bbl)."
+  },
+  {
+   "id": "aq-0047",
+   "dificuldade": 3,
+   "tema": "Alcalinidade Pf/Mf",
+   "enunciado": "Para Pf = 1,0 e Mf = 1,8 mL, qual a concentração de Na₂CO₃ na fase aquosa em lb/bbl?",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,594 lb/bbl",
+    "0,504 lb/bbl",
+    "1,337 lb/bbl",
+    "1,060 lb/bbl",
+    "0,743 lb/bbl"
+   ],
+   "correta": 0,
+   "explicacao": "Na₂CO₃ = 0,743 × (Mf − Pf) = 0,594 lb/bbl de fase aquosa (fatores já incluem a conversão mg/L → lb/bbl)."
+  },
+  {
+   "id": "aq-0048",
+   "dificuldade": 3,
+   "tema": "Alcalinidade Pf/Mf",
+   "enunciado": "Para Pf = 0,5 e Mf = 0,8 mL, qual a concentração de Na₂CO₃ na fase aquosa em lb/bbl?",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,371 lb/bbl",
+    "0,294 lb/bbl",
+    "0,471 lb/bbl",
+    "0,223 lb/bbl",
+    "0,594 lb/bbl"
+   ],
+   "correta": 3,
+   "explicacao": "Na₂CO₃ = 0,743 × (Mf − Pf) = 0,223 lb/bbl de fase aquosa (fatores já incluem a conversão mg/L → lb/bbl)."
+  },
+  {
+   "id": "aq-0049",
+   "dificuldade": 3,
+   "tema": "Massa na fase aquosa",
+   "enunciado": "Em 1.000 bbl de fluido com 75,0% de fase aquosa, o filtrado deu Pf = 0,8 e Mf = 1,8. Qual a massa de Na₂CO₃ presente na fase aquosa (lb)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "446 lb",
+    "580 lb",
+    "558 lb",
+    "312 lb",
+    "594 lb"
+   ],
+   "correta": 0,
+   "explicacao": "A análise é feita no filtrado (fase aquosa): m = 0,594 lb/bbl × 750 bbl = 446 lb. Usar o volume total de fluido (594 lb) superestima a massa."
+  },
+  {
+   "id": "aq-0050",
+   "dificuldade": 3,
+   "tema": "Massa na fase aquosa",
+   "enunciado": "Em 1.000 bbl de fluido com 75,0% de fase aquosa, o filtrado deu Pf = 0,8 e Mf = 1,8. Qual a massa de NaHCO₃ presente na fase aquosa (lb)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "118 lb",
+    "110 lb",
+    "62 lb",
+    "88 lb",
+    "115 lb"
+   ],
+   "correta": 3,
+   "explicacao": "A análise é feita no filtrado (fase aquosa): m = 0,118 lb/bbl × 750 bbl = 88 lb. Usar o volume total de fluido (118 lb) superestima a massa."
+  },
+  {
+   "id": "aq-0051",
+   "dificuldade": 3,
+   "tema": "Massa na fase aquosa",
+   "enunciado": "Em 2.000 bbl de fluido com 70,0% de fase aquosa, o filtrado deu Pf = 0,5 e Mf = 0,8. Qual a massa de Na₂CO₃ presente na fase aquosa (lb)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "312 lb",
+    "218 lb",
+    "390 lb",
+    "446 lb",
+    "406 lb"
+   ],
+   "correta": 0,
+   "explicacao": "A análise é feita no filtrado (fase aquosa): m = 0,223 lb/bbl × 1.400 bbl = 312 lb. Usar o volume total de fluido (446 lb) superestima a massa."
+  },
+  {
+   "id": "aq-0052",
+   "dificuldade": 3,
+   "tema": "Massa na fase aquosa",
+   "enunciado": "Em 1.260 bbl de fluido com 73,4% de fase aquosa, o filtrado deu Pf = 0,5 e Mf = 0,8. Qual a massa de Na₂CO₃ presente na fase aquosa (lb)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "268 lb",
+    "144 lb",
+    "206 lb",
+    "281 lb",
+    "258 lb"
+   ],
+   "correta": 2,
+   "explicacao": "A análise é feita no filtrado (fase aquosa): m = 0,223 lb/bbl × 925 bbl = 206 lb. Usar o volume total de fluido (281 lb) superestima a massa."
+  },
+  {
+   "id": "aq-0053",
+   "dificuldade": 2,
+   "tema": "Tratamento com cal",
+   "enunciado": "Qual a massa de Ca(OH)₂ (74) necessária para precipitar 446 lb de Na₂CO₃ (106) como CaCO₃ (Na₂CO₃ + Ca(OH)₂ → CaCO₃↓ + 2NaOH)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "413 lb",
+    "156 lb",
+    "311 lb",
+    "389 lb",
+    "639 lb"
+   ],
+   "correta": 2,
+   "explicacao": "106 lb de Na₂CO₃ reagem com 74 lb de Ca(OH)₂ (e geram 80 lb de NaOH). Ca(OH)₂ = 446 × 74/106 ≈ 311 lb ≈ 5,6 sacos de 25 kg; NaOH gerado ≈ 337 lb."
+  },
+  {
+   "id": "aq-0054",
+   "dificuldade": 2,
+   "tema": "Tratamento com cal",
+   "enunciado": "Qual a massa de Ca(OH)₂ (74) necessária para precipitar 200 lb de Na₂CO₃ (106) como CaCO₃ (Na₂CO₃ + Ca(OH)₂ → CaCO₃↓ + 2NaOH)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "70 lb",
+    "140 lb",
+    "286 lb",
+    "175 lb",
+    "185 lb"
+   ],
+   "correta": 1,
+   "explicacao": "106 lb de Na₂CO₃ reagem com 74 lb de Ca(OH)₂ (e geram 80 lb de NaOH). Ca(OH)₂ = 200 × 74/106 ≈ 140 lb ≈ 2,5 sacos de 25 kg; NaOH gerado ≈ 151 lb."
+  },
+  {
+   "id": "aq-0055",
+   "dificuldade": 2,
+   "tema": "Tratamento com cal",
+   "enunciado": "Qual a massa de Ca(OH)₂ (74) necessária para precipitar 600 lb de Na₂CO₃ (106) como CaCO₃ (Na₂CO₃ + Ca(OH)₂ → CaCO₃↓ + 2NaOH)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "419 lb",
+    "859 lb",
+    "555 lb",
+    "524 lb",
+    "209 lb"
+   ],
+   "correta": 0,
+   "explicacao": "106 lb de Na₂CO₃ reagem com 74 lb de Ca(OH)₂ (e geram 80 lb de NaOH). Ca(OH)₂ = 600 × 74/106 ≈ 419 lb ≈ 7,6 sacos de 25 kg; NaOH gerado ≈ 453 lb."
+  },
+  {
+   "id": "aq-0056",
+   "dificuldade": 2,
+   "tema": "Tratamento com cal",
+   "enunciado": "Qual a massa de NaOH gerada ao tratar 88,5 lb de NaHCO₃ (84) com Ca(OH)₂ (NaHCO₃ + Ca(OH)₂ → CaCO₃↓ + H₂O + NaOH, NaOH = 40)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "42,1 lb",
+    "78,0 lb",
+    "163,7 lb",
+    "52,6 lb",
+    "84,3 lb"
+   ],
+   "correta": 0,
+   "explicacao": "84 lb de NaHCO₃ → 40 lb de NaOH (e consomem 74 lb de Ca(OH)₂). NaOH = 88,5 × 40/84 ≈ 42,1 lb; Ca(OH)₂ consumido ≈ 78,0 lb."
+  },
+  {
+   "id": "aq-0057",
+   "dificuldade": 2,
+   "tema": "Tratamento com cal",
+   "enunciado": "Qual a massa de NaOH gerada ao tratar 398,0 lb de NaHCO₃ (84) com Ca(OH)₂ (NaHCO₃ + Ca(OH)₂ → CaCO₃↓ + H₂O + NaOH, NaOH = 40)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "379,0 lb",
+    "236,9 lb",
+    "350,6 lb",
+    "189,5 lb",
+    "736,3 lb"
+   ],
+   "correta": 3,
+   "explicacao": "84 lb de NaHCO₃ → 40 lb de NaOH (e consomem 74 lb de Ca(OH)₂). NaOH = 398,0 × 40/84 ≈ 189,5 lb; Ca(OH)₂ consumido ≈ 350,6 lb."
+  },
+  {
+   "id": "aq-0058",
+   "dificuldade": 2,
+   "tema": "Tratamento com cal",
+   "enunciado": "Qual a massa de NaOH gerada ao tratar 157,6 lb de NaHCO₃ (84) com Ca(OH)₂ (NaHCO₃ + Ca(OH)₂ → CaCO₃↓ + H₂O + NaOH, NaOH = 40)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "93,8 lb",
+    "138,8 lb",
+    "291,6 lb",
+    "75,0 lb",
+    "150,1 lb"
+   ],
+   "correta": 3,
+   "explicacao": "84 lb de NaHCO₃ → 40 lb de NaOH (e consomem 74 lb de Ca(OH)₂). NaOH = 157,6 × 40/84 ≈ 75,0 lb; Ca(OH)₂ consumido ≈ 138,8 lb."
+  },
+  {
+   "id": "aq-0059",
+   "dificuldade": 3,
+   "tema": "Tratamento com cal",
+   "enunciado": "Uma fase aquosa de 1.000 bbl tem HCO₃⁻ = 1.500 mg/L e CO₃²⁻ = 2.000 mg/L. Pelas equações de campo (Ca(OH)₂ lb/bbl = 0,00021 × HCO₃⁻ + 0,00043 × CO₃²⁻), quantos sacos de 25 kg de cal são necessários para tratá-la? (1 saco = 55,125 lb)",
+   "tipo": "multipla",
+   "alternativas": [
+    "13,3 sacos",
+    "32,0 sacos",
+    "21,3 sacos",
+    "26,6 sacos",
+    "19,3 sacos"
+   ],
+   "correta": 2,
+   "explicacao": "Ca(OH)₂ = 0,00021 × 1.500 + 0,00043 × 2.000 = 1,175 lb/bbl; × 1.000 bbl = 1.175 lb ÷ 55,125 ≈ 21,3 sacos."
+  },
+  {
+   "id": "aq-0060",
+   "dificuldade": 3,
+   "tema": "Tratamento com cal",
+   "enunciado": "Uma fase aquosa de 750 bbl tem HCO₃⁻ = 1.098 mg/L e CO₃²⁻ = 960 mg/L. Pelas equações de campo (Ca(OH)₂ lb/bbl = 0,00021 × HCO₃⁻ + 0,00043 × CO₃²⁻), quantos sacos de 25 kg de cal são necessários para tratá-la? (1 saco = 55,125 lb)",
+   "tipo": "multipla",
+   "alternativas": [
+    "13,1 sacos",
+    "9,2 sacos",
+    "11,0 sacos",
+    "5,9 sacos",
+    "8,8 sacos"
+   ],
+   "correta": 4,
+   "explicacao": "Ca(OH)₂ = 0,00021 × 1.098 + 0,00043 × 960 = 0,643 lb/bbl; × 750 bbl = 483 lb ÷ 55,125 ≈ 8,8 sacos."
+  },
+  {
+   "id": "aq-0061",
+   "dificuldade": 3,
+   "tema": "Over treatment",
+   "enunciado": "Para Pf = 0,8 e Mf = 1,8 em 1.000 bbl de fluido com 75% de fase aquosa, calculou-se o tratamento do Na₂CO₃ (Na₂CO₃ + Ca(OH)₂ → CaCO₃ + 2NaOH) com base no volume de fluido em vez do volume de fase aquosa. Qual a massa de Ca(OH)₂ em EXCESSO (lb)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "52 lb",
+    "311 lb",
+    "104 lb",
+    "207 lb",
+    "415 lb"
+   ],
+   "correta": 2,
+   "explicacao": "Correto (fase aquosa): 0,594 lb/bbl × 750 bbl; errado (fluido): × 1.000 bbl. A diferença de volume (250 bbl) × 0,594 × 74/106 ≈ 104 lb de cal sem Na₂CO₃ para reagir: vira Ca²⁺ e OH⁻ contaminantes (pH mais alto, cálcio)."
+  },
+  {
+   "id": "aq-0062",
+   "dificuldade": 3,
+   "tema": "Over treatment",
+   "enunciado": "Para Pf = 0,6 e Mf = 1,2 em 2.000 bbl de fluido com 70% de fase aquosa, calculou-se o tratamento do Na₂CO₃ (Na₂CO₃ + Ca(OH)₂ → CaCO₃ + 2NaOH) com base no volume de fluido em vez do volume de fase aquosa. Qual a massa de Ca(OH)₂ em EXCESSO (lb)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "436 lb",
+    "622 lb",
+    "373 lb",
+    "93 lb",
+    "187 lb"
+   ],
+   "correta": 4,
+   "explicacao": "Correto (fase aquosa): 0,446 lb/bbl × 1.400 bbl; errado (fluido): × 2.000 bbl. A diferença de volume (600 bbl) × 0,446 × 74/106 ≈ 187 lb de cal sem Na₂CO₃ para reagir: vira Ca²⁺ e OH⁻ contaminantes (pH mais alto, cálcio)."
+  },
+  {
+   "id": "aq-0063",
+   "dificuldade": 3,
+   "tema": "Contaminação por cimento",
+   "enunciado": "Em um fluido base água contaminado com cimento: PM = 3,0 mL, Pf = 1,3 mL e fração de água Fw = 0,73. Qual a concentração de Ca(OH)₂ INSOLÚVEL (excesso) em lb/bbl de fluido?",
+   "tipo": "multipla",
+   "alternativas": [
+    "1,067 lb/bbl",
+    "0,442 lb/bbl",
+    "0,780 lb/bbl",
+    "0,533 lb/bbl",
+    "1,027 lb/bbl"
+   ],
+   "correta": 3,
+   "explicacao": "Ca(OH)₂ excesso = 0,26 × (PM − Fw × Pf) = 0,26 × (3,0 − 0,73 × 1,3) = 0,533 lb/bbl; para 1.000 bbl ≈ 533 lb. PM mede o Ca(OH)₂ total (solúvel + insolúvel); Pf mede só o solúvel."
+  },
+  {
+   "id": "aq-0064",
+   "dificuldade": 3,
+   "tema": "Contaminação por cimento",
+   "enunciado": "Em um fluido base água contaminado com cimento: PM = 3,0 mL, Pf = 1,5 mL e fração de água Fw = 0,80. Qual a concentração de Ca(OH)₂ INSOLÚVEL (excesso) em lb/bbl de fluido?",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,780 lb/bbl",
+    "0,936 lb/bbl",
+    "0,468 lb/bbl",
+    "0,390 lb/bbl",
+    "1,092 lb/bbl"
+   ],
+   "correta": 2,
+   "explicacao": "Ca(OH)₂ excesso = 0,26 × (PM − Fw × Pf) = 0,26 × (3,0 − 0,80 × 1,5) = 0,468 lb/bbl; para 1.000 bbl ≈ 468 lb. PM mede o Ca(OH)₂ total (solúvel + insolúvel); Pf mede só o solúvel."
+  },
+  {
+   "id": "aq-0065",
+   "dificuldade": 3,
+   "tema": "Contaminação por cimento",
+   "enunciado": "Em um fluido base água contaminado com cimento: PM = 2,5 mL, Pf = 1,2 mL e fração de água Fw = 0,70. Qual a concentração de Ca(OH)₂ INSOLÚVEL (excesso) em lb/bbl de fluido?",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,338 lb/bbl",
+    "0,650 lb/bbl",
+    "0,432 lb/bbl",
+    "0,868 lb/bbl",
+    "0,863 lb/bbl"
+   ],
+   "correta": 2,
+   "explicacao": "Ca(OH)₂ excesso = 0,26 × (PM − Fw × Pf) = 0,26 × (2,5 − 0,70 × 1,2) = 0,432 lb/bbl; para 1.200 bbl ≈ 518 lb. PM mede o Ca(OH)₂ total (solúvel + insolúvel); Pf mede só o solúvel."
+  },
+  {
+   "id": "aq-0066",
+   "dificuldade": 2,
+   "tema": "Contaminação por cimento",
+   "enunciado": "Qual a concentração TOTAL de Ca(OH)₂ (solúvel + insolúvel) em lb/bbl para PM = 3,0 mL?",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,98 lb/bbl",
+    "2,22 lb/bbl",
+    "1,56 lb/bbl",
+    "0,78 lb/bbl",
+    "0,39 lb/bbl"
+   ],
+   "correta": 3,
+   "explicacao": "Ca(OH)₂ total = 0,26 × PM = 0,26 × 3,0 = 0,78 lb/bbl (cada mL de H₂SO₄ 0,02 N consumido por mL de fluido neutraliza 0,74 g/L de Ca(OH)₂)."
+  },
+  {
+   "id": "aq-0067",
+   "dificuldade": 2,
+   "tema": "Contaminação por cimento",
+   "enunciado": "Qual a concentração TOTAL de Ca(OH)₂ (solúvel + insolúvel) em lb/bbl para PM = 2,0 mL?",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,52 lb/bbl",
+    "0,65 lb/bbl",
+    "0,26 lb/bbl",
+    "1,48 lb/bbl",
+    "1,04 lb/bbl"
+   ],
+   "correta": 0,
+   "explicacao": "Ca(OH)₂ total = 0,26 × PM = 0,26 × 2,0 = 0,52 lb/bbl (cada mL de H₂SO₄ 0,02 N consumido por mL de fluido neutraliza 0,74 g/L de Ca(OH)₂)."
+  },
+  {
+   "id": "aq-0068",
+   "dificuldade": 3,
+   "tema": "Contaminação por cimento",
+   "enunciado": "Fluido de 1.000 bbl com PM = 3,0 mL. Quantos sacos de 25 kg (55,125 lb) de NaHCO₃ são necessários para tratar todo o Ca(OH)₂ (NaHCO₃ = 84; Ca(OH)₂ = 74)? (use NaHCO₃ = Ca(OH)₂ × 42/37)",
+   "tipo": "multipla",
+   "alternativas": [
+    "14 sacos",
+    "20 sacos",
+    "24 sacos",
+    "16 sacos",
+    "8 sacos"
+   ],
+   "correta": 3,
+   "explicacao": "Ca(OH)₂ = 0,26 × 3,0 × 1.000 = 780 lb; NaHCO₃ = 780 × 42/37 ≈ 885 lb ≈ 16 sacos. A reação gera 422 lb de NaOH (0,42 lb/bbl)."
+  },
+  {
+   "id": "aq-0069",
+   "dificuldade": 3,
+   "tema": "Contaminação por cimento",
+   "enunciado": "Fluido de 1.500 bbl com PM = 2,5 mL. Quantos sacos de 25 kg (55,125 lb) de NaHCO₃ são necessários para tratar todo o Ca(OH)₂ (NaHCO₃ = 84; Ca(OH)₂ = 74)? (use NaHCO₃ = Ca(OH)₂ × 42/37)",
+   "tipo": "multipla",
+   "alternativas": [
+    "18 sacos",
+    "30 sacos",
+    "25 sacos",
+    "10 sacos",
+    "20 sacos"
+   ],
+   "correta": 4,
+   "explicacao": "Ca(OH)₂ = 0,26 × 2,5 × 1.500 = 975 lb; NaHCO₃ = 975 × 42/37 ≈ 1.107 lb ≈ 20 sacos. A reação gera 527 lb de NaOH (0,35 lb/bbl)."
+  },
+  {
+   "id": "aq-0070",
+   "dificuldade": 3,
+   "tema": "Contaminação por cimento",
+   "enunciado": "Ao tratar o Ca(OH)₂ de 1.000 bbl de fluido (780 lb) com NaHCO₃, qual a concentração de NaOH gerada no fluido (lb/bbl)? (NaOH = Ca(OH)₂ × 20/37)",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,84 lb/bbl",
+    "0,89 lb/bbl",
+    "0,12 lb/bbl",
+    "0,42 lb/bbl",
+    "0,78 lb/bbl"
+   ],
+   "correta": 3,
+   "explicacao": "NaOH = 780 × 20/37 ≈ 421,6 lb → 0,42 lb/bbl, dentro da faixa de 0,3–0,5 lb/bbl desejada. O bicarbonato precipita o Ca²⁺ e consome ~50% das OH⁻ do cálcio."
+  },
+  {
+   "id": "aq-0071",
+   "dificuldade": 3,
+   "tema": "Contaminação por cimento",
+   "enunciado": "Quantas lb de ácido cítrico (192 g/mol) são necessárias para reagir com 800 lb de Ca(OH)₂ (2 H₃Cit + 3 Ca(OH)₂ → Ca₃Cit₂ + 6 H₂O; 384 lb de ácido para 222 lb de cal)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "2.076 lb",
+    "692 lb",
+    "462 lb",
+    "4.151 lb",
+    "1.384 lb"
+   ],
+   "correta": 4,
+   "explicacao": "m = 800 × 384/222 ≈ 1.384 lb ≈ 25 sacos. O ácido cítrico trata Ca²⁺ e OH⁻ ao mesmo tempo, mas o citrato de cálcio é mais solúvel (≈ 950 mg/L) que o CaCO₃ (≈ 1 mg/L), por isso o bicarbonato é preferido."
+  },
+  {
+   "id": "aq-0072",
+   "dificuldade": 3,
+   "tema": "Anidrita / gesso",
+   "enunciado": "Contaminação por anidrita com pH estável (9,0–9,5): Ca²⁺ = 1.603 mg/L. Fluido de 1.500 bbl com 75% de fase aquosa. Quantos sacos de 25 kg (55,125 lb) de barrilha (Na₂CO₃) são necessários? (Na₂CO₃ lb/bbl = 0,00093 × Ca²⁺)",
+   "tipo": "multipla",
+   "alternativas": [
+    "41 sacos",
+    "24 sacos",
+    "30 sacos",
+    "18 sacos",
+    "38 sacos"
+   ],
+   "correta": 2,
+   "explicacao": "Na₂CO₃ = 0,00093 × 1.603 = 1,49 lb/bbl da fase aquosa; × 1.125 bbl = 1.677 lb ÷ 55,125 ≈ 30 sacos. A base é o volume da fase aquosa, pois a análise é feita no filtrado."
+  },
+  {
+   "id": "aq-0073",
+   "dificuldade": 3,
+   "tema": "Anidrita / gesso",
+   "enunciado": "Contaminação por anidrita com pH estável (9,0–9,5): Ca²⁺ = 2.000 mg/L. Fluido de 1.000 bbl com 80% de fase aquosa. Quantos sacos de 25 kg (55,125 lb) de barrilha (Na₂CO₃) são necessários? (Na₂CO₃ lb/bbl = 0,00093 × Ca²⁺)",
+   "tipo": "multipla",
+   "alternativas": [
+    "34 sacos",
+    "27 sacos",
+    "21 sacos",
+    "22 sacos",
+    "16 sacos"
+   ],
+   "correta": 1,
+   "explicacao": "Na₂CO₃ = 0,00093 × 2.000 = 1,86 lb/bbl da fase aquosa; × 800 bbl = 1.488 lb ÷ 55,125 ≈ 27 sacos. A base é o volume da fase aquosa, pois a análise é feita no filtrado."
+  },
+  {
+   "id": "aq-0074",
+   "dificuldade": 3,
+   "tema": "Anidrita / gesso",
+   "enunciado": "Contaminação por anidrita com pH estável (9,0–9,5): Ca²⁺ = 1.403 mg/L. Fluido de 1.560 bbl com 78% de fase aquosa. Quantos sacos de 25 kg (55,125 lb) de barrilha (Na₂CO₃) são necessários? (Na₂CO₃ lb/bbl = 0,00093 × Ca²⁺)",
+   "tipo": "multipla",
+   "alternativas": [
+    "23 sacos",
+    "36 sacos",
+    "37 sacos",
+    "29 sacos",
+    "17 sacos"
+   ],
+   "correta": 3,
+   "explicacao": "Na₂CO₃ = 0,00093 × 1.403 = 1,30 lb/bbl da fase aquosa; × 1.217 bbl = 1.588 lb ÷ 55,125 ≈ 29 sacos. A base é o volume da fase aquosa, pois a análise é feita no filtrado."
+  },
+  {
+   "id": "aq-0075",
+   "dificuldade": 1,
+   "tema": "Dureza (Ca²⁺ e Mg²⁺)",
+   "enunciado": "Na titulação de 1,0 mL de filtrado com EDTA 0,01 M (indicador calcon, pH 12) foram gastos 3,5 mL. Qual o teor de Ca²⁺ em mg/L?",
+   "tipo": "multipla",
+   "alternativas": [
+    "3.507 mg/L",
+    "1.403 mg/L",
+    "701 mg/L",
+    "1.754 mg/L",
+    "851 mg/L"
+   ],
+   "correta": 1,
+   "explicacao": "Ca²⁺ = 400,8 × V1 = 400,8 × 3,5 ≈ 1.403 mg/L (1 mol de EDTA reage com 1 mol de Ca²⁺; M = 40,08 g/mol). No pH 12 o Mg²⁺ precipita e não interfere."
+  },
+  {
+   "id": "aq-0076",
+   "dificuldade": 1,
+   "tema": "Dureza (Ca²⁺ e Mg²⁺)",
+   "enunciado": "Na titulação de 1,0 mL de filtrado com EDTA 0,01 M (indicador calcon, pH 12) foram gastos 0,6 mL. Qual o teor de Ca²⁺ em mg/L?",
+   "tipo": "multipla",
+   "alternativas": [
+    "601 mg/L",
+    "300 mg/L",
+    "240 mg/L",
+    "120 mg/L",
+    "146 mg/L"
+   ],
+   "correta": 2,
+   "explicacao": "Ca²⁺ = 400,8 × V1 = 400,8 × 0,6 ≈ 240 mg/L (1 mol de EDTA reage com 1 mol de Ca²⁺; M = 40,08 g/mol). No pH 12 o Mg²⁺ precipita e não interfere."
+  },
+  {
+   "id": "aq-0077",
+   "dificuldade": 1,
+   "tema": "Dureza (Ca²⁺ e Mg²⁺)",
+   "enunciado": "Na titulação de 1,0 mL de filtrado com EDTA 0,01 M (indicador calcon, pH 12) foram gastos 4,0 mL. Qual o teor de Ca²⁺ em mg/L?",
+   "tipo": "multipla",
+   "alternativas": [
+    "4.008 mg/L",
+    "1.603 mg/L",
+    "802 mg/L",
+    "2.004 mg/L",
+    "973 mg/L"
+   ],
+   "correta": 1,
+   "explicacao": "Ca²⁺ = 400,8 × V1 = 400,8 × 4,0 ≈ 1.603 mg/L (1 mol de EDTA reage com 1 mol de Ca²⁺; M = 40,08 g/mol). No pH 12 o Mg²⁺ precipita e não interfere."
+  },
+  {
+   "id": "aq-0078",
+   "dificuldade": 1,
+   "tema": "Dureza (Ca²⁺ e Mg²⁺)",
+   "enunciado": "Na titulação de 1,0 mL de filtrado com EDTA 0,01 M (indicador calcon, pH 12) foram gastos 2,0 mL. Qual o teor de Ca²⁺ em mg/L?",
+   "tipo": "multipla",
+   "alternativas": [
+    "401 mg/L",
+    "802 mg/L",
+    "486 mg/L",
+    "1.002 mg/L",
+    "2.004 mg/L"
+   ],
+   "correta": 1,
+   "explicacao": "Ca²⁺ = 400,8 × V1 = 400,8 × 2,0 ≈ 802 mg/L (1 mol de EDTA reage com 1 mol de Ca²⁺; M = 40,08 g/mol). No pH 12 o Mg²⁺ precipita e não interfere."
+  },
+  {
+   "id": "aq-0079",
+   "dificuldade": 3,
+   "tema": "Dureza (Ca²⁺ e Mg²⁺)",
+   "enunciado": "Na análise de filtrado: com calcon (pH 12) gastaram-se V1 = 0,6 mL de EDTA 0,01 M; com negro de eriocromo-T (pH 10) gastaram-se V2 = 0,8 mL. Qual o teor de Mg²⁺ em mg/L?",
+   "tipo": "multipla",
+   "alternativas": [
+    "48,6 mg/L",
+    "80,2 mg/L",
+    "38,9 mg/L",
+    "145,9 mg/L",
+    "60,8 mg/L"
+   ],
+   "correta": 0,
+   "explicacao": "O NET titula Ca²⁺ + Mg²⁺; o Mg²⁺ vem da diferença: Mg²⁺ = 243,2 × (V2 − V1) = 243,2 × (0,8 − 0,6) = 48,6 mg/L."
+  },
+  {
+   "id": "aq-0080",
+   "dificuldade": 3,
+   "tema": "Dureza (Ca²⁺ e Mg²⁺)",
+   "enunciado": "Na análise de filtrado: com calcon (pH 12) gastaram-se V1 = 3,5 mL de EDTA 0,01 M; com negro de eriocromo-T (pH 10) gastaram-se V2 = 3,7 mL. Qual o teor de Mg²⁺ em mg/L?",
+   "tipo": "multipla",
+   "alternativas": [
+    "48,6 mg/L",
+    "72,9 mg/L",
+    "60,8 mg/L",
+    "38,9 mg/L",
+    "80,2 mg/L"
+   ],
+   "correta": 0,
+   "explicacao": "O NET titula Ca²⁺ + Mg²⁺; o Mg²⁺ vem da diferença: Mg²⁺ = 243,2 × (V2 − V1) = 243,2 × (3,7 − 3,5) = 48,6 mg/L."
+  },
+  {
+   "id": "aq-0081",
+   "dificuldade": 3,
+   "tema": "Dureza (Ca²⁺ e Mg²⁺)",
+   "enunciado": "Na análise de filtrado: com calcon (pH 12) gastaram-se V1 = 1,0 mL de EDTA 0,01 M; com negro de eriocromo-T (pH 10) gastaram-se V2 = 1,6 mL. Qual o teor de Mg²⁺ em mg/L?",
+   "tipo": "multipla",
+   "alternativas": [
+    "389,1 mg/L",
+    "182,4 mg/L",
+    "145,9 mg/L",
+    "240,5 mg/L",
+    "243,2 mg/L"
+   ],
+   "correta": 2,
+   "explicacao": "O NET titula Ca²⁺ + Mg²⁺; o Mg²⁺ vem da diferença: Mg²⁺ = 243,2 × (V2 − V1) = 243,2 × (1,6 − 1,0) = 145,9 mg/L."
+  },
+  {
+   "id": "aq-0082",
+   "dificuldade": 3,
+   "tema": "Dureza (Ca²⁺ e Mg²⁺)",
+   "enunciado": "Na análise de filtrado: com calcon (pH 12) gastaram-se V1 = 2,0 mL de EDTA 0,01 M; com negro de eriocromo-T (pH 10) gastaram-se V2 = 2,9 mL. Qual o teor de Mg²⁺ em mg/L?",
+   "tipo": "multipla",
+   "alternativas": [
+    "218,9 mg/L",
+    "705,3 mg/L",
+    "360,7 mg/L",
+    "486,4 mg/L",
+    "273,6 mg/L"
+   ],
+   "correta": 0,
+   "explicacao": "O NET titula Ca²⁺ + Mg²⁺; o Mg²⁺ vem da diferença: Mg²⁺ = 243,2 × (V2 − V1) = 243,2 × (2,9 − 2,0) = 218,9 mg/L."
+  },
+  {
+   "id": "aq-0083",
+   "dificuldade": 1,
+   "tema": "Dureza (Ca²⁺ e Mg²⁺)",
+   "enunciado": "A dureza total expressa em CaCO₃ é obtida com o volume V2 = 0,8 mL de EDTA 0,01 M gasto com negro de eriocromo-T. Qual a dureza total em mg/L de CaCO₃?",
+   "tipo": "multipla",
+   "alternativas": [
+    "401 mg/L",
+    "1.202 mg/L",
+    "802 mg/L",
+    "1.002 mg/L",
+    "321 mg/L"
+   ],
+   "correta": 2,
+   "explicacao": "Dureza total = 1.002 × V2 = 1.002 × 0,8 ≈ 802 mg/L como CaCO₃ (considera Ca²⁺ e Mg²⁺ equivalentes)."
+  },
+  {
+   "id": "aq-0084",
+   "dificuldade": 1,
+   "tema": "Dureza (Ca²⁺ e Mg²⁺)",
+   "enunciado": "A dureza total expressa em CaCO₃ é obtida com o volume V2 = 3,7 mL de EDTA 0,01 M gasto com negro de eriocromo-T. Qual a dureza total em mg/L de CaCO₃?",
+   "tipo": "multipla",
+   "alternativas": [
+    "4.634 mg/L",
+    "5.561 mg/L",
+    "1.483 mg/L",
+    "1.854 mg/L",
+    "3.707 mg/L"
+   ],
+   "correta": 4,
+   "explicacao": "Dureza total = 1.002 × V2 = 1.002 × 3,7 ≈ 3.707 mg/L como CaCO₃ (considera Ca²⁺ e Mg²⁺ equivalentes)."
+  },
+  {
+   "id": "aq-0085",
+   "dificuldade": 1,
+   "tema": "Dureza (Ca²⁺ e Mg²⁺)",
+   "enunciado": "A dureza total expressa em CaCO₃ é obtida com o volume V2 = 1,5 mL de EDTA 0,01 M gasto com negro de eriocromo-T. Qual a dureza total em mg/L de CaCO₃?",
+   "tipo": "multipla",
+   "alternativas": [
+    "1.879 mg/L",
+    "1.503 mg/L",
+    "752 mg/L",
+    "2.254 mg/L",
+    "601 mg/L"
+   ],
+   "correta": 1,
+   "explicacao": "Dureza total = 1.002 × V2 = 1.002 × 1,5 ≈ 1.503 mg/L como CaCO₃ (considera Ca²⁺ e Mg²⁺ equivalentes)."
+  },
+  {
+   "id": "aq-0086",
+   "dificuldade": 3,
+   "tema": "Anidrita / gesso",
+   "enunciado": "Fluido de 1.560 bbl com 78% de fase aquosa. Titulação de 1,0 mL de filtrado com EDTA 0,01 M: 3,5 mL com calcon (pH 12) e 3,7 mL com negro de eriocromo-T (pH 10). A alcalinidade é totalmente OH⁻ e o pH é 9,5. Qual a massa de barrilha necessária (lb), usando Na₂CO₃ lb/bbl = 0,00093 × Ca²⁺ sobre a fase aquosa?",
+   "tipo": "multipla",
+   "alternativas": [
+    "1.587 lb",
+    "2.035 lb",
+    "794 lb",
+    "1.263 lb",
+    "1.984 lb"
+   ],
+   "correta": 0,
+   "explicacao": "Ca²⁺ = 400,8 × 3,5 ≈ 1.403 mg/L; Mg²⁺ = 243,2 × 0,2 ≈ 49 mg/L (desprezível). Como o pH já está adequado e há só um íon a tratar, usa-se um único produto: barrilha. Na₂CO₃ = 0,00093 × 1.403 = 1,30 lb/bbl × 1.217 bbl ≈ 1.587 lb (≈ 29 sacos)."
+  },
+  {
+   "id": "aq-0087",
+   "dificuldade": 3,
+   "tema": "MgCl₂",
+   "enunciado": "Contaminação por MgCl₂: Mg²⁺ = 1.200 mg/L em 1.000 bbl de fluido com 80% de fase aquosa. Qual a massa de NaOH (lb) para precipitar o Mg(OH)₂? (NaOH lb/bbl = 0,00116 × Mg²⁺)",
+   "tipo": "multipla",
+   "alternativas": [
+    "1.114 lb",
+    "557 lb",
+    "893 lb",
+    "710 lb",
+    "1.392 lb"
+   ],
+   "correta": 0,
+   "explicacao": "NaOH = 0,00116 × 1.200 = 1,39 lb/bbl × 800 bbl ≈ 1.114 lb (≈ 20 sacos). O pH deve ficar acima de 10 para precipitar Mg(OH)₂."
+  },
+  {
+   "id": "aq-0088",
+   "dificuldade": 3,
+   "tema": "MgCl₂",
+   "enunciado": "Contaminação por MgCl₂: Mg²⁺ = 2.500 mg/L em 1.500 bbl de fluido com 75% de fase aquosa. Qual a massa de NaOH (lb) para precipitar o Mg(OH)₂? (NaOH lb/bbl = 0,00116 × Mg²⁺)",
+   "tipo": "multipla",
+   "alternativas": [
+    "1.631 lb",
+    "2.616 lb",
+    "3.262 lb",
+    "4.350 lb",
+    "2.081 lb"
+   ],
+   "correta": 2,
+   "explicacao": "NaOH = 0,00116 × 2.500 = 2,90 lb/bbl × 1.125 bbl ≈ 3.262 lb (≈ 59 sacos). O pH deve ficar acima de 10 para precipitar Mg(OH)₂."
+  },
+  {
+   "id": "aq-0089",
+   "dificuldade": 1,
+   "tema": "Salinidade",
+   "enunciado": "Na titulação de 1,0 mL de filtrado com AgNO₃ 0,282 N (cromato de potássio como indicador) gastaram-se 3,7 mL. Qual o teor de cloretos (mg/L)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "37.000 mg/L",
+    "30.525 mg/L",
+    "61.050 mg/L",
+    "104.340 mg/L",
+    "46.250 mg/L"
+   ],
+   "correta": 0,
+   "explicacao": "Cl⁻ = 10.000 × V = 10.000 × 3,7 = 37.000 mg/L. Para NaCl: 16.500 × V = 61.050 mg/L (fator 1,65)."
+  },
+  {
+   "id": "aq-0090",
+   "dificuldade": 1,
+   "tema": "Salinidade",
+   "enunciado": "Na titulação de 1,0 mL de filtrado com AgNO₃ 0,282 N (cromato de potássio como indicador) gastaram-se 5,2 mL. Qual o teor de cloretos (mg/L)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "52.000 mg/L",
+    "85.800 mg/L",
+    "65.000 mg/L",
+    "146.640 mg/L",
+    "42.900 mg/L"
+   ],
+   "correta": 0,
+   "explicacao": "Cl⁻ = 10.000 × V = 10.000 × 5,2 = 52.000 mg/L. Para NaCl: 16.500 × V = 85.800 mg/L (fator 1,65)."
+  },
+  {
+   "id": "aq-0091",
+   "dificuldade": 1,
+   "tema": "Salinidade",
+   "enunciado": "Na titulação de 1,0 mL de filtrado com AgNO₃ 0,282 N (cromato de potássio como indicador) gastaram-se 2,4 mL. Qual o teor de cloretos (mg/L)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "30.000 mg/L",
+    "19.800 mg/L",
+    "67.680 mg/L",
+    "24.000 mg/L",
+    "39.600 mg/L"
+   ],
+   "correta": 3,
+   "explicacao": "Cl⁻ = 10.000 × V = 10.000 × 2,4 = 24.000 mg/L. Para NaCl: 16.500 × V = 39.600 mg/L (fator 1,65)."
+  },
+  {
+   "id": "aq-0092",
+   "dificuldade": 1,
+   "tema": "Salinidade",
+   "enunciado": "Mesma titulação (AgNO₃ 0,282 N, 1 mL de filtrado, 3,7 mL gastos). Qual a salinidade em NaCl (mg/L)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "30.525 mg/L",
+    "37.000 mg/L",
+    "57.720 mg/L",
+    "61.050 mg/L",
+    "77.700 mg/L"
+   ],
+   "correta": 3,
+   "explicacao": "NaCl = 1,65 × Cl⁻ = 1,65 × 37.000 = 61.050 mg/L (16.500 × V)."
+  },
+  {
+   "id": "aq-0093",
+   "dificuldade": 1,
+   "tema": "Salinidade",
+   "enunciado": "Mesma titulação (AgNO₃ 0,282 N, 1 mL de filtrado, 4,8 mL gastos). Qual a salinidade em NaCl (mg/L)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "48.000 mg/L",
+    "74.880 mg/L",
+    "79.200 mg/L",
+    "100.800 mg/L",
+    "39.600 mg/L"
+   ],
+   "correta": 2,
+   "explicacao": "NaCl = 1,65 × Cl⁻ = 1,65 × 48.000 = 79.200 mg/L (16.500 × V)."
+  },
+  {
+   "id": "aq-0094",
+   "dificuldade": 2,
+   "tema": "Salinidade",
+   "enunciado": "Com AgNO₃ 0,0282 N (N/10 da solução padrão), qual o teor de cloretos (mg/L) para cada mL gasto em 1 mL de filtrado?",
+   "tipo": "multipla",
+   "alternativas": [
+    "2.820 mg/L",
+    "800 mg/L",
+    "1.000 mg/L",
+    "1.250 mg/L",
+    "1.500 mg/L"
+   ],
+   "correta": 2,
+   "explicacao": "Com 0,0282 N, 1 mL equivale a 1.000 mg/L de Cl⁻ (a solução 0,282 N equivale a 10.000 mg/L por mL)."
+  },
+  {
+   "id": "aq-0095",
+   "dificuldade": 2,
+   "tema": "Salinidade",
+   "enunciado": "Um filtrado tem 61.050 mg/L de NaCl. Qual a concentração em lb/bbl? (1 g/L = 0,3505 lb/bbl)",
+   "tipo": "multipla",
+   "alternativas": [
+    "26,8 lb/bbl",
+    "32,1 lb/bbl",
+    "21,4 lb/bbl",
+    "35,3 lb/bbl",
+    "17,1 lb/bbl"
+   ],
+   "correta": 2,
+   "explicacao": "61.050 mg/L = 61,05 g/L × 0,3505 ≈ 21,4 lb/bbl."
+  },
+  {
+   "id": "aq-0096",
+   "dificuldade": 2,
+   "tema": "Potássio (QAS × STPB)",
+   "enunciado": "No teste de K⁺ pelo método STPB/QAS, 0,5 mL de filtrado exigiram 19,0 mL de QAS 2,8×10⁻³ M (STPB 0,0112 M, 25 mL). Qual o teor de K⁺ em mg/L? (K⁺ = [25 − VQAS] × 437,92 / Vfiltrado)",
+   "tipo": "multipla",
+   "alternativas": [
+    "10.037 mg/L",
+    "2.628 mg/L",
+    "5.255 mg/L",
+    "1.314 mg/L",
+    "16.641 mg/L"
+   ],
+   "correta": 2,
+   "explicacao": "K⁺ = (25 − 19,0) × 437,92/0,5 = 5.255 mg/L."
+  },
+  {
+   "id": "aq-0097",
+   "dificuldade": 3,
+   "tema": "Potássio (QAS × STPB)",
+   "enunciado": "Com o K⁺ do teste anterior (VQAS = 19,0 mL, filtrado 0,5 mL) e cloretos totais de 80.000 mg/L, qual a salinidade em NaCl (mg/L)? (KCl = 1,91 × K⁺; Cl⁻(KCl) = KCl/2,1; NaCl = 1,65 × Cl⁻(NaCl))",
+   "tipo": "multipla",
+   "alternativas": [
+    "99.291 mg/L",
+    "132.000 mg/L",
+    "124.114 mg/L",
+    "115.439 mg/L",
+    "155.142 mg/L"
+   ],
+   "correta": 2,
+   "explicacao": "K⁺ = 5.255 mg/L → KCl = 10.037 mg/L → Cl⁻(KCl) = 4.780 mg/L. Cl⁻(NaCl) = 80.000 − 4.780 = 75.220 mg/L → NaCl = 1,65 × 75.220 ≈ 124.114 mg/L."
+  },
+  {
+   "id": "aq-0098",
+   "dificuldade": 2,
+   "tema": "Potássio (QAS × STPB)",
+   "enunciado": "No teste de K⁺ pelo método STPB/QAS, 0,3 mL de filtrado exigiram 20,5 mL de QAS 2,8×10⁻³ M (STPB 0,0112 M, 25 mL). Qual o teor de K⁺ em mg/L? (K⁺ = [25 − VQAS] × 437,92 / Vfiltrado)",
+   "tipo": "multipla",
+   "alternativas": [
+    "5.255 mg/L",
+    "12.546 mg/L",
+    "8.211 mg/L",
+    "6.569 mg/L",
+    "1.971 mg/L"
+   ],
+   "correta": 3,
+   "explicacao": "K⁺ = (25 − 20,5) × 437,92/0,3 = 6.569 mg/L."
+  },
+  {
+   "id": "aq-0099",
+   "dificuldade": 3,
+   "tema": "Potássio (QAS × STPB)",
+   "enunciado": "Com o K⁺ do teste anterior (VQAS = 20,5 mL, filtrado 0,3 mL) e cloretos totais de 60.000 mg/L, qual a salinidade em NaCl (mg/L)? (KCl = 1,91 × K⁺; Cl⁻(KCl) = KCl/2,1; NaCl = 1,65 × Cl⁻(NaCl))",
+   "tipo": "multipla",
+   "alternativas": [
+    "99.000 mg/L",
+    "111.428 mg/L",
+    "78.298 mg/L",
+    "71.314 mg/L",
+    "89.142 mg/L"
+   ],
+   "correta": 4,
+   "explicacao": "K⁺ = 6.569 mg/L → KCl = 12.546 mg/L → Cl⁻(KCl) = 5.974 mg/L. Cl⁻(NaCl) = 60.000 − 5.974 = 54.026 mg/L → NaCl = 1,65 × 54.026 ≈ 89.142 mg/L."
+  },
+  {
+   "id": "aq-0100",
+   "dificuldade": 3,
+   "tema": "Potássio (QAS × STPB)",
+   "enunciado": "Um fluido de 1.000 bbl com 70% de fase aquosa tem KCl = 10,04 g/L no filtrado e o programa exige no mínimo 3,5 lb/bbl de KCl no fluido. A exigência está sendo cumprida?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Não: faltam 3,5 lb/bbl, pois não há KCl",
+    "Sim: 10,04 g/L é maior que 3,5",
+    "Sim: 3,52 lb/bbl na fase aquosa atende o programa",
+    "Não: 10,04 g/L ≈ 3,52 lb/bbl na fase aquosa, o que dá ≈ 2,5 lb/bbl no fluido, abaixo do mínimo",
+    "Não é possível avaliar sem a densidade"
+   ],
+   "correta": 3,
+   "explicacao": "A análise é na fase aquosa: 10,04 g/L × 0,3505 = 3,52 lb/bbl de FAq. No fluido: 3,52 × 0,70 ≈ 2,46 lb/bbl < 3,5. Faltam ≈ 1,04 lb/bbl (≈ 1.040 lb para 1.000 bbl, ≈ 19 sacos)."
+  },
+  {
+   "id": "aq-0101",
+   "dificuldade": 2,
+   "tema": "POM / cal livre",
+   "enunciado": "Em um fluido não aquoso, 3,8 mL de H₂SO₄ 0,1 N foram gastos na titulação de 2,0 mL de amostra. Qual o excesso de cal livre (lb/bbl)? (cal livre = 1,3 × POM)",
+   "tipo": "multipla",
+   "alternativas": [
+    "3,09 lb/bbl",
+    "4,92 lb/bbl",
+    "0,99 lb/bbl",
+    "1,23 lb/bbl",
+    "2,47 lb/bbl"
+   ],
+   "correta": 4,
+   "explicacao": "POM = 3,8/2,0 = 1,90 mL; cal livre = 1,3 × 1,90 ≈ 2,47 lb/bbl."
+  },
+  {
+   "id": "aq-0102",
+   "dificuldade": 3,
+   "tema": "POM / cal livre",
+   "enunciado": "O programa exige no mínimo 3,0 lb/bbl de cal livre e a análise resultou em 2,47 lb/bbl (POM = 1,90 mL). Quantos sacos de 25 kg (55,125 lb) de cal são necessários para 1.500 bbl?",
+   "tipo": "multipla",
+   "alternativas": [
+    "18 sacos",
+    "21 sacos",
+    "11 sacos",
+    "14 sacos",
+    "29 sacos"
+   ],
+   "correta": 3,
+   "explicacao": "Falta 3,0 − 2,47 = 0,53 lb/bbl × 1.500 bbl = 795 lb ÷ 55,125 ≈ 14,4 sacos."
+  },
+  {
+   "id": "aq-0103",
+   "dificuldade": 2,
+   "tema": "POM / cal livre",
+   "enunciado": "Em um fluido não aquoso, 2,6 mL de H₂SO₄ 0,1 N foram gastos na titulação de 1,0 mL de amostra. Qual o excesso de cal livre (lb/bbl)? (cal livre = 1,3 × POM)",
+   "tipo": "multipla",
+   "alternativas": [
+    "3,38 lb/bbl",
+    "1,69 lb/bbl",
+    "2,70 lb/bbl",
+    "4,22 lb/bbl",
+    "5,07 lb/bbl"
+   ],
+   "correta": 0,
+   "explicacao": "POM = 2,6/1,0 = 2,60 mL; cal livre = 1,3 × 2,60 ≈ 3,38 lb/bbl."
+  },
+  {
+   "id": "aq-0104",
+   "dificuldade": 2,
+   "tema": "POM / cal livre",
+   "enunciado": "Em um fluido não aquoso, 5,0 mL de H₂SO₄ 0,1 N foram gastos na titulação de 2,0 mL de amostra. Qual o excesso de cal livre (lb/bbl)? (cal livre = 1,3 × POM)",
+   "tipo": "multipla",
+   "alternativas": [
+    "3,25 lb/bbl",
+    "4,06 lb/bbl",
+    "1,30 lb/bbl",
+    "6,47 lb/bbl",
+    "1,62 lb/bbl"
+   ],
+   "correta": 0,
+   "explicacao": "POM = 5,0/2,0 = 2,50 mL; cal livre = 1,3 × 2,50 ≈ 3,25 lb/bbl."
+  },
+  {
+   "id": "aq-0105",
+   "dificuldade": 2,
+   "tema": "POM / cal livre",
+   "enunciado": "Qual a concentração total de Ca(OH)₂ (lb/bbl) em um FBA com PM = 2,4 mL? (use 0,26 × PM)",
+   "tipo": "multipla",
+   "alternativas": [
+    "1,248 lb/bbl",
+    "0,499 lb/bbl",
+    "0,624 lb/bbl",
+    "0,780 lb/bbl",
+    "1,776 lb/bbl"
+   ],
+   "correta": 2,
+   "explicacao": "Ca(OH)₂ = 0,26 × 2,4 ≈ 0,624 lb/bbl. O fator 1,3 vale para POM (H₂SO₄ 0,1 N), o 0,26 para PM (0,02 N): 1,3/0,26 = 5, a razão das normalidades."
+  },
+  {
+   "id": "aq-0106",
+   "dificuldade": 1,
+   "tema": "Retorta e sólidos",
+   "enunciado": "Em uma retorta de 10 mL, recuperaram-se 6,1 mL de água e 2,5 mL de óleo. Qual o volume de sólidos totais (VST) da amostra?",
+   "tipo": "multipla",
+   "alternativas": [
+    "3,9 mL",
+    "1,4 mL",
+    "1,8 mL",
+    "2,8 mL",
+    "1,1 mL"
+   ],
+   "correta": 1,
+   "explicacao": "VST = VF − (VA + VFO) = 10 − (6,1 + 2,5) = 1,4 mL, ou 14,0% v/v. Inclui sólidos suspensos e sal dissolvido (ainda sem correção)."
+  },
+  {
+   "id": "aq-0107",
+   "dificuldade": 1,
+   "tema": "Retorta e sólidos",
+   "enunciado": "Em uma retorta de 10 mL, recuperaram-se 7,0 mL de água e 1,5 mL de óleo. Qual o volume de sólidos totais (VST) da amostra?",
+   "tipo": "multipla",
+   "alternativas": [
+    "1,5 mL",
+    "3,0 mL",
+    "1,2 mL",
+    "1,9 mL",
+    "2,2 mL"
+   ],
+   "correta": 0,
+   "explicacao": "VST = VF − (VA + VFO) = 10 − (7,0 + 1,5) = 1,5 mL, ou 15,0% v/v. Inclui sólidos suspensos e sal dissolvido (ainda sem correção)."
+  },
+  {
+   "id": "aq-0108",
+   "dificuldade": 1,
+   "tema": "Retorta e sólidos",
+   "enunciado": "Em uma retorta de 20 mL, recuperaram-se 13,0 mL de água e 3,4 mL de óleo. Qual o volume de sólidos totais (VST) da amostra?",
+   "tipo": "multipla",
+   "alternativas": [
+    "4,5 mL",
+    "3,6 mL",
+    "7,0 mL",
+    "7,2 mL",
+    "2,9 mL"
+   ],
+   "correta": 1,
+   "explicacao": "VST = VF − (VA + VFO) = 20 − (13,0 + 3,4) = 3,6 mL, ou 18,0% v/v. Inclui sólidos suspensos e sal dissolvido (ainda sem correção)."
+  },
+  {
+   "id": "aq-0109",
+   "dificuldade": 1,
+   "tema": "Retorta e sólidos",
+   "enunciado": "Em uma retorta de 50 mL, recuperaram-se 38,5 mL de água e 5,0 mL de óleo. Qual o volume de sólidos totais (VST) da amostra?",
+   "tipo": "multipla",
+   "alternativas": [
+    "11,5 mL",
+    "13,0 mL",
+    "8,1 mL",
+    "6,5 mL",
+    "5,2 mL"
+   ],
+   "correta": 3,
+   "explicacao": "VST = VF − (VA + VFO) = 50 − (38,5 + 5,0) = 6,5 mL, ou 13,0% v/v. Inclui sólidos suspensos e sal dissolvido (ainda sem correção)."
+  },
+  {
+   "id": "aq-0110",
+   "dificuldade": 1,
+   "tema": "Retorta e sólidos",
+   "enunciado": "Retorta de 10 mL com 7,0 mL de água recuperada. A salmoura tem fator de volume FV = 1,059. Qual o volume de sólidos dissolvidos (VSD)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,330 mL",
+    "0,590 mL",
+    "0,516 mL",
+    "0,826 mL",
+    "0,413 mL"
+   ],
+   "correta": 4,
+   "explicacao": "VSD = VA × (FV − 1) = 7,0 × (1,059 − 1) = 0,413 mL. É o volume de sal que ficou na cápsula e foi contado como sólido."
+  },
+  {
+   "id": "aq-0111",
+   "dificuldade": 1,
+   "tema": "Retorta e sólidos",
+   "enunciado": "Retorta de 10 mL com 8,0 mL de água recuperada. A salmoura tem fator de volume FV = 1,087. Qual o volume de sólidos dissolvidos (VSD)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,696 mL",
+    "0,557 mL",
+    "1,044 mL",
+    "0,870 mL",
+    "1,392 mL"
+   ],
+   "correta": 0,
+   "explicacao": "VSD = VA × (FV − 1) = 8,0 × (1,087 − 1) = 0,696 mL. É o volume de sal que ficou na cápsula e foi contado como sólido."
+  },
+  {
+   "id": "aq-0112",
+   "dificuldade": 1,
+   "tema": "Retorta e sólidos",
+   "enunciado": "Retorta de 10 mL com 6,5 mL de água recuperada. A salmoura tem fator de volume FV = 1,050. Qual o volume de sólidos dissolvidos (VSD)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,406 mL",
+    "0,650 mL",
+    "0,500 mL",
+    "0,260 mL",
+    "0,325 mL"
+   ],
+   "correta": 4,
+   "explicacao": "VSD = VA × (FV − 1) = 6,5 × (1,050 − 1) = 0,325 mL. É o volume de sal que ficou na cápsula e foi contado como sólido."
+  },
+  {
+   "id": "aq-0113",
+   "dificuldade": 2,
+   "tema": "Retorta e sólidos",
+   "enunciado": "Retorta de 10 mL: 6,1 mL de água, 2,5 mL de óleo e salmoura com FV = 1,060. Qual o VSS (sólidos suspensos corrigidos)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "1,400 mL",
+    "1,766 mL",
+    "1,292 mL",
+    "1,034 mL",
+    "3,534 mL"
+   ],
+   "correta": 3,
+   "explicacao": "VSS = VF − (VFO + VA·FV) = 10 − (2,5 + 6,1 × 1,060) = 10 − 8,966 = 1,034 mL. Equivale a VST (1,4) − VSD (0,366)."
+  },
+  {
+   "id": "aq-0114",
+   "dificuldade": 2,
+   "tema": "Retorta e sólidos",
+   "enunciado": "Em um fluido base água, retorta de 10 mL: VA = 8,0 mL e FV = 1,087 (sem óleo). Qual a porcentagem de sólidos suspensos corrigidos (%SS)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "26,96 %",
+    "13,04 %",
+    "20,00 %",
+    "26,08 %",
+    "6,96 %"
+   ],
+   "correta": 1,
+   "explicacao": "VSS = 10 − 8,0 × 1,087 = 1,304 mL → %SS = 100 × 1,304 / 10 = 13,04%. Sem a correção do FV, ler-se-iam 20% de sólidos, o que superestima o problema."
+  },
+  {
+   "id": "aq-0115",
+   "dificuldade": 1,
+   "tema": "Retorta e sólidos",
+   "enunciado": "Em um fluido base água, a retorta de 10 mL recupera 7,0 mL de água. Qual a porcentagem em volume de água?",
+   "tipo": "multipla",
+   "alternativas": [
+    "70 %",
+    "60 %",
+    "78 %",
+    "88 %",
+    "30 %"
+   ],
+   "correta": 0,
+   "explicacao": "%Água = 100 × VA/VF = 100 × 7,0/10 = 70%. Os 3 mL restantes são sólidos (suspensos + dissolvidos)."
+  },
+  {
+   "id": "aq-0116",
+   "dificuldade": 2,
+   "tema": "Retorta e sólidos",
+   "enunciado": "Salmoura com FV = 1,059 ocupa 7,0 mL de água de uma retorta de 10 mL. Qual a porcentagem de fase aquosa (salmoura) do fluido?",
+   "tipo": "multipla",
+   "alternativas": [
+    "66,10 %",
+    "30,00 %",
+    "74,13 %",
+    "70,00 %",
+    "92,66 %"
+   ],
+   "correta": 2,
+   "explicacao": "Vsalm = VA × FV = 7,0 × 1,059 = 7,413 mL → 74,13% v/v de fase aquosa (e 70% de água). A diferença de 4,13 pontos é o sal dissolvido."
+  },
+  {
+   "id": "aq-0117",
+   "dificuldade": 2,
+   "tema": "Retorta e sólidos",
+   "enunciado": "Fluido base água (NaCl a 15% na fase aquosa) de 11,5 ppg (1,378 g/mL). Retorta de 10 mL: VA = 8,4 mL, sem óleo. Salmoura: FV = 1,059, densidade 1,111 g/mL. Qual o volume de sólidos suspensos (VSS) na retorta?",
+   "tipo": "multipla",
+   "alternativas": [
+    "1,380 mL",
+    "1,600 mL",
+    "1,104 mL",
+    "0,496 mL",
+    "1,436 mL"
+   ],
+   "correta": 2,
+   "explicacao": "VSS = 10 − VA·FV = 10 − 8,4 × 1,059 = 1,104 mL (11,0% v/v)."
+  },
+  {
+   "id": "aq-0118",
+   "dificuldade": 3,
+   "tema": "Retorta e sólidos",
+   "enunciado": "Fluido base água (NaCl a 15% na fase aquosa) de 11,5 ppg (1,378 g/mL). Retorta de 10 mL: VA = 8,4 mL, sem óleo. Salmoura: FV = 1,059, densidade 1,111 g/mL. Qual a densidade média dos sólidos em suspensão (DSS)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "12,48 g/mL",
+    "2,82 g/mL",
+    "4,24 g/mL",
+    "3,53 g/mL",
+    "2,78 g/mL"
+   ],
+   "correta": 3,
+   "explicacao": "Vsalm = 8,4 × 1,059 = 8,896 mL. DSS = [DF·VF − Dsalm·Vsalm]/VSS = [13,781 − 9,883]/1,104 = 3,53 g/mL. Está entre 2,6 (sólidos leves) e 4,2 (barita), logo há mistura dos dois."
+  },
+  {
+   "id": "aq-0119",
+   "dificuldade": 3,
+   "tema": "Retorta e sólidos",
+   "enunciado": "Fluido base água (NaCl a 15% na fase aquosa) de 11,5 ppg (1,378 g/mL). Retorta de 10 mL: VA = 8,4 mL, sem óleo. Salmoura: FV = 1,059, densidade 1,111 g/mL. Admita DSS calculada, barita de 4,2 g/mL e sólidos perfurados (LGS) de 2,6 g/mL. Qual a concentração de sólidos leves [SL] em lb/bbl?",
+   "tipo": "multipla",
+   "alternativas": [
+    "42 lb/bbl",
+    "30 lb/bbl",
+    "137 lb/bbl",
+    "55 lb/bbl",
+    "94 lb/bbl"
+   ],
+   "correta": 0,
+   "explicacao": "DSS = 3,53 g/mL; [SL] = DSL·VSS·(DSP − DSS)/[VF·(DSP − DSL)] = 2,6 × 1,104 × (4,2 − 3,53)/[10 × 1,6] = 0,120 g/mL. Como 1 g/350,5 mL = 1 lb/bbl, [SL] ≈ 42 lb/bbl."
+  },
+  {
+   "id": "aq-0120",
+   "dificuldade": 3,
+   "tema": "Retorta e sólidos",
+   "enunciado": "Fluido base água (NaCl a 15% na fase aquosa) de 11,5 ppg (1,378 g/mL). Retorta de 10 mL: VA = 8,4 mL, sem óleo. Salmoura: FV = 1,059, densidade 1,111 g/mL. Admita barita 4,2 g/mL e LGS 2,6 g/mL. Qual a concentração de barita [SP] em lb/bbl?",
+   "tipo": "multipla",
+   "alternativas": [
+    "137 lb/bbl",
+    "71 lb/bbl",
+    "123 lb/bbl",
+    "42 lb/bbl",
+    "94 lb/bbl"
+   ],
+   "correta": 4,
+   "explicacao": "[SS] = DSS·VSS/VF = 3,53 × 1,104/10 = 0,390 g/mL = 137 lb/bbl. [SL] = 42 lb/bbl. [SP] = [SS] − [SL] = 94 lb/bbl."
+  },
+  {
+   "id": "aq-0121",
+   "dificuldade": 2,
+   "tema": "Retorta e sólidos",
+   "enunciado": "Fluido base água (NaCl a 15% na fase aquosa) de 12,0 ppg (1,438 g/mL). Retorta de 10 mL: VA = 8,0 mL, sem óleo. Salmoura: FV = 1,059, densidade 1,111 g/mL. Qual o volume de sólidos suspensos (VSS) na retorta?",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,472 mL",
+    "2,000 mL",
+    "1,986 mL",
+    "0,681 mL",
+    "1,528 mL"
+   ],
+   "correta": 4,
+   "explicacao": "VSS = 10 − VA·FV = 10 − 8,0 × 1,059 = 1,528 mL (15,3% v/v)."
+  },
+  {
+   "id": "aq-0122",
+   "dificuldade": 3,
+   "tema": "Retorta e sólidos",
+   "enunciado": "Fluido base água (NaCl a 15% na fase aquosa) de 12,0 ppg (1,438 g/mL). Retorta de 10 mL: VA = 8,0 mL, sem óleo. Salmoura: FV = 1,059, densidade 1,111 g/mL. Qual a densidade média dos sólidos em suspensão (DSS)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "2,60 g/mL",
+    "3,90 g/mL",
+    "9,41 g/mL",
+    "3,25 g/mL",
+    "2,75 g/mL"
+   ],
+   "correta": 3,
+   "explicacao": "Vsalm = 8,0 × 1,059 = 8,472 mL. DSS = [DF·VF − Dsalm·Vsalm]/VSS = [14,380 − 9,412]/1,528 = 3,25 g/mL. Está entre 2,6 (sólidos leves) e 4,2 (barita), logo há mistura dos dois."
+  },
+  {
+   "id": "aq-0123",
+   "dificuldade": 3,
+   "tema": "Retorta e sólidos",
+   "enunciado": "Fluido base água (NaCl a 15% na fase aquosa) de 12,0 ppg (1,438 g/mL). Retorta de 10 mL: VA = 8,0 mL, sem óleo. Salmoura: FV = 1,059, densidade 1,111 g/mL. Admita DSS calculada, barita de 4,2 g/mL e sólidos perfurados (LGS) de 2,6 g/mL. Qual a concentração de sólidos leves [SL] em lb/bbl?",
+   "tipo": "multipla",
+   "alternativas": [
+    "92 lb/bbl",
+    "107 lb/bbl",
+    "83 lb/bbl",
+    "58 lb/bbl",
+    "174 lb/bbl"
+   ],
+   "correta": 2,
+   "explicacao": "DSS = 3,25 g/mL; [SL] = DSL·VSS·(DSP − DSS)/[VF·(DSP − DSL)] = 2,6 × 1,528 × (4,2 − 3,25)/[10 × 1,6] = 0,236 g/mL. Como 1 g/350,5 mL = 1 lb/bbl, [SL] ≈ 83 lb/bbl."
+  },
+  {
+   "id": "aq-0124",
+   "dificuldade": 2,
+   "tema": "Retorta e sólidos",
+   "enunciado": "Fluido base água (água doce na fase aquosa) de 10,5 ppg (1,258 g/mL). Retorta de 10 mL: VA = 8,7 mL, sem óleo. Salmoura: FV = 1,000, densidade 1,000 g/mL. Qual o volume de sólidos suspensos (VSS) na retorta?",
+   "tipo": "multipla",
+   "alternativas": [
+    "1,300 mL",
+    "1,625 mL",
+    "1,690 mL",
+    "0,430 mL",
+    "1,040 mL"
+   ],
+   "correta": 0,
+   "explicacao": "VSS = 10 − VA·FV = 10 − 8,7 × 1,000 = 1,300 mL (13,0% v/v)."
+  },
+  {
+   "id": "aq-0125",
+   "dificuldade": 3,
+   "tema": "Retorta e sólidos",
+   "enunciado": "Fluido base água (água doce na fase aquosa) de 10,5 ppg (1,258 g/mL). Retorta de 10 mL: VA = 8,7 mL, sem óleo. Salmoura: FV = 1,000, densidade 1,000 g/mL. Qual a densidade média dos sólidos em suspensão (DSS)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "3,74 g/mL",
+    "3,58 g/mL",
+    "2,99 g/mL",
+    "2,39 g/mL",
+    "9,68 g/mL"
+   ],
+   "correta": 2,
+   "explicacao": "Vsalm = 8,7 × 1,000 = 8,700 mL. DSS = [DF·VF − Dsalm·Vsalm]/VSS = [12,582 − 8,700]/1,300 = 2,99 g/mL. Está entre 2,6 (sólidos leves) e 4,2 (barita), logo há mistura dos dois."
+  },
+  {
+   "id": "aq-0126",
+   "dificuldade": 3,
+   "tema": "Retorta e sólidos",
+   "enunciado": "Fluido base água (água doce na fase aquosa) de 10,5 ppg (1,258 g/mL). Retorta de 10 mL: VA = 8,7 mL, sem óleo. Salmoura: FV = 1,000, densidade 1,000 g/mL. Admita DSS calculada, barita de 4,2 g/mL e sólidos perfurados (LGS) de 2,6 g/mL. Qual a concentração de sólidos leves [SL] em lb/bbl?",
+   "tipo": "multipla",
+   "alternativas": [
+    "63 lb/bbl",
+    "136 lb/bbl",
+    "46 lb/bbl",
+    "117 lb/bbl",
+    "90 lb/bbl"
+   ],
+   "correta": 4,
+   "explicacao": "DSS = 2,99 g/mL; [SL] = DSL·VSS·(DSP − DSS)/[VF·(DSP − DSL)] = 2,6 × 1,300 × (4,2 − 2,99)/[10 × 1,6] = 0,256 g/mL. Como 1 g/350,5 mL = 1 lb/bbl, [SL] ≈ 90 lb/bbl."
+  },
+  {
+   "id": "aq-0127",
+   "dificuldade": 2,
+   "tema": "Retorta e sólidos",
+   "enunciado": "Fluido base água (NaCl a 20% na fase aquosa) de 13,0 ppg (1,558 g/mL). Retorta de 10 mL: VA = 7,0 mL, sem óleo. Salmoura: FV = 1,087, densidade 1,150 g/mL. Qual o volume de sólidos suspensos (VSS) na retorta?",
+   "tipo": "multipla",
+   "alternativas": [
+    "3,108 mL",
+    "1,630 mL",
+    "0,609 mL",
+    "3,000 mL",
+    "2,391 mL"
+   ],
+   "correta": 4,
+   "explicacao": "VSS = 10 − VA·FV = 10 − 7,0 × 1,087 = 2,391 mL (23,9% v/v)."
+  },
+  {
+   "id": "aq-0128",
+   "dificuldade": 3,
+   "tema": "Retorta e sólidos",
+   "enunciado": "Fluido base água (NaCl a 20% na fase aquosa) de 13,0 ppg (1,558 g/mL). Retorta de 10 mL: VA = 7,0 mL, sem óleo. Salmoura: FV = 1,087, densidade 1,150 g/mL. Qual a densidade média dos sólidos em suspensão (DSS)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "2,86 g/mL",
+    "2,28 g/mL",
+    "6,52 g/mL",
+    "3,43 g/mL",
+    "2,51 g/mL"
+   ],
+   "correta": 0,
+   "explicacao": "Vsalm = 7,0 × 1,087 = 7,609 mL. DSS = [DF·VF − Dsalm·Vsalm]/VSS = [15,578 − 8,750]/2,391 = 2,86 g/mL. Está entre 2,6 (sólidos leves) e 4,2 (barita), logo há mistura dos dois."
+  },
+  {
+   "id": "aq-0129",
+   "dificuldade": 3,
+   "tema": "Retorta e sólidos",
+   "enunciado": "Fluido base água (NaCl a 20% na fase aquosa) de 13,0 ppg (1,558 g/mL). Retorta de 10 mL: VA = 7,0 mL, sem óleo. Salmoura: FV = 1,087, densidade 1,150 g/mL. Admita DSS calculada, barita de 4,2 g/mL e sólidos perfurados (LGS) de 2,6 g/mL. Qual a concentração de sólidos leves [SL] em lb/bbl?",
+   "tipo": "multipla",
+   "alternativas": [
+    "239 lb/bbl",
+    "128 lb/bbl",
+    "183 lb/bbl",
+    "56 lb/bbl",
+    "238 lb/bbl"
+   ],
+   "correta": 2,
+   "explicacao": "DSS = 2,86 g/mL; [SL] = DSL·VSS·(DSP − DSS)/[VF·(DSP − DSL)] = 2,6 × 2,391 × (4,2 − 2,86)/[10 × 1,6] = 0,522 g/mL. Como 1 g/350,5 mL = 1 lb/bbl, [SL] ≈ 183 lb/bbl."
+  },
+  {
+   "id": "aq-0130",
+   "dificuldade": 3,
+   "tema": "Retorta e sólidos",
+   "enunciado": "Fluido base água (NaCl a 20% na fase aquosa) de 13,0 ppg (1,558 g/mL). Retorta de 10 mL: VA = 7,0 mL, sem óleo. Salmoura: FV = 1,087, densidade 1,150 g/mL. Admita barita 4,2 g/mL e LGS 2,6 g/mL. Qual a concentração de barita [SP] em lb/bbl?",
+   "tipo": "multipla",
+   "alternativas": [
+    "56 lb/bbl",
+    "73 lb/bbl",
+    "70 lb/bbl",
+    "183 lb/bbl",
+    "42 lb/bbl"
+   ],
+   "correta": 0,
+   "explicacao": "[SS] = DSS·VSS/VF = 2,86 × 2,391/10 = 0,683 g/mL = 239 lb/bbl. [SL] = 183 lb/bbl. [SP] = [SS] − [SL] = 56 lb/bbl."
+  },
+  {
+   "id": "aq-0131",
+   "dificuldade": 2,
+   "tema": "Retorta e sólidos",
+   "enunciado": "Fluido base água (NaCl a 13% na fase aquosa) de 11,0 ppg (1,318 g/mL). Retorta de 10 mL: VA = 8,5 mL, sem óleo. Salmoura: FV = 1,050, densidade 1,095 g/mL. Qual o volume de sólidos suspensos (VSS) na retorta?",
+   "tipo": "multipla",
+   "alternativas": [
+    "1,397 mL",
+    "1,344 mL",
+    "0,425 mL",
+    "1,075 mL",
+    "1,500 mL"
+   ],
+   "correta": 3,
+   "explicacao": "VSS = 10 − VA·FV = 10 − 8,5 × 1,050 = 1,075 mL (10,7% v/v)."
+  },
+  {
+   "id": "aq-0132",
+   "dificuldade": 3,
+   "tema": "Retorta e sólidos",
+   "enunciado": "Fluido base água (NaCl a 13% na fase aquosa) de 11,0 ppg (1,318 g/mL). Retorta de 10 mL: VA = 8,5 mL, sem óleo. Salmoura: FV = 1,050, densidade 1,095 g/mL. Qual a densidade média dos sólidos em suspensão (DSS)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "2,54 g/mL",
+    "12,26 g/mL",
+    "2,58 g/mL",
+    "3,81 g/mL",
+    "3,17 g/mL"
+   ],
+   "correta": 4,
+   "explicacao": "Vsalm = 8,5 × 1,050 = 8,925 mL. DSS = [DF·VF − Dsalm·Vsalm]/VSS = [13,182 − 9,773]/1,075 = 3,17 g/mL. Está entre 2,6 (sólidos leves) e 4,2 (barita), logo há mistura dos dois."
+  },
+  {
+   "id": "aq-0133",
+   "dificuldade": 3,
+   "tema": "Retorta e sólidos",
+   "enunciado": "Fluido base água (NaCl a 13% na fase aquosa) de 11,0 ppg (1,318 g/mL). Retorta de 10 mL: VA = 8,5 mL, sem óleo. Salmoura: FV = 1,050, densidade 1,095 g/mL. Admita DSS calculada, barita de 4,2 g/mL e sólidos perfurados (LGS) de 2,6 g/mL. Qual a concentração de sólidos leves [SL] em lb/bbl?",
+   "tipo": "multipla",
+   "alternativas": [
+    "56 lb/bbl",
+    "44 lb/bbl",
+    "63 lb/bbl",
+    "119 lb/bbl",
+    "82 lb/bbl"
+   ],
+   "correta": 2,
+   "explicacao": "DSS = 3,17 g/mL; [SL] = DSL·VSS·(DSP − DSS)/[VF·(DSP − DSL)] = 2,6 × 1,075 × (4,2 − 3,17)/[10 × 1,6] = 0,180 g/mL. Como 1 g/350,5 mL = 1 lb/bbl, [SL] ≈ 63 lb/bbl."
+  },
+  {
+   "id": "aq-0134",
+   "dificuldade": 3,
+   "tema": "Retorta e sólidos",
+   "enunciado": "Um fluido de 12,0 ppg com salmoura de NaCl a 15% tem [SL] ≈ 83 lb/bbl de sólidos perfurados (2,6 g/mL), isto é, ≈ 9,1% v/v. O programa limita LGS a 6% v/v. Qual a conduta mais adequada?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Aceitar o valor, pois o limite só vale para fluidos não aquosos",
+    "Reforçar o controle de sólidos (peneiras, centrífuga/hidrociclones) e diluir com fase aquosa de composição correta, sem adicionar bentonita",
+    "Reduzir a vazão para diminuir a incorporação de sólidos",
+    "Adicionar bentonita para “encapsular” os sólidos",
+    "Adensar com mais barita para compensar o volume de LGS"
+   ],
+   "correta": 1,
+   "explicacao": "83 lb/bbl ÷ 2,6 g/mL ÷ 350,5 mL × 100 = 9,1% v/v, acima do limite de 6%. O LGS aumenta viscosidade plástica, reboco e perda de carga e reduz a ROP. A solução é remover (controle de sólidos) e diluir; bentonita ou barita adicionais só pioram."
+  },
+  {
+   "id": "aq-0135",
+   "dificuldade": 1,
+   "tema": "MBT (azul de metileno)",
+   "enunciado": "No teste de MBT foram consumidos 9 mL de azul de metileno para 2 mL de fluido. Qual a concentração de argila equivalente (CTC de referência 70 meq/100 g)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "28,1 lb/bbl",
+    "45,0 lb/bbl",
+    "11,2 lb/bbl",
+    "18,0 lb/bbl",
+    "22,5 lb/bbl"
+   ],
+   "correta": 4,
+   "explicacao": "[argila] = 5 × V_MB / V_amostra = 5 × 9 / 2 = 22,5 lb/bbl equivalentes de bentonita."
+  },
+  {
+   "id": "aq-0136",
+   "dificuldade": 1,
+   "tema": "MBT (azul de metileno)",
+   "enunciado": "No teste de MBT foram consumidos 6 mL de azul de metileno para 3 mL de fluido. Qual a concentração de argila equivalente (CTC de referência 70 meq/100 g)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "5,0 lb/bbl",
+    "2,5 lb/bbl",
+    "12,5 lb/bbl",
+    "20,0 lb/bbl",
+    "10,0 lb/bbl"
+   ],
+   "correta": 4,
+   "explicacao": "[argila] = 5 × V_MB / V_amostra = 5 × 6 / 3 = 10,0 lb/bbl equivalentes de bentonita."
+  },
+  {
+   "id": "aq-0137",
+   "dificuldade": 2,
+   "tema": "MBT (azul de metileno)",
+   "enunciado": "No teste de MBT foram consumidos 4 mL de azul de metileno para 1 mL de fluido. Qual a concentração de argila equivalente (CTC de referência 70 meq/100 g)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "10,0 lb/bbl",
+    "40,0 lb/bbl",
+    "20,0 lb/bbl",
+    "16,0 lb/bbl",
+    "25,0 lb/bbl"
+   ],
+   "correta": 2,
+   "explicacao": "[argila] = 5 × V_MB / V_amostra = 5 × 4 / 1 = 20,0 lb/bbl equivalentes de bentonita."
+  },
+  {
+   "id": "aq-0138",
+   "dificuldade": 2,
+   "tema": "MBT (azul de metileno)",
+   "enunciado": "No teste de MBT foram consumidos 12 mL de azul de metileno para 5 mL de fluido. Qual a concentração de argila equivalente (CTC de referência 70 meq/100 g)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "15,0 lb/bbl",
+    "9,6 lb/bbl",
+    "24,0 lb/bbl",
+    "6,0 lb/bbl",
+    "12,0 lb/bbl"
+   ],
+   "correta": 4,
+   "explicacao": "[argila] = 5 × V_MB / V_amostra = 5 × 12 / 5 = 12,0 lb/bbl equivalentes de bentonita."
+  },
+  {
+   "id": "aq-0139",
+   "dificuldade": 2,
+   "tema": "MBT (azul de metileno)",
+   "enunciado": "O MBT do fluido está em 30 lb/bbl e o limite do programa é 20 lb/bbl. Quanto de água (sem argila) deve ser adicionada a 800 bbl de fluido para atingir o limite? (Despreze a variação de volume por mistura.)",
+   "tipo": "multipla",
+   "alternativas": [
+    "533 bbl",
+    "1.200 bbl",
+    "600 bbl",
+    "400 bbl",
+    "267 bbl"
+   ],
+   "correta": 3,
+   "explicacao": "C1·V1 = C2·V2 → V2 = 800 × 30/20 = 1.200 bbl. Água a adicionar = V2 − V1 = 400 bbl."
+  },
+  {
+   "id": "aq-0140",
+   "dificuldade": 2,
+   "tema": "MBT (azul de metileno)",
+   "enunciado": "O MBT do fluido está em 25 lb/bbl e o limite do programa é 15 lb/bbl. Quanto de água (sem argila) deve ser adicionada a 600 bbl de fluido para atingir o limite? (Despreze a variação de volume por mistura.)",
+   "tipo": "multipla",
+   "alternativas": [
+    "360 bbl",
+    "1.000 bbl",
+    "240 bbl",
+    "600 bbl",
+    "400 bbl"
+   ],
+   "correta": 4,
+   "explicacao": "C1·V1 = C2·V2 → V2 = 600 × 25/15 = 1.000 bbl. Água a adicionar = V2 − V1 = 400 bbl."
+  },
+  {
+   "id": "aq-0141",
+   "dificuldade": 3,
+   "tema": "MBT (azul de metileno)",
+   "enunciado": "O MBT do fluido está em 40 lb/bbl e o limite do programa é 25 lb/bbl. Quanto de água (sem argila) deve ser adicionada a 1000 bbl de fluido para atingir o limite? (Despreze a variação de volume por mistura.)",
+   "tipo": "multipla",
+   "alternativas": [
+    "1.600 bbl",
+    "600 bbl",
+    "625 bbl",
+    "900 bbl",
+    "375 bbl"
+   ],
+   "correta": 1,
+   "explicacao": "C1·V1 = C2·V2 → V2 = 1000 × 40/25 = 1.600 bbl. Água a adicionar = V2 − V1 = 600 bbl."
+  },
+  {
+   "id": "aq-0142",
+   "dificuldade": 2,
+   "tema": "MBT (azul de metileno)",
+   "enunciado": "Um fluido de 500 bbl tem MBT = 28 lb/bbl. Quantos lb de argila equivalente há no tanque? (1 lb/bbl = 1 lb por bbl de fluido)",
+   "tipo": "multipla",
+   "alternativas": [
+    "17.500 lb",
+    "4.907 lb",
+    "11.200 lb",
+    "14.000 lb",
+    "21.000 lb"
+   ],
+   "correta": 3,
+   "explicacao": "Massa = 28 lb/bbl × 500 bbl = 14.000 lb de argila equivalente (≈ 6,35 t)."
+  },
+  {
+   "id": "aq-0143",
+   "dificuldade": 2,
+   "tema": "Salmoura e densidade",
+   "enunciado": "Preparar 1.500 bbl de salmoura de NaCl a 15% (166.650 mg/L; 1 bbl = 158,987 L). Quantas toneladas de NaCl são necessárias?",
+   "tipo": "multipla",
+   "alternativas": [
+    "42,1 t",
+    "49,6 t",
+    "13,9 t",
+    "39,7 t",
+    "37,5 t"
+   ],
+   "correta": 3,
+   "explicacao": "Massa = 166,65 g/L × 1.500 bbl × 158,987 L/bbl = 39.742.775 g ≈ 39,7 t."
+  },
+  {
+   "id": "aq-0144",
+   "dificuldade": 2,
+   "tema": "Salmoura e densidade",
+   "enunciado": "Para o mesmo preparo (≈ 39,7 t de NaCl), quantos big bags de 1.000 kg são necessários (arredondando para cima)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "50 big bags",
+    "40 big bags",
+    "36 big bags",
+    "45 big bags",
+    "32 big bags"
+   ],
+   "correta": 1,
+   "explicacao": "39,74 t ÷ 1,0 t/big bag = 39,7 → 40 big bags (a fração impede 39)."
+  },
+  {
+   "id": "aq-0145",
+   "dificuldade": 3,
+   "tema": "Salmoura e densidade",
+   "enunciado": "Para preparar 1.500 bbl de salmoura de NaCl a 15% com FV = 1,059, quantos bbl de água doce devem ser colocados no tanque?",
+   "tipo": "multipla",
+   "alternativas": [
+    "1.416,4 bbl",
+    "1.275,0 bbl",
+    "1.588,5 bbl",
+    "1.304,3 bbl",
+    "1.770,5 bbl"
+   ],
+   "correta": 0,
+   "explicacao": "O sal dissolvido ocupa volume: Vsalm = Vágua × FV → Vágua = 1.500/1,059 = 1.416,4 bbl. Os ≈ 83,6 bbl restantes são o volume ocupado pelo sal."
+  },
+  {
+   "id": "aq-0146",
+   "dificuldade": 3,
+   "tema": "Salmoura e densidade",
+   "enunciado": "Dissolveram-se 59,6 t de NaCl em 1.500 bbl de água doce (FV da salmoura formada = 1,087; 1 bbl = 158,987 L). Qual a salinidade da salmoura?",
+   "tipo": "multipla",
+   "alternativas": [
+    "249.916 mg/L",
+    "229.913 mg/L",
+    "275.896 mg/L",
+    "287.391 mg/L",
+    "183.931 mg/L"
+   ],
+   "correta": 1,
+   "explicacao": "Volume final = 1.500 × 1,087 = 1.630,5 bbl = 259.228 L. Concentração = 59,6 × 10⁶ g / 259.228 L ≈ 229,9 g/L ≈ 229.913 mg/L, isto é, NaCl a 20% (≈ 80,6 lb/bbl). Dividir pelo volume de água, sem o FV, daria ≈ 250 g/L."
+  },
+  {
+   "id": "aq-0147",
+   "dificuldade": 1,
+   "tema": "Salmoura e densidade",
+   "enunciado": "Converta 166.650 mg/L de NaCl em lb/bbl (1 mg/L = 3,505 × 10⁻⁴ lb/bbl).",
+   "tipo": "multipla",
+   "alternativas": [
+    "87,6 lb/bbl",
+    "29,2 lb/bbl",
+    "46,7 lb/bbl",
+    "58,4 lb/bbl",
+    "73,0 lb/bbl"
+   ],
+   "correta": 3,
+   "explicacao": "166.650 × 3,505 × 10⁻⁴ = 58,4 lb/bbl."
+  },
+  {
+   "id": "aq-0148",
+   "dificuldade": 1,
+   "tema": "Salmoura e densidade",
+   "enunciado": "Converta 229.960 mg/L de NaCl em lb/bbl (1 mg/L = 3,505 × 10⁻⁴ lb/bbl).",
+   "tipo": "multipla",
+   "alternativas": [
+    "80,6 lb/bbl",
+    "120,9 lb/bbl",
+    "40,3 lb/bbl",
+    "64,5 lb/bbl",
+    "100,8 lb/bbl"
+   ],
+   "correta": 0,
+   "explicacao": "229.960 × 3,505 × 10⁻⁴ = 80,6 lb/bbl."
+  },
+  {
+   "id": "aq-0149",
+   "dificuldade": 2,
+   "tema": "Salmoura e densidade",
+   "enunciado": "Reduzir a densidade de 600 bbl de fluido de 12,0 ppg para 11,0 ppg adicionando um fluido de 8,33 ppg. Qual o volume a adicionar? (Volumes aditivos.)",
+   "tipo": "multipla",
+   "alternativas": [
+    "225 bbl",
+    "281 bbl",
+    "337 bbl",
+    "135 bbl",
+    "245 bbl"
+   ],
+   "correta": 0,
+   "explicacao": "Balanço de massa: V1·D1 + V2·D2 = (V1+V2)·Df → V2 = V1(Df − D1)/(D2 − Df) = 600 × (11,0 − 12,0)/(8,33 − 11,0) = 225 bbl. Volume final = 825 bbl."
+  },
+  {
+   "id": "aq-0150",
+   "dificuldade": 2,
+   "tema": "Salmoura e densidade",
+   "enunciado": "Reduzir a densidade de 800 bbl de fluido de 13,0 ppg para 12,0 ppg adicionando um fluido de 8,33 ppg. Qual o volume a adicionar? (Volumes aditivos.)",
+   "tipo": "multipla",
+   "alternativas": [
+    "62 bbl",
+    "327 bbl",
+    "218 bbl",
+    "131 bbl",
+    "257 bbl"
+   ],
+   "correta": 2,
+   "explicacao": "Balanço de massa: V1·D1 + V2·D2 = (V1+V2)·Df → V2 = V1(Df − D1)/(D2 − Df) = 800 × (12,0 − 13,0)/(8,33 − 12,0) = 218 bbl. Volume final = 1.018 bbl."
+  },
+  {
+   "id": "aq-0151",
+   "dificuldade": 3,
+   "tema": "Salmoura e densidade",
+   "enunciado": "Reduzir a densidade de 500 bbl de fluido de 12,5 ppg para 11,5 ppg adicionando um fluido de 9,00 ppg. Qual o volume a adicionar? (Volumes aditivos.)",
+   "tipo": "multipla",
+   "alternativas": [
+    "300 bbl",
+    "214 bbl",
+    "200 bbl",
+    "120 bbl",
+    "250 bbl"
+   ],
+   "correta": 2,
+   "explicacao": "Balanço de massa: V1·D1 + V2·D2 = (V1+V2)·Df → V2 = V1(Df − D1)/(D2 − Df) = 500 × (11,5 − 12,5)/(9,00 − 11,5) = 200 bbl. Volume final = 700 bbl."
+  },
+  {
+   "id": "aq-0152",
+   "dificuldade": 1,
+   "tema": "Titulação Pf/Mf",
+   "enunciado": "Um filtrado apresenta Pf = 0 e Mf > 0. A alcalinidade se deve a:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Apenas OH⁻",
+    "Apenas CO₃²⁻",
+    "OH⁻ e CO₃²⁻",
+    "CO₃²⁻ e HCO₃⁻",
+    "Apenas HCO₃⁻ (pH inferior a 8,3)"
+   ],
+   "correta": 4,
+   "explicacao": "Com Pf = 0 não há OH⁻ nem CO₃²⁻ (o pH já está abaixo de 8,3). Todo o ácido consumido até o alaranjado de metila (Mf) neutraliza HCO₃⁻: HCO₃⁻ = 1.220 × Mf mg/L."
+  },
+  {
+   "id": "aq-0153",
+   "dificuldade": 1,
+   "tema": "Titulação Pf/Mf",
+   "enunciado": "Se Pf = Mf, a alcalinidade do filtrado é devida somente ao OH⁻.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "Quando todo o ácido é gasto até pH 8,3, não resta nada para a segunda viragem: não há CO₃²⁻ nem HCO₃⁻. OH⁻ = 340 × Pf."
+  },
+  {
+   "id": "aq-0154",
+   "dificuldade": 2,
+   "tema": "Titulação Pf/Mf",
+   "enunciado": "Se Pf/Mf < 0,5, o filtrado contém CO₃²⁻ e HCO₃⁻ (e não contém OH⁻ livre).",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "Pf < Mf/2 significa que o ácido da primeira etapa só converte CO₃²⁻ em HCO₃⁻; o excedente até Mf titula o HCO₃⁻. CO₃²⁻ = 1.200 Pf; HCO₃⁻ = 1.220 (Mf − 2Pf)."
+  },
+  {
+   "id": "aq-0155",
+   "dificuldade": 3,
+   "tema": "Titulação Pf/Mf",
+   "enunciado": "Assinale a alternativa INCORRETA sobre a interpretação de Pf e Mf:",
+   "tipo": "incorreta",
+   "alternativas": [
+    "Se Pf = Mf, só há OH⁻",
+    "Se Pf = Mf/2, só há CO₃²⁻",
+    "Se Pf = 0, só há HCO₃⁻",
+    "Se Pf > Mf/2, há OH⁻ e CO₃²⁻",
+    "Se Pf < Mf/2, o filtrado contém OH⁻ e HCO₃⁻"
+   ],
+   "correta": 4,
+   "explicacao": "OH⁻ e HCO₃⁻ não coexistem (reagem entre si). Com Pf < Mf/2 há CO₃²⁻ e HCO₃⁻. As demais estão corretas."
+  },
+  {
+   "id": "aq-0156",
+   "dificuldade": 2,
+   "tema": "Alcalinidade Pf/Mf",
+   "enunciado": "Quatro filtrados foram testados (F1: Pf = 0,2, Mf = 1,4; F2: Pf = 0,6, Mf = 1,0; F3: Pf = 1,0, Mf = 1,0; F4: Pf = 0,4, Mf = 0,8; mL de H₂SO₄ 0,02 N). Qual contém a MAIOR concentração de HCO₃⁻?",
+   "tipo": "multipla",
+   "alternativas": [
+    "F1",
+    "F4",
+    "F3",
+    "F2"
+   ],
+   "correta": 0,
+   "explicacao": "HCO₃⁻ = 1.220 × (Mf − 2Pf) se Pf < Mf/2, ou 1.220 × Mf se Pf = 0. F1: 1.220 mg/L; F2: 0 mg/L; F3: 0 mg/L; F4: 0 mg/L."
+  },
+  {
+   "id": "aq-0157",
+   "dificuldade": 2,
+   "tema": "Alcalinidade Pf/Mf",
+   "enunciado": "Quatro filtrados foram testados (F1: Pf = 0,5, Mf = 1,5; F2: Pf = 0,9, Mf = 1,2; F3: Pf = 0,0, Mf = 1,0; F4: Pf = 0,3, Mf = 0,6; mL de H₂SO₄ 0,02 N). Qual contém a MAIOR concentração de HCO₃⁻?",
+   "tipo": "multipla",
+   "alternativas": [
+    "F4",
+    "F3",
+    "F2",
+    "F1"
+   ],
+   "correta": 1,
+   "explicacao": "HCO₃⁻ = 1.220 × (Mf − 2Pf) se Pf < Mf/2, ou 1.220 × Mf se Pf = 0. F1: 610 mg/L; F2: 0 mg/L; F3: 1.220 mg/L; F4: 0 mg/L."
+  },
+  {
+   "id": "aq-0158",
+   "dificuldade": 1,
+   "tema": "Dureza (Ca²⁺ e Mg²⁺)",
+   "enunciado": "Por que o Ca²⁺ é titulado com EDTA em pH ≈ 12, usando calcon?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Em pH 12 o EDTA se liga apenas ao Mg²⁺",
+    "O calcon só funciona em meio ácido",
+    "Para titular Ca²⁺ e Mg²⁺ juntos",
+    "Em pH 12 o Mg²⁺ precipita como Mg(OH)₂ e não consome EDTA, de modo que só o Ca²⁺ é titulado",
+    "Para que o Ca²⁺ precipite como Ca(OH)₂"
+   ],
+   "correta": 3,
+   "explicacao": "Em pH ≈ 12 (NaOH) o magnésio sai como hidróxido; o indicador calcon muda de vermelho para azul quando o EDTA complexa todo o Ca²⁺. Ca²⁺ = 400,8 × V1 (mg/L para 1 mL de filtrado)."
+  },
+  {
+   "id": "aq-0159",
+   "dificuldade": 3,
+   "tema": "Dureza (Ca²⁺ e Mg²⁺)",
+   "enunciado": "Sobre a determinação de dureza com EDTA 0,01 M em 1 mL de filtrado, considere (V1 = volume com calcon a pH 12; V2 = volume com NET a pH 10):",
+   "tipo": "combinacao",
+   "afirmativas": [
+    "I. O Ca²⁺ é titulado em pH 10, com calcon.",
+    "II. Mg²⁺ = 243,2 × (V2 − V1) mg/L.",
+    "III. A dureza total, como CaCO₃, é 1.002 × V2 mg/L."
+   ],
+   "alternativas": [
+    "Apenas I",
+    "Apenas II",
+    "Apenas III",
+    "Apenas II e III",
+    "I, II e III"
+   ],
+   "correta": 3,
+   "explicacao": "I é falsa: o Ca²⁺ é titulado em pH 12 com calcon; em pH 10 o indicador é o NET e titula Ca²⁺ + Mg²⁺ (dureza total). II e III são as expressões corretas."
+  },
+  {
+   "id": "aq-0160",
+   "dificuldade": 1,
+   "tema": "Salinidade",
+   "enunciado": "Na titulação de Cl⁻ do filtrado com AgNO₃ (0,282 N), qual o indicador e o sinal do ponto final?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Cromato de potássio; surge cor vermelho-tijolo (Ag₂CrO₄)",
+    "Fenolftaleína; a solução fica incolor",
+    "Calcon; muda de vermelho para azul",
+    "Amido; fica azul-escuro",
+    "Alaranjado de metila; vira para vermelho"
+   ],
+   "correta": 0,
+   "explicacao": "Método de Mohr: o Ag⁺ precipita primeiro AgCl (branco). Esgotado o Cl⁻, o excesso de Ag⁺ reage com o cromato e forma Ag₂CrO₄ vermelho-tijolo. Com AgNO₃ 0,282 N e 1 mL de filtrado, Cl⁻ = 10.000 × V (mg/L)."
+  },
+  {
+   "id": "aq-0161",
+   "dificuldade": 1,
+   "tema": "Contaminantes",
+   "enunciado": "Qual dos contaminantes abaixo NÃO pode ser removido do fluido aquoso por precipitação química?",
+   "tipo": "multipla",
+   "alternativas": [
+    "MgCl₂",
+    "Gesso/anidrita (CaSO₄)",
+    "Carbonatos e bicarbonatos",
+    "Cimento (Ca(OH)₂)",
+    "NaCl"
+   ],
+   "correta": 4,
+   "explicacao": "Sódio e cloreto não formam sais pouco solúveis nas condições do fluido. A contaminação por NaCl é tratada por diluição, uso de aditivos tolerantes ao sal ou conversão do fluido para salgado."
+  },
+  {
+   "id": "aq-0162",
+   "dificuldade": 2,
+   "tema": "Contaminantes",
+   "enunciado": "Durante a perfuração, o Ca²⁺ do filtrado sobe de 200 para 1.800 mg/L sem aumento de pH, Pf ou Mf. O contaminante mais provável é:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Gesso/anidrita",
+    "H₂S",
+    "CO₂",
+    "Cimento",
+    "NaCl"
+   ],
+   "correta": 0,
+   "explicacao": "Cimento libera Ca(OH)₂, que eleva Ca²⁺, pH e Pf ao mesmo tempo. Ca²⁺ alto com pH estável aponta para CaSO₄ (anidrita/gesso). O tratamento é com barrilha (Na₂CO₃), que precipita CaCO₃."
+  },
+  {
+   "id": "aq-0163",
+   "dificuldade": 2,
+   "tema": "Contaminantes",
+   "enunciado": "Após perfurar cimento, o fluido aquoso apresenta pH 12, Pf elevado e Ca²⁺ alto, com gel progressivo. O tratamento preferencial é:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Soda cáustica, para precipitar o cálcio",
+    "Cloreto de sódio, para reduzir o Ca²⁺",
+    "Bicarbonato de sódio, que remove o Ca²⁺ como CaCO₃ e abaixa a alcalinidade",
+    "Barrilha em grande excesso para qualquer nível de contaminação",
+    "Cal hidratada, para estabilizar o pH"
+   ],
+   "correta": 2,
+   "explicacao": "Ca(OH)₂ + NaHCO₃ → CaCO₃↓ + NaOH + H₂O. O bicarbonato retira o Ca²⁺ sem aumentar o pH como a barrilha faria. Barrilha só é indicada em contaminação leve."
+  },
+  {
+   "id": "aq-0164",
+   "dificuldade": 3,
+   "tema": "Contaminação por cimento",
+   "enunciado": "Sobre o tratamento de contaminação por cimento com bicarbonato de sódio, considere:",
+   "tipo": "combinacao",
+   "afirmativas": [
+    "I. O cálcio é removido como CaCO₃, pouco solúvel.",
+    "II. A reação gera NaOH, de modo que o pH não cai tanto quanto se esperaria.",
+    "III. A barrilha é preferível ao bicarbonato em contaminação severa por reduzir o pH."
+   ],
+   "alternativas": [
+    "Apenas I",
+    "Apenas II",
+    "Apenas I e II",
+    "Apenas I e III",
+    "I, II e III"
+   ],
+   "correta": 2,
+   "explicacao": "III é falsa: a barrilha (Na₂CO₃) é alcalina e eleva o pH; por isso o bicarbonato é o produto preferencial na contaminação por cimento. I e II descrevem a reação Ca(OH)₂ + NaHCO₃ → CaCO₃ + NaOH + H₂O."
+  },
+  {
+   "id": "aq-0165",
+   "dificuldade": 1,
+   "tema": "Anidrita / gesso",
+   "enunciado": "Por que NaOH não é adequado para remover o Ca²⁺ de uma contaminação por anidrita, enquanto a barrilha é?",
+   "tipo": "multipla",
+   "alternativas": [
+    "O NaOH precipita CaSO₄ como gesso",
+    "O Ca(OH)₂ é razoavelmente solúvel e o Ca²⁺ permanece; o CaCO₃ formado com a barrilha é pouco solúvel",
+    "A barrilha reduz o pH a menos de 7",
+    "O NaOH reage com o sulfato e forma H₂S",
+    "A barrilha é um ácido forte"
+   ],
+   "correta": 1,
+   "explicacao": "Ca²⁺ + CO₃²⁻ → CaCO₃↓ remove o cálcio. O hidróxido de cálcio é bem mais solúvel e apenas troca o ânion. Cuidado com excesso: sobra CO₃²⁻ livre."
+  },
+  {
+   "id": "aq-0166",
+   "dificuldade": 2,
+   "tema": "Anidrita / gesso",
+   "enunciado": "Qual o principal risco de aplicar barrilha acima da quantidade estequiométrica em uma contaminação por anidrita?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Precipitação de toda a barita",
+    "Redução do pH a menos de 4",
+    "Aumento do teor de NaCl",
+    "Sobra CO₃²⁻ livre (Mf alto), que passa a exigir novo tratamento",
+    "Formação de H₂S"
+   ],
+   "correta": 3,
+   "explicacao": "O excesso de carbonato permanece no filtrado e eleva Mf. É o over treatment: remove-se depois com cal ou gesso. Trate com a quantidade calculada pelo Ca²⁺ e re-meça."
+  },
+  {
+   "id": "aq-0167",
+   "dificuldade": 2,
+   "tema": "MgCl₂",
+   "enunciado": "Ao perfurar uma camada com sais de magnésio, o Mg²⁺ do filtrado sobe de modo expressivo. Como se remove o Mg²⁺ em contaminação moderada?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Com barrilha, que precipita MgSO₄",
+    "Com ácido cítrico",
+    "Com NaOH, elevando o pH acima de 10 para precipitar Mg(OH)₂",
+    "Com bicarbonato, que forma Mg(OH)₂",
+    "Diluindo com salmoura saturada"
+   ],
+   "correta": 2,
+   "explicacao": "Mg²⁺ + 2OH⁻ → Mg(OH)₂↓ em pH > 10. Em contaminação severa, é mais econômico converter para um fluido de MgCl₂ que tentar precipitar todo o magnésio. Mg²⁺ = 243,2 × (V2 − V1)."
+  },
+  {
+   "id": "aq-0168",
+   "dificuldade": 1,
+   "tema": "Contaminantes",
+   "enunciado": "Após perfurar uma zona com CO₂, o fluido apresenta queda de pH, Pf baixo e Mf alto. O que isso indica?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Contaminação por NaCl",
+    "Contaminação por cimento",
+    "Aumento de CO₃²⁻/HCO₃⁻ (contaminação por carbonato/bicarbonato)",
+    "Excesso de soda cáustica",
+    "Contaminação por MgCl₂"
+   ],
+   "correta": 2,
+   "explicacao": "O CO₂ forma ácido carbônico, que consome OH⁻ e gera CO₃²⁻/HCO₃⁻: o pH cai, o Pf cai e o Mf sobe. O tratamento usa cal (Ca(OH)₂) para precipitar CaCO₃ e repor OH⁻; os teores se medem no Garrett Gas Train."
+  },
+  {
+   "id": "aq-0169",
+   "dificuldade": 2,
+   "tema": "Contaminantes",
+   "enunciado": "Por que, em contaminação por H₂S, mantém-se o pH do fluido acima de 11?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Para reduzir a densidade do fluido",
+    "Para precipitar o H₂S como barita",
+    "Em pH alto o sulfeto fica na forma iônica (HS⁻/S²⁻), não como gás H₂S",
+    "Para que o H₂S se volatilize mais rápido",
+    "Para evitar a formação de CaCO₃"
+   ],
+   "correta": 2,
+   "explicacao": "O equilíbrio H₂S ⇌ HS⁻ ⇌ S²⁻ é deslocado para os íons em pH alto, reduzindo o H₂S livre na superfície. Complementa-se com sequestrante (esponja de magnetita), desgaseificador e monitoramento (papel de acetato de chumbo, Garrett Gas Train)."
+  },
+  {
+   "id": "aq-0170",
+   "dificuldade": 1,
+   "tema": "H₂S",
+   "enunciado": "Qual indicação de campo permite detectar a presença de H₂S no fluido de retorno de forma qualitativa?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Papel de acetato de chumbo escurece (enegrece) ao ser exposto ao gás",
+    "Fenolftaleína fica incolor",
+    "A densidade cai 0,5 ppg",
+    "Papel de tornassol fica azul",
+    "A cor do fluido fica verde-clara"
+   ],
+   "correta": 0,
+   "explicacao": "H₂S reage com acetato de chumbo e forma sulfeto de chumbo (PbS), preto. É um teste qualitativo de presença; a quantificação é feita com o Garrett Gas Train."
+  },
+  {
+   "id": "aq-0171",
+   "dificuldade": 1,
+   "tema": "Garrett Gas Train",
+   "enunciado": "Para que serve o Garrett Gas Train na análise de fluidos aquosos?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Determinar o teor de sólidos",
+    "Medir a CTC das argilas",
+    "Determinar a dureza total",
+    "Quantificar carbonatos e sulfetos do filtrado, liberando CO₂/H₂S com ácido e medindo o gás em tubo detector",
+    "Medir a salinidade do filtrado"
+   ],
+   "correta": 3,
+   "explicacao": "O filtrado é acidificado, o gás liberado é arrastado por gás inerte e passa por tubos Dräger. A leitura permite calcular CO₃²⁻/HCO₃⁻ e S²⁻ e, assim, a dose de tratamento."
+  },
+  {
+   "id": "aq-0172",
+   "dificuldade": 1,
+   "tema": "Contaminantes",
+   "enunciado": "A contaminação por NaCl pode ser tratada por precipitação com barrilha.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 1,
+   "explicacao": "NaCl não é precipitável. Trata-se por diluição, aditivos tolerantes a sal ou conversão do fluido para um sistema salgado."
+  },
+  {
+   "id": "aq-0173",
+   "dificuldade": 1,
+   "tema": "Retorta e sólidos",
+   "enunciado": "A barita faz parte dos sólidos em suspensão (SS), mas não dos sólidos de baixa gravidade específica (SL/LGS).",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "[SS] = [SL] + [SP] (+ calcita, se houver). A barita (SP, ≈ 4,2 g/mL) é sólido adensante útil; LGS (≈ 2,6 g/mL) é o sólido indesejável."
+  },
+  {
+   "id": "aq-0174",
+   "dificuldade": 1,
+   "tema": "Retorta e sólidos",
+   "enunciado": "Por que se corrige o VST pelo fator de volume da salmoura (FV)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque o óleo contém sólidos dissolvidos",
+    "Para converter mL em lb/bbl",
+    "Porque a retorta perde água por evaporação",
+    "Porque o sal dissolvido fica na cápsula e é contado como sólido; é preciso descontá-lo (VSD)",
+    "Porque a barita se dissolve na salmoura"
+   ],
+   "correta": 3,
+   "explicacao": "Ao evaporar a água da salmoura, o sal fica no recipiente da retorta e aparece como volume de sólidos. VSS = VST − VA(FV − 1) elimina esse efeito e deixa só os sólidos realmente suspensos."
+  },
+  {
+   "id": "aq-0175",
+   "dificuldade": 1,
+   "tema": "Retorta e sólidos",
+   "enunciado": "O aumento do teor de sólidos de baixa gravidade (LGS) em um fluido aquoso provoca principalmente:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Aumento da viscosidade plástica e da espessura do reboco, com queda de ROP",
+    "Aumento da taxa de penetração",
+    "Redução do reboco e do filtrado",
+    "Redução da densidade e da viscosidade plástica",
+    "Diminuição do MBT"
+   ],
+   "correta": 0,
+   "explicacao": "Sólidos leves em excesso elevam a viscosidade plástica, a perda de carga e a espessura do reboco, reduzem a ROP e aumentam o risco de prisão diferencial. A solução é remover sólidos e diluir."
+  },
+  {
+   "id": "aq-0176",
+   "dificuldade": 1,
+   "tema": "MBT (azul de metileno)",
+   "enunciado": "O que o teste de MBT (azul de metileno) mede?",
+   "tipo": "multipla",
+   "alternativas": [
+    "A capacidade total de troca de cátions do fluido; não distingue bentonita comercial de argila de formação",
+    "A densidade da fase sólida",
+    "O teor de cloretos",
+    "A alcalinidade Pf/Mf",
+    "A dureza do filtrado"
+   ],
+   "correta": 0,
+   "explicacao": "O azul de metileno adsorve em todas as argilas ativas (CTC). O resultado vem em lb/bbl equivalentes de bentonita. O ponto final é a auréola azul-clara que aparece em torno da gota sobre o papel de filtro."
+  },
+  {
+   "id": "aq-0177",
+   "dificuldade": 1,
+   "tema": "MBT (azul de metileno)",
+   "enunciado": "Um fluido tem MBT acima do especificado, com gel progressivo. A conduta mais adequada é:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Diluir e reforçar o controle de sólidos, evitando adicionar bentonita",
+    "Adicionar mais bentonita para reduzir o gel",
+    "Elevar o pH acima de 12",
+    "Reduzir a salinidade a zero",
+    "Adicionar barita para reduzir o MBT"
+   ],
+   "correta": 0,
+   "explicacao": "O MBT elevado indica excesso de argilas ativas (comerciais ou perfuradas). O gel cai com remoção de sólidos e diluição; mais bentonita ou barita não reduz o MBT."
+  },
+  {
+   "id": "aq-0178",
+   "dificuldade": 3,
+   "tema": "Over treatment",
+   "enunciado": "Uma contaminação por bicarbonato é tratada com cal calculando a dose sobre o volume total do fluido (que contém 30% de sólidos). O que ocorre?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Dose insuficiente, porque os sólidos também consomem cal",
+    "Dose em excesso, porque o HCO₃⁻ está só na fase aquosa; deve-se calcular sobre o volume da fase aquosa",
+    "A dose fica correta, pois a cal reage com todo o volume",
+    "O pH cai por excesso de CO₃²⁻",
+    "Forma-se H₂S"
+   ],
+   "correta": 1,
+   "explicacao": "Os íons estão dissolvidos apenas na fase aquosa. Calcular sobre o volume total superestima a massa de contaminante, e o excesso de Ca(OH)₂ vira nova contaminação por cálcio e alcalinidade."
+  },
+  {
+   "id": "aq-0179",
+   "dificuldade": 2,
+   "tema": "Salinidade",
+   "enunciado": "Por que a salmoura de NaCl a 20% tem FV = 1,087 (maior que 1)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque a água evapora ao dissolver o sal",
+    "Porque o sal diminui a densidade da água",
+    "Porque o FV mede a pureza da água",
+    "Porque o NaCl reduz a massa da água",
+    "Porque o sal dissolvido aumenta o volume da solução em relação ao volume de água usado"
+   ],
+   "correta": 4,
+   "explicacao": "FV = Vsalmoura/Vágua. Dissolver sal em água aumenta o volume final (e a densidade, 1,150 g/mL para NaCl a 20%). Por isso, 1.500 bbl de salmoura exigem menos de 1.500 bbl de água."
+  },
+  {
+   "id": "aq-0180",
+   "dificuldade": 1,
+   "tema": "Potássio (QAS × STPB)",
+   "enunciado": "No teste de potássio (K⁺), em que consiste a precipitação com STPB e a retrotitulação com QAS?",
+   "tipo": "multipla",
+   "alternativas": [
+    "O K⁺ é medido por diferença de densidade",
+    "O QAS precipita o K⁺ e o STPB é o indicador",
+    "O STPB titula diretamente o Cl⁻",
+    "O K⁺ precipita como tetrafenilborato de potássio com STPB; o excesso de STPB é titulado com sal quaternário de amônio (QAS)",
+    "O QAS neutraliza o OH⁻ do filtrado"
+   ],
+   "correta": 3,
+   "explicacao": "Adiciona-se STPB em excesso: K⁺ + B(C₆H₅)₄⁻ → KB(C₆H₅)₄↓. O STPB remanescente é titulado com QAS. Quanto menos QAS se gasta, mais STPB foi consumido pelo K⁺. K⁺ = (25 − V_QAS) × 437,92/V_filtrado."
+  },
+  {
+   "id": "aq-0181",
+   "dificuldade": 3,
+   "tema": "Sólidos (decisão)",
+   "enunciado": "Retorta: DSS calculada = 2,45 g/mL (barita 4,2; LGS 2,6). O que isso indica?",
+   "tipo": "multipla",
+   "alternativas": [
+    "O fluido tem muito mais barita que LGS",
+    "Erro de dados: DSS não pode ser menor que a do sólido mais leve; revisar FV, salinidade e densidade",
+    "O fluido tem calcita em excesso",
+    "O fluido não tem sólidos",
+    "O fluido é 100% barita"
+   ],
+   "correta": 1,
+   "explicacao": "A densidade média dos sólidos deve estar entre 2,6 (LGS) e 4,2 (barita). Valor inferior indica erro no FV, na densidade da salmoura, na leitura da retorta ou presença de material de baixa densidade (óleo, polímero) não considerado."
+  },
+  {
+   "id": "aq-0182",
+   "dificuldade": 1,
+   "tema": "Anidrita / gesso",
+   "enunciado": "Qual produto é usado para precipitar o Ca²⁺ na contaminação por anidrita/gesso?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Soda cáustica (NaOH)",
+    "Barita",
+    "Cloreto de potássio",
+    "Cal hidratada",
+    "Barrilha (Na₂CO₃)"
+   ],
+   "correta": 4,
+   "explicacao": "Ca²⁺ + Na₂CO₃ → CaCO₃↓ + 2Na⁺. O produto também aparece nas equações de tratamento do curso: 0,743 lb/bbl por unidade de Pf."
+  },
+  {
+   "id": "aq-0183",
+   "dificuldade": 2,
+   "tema": "Pf/Mf e pH",
+   "enunciado": "Um fluido tem pH 9,5, contaminação por anidrita e Ca²⁺ alto. Qual o tratamento adequado?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Cal, para elevar ainda mais o pH",
+    "Barrilha, na dose estequiométrica para o Ca²⁺ medido, com novo teste de Pf/Mf depois",
+    "Nenhum: o Ca²⁺ do gesso é inerte",
+    "Soda cáustica até pH 13",
+    "Ácido cítrico, para complexar o sulfato"
+   ],
+   "correta": 1,
+   "explicacao": "A barrilha forma CaCO₃ e retira o Ca²⁺ sem exigir pH elevado. Deve-se medir o Ca²⁺, calcular a dose, tratar e re-medir, evitando CO₃²⁻ residual."
+  },
+  {
+   "id": "aq-0184",
+   "dificuldade": 3,
+   "tema": "Contaminantes",
+   "enunciado": "Assinale a INCORRETA sobre contaminantes do fluido aquoso:",
+   "tipo": "incorreta",
+   "alternativas": [
+    "O H₂S exige pH elevado e sequestrante",
+    "O CO₂ reduz o pH e aumenta Mf",
+    "O NaCl é facilmente removido por precipitação com bicarbonato",
+    "O MgCl₂ é precipitado com NaOH em pH > 10",
+    "O cimento eleva o pH e o Ca²⁺ do filtrado"
+   ],
+   "correta": 2,
+   "explicacao": "NaCl não é precipitável; trata-se por diluição ou conversão do fluido. As demais afirmações estão corretas."
+  },
+  {
+   "id": "aq-0185",
+   "dificuldade": 3,
+   "tema": "Anidrita / gesso",
+   "enunciado": "Em contaminação por anidrita, a barrilha precipita CaCO₃. O que ocorre com o sulfato (SO₄²⁻) do CaSO₄?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Precipita como BaSO₄ sem adicionar bário",
+    "É removido na peneira",
+    "Permanece em solução como Na₂SO₄, solúvel",
+    "Vira H₂S",
+    "Forma gesso novamente"
+   ],
+   "correta": 2,
+   "explicacao": "CaSO₄ + Na₂CO₃ → CaCO₃↓ + Na₂SO₄. O sulfato de sódio é solúvel e fica no filtrado. Remove-se o cálcio, não o sulfato."
+  }
+ ],
+ "flashcards": [
+  {
+   "id": "aq-f001",
+   "frente": "Pf e Mf",
+   "verso": "Volumes (mL) de H₂SO₄ 0,02 N consumidos em 1 mL de filtrado até a viragem da fenolftaleína (pH ≈ 8,3) e do alaranjado de metila (pH ≈ 4,3)."
+  },
+  {
+   "id": "aq-f002",
+   "frente": "Pf = 0",
+   "verso": "Só HCO₃⁻ (sem OH⁻ nem CO₃²⁻). HCO₃⁻ = 1.220 × Mf mg/L."
+  },
+  {
+   "id": "aq-f003",
+   "frente": "Pf = Mf",
+   "verso": "Só OH⁻. OH⁻ = 340 × Pf mg/L."
+  },
+  {
+   "id": "aq-f004",
+   "frente": "Pf = Mf/2",
+   "verso": "Só CO₃²⁻. CO₃²⁻ = 1.200 × Pf mg/L."
+  },
+  {
+   "id": "aq-f005",
+   "frente": "Pf > Mf/2",
+   "verso": "OH⁻ e CO₃²⁻. OH⁻ = 340 (2Pf − Mf); CO₃²⁻ = 1.200 (Mf − Pf)."
+  },
+  {
+   "id": "aq-f006",
+   "frente": "Pf < Mf/2 (e Pf > 0)",
+   "verso": "CO₃²⁻ e HCO₃⁻. CO₃²⁻ = 1.200 × Pf; HCO₃⁻ = 1.220 (Mf − 2Pf). OH⁻ e HCO₃⁻ nunca coexistem."
+  },
+  {
+   "id": "aq-f007",
+   "frente": "Conversões úteis",
+   "verso": "1 g/L = 0,3505 lb/bbl · 1 mg/L = 3,505 × 10⁻⁴ lb/bbl · 1 g/350,5 mL = 1 lb/bbl · 1 bbl = 158,987 L."
+  },
+  {
+   "id": "aq-f008",
+   "frente": "lb/bbl para ajustar alcalinidade",
+   "verso": "NaOH: 0,28 (2Pf − Mf) · Na₂CO₃: 0,743 Pf ou 0,743 (Mf − Pf) · NaHCO₃: 0,589 (Mf − 2Pf) ou 0,589 Mf."
+  },
+  {
+   "id": "aq-f009",
+   "frente": "Ca²⁺ por EDTA (calcon, pH 12)",
+   "verso": "Ca²⁺ = 400,8 × V1 mg/L (1 mL de filtrado). Mg²⁺ precipita como Mg(OH)₂ e não interfere. Calcon: vermelho → azul."
+  },
+  {
+   "id": "aq-f010",
+   "frente": "Mg²⁺ e dureza total (NET, pH 10)",
+   "verso": "Mg²⁺ = 243,2 × (V2 − V1); dureza total (como CaCO₃) = 1.002 × V2 mg/L. NET: vinho → azul."
+  },
+  {
+   "id": "aq-f011",
+   "frente": "Cl⁻ e NaCl pelo AgNO₃ 0,282 N",
+   "verso": "Cl⁻ = 10.000 × V mg/L (1 mL de filtrado); NaCl = 16.500 × V. Indicador: cromato de potássio; fim: vermelho-tijolo (Ag₂CrO₄)."
+  },
+  {
+   "id": "aq-f012",
+   "frente": "Relações Cl⁻",
+   "verso": "NaCl = 1,65 × Cl⁻ · KCl = 2,1 × Cl⁻ · CaCl₂ = 1,56 × Cl⁻."
+  },
+  {
+   "id": "aq-f013",
+   "frente": "Potássio (K⁺)",
+   "verso": "K⁺ precipita com STPB; o excesso de STPB é titulado com QAS. K⁺ = (25 − V_QAS) × 437,92/V_filtrado mg/L; KCl = 1,91 × K⁺."
+  },
+  {
+   "id": "aq-f014",
+   "frente": "POM (cal livre)",
+   "verso": "Ca(OH)₂ livre = 1,3 × POM (titulação com H₂SO₄ 0,1 N)."
+  },
+  {
+   "id": "aq-f015",
+   "frente": "Contaminação por anidrita/gesso",
+   "verso": "Ca²⁺ sobe sem subir pH/Pf. Tratar com barrilha: Ca²⁺ + Na₂CO₃ → CaCO₃↓. Cuidado com excesso de CO₃²⁻ (over treatment)."
+  },
+  {
+   "id": "aq-f016",
+   "frente": "Contaminação por cimento",
+   "verso": "Ca(OH)₂ eleva pH, Pf e Ca²⁺ e causa gel. Preferir bicarbonato: Ca(OH)₂ + NaHCO₃ → CaCO₃ + NaOH + H₂O. Barrilha só em contaminação leve."
+  },
+  {
+   "id": "aq-f017",
+   "frente": "Ca(OH)₂ do cimento",
+   "verso": "Total = 0,26 × PM (lb/bbl de cimento/PM). Excesso = 0,26 (PM − Fw·Pf). NaHCO₃ = Ca(OH)₂ × 42/37. NaOH gerado = Ca(OH)₂ × 20/37."
+  },
+  {
+   "id": "aq-f018",
+   "frente": "Tratamento rápido de campo (cimento)",
+   "verso": "NaHCO₃ ≈ 0,00074 × Ca²⁺; Na₂CO₃ ≈ 0,00093 × Ca²⁺ (lb/bbl). SAPP ≈ 0,00097 × Ca²⁺. Lignito: 7–8 lb/bbl por 1 lb/bbl de Ca(OH)₂."
+  },
+  {
+   "id": "aq-f019",
+   "frente": "Contaminação por MgCl₂",
+   "verso": "NaOH até pH > 10 precipita Mg(OH)₂ (NaOH ≈ 0,00116 × Mg²⁺ lb/bbl). Se severa, converter para fluido de MgCl₂."
+  },
+  {
+   "id": "aq-f020",
+   "frente": "Contaminação por NaCl",
+   "verso": "Não é precipitável. Diluição, aditivos tolerantes a sal ou conversão para fluido salgado."
+  },
+  {
+   "id": "aq-f021",
+   "frente": "Carbonato/bicarbonato (CO₂)",
+   "verso": "pH cai, Pf cai, Mf sobe. Tratar com cal: Ca(OH)₂ ≈ 0,00021 × HCO₃⁻ + 0,00043 × CO₃²⁻ (lb/bbl). Medir no Garrett Gas Train."
+  },
+  {
+   "id": "aq-f022",
+   "frente": "H₂S",
+   "verso": "Manter pH > 11 (sulfeto iônico), usar sequestrante (esponja de magnetita), desgaseificador, papel de acetato de chumbo (escurece) e Garrett Gas Train. Opção: converter para fluido com excesso de cal."
+  },
+  {
+   "id": "aq-f023",
+   "frente": "Garrett Gas Train",
+   "verso": "Acidifica o filtrado, arrasta CO₂/H₂S com gás inerte para tubos Dräger. Quantifica carbonato e sulfeto."
+  },
+  {
+   "id": "aq-f024",
+   "frente": "Over treatment",
+   "verso": "Tratar o volume total do fluido em vez da fase aquosa leva a dose em excesso, que vira nova contaminação."
+  },
+  {
+   "id": "aq-f025",
+   "frente": "Retorta: VST",
+   "verso": "VST = VF − (VA + VFO). Sólidos totais, inclui sal dissolvido (sem correção)."
+  },
+  {
+   "id": "aq-f026",
+   "frente": "Retorta: VSD e VSS",
+   "verso": "VSD = VA (FV − 1) · VSS = VF − (VFO + VA·FV). FV = V salmoura / V água."
+  },
+  {
+   "id": "aq-f027",
+   "frente": "DSS",
+   "verso": "DSS = [DF·VF − (DFAq·VFAq + DFO·VFO)]/VSS. Deve estar entre 2,6 (LGS) e 4,2 (barita)."
+  },
+  {
+   "id": "aq-f028",
+   "frente": "[SS], [SL] e [SP]",
+   "verso": "[SS] = DSS·VSS/VF · [SL] = DSL·VSS(DSP − DSS)/[VF(DSP − DSL)] · [SP] = [SS] − [SL] (− calcita). g/350,5 mL = lb/bbl."
+  },
+  {
+   "id": "aq-f029",
+   "frente": "Efeito do LGS em excesso",
+   "verso": "↑ viscosidade plástica, ↑ reboco, ↑ perda de carga, ↓ ROP. Resolver com controle de sólidos e diluição, nunca com mais bentonita."
+  },
+  {
+   "id": "aq-f030",
+   "frente": "MBT",
+   "verso": "[argila] = 5 × V_MB/V_amostra lb/bbl (CTC 70 meq/100 g). Mede todas as argilas ativas. Fim: auréola azul-clara no papel."
+  },
+  {
+   "id": "aq-f031",
+   "frente": "Diluição por MBT",
+   "verso": "C1V1 = C2V2; água a adicionar = V2 − V1 = V1 (C1/C2 − 1)."
+  },
+  {
+   "id": "aq-f032",
+   "frente": "Salmoura de NaCl a 15%",
+   "verso": "166.650 mg/L ≈ 58,4 lb/bbl; d = 1,111 g/mL; FV = 1,059. 1.500 bbl → ≈ 39,7 t de sal (40 big bags de 1 t) e 1.416,4 bbl de água."
+  },
+  {
+   "id": "aq-f033",
+   "frente": "Salmoura de NaCl a 20%",
+   "verso": "229.960 mg/L ≈ 80,6 lb/bbl; d = 1,150 g/mL; FV = 1,087."
+  },
+  {
+   "id": "aq-f034",
+   "frente": "Redução de densidade por mistura",
+   "verso": "V2 = V1 (Df − D1)/(D2 − Df). Mistura de fluidos, volumes aditivos."
+  }
+ ]
+}

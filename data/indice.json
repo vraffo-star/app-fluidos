@@ -1,5 +1,5 @@
 {
- "versao": 5,
+ "versao": 6,
  "dataFim": "2026-12-06",
  "novasPorDia": 25,
  "unidades": [
@@ -74,6 +74,94 @@
    "cor": "#8C6D46",
    "arquivo": "unidades/argilas.json",
    "resumo": "resumos/argilas.md"
+  },
+  {
+   "id": "aquosos",
+   "ordem": 9,
+   "titulo": "Fluidos aquosos: parâmetros",
+   "curto": "Aquosos",
+   "cor": "#1F9D55",
+   "arquivo": "unidades/aquosos.json"
+  },
+  {
+   "id": "naoaquosos",
+   "ordem": 10,
+   "titulo": "Fluidos de base não aquosa",
+   "curto": "Não aquosos",
+   "cor": "#E26A9B",
+   "arquivo": "unidades/naoaquosos.json"
+  },
+  {
+   "id": "formulacoes",
+   "ordem": 11,
+   "titulo": "Formulações de fluidos",
+   "curto": "Formulações",
+   "cor": "#00A6C8",
+   "arquivo": "unidades/formulacoes.json"
+  },
+  {
+   "id": "reologia",
+   "ordem": 12,
+   "titulo": "Reologia",
+   "curto": "Reologia",
+   "cor": "#7C8B2E",
+   "arquivo": "unidades/reologia.json"
+  },
+  {
+   "id": "filtracao",
+   "ordem": 13,
+   "titulo": "Filtração",
+   "curto": "Filtração",
+   "cor": "#C2410C",
+   "arquivo": "unidades/filtracao.json"
+  },
+  {
+   "id": "volumetria",
+   "ordem": 14,
+   "titulo": "Volumetria",
+   "curto": "Volumetria",
+   "cor": "#6D5BD0",
+   "arquivo": "unidades/volumetria.json"
+  },
+  {
+   "id": "solidos",
+   "ordem": 15,
+   "titulo": "Controle de sólidos",
+   "curto": "Sólidos",
+   "cor": "#0E7490",
+   "arquivo": "unidades/solidos.json"
+  },
+  {
+   "id": "completacao",
+   "ordem": 16,
+   "titulo": "Fluidos de completação",
+   "curto": "Completação",
+   "cor": "#B45309",
+   "arquivo": "unidades/completacao.json"
+  },
+  {
+   "id": "cimentacao",
+   "ordem": 17,
+   "titulo": "Cimentação",
+   "curto": "Cimentação",
+   "cor": "#BE185D",
+   "arquivo": "unidades/cimentacao.json"
+  },
+  {
+   "id": "programas",
+   "ordem": 18,
+   "titulo": "Elaboração de programas de fluidos",
+   "curto": "Programas",
+   "cor": "#4D7C0F",
+   "arquivo": "unidades/programas.json"
+  },
+  {
+   "id": "abandono",
+   "ordem": 19,
+   "titulo": "Completação, intervenção e abandono de poços",
+   "curto": "Abandono",
+   "cor": "#64748B",
+   "arquivo": "unidades/abandono.json"
   }
  ]
 }

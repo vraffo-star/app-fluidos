@@ -67,7 +67,7 @@
   },
   {
    "id": "res-0005",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Tipos de reservatório",
    "enunciado": "Gás que ocorre junto com o óleo (dissolvido ou em capa) e gás de um reservatório só de gás são chamados, respectivamente, de:",
    "tipo": "multipla",
@@ -115,7 +115,7 @@
   },
   {
    "id": "res-0008",
-   "dificuldade": 2,
+   "dificuldade": 1,
    "tema": "Comportamento de fases",
    "enunciado": "O que representa a “curva RS” mencionada no diagrama de fases?",
    "tipo": "multipla",
@@ -240,7 +240,7 @@
   },
   {
    "id": "res-0016",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Grau API",
    "enunciado": "Um óleo com densidade relativa de 0,95 (20/20 °C) é classificado como:",
    "tipo": "multipla",
@@ -384,7 +384,7 @@
   },
   {
    "id": "res-0026",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Saturação",
    "enunciado": "Num reservatório com So = 0,60 e Sw = 0,25, qual é a saturação de gás?",
    "tipo": "multipla",
@@ -496,7 +496,7 @@
   },
   {
    "id": "res-0033",
-   "dificuldade": 2,
+   "dificuldade": 1,
    "tema": "Molhabilidade",
    "enunciado": "Molhabilidade é:",
    "tipo": "multipla",
@@ -512,7 +512,7 @@
   },
   {
    "id": "res-0034",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Propriedades da rocha",
    "enunciado": "Assinale a alternativa INCORRETA sobre propriedades de reservatórios:",
    "tipo": "incorreta",
@@ -576,7 +576,7 @@
   },
   {
    "id": "res-0038",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Termos de produção",
    "enunciado": "Um poço produz 300 m³/d de óleo e 100 m³/d de água. Qual é o corte de água (BSW)?",
    "tipo": "multipla",
@@ -608,7 +608,7 @@
   },
   {
    "id": "res-0040",
-   "dificuldade": 2,
+   "dificuldade": 1,
    "tema": "Termos de produção",
    "enunciado": "O fator de recuperação é:",
    "tipo": "multipla",
@@ -640,7 +640,7 @@
   },
   {
    "id": "res-0042",
-   "dificuldade": 2,
+   "dificuldade": 1,
    "tema": "PVT",
    "enunciado": "O fator volume de formação do óleo (Bo) representa:",
    "tipo": "multipla",
@@ -704,7 +704,7 @@
   },
   {
    "id": "res-0046",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "PVT",
    "enunciado": "O fator volume de formação do gás (Bg) é pequeno (da ordem de 0,01) e diminui com o aumento da pressão porque:",
    "tipo": "multipla",
@@ -784,7 +784,7 @@
   },
   {
    "id": "res-0051",
-   "dificuldade": 2,
+   "dificuldade": 1,
    "tema": "Razão de mobilidade",
    "enunciado": "A mobilidade de um fluido é definida como:",
    "tipo": "multipla",
@@ -992,7 +992,7 @@
   },
   {
    "id": "res-0064",
-   "dificuldade": 2,
+   "dificuldade": 1,
    "tema": "Capa de gás",
    "enunciado": "O que acontece com o contato gás-óleo durante a produção por capa de gás?",
    "tipo": "multipla",
@@ -1088,7 +1088,7 @@
   },
   {
    "id": "res-0070",
-   "dificuldade": 2,
+   "dificuldade": 1,
    "tema": "Segregação gravitacional",
    "enunciado": "Quais são aspectos da segregação gravitacional?",
    "tipo": "multipla",
@@ -1238,7 +1238,7 @@
   },
   {
    "id": "res-0079",
-   "dificuldade": 2,
+   "dificuldade": 1,
    "tema": "Métodos convencionais",
    "enunciado": "Quais são os métodos convencionais de recuperação?",
    "tipo": "multipla",
@@ -1270,7 +1270,7 @@
   },
   {
    "id": "res-0081",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Métodos especiais",
    "enunciado": "CO2, nitrogênio e hidrocarbonetos são usados em qual tipo de método especial?",
    "tipo": "multipla",
@@ -1500,7 +1500,7 @@
   },
   {
    "id": "res-0095",
-   "dificuldade": 2,
+   "dificuldade": 1,
    "tema": "Métodos especiais",
    "enunciado": "No processo WAG (Water Alternating Gas), o que se faz?",
    "tipo": "multipla",
@@ -1564,7 +1564,7 @@
   },
   {
    "id": "res-0099",
-   "dificuldade": 2,
+   "dificuldade": 1,
    "tema": "Métodos especiais",
    "enunciado": "O que é o THAI (Toe to Heel Air Injection)?",
    "tipo": "multipla",
@@ -1628,7 +1628,7 @@
   },
   {
    "id": "res-0103",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Métodos especiais",
    "enunciado": "Nos 1.507 projetos internacionais de recuperação citados no curso, em que tipo de rocha está a maioria dos projetos?",
    "tipo": "multipla",
@@ -1692,7 +1692,7 @@
   },
   {
    "id": "res-0107",
-   "dificuldade": 2,
+   "dificuldade": 1,
    "tema": "Reservas",
    "enunciado": "Segundo o curso, a reserva de um campo é:",
    "tipo": "multipla",
@@ -1740,7 +1740,7 @@
   },
   {
    "id": "res-0110",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Reservas",
    "enunciado": "Qual fonte de informação tem o objetivo de identificar e acompanhar a produtividade dos poços e reservatórios e delimitar a jazida?",
    "tipo": "multipla",
@@ -1756,7 +1756,7 @@
   },
   {
    "id": "res-0113",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Reservas",
    "enunciado": "Pelos dados do curso, a matriz energética brasileira tem participação de renováveis bem maior que a média mundial, na casa de 45%.",
    "tipo": "vf",

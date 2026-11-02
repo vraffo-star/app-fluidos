@@ -1,0 +1,1818 @@
+{
+ "id": "formulacoes",
+ "perguntas": [
+  {
+   "id": "for-0001",
+   "dificuldade": 1,
+   "tema": "Conversões de unidades",
+   "enunciado": "Um fluido tem 10,0 ppg. Qual a massa de 1 bbl desse fluido, em lb/bbl (ppb)? (1 bbl = 42 gal)",
+   "tipo": "multipla",
+   "alternativas": [
+    "525 lb/bbl",
+    "191 lb/bbl",
+    "420 lb/bbl",
+    "336 lb/bbl",
+    "630 lb/bbl"
+   ],
+   "correta": 2,
+   "explicacao": "1 bbl = 42 gal → 10,0 lb/gal × 42 gal/bbl = 420 lb por bbl de fluido."
+  },
+  {
+   "id": "for-0002",
+   "dificuldade": 1,
+   "tema": "Conversões de unidades",
+   "enunciado": "Um fluido tem 12,0 ppg. Qual a massa de 1 bbl desse fluido, em lb/bbl (ppb)? (1 bbl = 42 gal)",
+   "tipo": "multipla",
+   "alternativas": [
+    "756 lb/bbl",
+    "504 lb/bbl",
+    "630 lb/bbl",
+    "229 lb/bbl",
+    "403 lb/bbl"
+   ],
+   "correta": 1,
+   "explicacao": "1 bbl = 42 gal → 12,0 lb/gal × 42 gal/bbl = 504 lb por bbl de fluido."
+  },
+  {
+   "id": "for-0003",
+   "dificuldade": 1,
+   "tema": "Conversões de unidades",
+   "enunciado": "Um fluido tem 14,0 ppg. Qual a massa de 1 bbl desse fluido, em lb/bbl (ppb)? (1 bbl = 42 gal)",
+   "tipo": "multipla",
+   "alternativas": [
+    "588 lb/bbl",
+    "470 lb/bbl",
+    "267 lb/bbl",
+    "735 lb/bbl",
+    "882 lb/bbl"
+   ],
+   "correta": 0,
+   "explicacao": "1 bbl = 42 gal → 14,0 lb/gal × 42 gal/bbl = 588 lb por bbl de fluido."
+  },
+  {
+   "id": "for-0004",
+   "dificuldade": 1,
+   "tema": "Conversões de unidades",
+   "enunciado": "Um fluido tem 9,5 ppg. Qual a massa de 1 bbl desse fluido, em lb/bbl (ppb)? (1 bbl = 42 gal)",
+   "tipo": "multipla",
+   "alternativas": [
+    "598 lb/bbl",
+    "319 lb/bbl",
+    "181 lb/bbl",
+    "499 lb/bbl",
+    "399 lb/bbl"
+   ],
+   "correta": 4,
+   "explicacao": "1 bbl = 42 gal → 9,5 lb/gal × 42 gal/bbl = 399 lb por bbl de fluido."
+  },
+  {
+   "id": "for-0005",
+   "dificuldade": 1,
+   "tema": "Conversões de unidades",
+   "enunciado": "Converta 1,20 g/cm³ em ppg (1 g/cm³ = 8,345 ppg).",
+   "tipo": "multipla",
+   "alternativas": [
+    "10,01 ppg",
+    "15,02 ppg",
+    "11,00 ppg",
+    "8,01 ppg",
+    "12,51 ppg"
+   ],
+   "correta": 0,
+   "explicacao": "1,20 × 8,345 = 10,01 ppg."
+  },
+  {
+   "id": "for-0006",
+   "dificuldade": 1,
+   "tema": "Conversões de unidades",
+   "enunciado": "Converta 1,80 g/cm³ em ppg (1 g/cm³ = 8,345 ppg).",
+   "tipo": "multipla",
+   "alternativas": [
+    "15,02 ppg",
+    "16,49 ppg",
+    "18,77 ppg",
+    "12,02 ppg",
+    "22,53 ppg"
+   ],
+   "correta": 0,
+   "explicacao": "1,80 × 8,345 = 15,02 ppg."
+  },
+  {
+   "id": "for-0007",
+   "dificuldade": 2,
+   "tema": "Conversões de unidades",
+   "enunciado": "Converta 1,56 g/cm³ em ppg (1 g/cm³ = 8,345 ppg).",
+   "tipo": "multipla",
+   "alternativas": [
+    "19,53 ppg",
+    "13,02 ppg",
+    "16,27 ppg",
+    "14,29 ppg",
+    "10,42 ppg"
+   ],
+   "correta": 1,
+   "explicacao": "1,56 × 8,345 = 13,02 ppg."
+  },
+  {
+   "id": "for-0008",
+   "dificuldade": 2,
+   "tema": "Conversões de unidades",
+   "enunciado": "Converta 1,32 g/cm³ em ppg (1 g/cm³ = 8,345 ppg).",
+   "tipo": "multipla",
+   "alternativas": [
+    "16,53 ppg",
+    "8,82 ppg",
+    "12,10 ppg",
+    "11,02 ppg",
+    "13,77 ppg"
+   ],
+   "correta": 3,
+   "explicacao": "1,32 × 8,345 = 11,02 ppg."
+  },
+  {
+   "id": "for-0009",
+   "dificuldade": 1,
+   "tema": "Conversões de unidades",
+   "enunciado": "Converta 11,2 ppg em g/mL.",
+   "tipo": "multipla",
+   "alternativas": [
+    "1,342 g/mL",
+    "1,208 g/mL",
+    "1,074 g/mL",
+    "1,476 g/mL",
+    "1,678 g/mL"
+   ],
+   "correta": 0,
+   "explicacao": "11,2 ÷ 8,345 = 1,342 g/mL."
+  },
+  {
+   "id": "for-0010",
+   "dificuldade": 2,
+   "tema": "Conversões de unidades",
+   "enunciado": "Converta 13,0 ppg em g/mL.",
+   "tipo": "multipla",
+   "alternativas": [
+    "1,948 g/mL",
+    "1,246 g/mL",
+    "1,714 g/mL",
+    "1,402 g/mL",
+    "1,558 g/mL"
+   ],
+   "correta": 4,
+   "explicacao": "13,0 ÷ 8,345 = 1,558 g/mL."
+  },
+  {
+   "id": "for-0011",
+   "dificuldade": 2,
+   "tema": "Conversões de unidades",
+   "enunciado": "Qual a massa de 1 bbl-equivalente (350,5 mL) de um fluido de 11,0 ppg?",
+   "tipo": "multipla",
+   "alternativas": [
+    "385,5 g",
+    "369,6 g",
+    "693,0 g",
+    "462,0 g",
+    "577,5 g"
+   ],
+   "correta": 3,
+   "explicacao": "Densidade = 11,0/8,345 = 1,318 g/mL; massa = 1,318 × 350,5 = 462,0 g. Coincide com 462 lb/bbl, porque 1 g/350,5 mL = 1 lb/bbl."
+  },
+  {
+   "id": "for-0012",
+   "dificuldade": 2,
+   "tema": "Conversões de unidades",
+   "enunciado": "Qual a massa de 1 bbl-equivalente (350,5 mL) de um fluido de 12,0 ppg?",
+   "tipo": "multipla",
+   "alternativas": [
+    "756,0 g",
+    "504,0 g",
+    "403,2 g",
+    "630,0 g",
+    "420,6 g"
+   ],
+   "correta": 1,
+   "explicacao": "Densidade = 12,0/8,345 = 1,438 g/mL; massa = 1,438 × 350,5 = 504,0 g. Coincide com 504 lb/bbl, porque 1 g/350,5 mL = 1 lb/bbl."
+  },
+  {
+   "id": "for-0013",
+   "dificuldade": 1,
+   "tema": "Conversões de unidades",
+   "enunciado": "O que representa 1 bbl-equivalente (bbl-eq) de 350,5 mL em laboratório?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Um barril de campo em escala de laboratório: 1 g adicionado a 350,5 mL equivale a 1 lb por bbl (ppb)",
+    "Meio barril de água doce",
+    "Um barril de 159 L para teste de campo",
+    "Um galão de fluido, onde 1 mL equivale a 1 ppb",
+    "Um litro de fluido, onde 1 g equivale a 1 ppb"
+   ],
+   "correta": 0,
+   "explicacao": "1 bbl = 158,987 L = 42 gal; 1 lb = 453,6 g. Como 453,6 g/158.987 mL = 1 g/350,5 mL, cada grama em 350,5 mL reproduz uma lb/bbl."
+  },
+  {
+   "id": "for-0014",
+   "dificuldade": 1,
+   "tema": "Conversões de unidades",
+   "enunciado": "Quantos gramas de bentonita (25 ppb) são necessários para 2,5 bbl-eq de fluido?",
+   "tipo": "multipla",
+   "alternativas": [
+    "78,1 g",
+    "62,5 g",
+    "178,3 g",
+    "50,0 g",
+    "137,5 g"
+   ],
+   "correta": 1,
+   "explicacao": "2,5 bbl-eq × 25 g/bbl-eq = 62,5 g (1 bbl-eq = 350,5 mL, 1 g/bbl-eq = 1 ppb)."
+  },
+  {
+   "id": "for-0015",
+   "dificuldade": 2,
+   "tema": "Conversões de unidades",
+   "enunciado": "Um fluido de 2,5 bbl-eq tem 98% de água, 25 ppb de bentonita e 0,3 ppb de soda cáustica. Qual a massa de soda cáustica a pesar?",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,75 g",
+    "0,94 g",
+    "0,26 g",
+    "0,60 g",
+    "1,12 g"
+   ],
+   "correta": 0,
+   "explicacao": "Massa = 0,3 ppb × 2,5 bbl-eq = 0,75 g (a porcentagem de água não altera a conta de aditivos em ppb)."
+  },
+  {
+   "id": "for-0016",
+   "dificuldade": 1,
+   "tema": "Quantidades de produtos",
+   "enunciado": "Fluido de 2.500 bbl com 2,00 ppb de goma xantana. Quantos sacos de 25 kg são necessários (arredonde para cima)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "41 unid.",
+    "123 unid.",
+    "91 unid.",
+    "114 unid.",
+    "200 unid."
+   ],
+   "correta": 2,
+   "explicacao": "Massa = 2,00 lb/bbl × 2.500 bbl = 5.000 lb. Cada embalagem tem 55,12 lb → 90,7 → 91 sacos de 25 kg."
+  },
+  {
+   "id": "for-0017",
+   "dificuldade": 1,
+   "tema": "Quantidades de produtos",
+   "enunciado": "Fluido de 2.500 bbl com 5,00 ppb de CMC ULV. Quantos sacos de 25 kg são necessários (arredonde para cima)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "307 unid.",
+    "499 unid.",
+    "227 unid.",
+    "284 unid.",
+    "103 unid."
+   ],
+   "correta": 2,
+   "explicacao": "Massa = 5,00 lb/bbl × 2.500 bbl = 12.500 lb. Cada embalagem tem 55,12 lb → 226,8 → 227 sacos de 25 kg."
+  },
+  {
+   "id": "for-0018",
+   "dificuldade": 2,
+   "tema": "Quantidades de produtos",
+   "enunciado": "Fluido de 2.500 bbl com 176,22 ppb de barita. Quantos big bags de 1.000 kg são necessários (arredonde para cima)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "90 unid.",
+    "91 unid.",
+    "270 unid.",
+    "200 unid.",
+    "440 unid."
+   ],
+   "correta": 3,
+   "explicacao": "Massa = 176,22 lb/bbl × 2.500 bbl = 440.550 lb. Cada embalagem tem 2.205,00 lb → 199,8 → 200 big bags de 1.000 kg."
+  },
+  {
+   "id": "for-0019",
+   "dificuldade": 2,
+   "tema": "Quantidades de produtos",
+   "enunciado": "Fluido de 2.500 bbl com 66,18 ppb de cloreto de sódio. Quantos big bags de 1.000 kg são necessários (arredonde para cima)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "76 unid.",
+    "35 unid.",
+    "34 unid.",
+    "167 unid.",
+    "102 unid."
+   ],
+   "correta": 0,
+   "explicacao": "Massa = 66,18 lb/bbl × 2.500 bbl = 165.450 lb. Cada embalagem tem 2.205,00 lb → 75,0 → 76 big bags de 1.000 kg."
+  },
+  {
+   "id": "for-0020",
+   "dificuldade": 2,
+   "tema": "Quantidades de produtos",
+   "enunciado": "Fluido de 2.500 bbl com 15,00 ppb de calcita. Quantos sacos de 25 kg são necessários (arredonde para cima)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "1.498 unid.",
+    "310 unid.",
+    "681 unid.",
+    "307 unid.",
+    "919 unid."
+   ],
+   "correta": 2,
+   "explicacao": "Massa = 15,00 lb/bbl × 2.500 bbl = 37.500 lb. Cada embalagem tem 55,12 lb → 680,3 → 681 sacos de 25 kg."
+  },
+  {
+   "id": "for-0021",
+   "dificuldade": 3,
+   "tema": "Quantidades de produtos",
+   "enunciado": "Fluido de 2.500 bbl com 12,0 ppb de inibidor catiônico (líquido, d = 1,05 kg/L). Quantos tambores de 200 L são necessários (arredonde para cima)? (1 kg = 2,2046 lb)",
+   "tipo": "multipla",
+   "alternativas": [
+    "65 unid.",
+    "143 unid.",
+    "91 unid.",
+    "69 unid.",
+    "30 unid."
+   ],
+   "correta": 0,
+   "explicacao": "Massa = 12,0 × 2.500 = 30.000 lb = 13.608 kg; volume = 13.608/1,05 = 12.960 L; ÷ 200 L = 64,8 → 65 tambores de 200 L."
+  },
+  {
+   "id": "for-0022",
+   "dificuldade": 3,
+   "tema": "Quantidades de produtos",
+   "enunciado": "Fluido de 2.500 bbl com 0,5 ppb de bactericida (líquido, d = 1,00 kg/L). Quantos bombonas de 20 L são necessários (arredonde para cima)? (1 kg = 2,2046 lb)",
+   "tipo": "multipla",
+   "alternativas": [
+    "36 unid.",
+    "13 unid.",
+    "29 unid.",
+    "40 unid.",
+    "63 unid."
+   ],
+   "correta": 2,
+   "explicacao": "Massa = 0,5 × 2.500 = 1.250 lb = 567 kg; volume = 567/1,00 = 567 L; ÷ 20 L = 28,3 → 29 bombonas de 20 L."
+  },
+  {
+   "id": "for-0023",
+   "dificuldade": 2,
+   "tema": "Quantidades de produtos",
+   "enunciado": "O lubrificante entra a 3% v/v em 2.500 bbl de fluido (d = 0,77 kg/L; tambores de 200 L). Quantos tambores (arredonde para cima)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "46 tambores",
+    "90 tambores",
+    "16 tambores",
+    "60 tambores",
+    "75 tambores"
+   ],
+   "correta": 3,
+   "explicacao": "Volume = 3% × 2.500 = 75 bbl = 11.924 L; ÷ 200 L = 59,6 → 60 tambores."
+  },
+  {
+   "id": "for-0024",
+   "dificuldade": 2,
+   "tema": "Quantidades de produtos",
+   "enunciado": "Fluido de 2.500 bbl com água de mistura de 0,7347 bbl por bbl de fluido. Qual o volume total de água de mistura a preparar?",
+   "tipo": "multipla",
+   "alternativas": [
+    "1.837 bbl",
+    "2.500 bbl",
+    "1.326 bbl",
+    "2.296 bbl",
+    "2.204 bbl"
+   ],
+   "correta": 0,
+   "explicacao": "Volume = 0,7347 bbl/bbl × 2.500 bbl = 1.836,8 bbl."
+  },
+  {
+   "id": "for-0025",
+   "dificuldade": 1,
+   "tema": "Fluido inicial (spud mud)",
+   "enunciado": "Cada tubo de perfuração mede 30 ft (1 ft = 0,3048 m). Qual o comprimento de um tubo, em metros?",
+   "tipo": "multipla",
+   "alternativas": [
+    "7,315 m",
+    "18,288 m",
+    "3,048 m",
+    "11,430 m",
+    "9,144 m"
+   ],
+   "correta": 4,
+   "explicacao": "30 ft × 0,3048 m/ft = 9,144 m. A profundidade de 27,44 m equivale a 3 tubos."
+  },
+  {
+   "id": "for-0026",
+   "dificuldade": 2,
+   "tema": "Fluido inicial (spud mud)",
+   "enunciado": "Poço com perda total em 27,44 m. A fase vai até 182,9 m, com tubos de 9,144 m. Quantos tubos serão perfurados até o final (do 4º ao último)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "18 tubos",
+    "17 tubos",
+    "19 tubos",
+    "15 tubos",
+    "20 tubos"
+   ],
+   "correta": 1,
+   "explicacao": "182,9 m ÷ 9,144 = 20 tubos no total; 27,44 m já são 3 tubos. Faltam 20 − 3 = 17 tubos."
+  },
+  {
+   "id": "for-0027",
+   "dificuldade": 2,
+   "tema": "Fluido inicial (spud mud)",
+   "enunciado": "Tampões de spud mud na fase inicial: 5 tubos com 30 bbl, 6 tubos com 45 bbl e 6 tubos com 60 bbl. Qual o volume total de tampões?",
+   "tipo": "multipla",
+   "alternativas": [
+    "624 bbl",
+    "420 bbl",
+    "894 bbl",
+    "780 bbl",
+    "975 bbl"
+   ],
+   "correta": 3,
+   "explicacao": "5 × 30 + 6 × 45 + 6 × 60 = 150 + 270 + 360 = 780 bbl."
+  },
+  {
+   "id": "for-0028",
+   "dificuldade": 2,
+   "tema": "Fluido inicial (spud mud)",
+   "enunciado": "Qual o volume (bbl) da fase de 12¼\" até 182,9 m, com Dpoço = Dbroca? (cap. = D²/313,76 bbl/m)",
+   "tipo": "multipla",
+   "alternativas": [
+    "26,7 bbl",
+    "74,4 bbl",
+    "87,5 bbl",
+    "113,7 bbl",
+    "47,8 bbl"
+   ],
+   "correta": 2,
+   "explicacao": "Capacidade = 12,25²/313,76 = 0,4783 bbl/m; × 182,9 m = 87,5 bbl."
+  },
+  {
+   "id": "for-0029",
+   "dificuldade": 2,
+   "tema": "Fluido inicial (spud mud)",
+   "enunciado": "Ao final da fase, injeta-se 1,3 vezes o volume da fase (poço sem coluna). Qual o volume desse último deslocamento? (volume da fase ≈ 87,5 bbl)",
+   "tipo": "multipla",
+   "alternativas": [
+    "61,2 bbl",
+    "90,1 bbl",
+    "113,7 bbl",
+    "201,2 bbl",
+    "87,5 bbl"
+   ],
+   "correta": 2,
+   "explicacao": "1,3 × 87,5 = 113,7 bbl. Esse volume enche o poço sem coluna antes da retirada e o mantém cheio até o ponto de perda."
+  },
+  {
+   "id": "for-0030",
+   "dificuldade": 3,
+   "tema": "Fluido inicial (spud mud)",
+   "enunciado": "O programa de spud mud prevê 780 bbl de tampões mais 1,3 vez o volume da fase de 12¼\" até 182,9 m (≈ 87,5 bbl). Qual o volume total de fluido?",
+   "tipo": "multipla",
+   "alternativas": [
+    "780 bbl",
+    "1.072 bbl",
+    "894 bbl",
+    "1.118 bbl",
+    "981 bbl"
+   ],
+   "correta": 2,
+   "explicacao": "Total = 780 + 1,3 × 87,5 = 894 bbl."
+  },
+  {
+   "id": "for-0031",
+   "dificuldade": 3,
+   "tema": "Fluido inicial (spud mud)",
+   "enunciado": "Com o volume total de ≈ 894 bbl de spud mud a 25 ppb de bentonita, quantos sacos de 25 kg (55,125 lb) serão necessários (arredonde para cima)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "406 sacos",
+    "892 sacos",
+    "203 sacos",
+    "508 sacos",
+    "325 sacos"
+   ],
+   "correta": 0,
+   "explicacao": "Massa = 894 × 25 = 22.350 lb; ÷ 55,125 = 405,4 → 406 sacos."
+  },
+  {
+   "id": "for-0032",
+   "dificuldade": 2,
+   "tema": "Fluido inicial (spud mud)",
+   "enunciado": "Spud mud: 10 tampões de 50 bbl mais 200 bbl finais, com 25 ppb de bentonita. Quantos sacos de 25 kg (55,125 lb)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "396,9 sacos",
+    "144,3 sacos",
+    "254,0 sacos",
+    "317,5 sacos",
+    "698,4 sacos"
+   ],
+   "correta": 3,
+   "explicacao": "Volume = 10 × 50 + 200 = 700 bbl; massa = 700 × 25 = 17.500 lb; ÷ 55,125 = 317,5 sacos (318 inteiros)."
+  },
+  {
+   "id": "for-0033",
+   "dificuldade": 2,
+   "tema": "Fluido inicial (spud mud)",
+   "enunciado": "Por que o spud mud é preparado com água de baixa dureza (Ca²⁺ < 100 mg/L)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque o Ca²⁺ ativa os polímeros",
+    "Porque a bentonita só se hidrata em água salgada",
+    "Porque o Ca²⁺ aumenta a densidade do fluido",
+    "Porque o Ca²⁺ impede a hidratação da bentonita sódica e reduz a viscosidade e o poder de vedação",
+    "Porque a dureza aumenta a ROP"
+   ],
+   "correta": 3,
+   "explicacao": "Cálcio troca com o sódio da bentonita, agrega as lâminas e reduz a hidratação. Em água dura, trata-se o Ca²⁺ com barrilha antes de adicionar a bentonita."
+  },
+  {
+   "id": "for-0034",
+   "dificuldade": 3,
+   "tema": "Fluido inicial (spud mud)",
+   "enunciado": "Perda total de circulação em 27,44 m na fase de 12¼\". Qual a lógica de injetar um tampão viscoso de bentonita ao final de cada tubo, perfurando com água sem retorno?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Os tampões reduzem a pressão nos poros",
+    "A bentonita dissolve os cascalhos",
+    "Os tampões carregam e limpam os cascalhos para a zona de perda e evitam o empacotamento e a prisão da coluna",
+    "Os tampões elevam a densidade para controlar o poço",
+    "Os tampões substituem o revestimento"
+   ],
+   "correta": 2,
+   "explicacao": "Sem retorno, o cascalho se acumula em volta da broca. O tampão viscoso o envolve e o desloca para o interior da zona de perda, mantendo a coluna livre. Antes de retirar a coluna, o poço é preenchido com 1,3 × o volume da fase."
+  },
+  {
+   "id": "for-0035",
+   "dificuldade": 2,
+   "tema": "Adensamento com barita",
+   "enunciado": "Quantas lb de barita (4,2 g/mL = 35,08 ppg) são necessárias para elevar 800 bbl de 10,0 ppg para 11,2 ppg? (Mb = 1.471,76·V·(Df−Di)/(35,08−Df))",
+   "tipo": "multipla",
+   "alternativas": [
+    "59.166 lb",
+    "56.335 lb",
+    "76.916 lb",
+    "26.838 lb",
+    "40.276 lb"
+   ],
+   "correta": 0,
+   "explicacao": "Mb = 1.471,76 × 800 × (11,2 − 10,0)/(35,08 − 11,2) = 59.166 lb ≈ 26,8 t."
+  },
+  {
+   "id": "for-0036",
+   "dificuldade": 2,
+   "tema": "Adensamento com barita",
+   "enunciado": "Quantas lb de barita (4,2 g/mL = 35,08 ppg) são necessárias para elevar 500 bbl de 9,0 ppg para 10,5 ppg? (Mb = 1.471,76·V·(Df−Di)/(35,08−Df))",
+   "tipo": "multipla",
+   "alternativas": [
+    "31.466 lb",
+    "42.324 lb",
+    "20.370 lb",
+    "58.379 lb",
+    "44.907 lb"
+   ],
+   "correta": 4,
+   "explicacao": "Mb = 1.471,76 × 500 × (10,5 − 9,0)/(35,08 − 10,5) = 44.907 lb ≈ 20,4 t."
+  },
+  {
+   "id": "for-0037",
+   "dificuldade": 3,
+   "tema": "Adensamento com barita",
+   "enunciado": "Quantas lb de barita (4,2 g/mL = 35,08 ppg) são necessárias para elevar 1000 bbl de 11,0 ppg para 12,0 ppg? (Mb = 1.471,76·V·(Df−Di)/(35,08−Df))",
+   "tipo": "multipla",
+   "alternativas": [
+    "28.925 lb",
+    "82.898 lb",
+    "61.120 lb",
+    "41.954 lb",
+    "63.768 lb"
+   ],
+   "correta": 4,
+   "explicacao": "Mb = 1.471,76 × 1000 × (12,0 − 11,0)/(35,08 − 12,0) = 63.768 lb ≈ 28,9 t."
+  },
+  {
+   "id": "for-0038",
+   "dificuldade": 2,
+   "tema": "Adensamento com barita",
+   "enunciado": "Para adensar 800 bbl de 10,0 ppg a 11,2 ppg são necessários ≈ 59.160 lb de barita. Quantos big bags de 1.000 kg (2.205 lb), arredondando para cima?",
+   "tipo": "multipla",
+   "alternativas": [
+    "34 big bags",
+    "27 big bags",
+    "22 big bags",
+    "13 big bags",
+    "41 big bags"
+   ],
+   "correta": 1,
+   "explicacao": "59.166 ÷ 2.205 = 26,8 → 27 big bags."
+  },
+  {
+   "id": "for-0039",
+   "dificuldade": 3,
+   "tema": "Adensamento com barita",
+   "enunciado": "Ao adensar 800 bbl de 10,0 ppg a 11,2 ppg adicionaram-se ≈ 59.160 lb de barita (1.471,76 lb por bbl de barita sólida). Qual o aumento de volume?",
+   "tipo": "multipla",
+   "alternativas": [
+    "40,2 bbl",
+    "20,1 bbl",
+    "26,8 bbl",
+    "59,2 bbl",
+    "80,4 bbl"
+   ],
+   "correta": 0,
+   "explicacao": "ΔV = 59.166/1.471,76 = 40,2 bbl. O volume final é ≈ 840 bbl."
+  },
+  {
+   "id": "for-0040",
+   "dificuldade": 2,
+   "tema": "Adensamento com barita",
+   "enunciado": "Qual a concentração de barita, em lb/bbl de fluido, para elevar 1 bbl de 10 ppg para 12 ppg? (1.471,76·(Df−Di)/(35,08−Df))",
+   "tipo": "multipla",
+   "alternativas": [
+    "128 lb/bbl",
+    "64 lb/bbl",
+    "117 lb/bbl",
+    "84 lb/bbl",
+    "503 lb/bbl"
+   ],
+   "correta": 0,
+   "explicacao": "1.471,76 × 2/(35,08 − 12) = 127,5 lb/bbl."
+  },
+  {
+   "id": "for-0041",
+   "dificuldade": 3,
+   "tema": "Adensamento com barita",
+   "enunciado": "Misturam-se 825 bbl de salmoura de 10 ppg, 30 sacos de polímero (25 kg cada; 1,6 g/mL) e 27,5 t de barita (4,2 g/mL). Qual o volume final, em bbl?",
+   "tipo": "multipla",
+   "alternativas": [
+    "695 bbl",
+    "1.086 bbl",
+    "869 bbl",
+    "990 bbl",
+    "1.304 bbl"
+   ],
+   "correta": 2,
+   "explicacao": "Volumes: salmoura 825 bbl = 131.164 L; polímero 750 kg/1,6 = 469 L; barita 27.500/4,2 = 6.548 L. Total = 138.180 L = 869 bbl."
+  },
+  {
+   "id": "for-0042",
+   "dificuldade": 3,
+   "tema": "Adensamento com barita",
+   "enunciado": "Mesma mistura (825 bbl de salmoura a 10 ppg, 30 sacos de polímero de 25 kg com 1,6 g/mL e 27,5 t de barita com 4,2 g/mL). Qual a densidade final, em ppg?",
+   "tipo": "multipla",
+   "alternativas": [
+    "12,7 ppg",
+    "14,0 ppg",
+    "11,2 ppg",
+    "10,3 ppg",
+    "9,5 ppg"
+   ],
+   "correta": 2,
+   "explicacao": "Massa = 157.172 + 750 + 27.500 = 185.421 kg; volume = 138.181 L; densidade = 1,342 kg/L = 11,2 ppg."
+  },
+  {
+   "id": "for-0043",
+   "dificuldade": 2,
+   "tema": "Salmouras e FV",
+   "enunciado": "Preparar 2000 bbl de salmoura de NaCl a 142.350 mg/L com FV = 1,050. Quantos bbl de água são necessários?",
+   "tipo": "multipla",
+   "alternativas": [
+    "1.523,8 bbl",
+    "1.739,1 bbl",
+    "2.381,0 bbl",
+    "1.904,8 bbl",
+    "2.100,0 bbl"
+   ],
+   "correta": 3,
+   "explicacao": "Vsalm = Vágua × FV → Vágua = 2000/1,050 = 1.904,8 bbl. O sal ocupa o restante (95,2 bbl)."
+  },
+  {
+   "id": "for-0044",
+   "dificuldade": 2,
+   "tema": "Salmouras e FV",
+   "enunciado": "Quantas toneladas de NaCl (142.350 mg/L) são necessárias para preparar 2000 bbl da mesma salmoura? (1 bbl = 158,987 L)",
+   "tipo": "multipla",
+   "alternativas": [
+    "20,4 t",
+    "43,1 t",
+    "45,3 t",
+    "47,5 t",
+    "56,6 t"
+   ],
+   "correta": 2,
+   "explicacao": "Massa = 142.350 mg/L × 2000 bbl × 158,987 L/bbl = 45,3 t."
+  },
+  {
+   "id": "for-0045",
+   "dificuldade": 2,
+   "tema": "Salmouras e FV",
+   "enunciado": "Preparar 1000 bbl de salmoura de NaCl a 154.392 mg/L com FV = 1,054. Quantos bbl de água são necessários?",
+   "tipo": "multipla",
+   "alternativas": [
+    "948,8 bbl",
+    "866,6 bbl",
+    "1.186,0 bbl",
+    "759,0 bbl",
+    "1.054,0 bbl"
+   ],
+   "correta": 0,
+   "explicacao": "Vsalm = Vágua × FV → Vágua = 1000/1,054 = 948,8 bbl. O sal ocupa o restante (51,2 bbl)."
+  },
+  {
+   "id": "for-0046",
+   "dificuldade": 2,
+   "tema": "Salmouras e FV",
+   "enunciado": "Quantas toneladas de NaCl (154.392 mg/L) são necessárias para preparar 1000 bbl da mesma salmoura? (1 bbl = 158,987 L)",
+   "tipo": "multipla",
+   "alternativas": [
+    "24,5 t",
+    "23,3 t",
+    "25,9 t",
+    "11,0 t",
+    "30,6 t"
+   ],
+   "correta": 0,
+   "explicacao": "Massa = 154.392 mg/L × 1000 bbl × 158,987 L/bbl = 24,5 t."
+  },
+  {
+   "id": "for-0047",
+   "dificuldade": 3,
+   "tema": "Salmouras e FV",
+   "enunciado": "Uma salmoura contém NaCl (FV = 1,020 para 62.586 mg/L) e KCl (FV = 1,017 para 41.000 mg/L). Qual o FV global?",
+   "tipo": "multipla",
+   "alternativas": [
+    "1,003",
+    "2,037",
+    "1,0185",
+    "1,020",
+    "1,037"
+   ],
+   "correta": 4,
+   "explicacao": "Para dois sais, FVG = FV_NaCl + FV_KCl − 1 = 1,020 + 1,017 − 1 = 1,037. A média ou a soma direta estão erradas: cada sal contribui apenas com o seu excedente de volume (FV − 1)."
+  },
+  {
+   "id": "for-0048",
+   "dificuldade": 3,
+   "tema": "Salmouras e FV",
+   "enunciado": "Para 1.000 bbl da salmoura anterior (NaCl 62.586 mg/L + KCl 41.000 mg/L; FVG = 1,037), quantos bbl de água são necessários?",
+   "tipo": "multipla",
+   "alternativas": [
+    "1.446,4 bbl",
+    "964,3 bbl",
+    "1.037,0 bbl",
+    "1.205,4 bbl",
+    "771,4 bbl"
+   ],
+   "correta": 1,
+   "explicacao": "Vágua = 1.000/1,037 = 964,3 bbl."
+  },
+  {
+   "id": "for-0049",
+   "dificuldade": 3,
+   "tema": "Salmouras e FV",
+   "enunciado": "Tabela de NaCl: 154.392 mg/L → d = 1,102 g/mL, FV = 1,054; 166.650 mg/L → d = 1,111, FV = 1,059. Por interpolação linear, qual o FV para 160.000 mg/L?",
+   "tipo": "multipla",
+   "alternativas": [
+    "1,0517",
+    "1,0540",
+    "1,0610",
+    "1,0563",
+    "1,0590"
+   ],
+   "correta": 3,
+   "explicacao": "Fração = (160,000 − 154,392)/(166,650 − 154,392) = 0,4575; FV = 1,054 + 0,4575 × 0,005 = 1,0563. Os valores 1,0540 e 1,0590 são os extremos da tabela, não o ponto interpolado."
+  },
+  {
+   "id": "for-0050",
+   "dificuldade": 3,
+   "tema": "Salmouras e FV",
+   "enunciado": "Tabela de NaCl: 178.912 mg/L → d = 1,118 g/mL; 191.420 mg/L → d = 1,126. Por interpolação, qual a densidade da salmoura de 185.000 mg/L?",
+   "tipo": "multipla",
+   "alternativas": [
+    "1,1180 g/mL",
+    "1,1260 g/mL",
+    "1,1219 g/mL",
+    "1,1150 g/mL",
+    "1,1300 g/mL"
+   ],
+   "correta": 2,
+   "explicacao": "Fração = (185,000 − 178,912)/(191,420 − 178,912) = 0,4867; d = 1,118 + 0,4867 × 0,008 = 1,1219 g/mL."
+  },
+  {
+   "id": "for-0051",
+   "dificuldade": 2,
+   "tema": "Formulação de fluido aquoso",
+   "enunciado": "Formulação de 1 bbl-eq (350,5 mL) de fluido catiônico de 11 ppg: goma xantana 2, CMC 5, amido 3, NaOH 0,5 g (polímeros e soda sem volume); inibidor catiônico 12 g (d = 1,05); bactericida 0,5 g (d = 1,0); calcita 15 g (d = 2,7); lubrificante 3% v/v (d = 0,78); NaCl 166.650 mg/L (d = 1,111; FV = 1,059); barita (4,1 g/mL) q.s.p. peso. Qual o volume (mL) ocupado pelos aditivos que têm volume (inibidor, bactericida, calcita e lubrificante)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "36,4 mL",
+    "38,5 mL",
+    "28,0 mL",
+    "22,4 mL",
+    "46,2 mL"
+   ],
+   "correta": 2,
+   "explicacao": "V = 12/1,05 + 0,5/1,0 + 15/2,7 + 10,51 (lubrificante) = 11,43 + 0,5 + 5,56 + 10,51 = 28,0 mL."
+  },
+  {
+   "id": "for-0052",
+   "dificuldade": 3,
+   "tema": "Formulação de fluido aquoso",
+   "enunciado": "Formulação de 1 bbl-eq (350,5 mL) de fluido catiônico de 11 ppg: goma xantana 2, CMC 5, amido 3, NaOH 0,5 g (polímeros e soda sem volume); inibidor catiônico 12 g (d = 1,05); bactericida 0,5 g (d = 1,0); calcita 15 g (d = 2,7); lubrificante 3% v/v (d = 0,78); NaCl 166.650 mg/L (d = 1,111; FV = 1,059); barita (4,1 g/mL) q.s.p. peso. Qual o volume (mL) de salmoura na formulação?",
+   "tipo": "multipla",
+   "alternativas": [
+    "257,8 mL",
+    "303,3 mL",
+    "379,1 mL",
+    "348,7 mL",
+    "322,5 mL"
+   ],
+   "correta": 1,
+   "explicacao": "Sistema: Vbr + Vb = 350,5 − 28,00 = 322,50 mL e 1,111·Vbr + 4,1·Vb = 11/8,345·350,5 − 46,20 = 415,81 g. Resolvendo: Vbr = 303,3 mL; Vb = 19,2 mL."
+  },
+  {
+   "id": "for-0053",
+   "dificuldade": 3,
+   "tema": "Formulação de fluido aquoso",
+   "enunciado": "Formulação de 1 bbl-eq (350,5 mL) de fluido catiônico de 11 ppg: goma xantana 2, CMC 5, amido 3, NaOH 0,5 g (polímeros e soda sem volume); inibidor catiônico 12 g (d = 1,05); bactericida 0,5 g (d = 1,0); calcita 15 g (d = 2,7); lubrificante 3% v/v (d = 0,78); NaCl 166.650 mg/L (d = 1,111; FV = 1,059); barita (4,1 g/mL) q.s.p. peso. Qual a concentração de barita, em lb/bbl?",
+   "tipo": "multipla",
+   "alternativas": [
+    "99 lb/bbl",
+    "95 lb/bbl",
+    "63 lb/bbl",
+    "118 lb/bbl",
+    "79 lb/bbl"
+   ],
+   "correta": 4,
+   "explicacao": "Vb = 19,2 mL × 4,1 g/mL = 78,9 g em 1 bbl-eq = 79 lb/bbl."
+  },
+  {
+   "id": "for-0054",
+   "dificuldade": 3,
+   "tema": "Formulação de fluido aquoso",
+   "enunciado": "Formulação de 1 bbl-eq (350,5 mL) de fluido catiônico de 11 ppg: goma xantana 2, CMC 5, amido 3, NaOH 0,5 g (polímeros e soda sem volume); inibidor catiônico 12 g (d = 1,05); bactericida 0,5 g (d = 1,0); calcita 15 g (d = 2,7); lubrificante 3% v/v (d = 0,78); NaCl 166.650 mg/L (d = 1,111; FV = 1,059); barita (4,1 g/mL) q.s.p. peso. Qual o volume de água de mistura, em bbl por bbl de fluido?",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,8170 bbl/bbl",
+    "1,0212 bbl/bbl",
+    "0,8652 bbl/bbl",
+    "0,6536 bbl/bbl",
+    "0,8987 bbl/bbl"
+   ],
+   "correta": 0,
+   "explicacao": "Água = Vbr/FV = 303,3/1,059 = 286,4 mL → 286,4/350,5 = 0,8170 bbl/bbl."
+  },
+  {
+   "id": "for-0055",
+   "dificuldade": 3,
+   "tema": "Formulação de fluido aquoso",
+   "enunciado": "Formulação de 1 bbl-eq (350,5 mL) de fluido catiônico de 11 ppg: goma xantana 2, CMC 5, amido 3, NaOH 0,5 g (polímeros e soda sem volume); inibidor catiônico 12 g (d = 1,05); bactericida 0,5 g (d = 1,0); calcita 15 g (d = 2,7); lubrificante 3% v/v (d = 0,78); NaCl 166.650 mg/L (d = 1,111; FV = 1,059); barita (4,1 g/mL) q.s.p. peso. Qual a concentração de NaCl, em lb/bbl?",
+   "tipo": "multipla",
+   "alternativas": [
+    "47,7 lb/bbl",
+    "40,4 lb/bbl",
+    "50,5 lb/bbl",
+    "58,4 lb/bbl",
+    "60,6 lb/bbl"
+   ],
+   "correta": 2,
+   "explicacao": "NaCl = 0,16665 g/mL × 303,3 mL = 50,5 g em 1 bbl-eq = 50,5 lb/bbl."
+  },
+  {
+   "id": "for-0056",
+   "dificuldade": 2,
+   "tema": "Fluido não aquoso (n-parafina)",
+   "enunciado": "Fluido de n-parafina, RSS = 70/30, 11,2 ppg, salmoura de NaCl a 185.000 mg/L (d = 1,1219 g/mL; FV = 1,0674). Aditivos por bbl-eq (350,5 mL): Cyber Mull 6 g (0,890), Cyber Plus 8 g (0,900), argila organofílica 2 g (1,600), cal 14 g (2,210), Ecotrol 3 g (1,030), calcita 20 g (2,700); parafina d = 0,776; barita d = 4,2. Qual o volume dos aditivos já definidos (mL)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "43,6 mL",
+    "43,5 mL",
+    "53,0 mL",
+    "23,5 mL",
+    "33,5 mL"
+   ],
+   "correta": 4,
+   "explicacao": "Σ m/d = 6/0,89 + 8/0,9 + 2/1,6 + 14/2,21 + 3/1,03 + 20/2,7 = 33,54 mL. Massa total desses aditivos = 53 g."
+  },
+  {
+   "id": "for-0057",
+   "dificuldade": 3,
+   "tema": "Fluido não aquoso (n-parafina)",
+   "enunciado": "Fluido de n-parafina, RSS = 70/30, 11,2 ppg, salmoura de NaCl a 185.000 mg/L (d = 1,1219 g/mL; FV = 1,0674). Aditivos por bbl-eq (350,5 mL): Cyber Mull 6 g (0,890), Cyber Plus 8 g (0,900), argila organofílica 2 g (1,600), cal 14 g (2,210), Ecotrol 3 g (1,030), calcita 20 g (2,700); parafina d = 0,776; barita d = 4,2. Qual o volume de salmoura Y (mL) em 1 bbl-eq?",
+   "tipo": "multipla",
+   "alternativas": [
+    "82,6 mL",
+    "105,1 mL",
+    "57,8 mL",
+    "107,3 mL",
+    "95,1 mL"
+   ],
+   "correta": 0,
+   "explicacao": "Com Vp = (70/30)·Y: volume Y(1+7/3) + Vadd + Z = 350,5; massa 0,776·(7/3)·Y + 1,1219·Y + 53 + 4,2·Z = 1,3421 × 350,5. Resolvendo: Y = 82,6 mL."
+  },
+  {
+   "id": "for-0058",
+   "dificuldade": 3,
+   "tema": "Fluido não aquoso (n-parafina)",
+   "enunciado": "Fluido de n-parafina, RSS = 70/30, 11,2 ppg, salmoura de NaCl a 185.000 mg/L (d = 1,1219 g/mL; FV = 1,0674). Aditivos por bbl-eq (350,5 mL): Cyber Mull 6 g (0,890), Cyber Plus 8 g (0,900), argila organofílica 2 g (1,600), cal 14 g (2,210), Ecotrol 3 g (1,030), calcita 20 g (2,700); parafina d = 0,776; barita d = 4,2. Qual o volume de parafina (mL) em 1 bbl-eq?",
+   "tipo": "multipla",
+   "alternativas": [
+    "82,6 mL",
+    "154,1 mL",
+    "231,2 mL",
+    "245,3 mL",
+    "192,7 mL"
+   ],
+   "correta": 4,
+   "explicacao": "Vp = (70/30) × Y = 2,333 × 82,6 = 192,7 mL (149,5 g de parafina)."
+  },
+  {
+   "id": "for-0059",
+   "dificuldade": 3,
+   "tema": "Fluido não aquoso (n-parafina)",
+   "enunciado": "Fluido de n-parafina, RSS = 70/30, 11,2 ppg, salmoura de NaCl a 185.000 mg/L (d = 1,1219 g/mL; FV = 1,0674). Aditivos por bbl-eq (350,5 mL): Cyber Mull 6 g (0,890), Cyber Plus 8 g (0,900), argila organofílica 2 g (1,600), cal 14 g (2,210), Ecotrol 3 g (1,030), calcita 20 g (2,700); parafina d = 0,776; barita d = 4,2. Qual o volume de barita (mL) em 1 bbl-eq?",
+   "tipo": "multipla",
+   "alternativas": [
+    "62,6 mL",
+    "25,0 mL",
+    "41,7 mL",
+    "51,7 mL",
+    "52,1 mL"
+   ],
+   "correta": 2,
+   "explicacao": "Z = 350,5 − Vadd − (1 + 7/3)·Y = 350,5 − 33,5 − 275,2 = 41,7 mL."
+  },
+  {
+   "id": "for-0060",
+   "dificuldade": 3,
+   "tema": "Fluido não aquoso (n-parafina)",
+   "enunciado": "Fluido de n-parafina, RSS = 70/30, 11,2 ppg, salmoura de NaCl a 185.000 mg/L (d = 1,1219 g/mL; FV = 1,0674). Aditivos por bbl-eq (350,5 mL): Cyber Mull 6 g (0,890), Cyber Plus 8 g (0,900), argila organofílica 2 g (1,600), cal 14 g (2,210), Ecotrol 3 g (1,030), calcita 20 g (2,700); parafina d = 0,776; barita d = 4,2. Qual a concentração de barita em lb/bbl (ppb)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "175 lb/bbl",
+    "150 lb/bbl",
+    "219 lb/bbl",
+    "210 lb/bbl",
+    "140 lb/bbl"
+   ],
+   "correta": 0,
+   "explicacao": "Massa de barita = 4,2 × 41,7 = 175 g em 1 bbl-eq → 175 lb/bbl."
+  },
+  {
+   "id": "for-0061",
+   "dificuldade": 3,
+   "tema": "Fluido não aquoso (n-parafina)",
+   "enunciado": "Fluido de n-parafina, RSS = 70/30, 11,2 ppg, salmoura de NaCl a 185.000 mg/L (d = 1,1219 g/mL; FV = 1,0674). Aditivos por bbl-eq (350,5 mL): Cyber Mull 6 g (0,890), Cyber Plus 8 g (0,900), argila organofílica 2 g (1,600), cal 14 g (2,210), Ecotrol 3 g (1,030), calcita 20 g (2,700); parafina d = 0,776; barita d = 4,2. Qual o volume de água (mL), descontado o sal dissolvido (FV = 1,0674)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "82,6 mL",
+    "88,1 mL",
+    "96,8 mL",
+    "92,8 mL",
+    "77,4 mL"
+   ],
+   "correta": 4,
+   "explicacao": "Água = Y/FV = 82,6/1,0674 = 77,4 mL. O sal dissolvido ocupa 5,2 mL."
+  },
+  {
+   "id": "for-0062",
+   "dificuldade": 3,
+   "tema": "Fluido não aquoso (n-parafina)",
+   "enunciado": "Fluido de n-parafina, RSS = 70/30, 11,2 ppg, salmoura de NaCl a 185.000 mg/L (d = 1,1219 g/mL; FV = 1,0674). Aditivos por bbl-eq (350,5 mL): Cyber Mull 6 g (0,890), Cyber Plus 8 g (0,900), argila organofílica 2 g (1,600), cal 14 g (2,210), Ecotrol 3 g (1,030), calcita 20 g (2,700); parafina d = 0,776; barita d = 4,2. Qual a massa de sal dissolvido (g) em 1 bbl-eq? (massa da salmoura − massa da água)",
+   "tipo": "multipla",
+   "alternativas": [
+    "19,1 g",
+    "18,3 g",
+    "15,3 g",
+    "10,7 g",
+    "19,9 g"
+   ],
+   "correta": 2,
+   "explicacao": "m = Dsalm·Y − água = 1,1219 × 82,6 − 77,4 = 15,3 g (≈ 185.000 mg/L de NaCl, a salinidade dada)."
+  },
+  {
+   "id": "for-0063",
+   "dificuldade": 3,
+   "tema": "Fluido não aquoso (n-parafina)",
+   "enunciado": "Fluido de n-parafina, RSS = 70/30, 11,2 ppg, salmoura de NaCl a 185.000 mg/L (d = 1,1219 g/mL; FV = 1,0674). Aditivos por bbl-eq (350,5 mL): Cyber Mull 6 g (0,890), Cyber Plus 8 g (0,900), argila organofílica 2 g (1,600), cal 14 g (2,210), Ecotrol 3 g (1,030), calcita 20 g (2,700); parafina d = 0,776; barita d = 4,2. Para 3.500 bbl de fluido, qual o volume de parafina (bbl)? (Vp/350,5 por bbl)",
+   "tipo": "multipla",
+   "alternativas": [
+    "2.450 bbl",
+    "825 bbl",
+    "2.309 bbl",
+    "674 bbl",
+    "1.924 bbl"
+   ],
+   "correta": 4,
+   "explicacao": "Vp/350,5 = 0,5497 bbl/bbl × 3.500 = 1.924 bbl."
+  },
+  {
+   "id": "for-0064",
+   "dificuldade": 3,
+   "tema": "Fluido não aquoso (n-parafina)",
+   "enunciado": "Fluido de n-parafina, RSS = 70/30, 11,2 ppg, salmoura de NaCl a 185.000 mg/L (d = 1,1219 g/mL; FV = 1,0674). Aditivos por bbl-eq (350,5 mL): Cyber Mull 6 g (0,890), Cyber Plus 8 g (0,900), argila organofílica 2 g (1,600), cal 14 g (2,210), Ecotrol 3 g (1,030), calcita 20 g (2,700); parafina d = 0,776; barita d = 4,2. Para 3.500 bbl de fluido, quantos big bags de barita de 1.000 kg (2.205 lb) são necessários (arredonde para cima)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "195 big bags",
+    "362 big bags",
+    "349 big bags",
+    "176 big bags",
+    "279 big bags"
+   ],
+   "correta": 4,
+   "explicacao": "Barita = 175 ppb × 3.500 bbl = 613.452 lb; ÷ 2.205 = 278,2 → 279 big bags."
+  },
+  {
+   "id": "for-0065",
+   "dificuldade": 2,
+   "tema": "RSS e ROA",
+   "enunciado": "Retorta de 10 mL de um fluido não aquoso: 6,3 mL de óleo e 2,6 mL de água (FV = 1,065). Qual o RSS (razão sintético/salmoura), em % de sintético? (RSS = VFO/(FV·VA); %sint = 100·RSS/(1+RSS))",
+   "tipo": "multipla",
+   "alternativas": [
+    "69,5 %",
+    "86,9 %",
+    "79,9 %",
+    "63,0 %",
+    "26,0 %"
+   ],
+   "correta": 0,
+   "explicacao": "Vsalm = 2,6 × 1,065 = 2,769 mL; RSS = 6,3/2,769 = 2,275 → sintético = 69,5% (razão 69/31)."
+  },
+  {
+   "id": "for-0066",
+   "dificuldade": 1,
+   "tema": "RSS e ROA",
+   "enunciado": "Retorta de 10 mL de um fluido não aquoso: 6,0 mL de óleo e 3,0 mL de água (FV = 1,000). Qual o RSS (razão sintético/salmoura), em % de sintético? (RSS = VFO/(FV·VA); %sint = 100·RSS/(1+RSS))",
+   "tipo": "multipla",
+   "alternativas": [
+    "30,0 %",
+    "66,7 %",
+    "76,7 %",
+    "60,0 %",
+    "83,4 %"
+   ],
+   "correta": 1,
+   "explicacao": "Vsalm = 3,0 × 1,000 = 3,000 mL; RSS = 6,0/3,000 = 2,000 → sintético = 66,7% (razão 67/33)."
+  },
+  {
+   "id": "for-0067",
+   "dificuldade": 2,
+   "tema": "RSS e ROA",
+   "enunciado": "Retorta de 10 mL de um fluido não aquoso: 5,6 mL de óleo e 2,4 mL de água (FV = 1,070). Qual o RSS (razão sintético/salmoura), em % de sintético? (RSS = VFO/(FV·VA); %sint = 100·RSS/(1+RSS))",
+   "tipo": "multipla",
+   "alternativas": [
+    "68,6 %",
+    "56,0 %",
+    "85,8 %",
+    "78,8 %",
+    "24,0 %"
+   ],
+   "correta": 0,
+   "explicacao": "Vsalm = 2,4 × 1,070 = 2,568 mL; RSS = 5,6/2,568 = 2,181 → sintético = 68,6% (razão 69/31)."
+  },
+  {
+   "id": "for-0068",
+   "dificuldade": 2,
+   "tema": "RSS e ROA",
+   "enunciado": "Qual a ROA (razão óleo/água, VFO/VA) de uma retorta com 6,3 mL de óleo e 2,6 mL de água?",
+   "tipo": "multipla",
+   "alternativas": [
+    "2,42",
+    "8,90",
+    "3,02",
+    "0,63",
+    "2,28"
+   ],
+   "correta": 0,
+   "explicacao": "ROA = VFO/VA = 6,3/2,6 = 2,42. Difere do RSS porque a ROA usa a água, e o RSS usa a salmoura (VA·FV)."
+  },
+  {
+   "id": "for-0069",
+   "dificuldade": 3,
+   "tema": "RSS e ROA",
+   "enunciado": "Um fluido de base não aquosa tem 1.000 bbl de fase líquida (700 bbl de sintético e 300 bbl de salmoura, RSS 70/30). Quantos bbl de sintético são adicionados para ir a RSS 75/25, sem alterar a salmoura?",
+   "tipo": "multipla",
+   "alternativas": [
+    "300 bbl",
+    "250 bbl",
+    "150 bbl",
+    "200 bbl",
+    "100 bbl"
+   ],
+   "correta": 3,
+   "explicacao": "(700 + Δ)/(1.000 + Δ) = 0,75 → 700 + Δ = 750 + 0,75Δ → 0,25Δ = 50 → Δ = 200 bbl."
+  },
+  {
+   "id": "for-0070",
+   "dificuldade": 3,
+   "tema": "RSS e ROA",
+   "enunciado": "Um fluido tem 400 bbl de sintético e 100 bbl de salmoura (RSS 80/20). Quantos bbl de salmoura devem ser adicionados para ir a RSS 70/30, sem alterar o sintético?",
+   "tipo": "multipla",
+   "alternativas": [
+    "71 bbl",
+    "89 bbl",
+    "214 bbl",
+    "142 bbl",
+    "100 bbl"
+   ],
+   "correta": 0,
+   "explicacao": "400/(500 + Δ) = 0,70 → 500 + Δ = 571,4 → Δ = 71,4 bbl de salmoura."
+  },
+  {
+   "id": "for-0071",
+   "dificuldade": 3,
+   "tema": "RSS e ROA",
+   "enunciado": "Fluido de n-parafina, RSS = 70/30, 11,2 ppg, salmoura de NaCl a 185.000 mg/L (d = 1,1219 g/mL; FV = 1,0674). Aditivos por bbl-eq (350,5 mL): Cyber Mull 6 g (0,890), Cyber Plus 8 g (0,900), argila organofílica 2 g (1,600), cal 14 g (2,210), Ecotrol 3 g (1,030), calcita 20 g (2,700); parafina d = 0,776; barita d = 4,2. Se fosse feita uma retorta de 10 mL sobre esse fluido (despreze os óleos dos aditivos), qual o volume de parafina esperado?",
+   "tipo": "multipla",
+   "alternativas": [
+    "4,40 mL",
+    "6,60 mL",
+    "5,50 mL",
+    "7,00 mL",
+    "2,36 mL"
+   ],
+   "correta": 2,
+   "explicacao": "VFO = Vp/350,5 × 10 = 192,7/350,5 × 10 = 5,50 mL."
+  },
+  {
+   "id": "for-0072",
+   "dificuldade": 3,
+   "tema": "RSS e ROA",
+   "enunciado": "Fluido de n-parafina, RSS = 70/30, 11,2 ppg, salmoura de NaCl a 185.000 mg/L (d = 1,1219 g/mL; FV = 1,0674). Aditivos por bbl-eq (350,5 mL): Cyber Mull 6 g (0,890), Cyber Plus 8 g (0,900), argila organofílica 2 g (1,600), cal 14 g (2,210), Ecotrol 3 g (1,030), calcita 20 g (2,700); parafina d = 0,776; barita d = 4,2. Qual o volume de água esperado na retorta de 10 mL desse fluido?",
+   "tipo": "multipla",
+   "alternativas": [
+    "2,36 mL",
+    "2,21 mL",
+    "2,76 mL",
+    "3,31 mL",
+    "1,54 mL"
+   ],
+   "correta": 1,
+   "explicacao": "VA = Água/350,5 × 10 = 77,4/350,5 × 10 = 2,21 mL (a salmoura, com FV = 1,0674, ocupa 2,36 mL)."
+  },
+  {
+   "id": "for-0073",
+   "dificuldade": 1,
+   "tema": "Aditivos e funções",
+   "enunciado": "Qual a função principal da barita em um fluido de perfuração?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Lubrificar a coluna",
+    "Aumentar a densidade (adensante, 4,1–4,2 g/mL)",
+    "Reduzir o filtrado por reação química",
+    "Viscosificar a fase aquosa",
+    "Inibir folhelhos reativos"
+   ],
+   "correta": 1,
+   "explicacao": "A barita (BaSO₄) é um sólido inerte e denso, usado para controlar a pressão hidrostática. Não confere viscosidade nem inibição. Na formulação, sua quantidade (q.s.p. peso) sai do balanço de massa e volume."
+  },
+  {
+   "id": "for-0074",
+   "dificuldade": 1,
+   "tema": "Aditivos e funções",
+   "enunciado": "Qual a função da goma xantana em um fluido aquoso polimérico?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Adensante",
+    "Redutor de filtrado por obturação",
+    "Controlador de pH",
+    "Viscosificante pseudoplástico (boa suspensão e limpeza com baixa viscosidade a altas taxas)",
+    "Bactericida"
+   ],
+   "correta": 3,
+   "explicacao": "A xantana confere comportamento pseudoplástico e alta viscosidade a baixas taxas de cisalhamento (LSRV), essencial para suspender barita e carrear cascalhos."
+  },
+  {
+   "id": "for-0075",
+   "dificuldade": 1,
+   "tema": "Aditivos e funções",
+   "enunciado": "Quais aditivos têm, na formulação, a função principal de reduzir o filtrado?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Bactericida e lubrificante",
+    "Barita e calcita",
+    "Goma xantana e NaOH",
+    "Inibidor catiônico e NaCl",
+    "CMC ULV e amido (HP)"
+   ],
+   "correta": 4,
+   "explicacao": "CMC e amido formam reboco fino e reduzem o filtrado. A calcita atua como agente obturante (ponteante), e a xantana, como viscosificante."
+  },
+  {
+   "id": "for-0076",
+   "dificuldade": 2,
+   "tema": "Aditivos e funções",
+   "enunciado": "Qual a função da calcita (CaCO₃, 2,7 g/mL) em um fluido aquoso?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Elevar o pH acima de 12",
+    "Viscosificar o fluido",
+    "Agente obturante/ponteante, que ajuda a formar reboco de baixa permeabilidade",
+    "Substituir a barita em fluidos acima de 15 ppg",
+    "Precipitar o H₂S"
+   ],
+   "correta": 2,
+   "explicacao": "A calcita, em granulometria controlada, tampa os poros da formação e reduz o filtrado e o dano. Além disso, é solúvel em ácido, o que facilita a remoção em zonas produtoras."
+  },
+  {
+   "id": "for-0077",
+   "dificuldade": 1,
+   "tema": "Aditivos e funções",
+   "enunciado": "Qual o objetivo do inibidor catiônico em um fluido aquoso para folhelhos?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Aumentar a densidade da fase aquosa",
+    "Diminuir o torque da coluna",
+    "Reduzir a hidratação e o inchamento das argilas, pela adsorção de cátions orgânicos",
+    "Aumentar o pH",
+    "Matar bactérias"
+   ],
+   "correta": 2,
+   "explicacao": "Cátions orgânicos adsorvem-se nas superfícies argilosas e limitam a entrada de água. Costuma-se somar com sal (NaCl/KCl), que reduz a atividade da água."
+  },
+  {
+   "id": "for-0078",
+   "dificuldade": 2,
+   "tema": "Aditivos e funções",
+   "enunciado": "Por que o lubrificante oleofílico é tratado como um sólido nas contas de volume e massa da formulação aquosa?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque tem densidade igual à da água",
+    "Porque se dissolve na barita",
+    "Porque é um pó sólido",
+    "Porque seu volume é desprezível",
+    "Porque não se dissolve na água: ocupa volume próprio (m/d) e não entra na salmoura"
+   ],
+   "correta": 4,
+   "explicacao": "O lubrificante (d ≈ 0,77–0,78 g/mL) é uma fase orgânica dispersa. Seu volume (3% v/v) conta no balanço; já os polímeros dissolvidos têm volume desprezado."
+  },
+  {
+   "id": "for-0079",
+   "dificuldade": 1,
+   "tema": "Aditivos e funções",
+   "enunciado": "Qual o papel do bactericida em fluidos com goma xantana e amido?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Elevar o pH acima de 11",
+    "Neutralizar H₂S",
+    "Inibir folhelhos",
+    "Aumentar a densidade",
+    "Evitar a degradação biológica dos polímeros, que perderiam viscosidade e controle de filtrado"
+   ],
+   "correta": 4,
+   "explicacao": "Polímeros naturais são alimento para bactérias. A degradação (fermentação) reduz a viscosidade e o controle de filtrado, e pode gerar gases malcheirosos. O bactericida é dosado em baixa concentração (≈ 0,5 ppb)."
+  },
+  {
+   "id": "for-0080",
+   "dificuldade": 1,
+   "tema": "Aditivos e funções",
+   "enunciado": "Para que serve a soda cáustica (NaOH) em baixa dose (0,3–0,5 ppb) em fluidos aquosos?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Viscosificar",
+    "Inibir folhelhos",
+    "Controlar o pH/alcalinidade (aproximadamente 9–10)",
+    "Aumentar a densidade",
+    "Reduzir o filtrado"
+   ],
+   "correta": 2,
+   "explicacao": "A soda ajusta o pH para favorecer a hidratação da bentonita, a ação dos polímeros e a proteção contra corrosão. É dosada em ppb muito baixos."
+  },
+  {
+   "id": "for-0081",
+   "dificuldade": 1,
+   "tema": "Aditivos e funções",
+   "enunciado": "Qual a função do NaCl em um fluido aquoso inibido?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Aumentar a taxa de filtrado",
+    "Reduzir a atividade da água (inibição) e contribuir para a densidade da fase aquosa",
+    "Servir de viscosificante",
+    "Precipitar o cálcio",
+    "Servir de bactericida"
+   ],
+   "correta": 1,
+   "explicacao": "Uma salmoura salina diminui o fluxo osmótico de água para o folhelho e eleva a densidade da fase aquosa. Para pesos maiores, completa-se com barita."
+  },
+  {
+   "id": "for-0082",
+   "dificuldade": 1,
+   "tema": "Ordem de adição e preparo",
+   "enunciado": "Em um fluido aquoso polimérico adensado, em que posição se adiciona a barita?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Antes da soda cáustica",
+    "Antes do sal, para dissolvê-lo",
+    "Logo depois da água, antes dos polímeros",
+    "Por último, depois de a reologia e o controle de filtrado estarem estabelecidos",
+    "Em qualquer ordem, pois não afeta o preparo"
+   ],
+   "correta": 3,
+   "explicacao": "Primeiro se prepara a base (água, dureza/pH, polímeros, sal); depois adensa-se. Adicionar barita cedo atrapalha a hidratação dos polímeros e dificulta o ajuste final de densidade."
+  },
+  {
+   "id": "for-0083",
+   "dificuldade": 1,
+   "tema": "Ordem de adição e preparo",
+   "enunciado": "Qual a ordem típica de preparo de um fluido não aquoso?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Salmoura → barita → emulsificantes → base",
+    "Base sintética → emulsificantes → cal → argila organofílica → salmoura (sob alto cisalhamento) → redutor de filtrado → barita",
+    "Argila organofílica → barita → cal → emulsificantes",
+    "Cal → barita → base → salmoura",
+    "Barita → salmoura → base → emulsificantes"
+   ],
+   "correta": 1,
+   "explicacao": "A base recebe primeiro os emulsificantes e a cal, depois a argila organofílica para viscosidade. A salmoura é emulsionada sob cisalhamento e a barita fecha o ajuste de densidade."
+  },
+  {
+   "id": "for-0084",
+   "dificuldade": 1,
+   "tema": "Fluidos não aquosos",
+   "enunciado": "Qual o papel da cal (Ca(OH)₂) em um fluido não aquoso?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Dissolver a barita",
+    "Reduzir a salinidade",
+    "Aumentar a densidade da fase oleosa",
+    "Viscosificar a salmoura",
+    "Ativar os emulsificantes (formação de sabões de cálcio) e fornecer reserva alcalina contra CO₂ e H₂S"
+   ],
+   "correta": 4,
+   "explicacao": "Os emulsificantes de ácido graxo precisam de cálcio para atuar como sabões. O excesso de cal mantém alcalinidade que neutraliza gases ácidos."
+  },
+  {
+   "id": "for-0085",
+   "dificuldade": 1,
+   "tema": "Fluidos não aquosos",
+   "enunciado": "Em um fluido não aquoso, qual a função da argila organofílica?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Reduzir a lubricidade",
+    "Ativar a cal",
+    "Aumentar a salinidade da fase interna",
+    "Quebrar a emulsão",
+    "Viscosificar e ajudar na suspensão da barita e no controle de filtrado"
+   ],
+   "correta": 4,
+   "explicacao": "A bentonita com sais quaternários é compatível com o óleo, e dá estrutura de gel que suspende sólidos e contribui para o reboco."
+  },
+  {
+   "id": "for-0086",
+   "dificuldade": 2,
+   "tema": "Fluidos não aquosos",
+   "enunciado": "Por que a salmoura (fase interna) de um fluido não aquoso é formulada com salinidade específica?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Para reduzir o pH a 4",
+    "Para igualar a atividade da água à da formação e evitar o fluxo osmótico de água para o folhelho",
+    "Para ativar a barita",
+    "Para dissolver a argila organofílica",
+    "Para aumentar a lubricidade"
+   ],
+   "correta": 1,
+   "explicacao": "Como o óleo é a fase contínua, a água da emulsão atua como membrana semipermeável. Salinidade adequada (NaCl, CaCl₂) equilibra as atividades e estabiliza o folhelho."
+  },
+  {
+   "id": "for-0087",
+   "dificuldade": 1,
+   "tema": "Fluidos não aquosos",
+   "enunciado": "Em um fluido de emulsão inversa, a fase contínua é a salmoura e a fase dispersa é o óleo.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 1,
+   "explicacao": "Na emulsão inversa (água em óleo), a fase contínua é o óleo (sintético), e a salmoura fica dispersa em gotículas. É isso que mantém o filtrado oleoso e inibe folhelhos."
+  },
+  {
+   "id": "for-0088",
+   "dificuldade": 3,
+   "tema": "RSS e ROA",
+   "enunciado": "Qual o efeito esperado de reduzir a razão sintético/salmoura (mais salmoura, menos sintético) de 80/20 para 70/30?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Aumento da viscosidade plástica e maior demanda de emulsificante",
+    "Redução da densidade da fase interna e da viscosidade",
+    "Eliminação da necessidade de cal",
+    "Remoção de sólidos",
+    "Aumento da estabilidade elétrica"
+   ],
+   "correta": 0,
+   "explicacao": "Mais fase dispersa significa maior fração volumétrica de gotas, o que aumenta a viscosidade plástica e exige mais emulsificante para manter a emulsão estável."
+  },
+  {
+   "id": "for-0089",
+   "dificuldade": 1,
+   "tema": "RSS e ROA",
+   "enunciado": "O que mede a razão sintético/salmoura (RSS), diferente da ROA?",
+   "tipo": "multipla",
+   "alternativas": [
+    "RSS usa só o volume de óleo",
+    "RSS usa a densidade; ROA usa o volume",
+    "RSS mede sólidos; ROA mede óleo",
+    "São idênticas",
+    "RSS = VFO/(FV·VA), usa o volume da salmoura (corrigido pelo FV); ROA = VFO/VA usa o volume da água"
+   ],
+   "correta": 4,
+   "explicacao": "A retorta mede a água, mas a fase interna é salmoura. Por isso o RSS corrige a água pelo FV, enquanto a ROA é uma razão simples óleo/água."
+  },
+  {
+   "id": "for-0090",
+   "dificuldade": 3,
+   "tema": "Fluido não aquoso (n-parafina)",
+   "enunciado": "Por que o cálculo de 1 bbl-eq de fluido não aquoso (RSS e densidade fixos) resolve-se com um sistema de duas equações?",
+   "tipo": "multipla",
+   "alternativas": [
+    "O RSS elimina a necessidade de qualquer equação",
+    "Basta o balanço de volume, pois a densidade é irrelevante",
+    "Basta o balanço de massa, pois o volume é fixo",
+    "Há uma incógnita por aditivo, resolvida por 10 equações",
+    "As incógnitas são o volume de salmoura (que fixa a parafina pelo RSS) e o volume de barita; usa-se um balanço de volume e outro de massa"
+   ],
+   "correta": 4,
+   "explicacao": "Com os aditivos fixos, restam Y (salmoura) e Z (barita). O RSS dá Vp = (70/30)·Y, e os dois balanços (volume = 350,5 mL e massa = ρ·350,5) resolvem Y e Z."
+  },
+  {
+   "id": "for-0091",
+   "dificuldade": 2,
+   "tema": "Balanço e cálculo",
+   "enunciado": "No ‘fluido q.s.p. peso’ de uma formulação, o que significa a barita estar com concentração a calcular?",
+   "tipo": "multipla",
+   "alternativas": [
+    "A barita é medida pela salinidade",
+    "A barita é calculada só pelo volume",
+    "A barita é fixa, e a densidade é livre",
+    "A barita é um aditivo líquido",
+    "A barita é a quantidade suficiente para atingir a densidade-alvo, definida pelo balanço de massa e volume"
+   ],
+   "correta": 4,
+   "explicacao": "Todos os demais aditivos têm ppb definido. A barita fecha a conta: o ppb varia com a densidade, com o sal e com os demais aditivos."
+  },
+  {
+   "id": "for-0092",
+   "dificuldade": 2,
+   "tema": "Balanço e cálculo",
+   "enunciado": "Por que se arredonda para cima o número de sacos, big bags ou tambores de uma formulação?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque não se compra fração de embalagem e é preciso garantir o produto necessário",
+    "Porque a norma obriga a usar números pares",
+    "Porque a arredondar para baixo muda a densidade",
+    "Porque 1 saco tem sempre 25 kg exatos",
+    "Porque a barita tem pureza de 90%"
+   ],
+   "correta": 0,
+   "explicacao": "Ex.: 226,8 sacos de CMC → 227. Em operação, costuma-se acrescentar margem, mas o mínimo é a embalagem inteira que cobre a quantidade."
+  },
+  {
+   "id": "for-0093",
+   "dificuldade": 1,
+   "tema": "Salmouras e FV",
+   "enunciado": "O que é o fator de volume (FV) de uma salmoura de NaCl?",
+   "tipo": "multipla",
+   "alternativas": [
+    "A salinidade em mg/L",
+    "A densidade da salmoura em ppg",
+    "A razão entre o volume da salmoura e o volume de água usado para prepará-la (FV > 1)",
+    "A razão entre a massa de sal e a de água",
+    "A fração de sal em lb/bbl"
+   ],
+   "correta": 2,
+   "explicacao": "FV = Vsalmoura/Vágua. Aumenta com a concentração (≈ 1,059 a 15% e ≈ 1,087 a 20%). Serve para calcular a água necessária e o volume de sal dissolvido."
+  },
+  {
+   "id": "for-0094",
+   "dificuldade": 1,
+   "tema": "Salmouras e FV",
+   "enunciado": "A salinidade em mg/L refere-se à massa de sal por litro de salmoura final (não por litro de água de mistura).",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "166.650 mg/L significa 166,65 g de NaCl em cada litro de salmoura pronta. Como o sal ocupa volume, a água usada é menor que o volume final (Vágua = V/FV)."
+  },
+  {
+   "id": "for-0095",
+   "dificuldade": 1,
+   "tema": "Conversões de unidades",
+   "enunciado": "Para converter ppg em ppb (lb/bbl), multiplica-se por 42.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "1 bbl = 42 gal. Assim, 12 ppg = 504 lb/bbl."
+  },
+  {
+   "id": "for-0096",
+   "dificuldade": 2,
+   "tema": "Conversões de unidades",
+   "enunciado": "Em laboratório, adicionar 1 g de aditivo a 350,5 mL de fluido equivale a 1 lb/bbl (1 ppb).",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "350,5 mL = 1 bbl-eq: 1 lb em 158.987 mL = 453,6 g em 158.987 mL = 1 g em 350,5 mL."
+  },
+  {
+   "id": "for-0097",
+   "dificuldade": 3,
+   "tema": "Salmouras e FV",
+   "enunciado": "Sobre misturas e salmouras, considere:",
+   "tipo": "combinacao",
+   "afirmativas": [
+    "I. Em uma mistura, a massa total é a soma das massas dos componentes.",
+    "II. Ao dissolver sal em água, o volume final é sempre igual à soma dos volumes de água e de sal cristalino.",
+    "III. Para uma salmoura com dois sais, FV global = FV₁ + FV₂ − 1."
+   ],
+   "alternativas": [
+    "Apenas I",
+    "Apenas III",
+    "Apenas I e II",
+    "Apenas I e III",
+    "Apenas II e III"
+   ],
+   "correta": 3,
+   "explicacao": "II é falsa: o volume da solução não é aditivo; por isso se usa o FV. I (conservação de massa) e III (FVG = FVNaCl + FVKCl − 1) estão corretas."
+  },
+  {
+   "id": "for-0098",
+   "dificuldade": 3,
+   "tema": "Formulação de fluido aquoso",
+   "enunciado": "Nas contas de uma formulação aquosa, considere:",
+   "tipo": "combinacao",
+   "afirmativas": [
+    "I. Polímeros dissolvidos (xantana, CMC, amido) e a soda têm volume tratado como zero.",
+    "II. O lubrificante oleofílico entra com volume m/d, como se fosse sólido.",
+    "III. O volume do sal dissolvido é o volume da salmoura menos o da água de mistura."
+   ],
+   "alternativas": [
+    "Apenas I",
+    "Apenas III",
+    "Apenas I e III",
+    "Apenas II e III",
+    "I, II e III"
+   ],
+   "correta": 4,
+   "explicacao": "As três práticas são usadas nas tabelas de formulação: polímeros em solução não somam volume; o lubrificante não se dissolve, então ocupa volume próprio; e o volume de sal dissolvido é Vsalm − Vágua = Vágua(FV − 1)."
+  },
+  {
+   "id": "for-0099",
+   "dificuldade": 3,
+   "tema": "Balanço e cálculo",
+   "enunciado": "Assinale a INCORRETA sobre unidades e formulações:",
+   "tipo": "incorreta",
+   "alternativas": [
+    "Para converter ppg em g/mL divide-se por 8,345",
+    "1 bbl-eq corresponde a 350,5 mL",
+    "1 g/350,5 mL = 1 lb/bbl",
+    "1 bbl = 42 gal",
+    "1 bbl-eq corresponde a 158,987 mL"
+   ],
+   "correta": 4,
+   "explicacao": "1 bbl = 158,987 L; 1 bbl-eq = 350,5 mL. As demais afirmações estão corretas."
+  },
+  {
+   "id": "for-0100",
+   "dificuldade": 3,
+   "tema": "Fluido inicial (spud mud)",
+   "enunciado": "Por que a fase sem riser usa água do mar com tampões viscosos em vez de um fluido formulado?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque a água do mar tem densidade de 15 ppg",
+    "Porque a bentonita só funciona sem riser",
+    "O retorno é descartado no leito marinho: usa-se fluido barato e ambientalmente aceitável, com tampões para a limpeza do poço",
+    "Porque o riser exige fluido não aquoso",
+    "Porque os tampões fornecem a pressão hidrostática do riser"
+   ],
+   "correta": 2,
+   "explicacao": "Sem riser não há retorno à superfície. Faz-se a limpeza com tampões de bentonita ou polímero e usa-se água do mar para a perfuração. Isso reduz custo e impacto ambiental."
+  },
+  {
+   "id": "for-0101",
+   "dificuldade": 3,
+   "tema": "Fluidos de reservatório",
+   "enunciado": "Qual o motivo válido para substituir uma salmoura saturada por uma insaturada na fase de reservatório?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Aumentar o inchamento dos folhelhos",
+    "Aumentar a densidade sem sal",
+    "Eliminar o filtrado",
+    "Eliminar a necessidade de viscosificante",
+    "Reduzir o risco de incrustação por reação com a água da formação e melhorar a resolução da perfilagem, se a densidade permitir"
+   ],
+   "correta": 4,
+   "explicacao": "Salmouras saturadas reagem com a água de formação (precipitação de sais) e atrapalham os perfis. O ganho vale se a densidade necessária puder ser alcançada com a salmoura insaturada."
+  },
+  {
+   "id": "for-0102",
+   "dificuldade": 1,
+   "tema": "Fluidos de reservatório",
+   "enunciado": "Em salmouras poliméricas, por que se monitoram Ca²⁺, Mg²⁺ e o teor de sulfato?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque elevam o pH acima de 14",
+    "Porque reduzem o ppb de barita",
+    "Porque são bactericidas",
+    "Porque aumentam a densidade em demasia",
+    "Porque podem precipitar (CaSO₄, hidróxidos) e prejudicar polímeros e a formação"
+   ],
+   "correta": 4,
+   "explicacao": "Cálcio, magnésio e sulfato levam a incrustações e interferem na hidratação dos polímeros. O monitoramento permite tratar (barrilha, soda) antes de danificar o reservatório."
+  },
+  {
+   "id": "for-0103",
+   "dificuldade": 3,
+   "tema": "Aplicação em campo",
+   "enunciado": "Um fluido de 11,2 ppg precisa subir a 11,5 ppg com barita. Qual a dose aproximada por bbl de fluido? (1.471,76·(Df−Di)/(35,08−Df))",
+   "tipo": "multipla",
+   "alternativas": [
+    "≈ 8 lb/bbl",
+    "≈ 60 lb/bbl",
+    "≈ 19 lb/bbl",
+    "≈ 34 lb/bbl",
+    "≈ 120 lb/bbl"
+   ],
+   "correta": 2,
+   "explicacao": "1.471,76 × (11,5 − 11,2)/(35,08 − 11,5) = 441,5/23,58 = 18,7 lb/bbl. Há acréscimo de volume (≈ 1,3%) e de sólidos."
+  }
+ ],
+ "flashcards": [
+  {
+   "id": "for-f001",
+   "frente": "bbl-eq",
+   "verso": "1 bbl-equivalente = 350,5 mL. 1 g em 350,5 mL = 1 lb/bbl (1 ppb). 1 bbl = 158,987 L = 42 gal."
+  },
+  {
+   "id": "for-f002",
+   "frente": "ppg ↔ g/mL ↔ ppb",
+   "verso": "g/mL × 8,345 = ppg · ppg ÷ 8,345 = g/mL · ppg × 42 = ppb (lb/bbl). Ex.: 12 ppg = 504 ppb; 1,80 g/cm³ = 15 ppg."
+  },
+  {
+   "id": "for-f003",
+   "frente": "Massa de 1 bbl-eq",
+   "verso": "m = densidade (g/mL) × 350,5. Ex.: 11,2 ppg → 1,342 × 350,5 = 470,4 g."
+  },
+  {
+   "id": "for-f004",
+   "frente": "Embalagens padrão",
+   "verso": "Saco = 25 kg = 55,125 lb · big bag = 1.000 kg = 2.205 lb · tambor = 200 L · bombona = 20 L. Arredondar sempre para cima."
+  },
+  {
+   "id": "for-f005",
+   "frente": "Quantidade de produto sólido",
+   "verso": "lb = ppb × bbl de fluido; nº de embalagens = lb ÷ lb por embalagem (arredondar para cima)."
+  },
+  {
+   "id": "for-f006",
+   "frente": "Quantidade de produto líquido",
+   "verso": "kg = lb ÷ 2,2046; L = kg ÷ densidade; nº de tambores = L ÷ 200."
+  },
+  {
+   "id": "for-f007",
+   "frente": "Aditivo líquido por % v/v",
+   "verso": "V = % × V de fluido (bbl); × 158,987 L/bbl; ÷ volume da embalagem."
+  },
+  {
+   "id": "for-f008",
+   "frente": "Spud mud: tubos",
+   "verso": "Tubo = 30 ft = 9,144 m. 27,44 m = 3 tubos; 182,9 m = 20 tubos."
+  },
+  {
+   "id": "for-f009",
+   "frente": "Spud mud: tampões do enunciado",
+   "verso": "27,44–73,2 m: 30 bbl/tubo (5 tubos); 73,2–128,1 m: 45 bbl/tubo (6); 128,1–182,9 m: 60 bbl/tubo (6) = 780 bbl. Mais 1,3 × volume da fase (≈ 114 bbl) = ≈ 894 bbl."
+  },
+  {
+   "id": "for-f010",
+   "frente": "Spud mud: sacos",
+   "verso": "894 bbl × 25 ppb = 22.350 lb ÷ 55,125 = ≈ 406 sacos. Água com Ca²⁺ < 100 mg/L."
+  },
+  {
+   "id": "for-f011",
+   "frente": "Capacidade do poço",
+   "verso": "Cap (bbl/m) = D²/313,76. 12¼\" → 0,4783 bbl/m; × 182,9 m = 87,5 bbl."
+  },
+  {
+   "id": "for-f012",
+   "frente": "Adensamento com barita",
+   "verso": "Mb (lb) = 1.471,76 · V · (Df − Di)/(35,08 − Df). Dose (lb/bbl) = 1.471,76 (Df − Di)/(35,08 − Df). ΔV = Mb/1.471,76."
+  },
+  {
+   "id": "for-f013",
+   "frente": "Densidade de barita e calcita",
+   "verso": "Barita: 4,1–4,2 g/mL (35,08 ppg; 1.471,76 lb/bbl de sólido). CaCO₃: 2,6–2,7 g/mL."
+  },
+  {
+   "id": "for-f014",
+   "frente": "Mistura de fluidos e aditivos",
+   "verso": "Massa total = Σ massas. Volume total = Σ volumes (m/d). Densidade = massa/volume. Ex.: 825 bbl de 10 ppg + 30 sacos (d = 1,6) + 27,5 t de barita → 11,2 ppg; 869 bbl."
+  },
+  {
+   "id": "for-f015",
+   "frente": "FV da salmoura",
+   "verso": "FV = V salmoura/V água (> 1). Vágua = Vsalmoura/FV. 15% NaCl: 166.650 mg/L, d = 1,111, FV = 1,059. 20%: 229.960 mg/L, d = 1,150, FV = 1,087."
+  },
+  {
+   "id": "for-f016",
+   "frente": "Massa de sal na salmoura",
+   "verso": "m = salinidade (mg/L) × V (L). 1.500 bbl a 166.650 mg/L → 39,7 t → 40 big bags; água = 1.500/1,059 = 1.416,4 bbl."
+  },
+  {
+   "id": "for-f017",
+   "frente": "FV de dois sais",
+   "verso": "FVG = FV_NaCl + FV_KCl − 1. Vágua = V/FVG."
+  },
+  {
+   "id": "for-f018",
+   "frente": "Interpolação na tabela",
+   "verso": "x = (S − S₁)/(S₂ − S₁); valor = v₁ + x (v₂ − v₁). Aplica-se a densidade e FV."
+  },
+  {
+   "id": "for-f019",
+   "frente": "Sal dissolvido",
+   "verso": "Volume = Vsalmoura − Vágua = Vágua (FV − 1). Massa = Dsalm·Vsalm − Vágua (g, com mL e g/mL)."
+  },
+  {
+   "id": "for-f020",
+   "frente": "Formulação aquosa: balanço",
+   "verso": "Vbr + Vb = 350,5 − Vaditivos; Dbr·Vbr + Db·Vb = ρ·350,5 − Maditivos. Polímeros dissolvidos: volume zero. Lubrificante oleofílico: volume m/d."
+  },
+  {
+   "id": "for-f021",
+   "frente": "Água de mistura",
+   "verso": "bbl-água/bbl-fluido = (Vbr/FV)/350,5. Ex.: 0,7347 × 2.500 bbl = 1.836,8 bbl."
+  },
+  {
+   "id": "for-f022",
+   "frente": "Formulação não aquosa (bbl-eq)",
+   "verso": "Incógnitas: Y (salmoura) e Z (barita). Vp = (RSS_sint/RSS_salm)·Y. Volume: Vp + Y + ΣV adit + Z = 350,5. Massa: Dp·Vp + Dsalm·Y + ΣM adit + Db·Z = ρ·350,5."
+  },
+  {
+   "id": "for-f023",
+   "frente": "n-parafina 70/30, 11,2 ppg, 185.000 mg/L",
+   "verso": "Y ≈ 82,6 mL · Vp ≈ 192,7 mL (149,5 g) · Z ≈ 41,7 mL (175 ppb de barita) · água ≈ 77,4 mL · sal ≈ 15,3 g."
+  },
+  {
+   "id": "for-f024",
+   "frente": "RSS e ROA",
+   "verso": "RSS = VFO/(FV·VA) · ROA = VFO/VA. % sintético = 100·RSS/(1 + RSS)."
+  },
+  {
+   "id": "for-f025",
+   "frente": "Mudar o RSS",
+   "verso": "Sintético fixo: (V_sint)/(V_sint + V_salm + Δ) = nova fração. Salmoura fixa: (V_sint + Δ)/(V_sint + V_salm + Δ) = nova fração."
+  },
+  {
+   "id": "for-f026",
+   "frente": "Retorta esperada na formulação",
+   "verso": "VFO = Vp/350,5 × 10; VA = Vágua/350,5 × 10 (retorta de 10 mL)."
+  },
+  {
+   "id": "for-f027",
+   "frente": "Funções: viscosificantes",
+   "verso": "Goma xantana (pseudoplástico, LSRV, suspensão); bentonita (viscosidade, gel, reboco); argila organofílica (em NAF)."
+  },
+  {
+   "id": "for-f028",
+   "frente": "Funções: filtrado",
+   "verso": "CMC ULV e amido HP reduzem o filtrado. Calcita é obturante/ponteante. Bentonita forma reboco."
+  },
+  {
+   "id": "for-f029",
+   "frente": "Funções: inibição e outros",
+   "verso": "Inibidor catiônico (hidratação de argilas); NaCl/KCl (atividade da água); NaOH (pH); bactericida (protege polímeros); lubrificante (torque e arraste)."
+  },
+  {
+   "id": "for-f030",
+   "frente": "Fluido não aquoso: aditivos",
+   "verso": "Emulsificantes (primário e secundário), cal (ativa emulsificantes, reserva alcalina), argila organofílica (viscosidade), redutor de filtrado (Ecotrol), calcita, barita, salmoura interna."
+  },
+  {
+   "id": "for-f031",
+   "frente": "Ordem de preparo: aquoso",
+   "verso": "Água → dureza e pH → polímeros → inibidores/sal → obturante → barita (por último)."
+  },
+  {
+   "id": "for-f032",
+   "frente": "Ordem de preparo: não aquoso",
+   "verso": "Base sintética → emulsificantes → cal → argila organofílica → salmoura (cisalhamento) → redutor de filtrado → barita."
+  },
+  {
+   "id": "for-f033",
+   "frente": "Salinidade da fase interna (NAF)",
+   "verso": "Igualar a atividade da água à da formação: sem fluxo osmótico para o folhelho."
+  }
+ ]
+}

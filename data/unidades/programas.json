@@ -1,0 +1,2508 @@
+{
+ "id": "programas",
+ "perguntas": [
+  {
+   "id": "pr-0001",
+   "dificuldade": 1,
+   "tema": "Programa de fluidos: volumetria",
+   "enunciado": "Volumes (bbl): superfície 1.500; linha de superfície 15; choke line 133; kill line 133; booster line 105; riser 2.430; revestimento 927. Qual o volume requerido para iniciar a fase (bbl)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "4.872 bbl",
+    "3.743 bbl",
+    "6.554 bbl",
+    "5.243 bbl",
+    "2.813 bbl"
+   ],
+   "correta": 3,
+   "explicacao": "O volume para iniciar a fase é a soma de tudo o que precisa estar cheio antes de perfurar: superfície + linha + choke + kill + booster + riser + revestimento = 5.243 bbl. O poço aberto ainda não existe."
+  },
+  {
+   "id": "pr-0002",
+   "dificuldade": 3,
+   "tema": "Programa de fluidos: volumetria",
+   "enunciado": "Volume teórico do poço aberto: 86 bbl. Washout de 10% sobre o diâmetro do poço (o volume cresce com o quadrado do diâmetro). Qual o volume do poço aberto com washout (bbl)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "96 bbl",
+    "95 bbl",
+    "130 bbl",
+    "104 bbl",
+    "114 bbl"
+   ],
+   "correta": 3,
+   "explicacao": "Diâmetro 10% maior → volume × (1 + 0,1)² = 86 × 1,21 = 104 bbl."
+  },
+  {
+   "id": "pr-0003",
+   "dificuldade": 3,
+   "tema": "Programa de fluidos: volumetria",
+   "enunciado": "Volumes (bbl): superfície 1.500; linha de superfície 15; choke line 133; kill line 133; booster line 105; riser 2.430; revestimento 927. Poço aberto com washout de 104 bbl; fluido perdido no cascalho de 374 bbl. Qual o volume total requerido para o intervalo (bbl)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "5.347 bbl",
+    "4.577 bbl",
+    "7.151 bbl",
+    "6.579 bbl",
+    "5.721 bbl"
+   ],
+   "correta": 4,
+   "explicacao": "Total = volume para iniciar (5.243) + poço aberto com washout (104) + fluido perdido no cascalho (374) = 5.721 bbl."
+  },
+  {
+   "id": "pr-0004",
+   "dificuldade": 1,
+   "tema": "Programa de fluidos: volumetria",
+   "enunciado": "Volumes (bbl): superfície 1.000; linha de superfície 50; choke line 188; kill line 188; booster line 149; riser 3.444; revestimento 1.476. Qual o volume requerido para iniciar a fase (bbl)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "7.340 bbl",
+    "3.051 bbl",
+    "6.495 bbl",
+    "5.495 bbl",
+    "5.970 bbl"
+   ],
+   "correta": 2,
+   "explicacao": "O volume para iniciar a fase é a soma de tudo o que precisa estar cheio antes de perfurar: superfície + linha + choke + kill + booster + riser + revestimento = 6.495 bbl. O poço aberto ainda não existe."
+  },
+  {
+   "id": "pr-0005",
+   "dificuldade": 3,
+   "tema": "Programa de fluidos: volumetria",
+   "enunciado": "Volume teórico do poço aberto: 845 bbl. Washout de 10% sobre o diâmetro do poço (o volume cresce com o quadrado do diâmetro). Qual o volume do poço aberto com washout (bbl)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "1.278 bbl",
+    "855 bbl",
+    "930 bbl",
+    "1.022 bbl",
+    "1.125 bbl"
+   ],
+   "correta": 3,
+   "explicacao": "Diâmetro 10% maior → volume × (1 + 0,1)² = 845 × 1,21 = 1.022 bbl."
+  },
+  {
+   "id": "pr-0006",
+   "dificuldade": 3,
+   "tema": "Programa de fluidos: volumetria",
+   "enunciado": "Volumes (bbl): superfície 1.000; linha de superfície 50; choke line 188; kill line 188; booster line 149; riser 3.444; revestimento 1.476. Poço aberto com washout de 1.022 bbl; fluido perdido no cascalho de 601 bbl. Qual o volume total requerido para o intervalo (bbl)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "9.336 bbl",
+    "7.517 bbl",
+    "8.118 bbl",
+    "10.148 bbl",
+    "7.096 bbl"
+   ],
+   "correta": 2,
+   "explicacao": "Total = volume para iniciar (6.495) + poço aberto com washout (1.022) + fluido perdido no cascalho (601) = 8.118 bbl."
+  },
+  {
+   "id": "pr-0007",
+   "dificuldade": 1,
+   "tema": "Programa de fluidos: volumetria",
+   "enunciado": "Volumes (bbl): superfície 1.200; linha de superfície 30; choke line 150; kill line 150; booster line 110; riser 2.800; revestimento 1.100. Qual o volume requerido para iniciar a fase (bbl)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "5.540 bbl",
+    "5.130 bbl",
+    "2.740 bbl",
+    "6.925 bbl",
+    "4.340 bbl"
+   ],
+   "correta": 0,
+   "explicacao": "O volume para iniciar a fase é a soma de tudo o que precisa estar cheio antes de perfurar: superfície + linha + choke + kill + booster + riser + revestimento = 5.540 bbl. O poço aberto ainda não existe."
+  },
+  {
+   "id": "pr-0008",
+   "dificuldade": 3,
+   "tema": "Programa de fluidos: volumetria",
+   "enunciado": "Volume teórico do poço aberto: 120 bbl. Washout de 15% sobre o diâmetro do poço (o volume cresce com o quadrado do diâmetro). Qual o volume do poço aberto com washout (bbl)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "159 bbl",
+    "199 bbl",
+    "183 bbl",
+    "138 bbl",
+    "135 bbl"
+   ],
+   "correta": 0,
+   "explicacao": "Diâmetro 15% maior → volume × (1 + 0,15)² = 120 × 1,3225 = 159 bbl."
+  },
+  {
+   "id": "pr-0009",
+   "dificuldade": 3,
+   "tema": "Programa de fluidos: volumetria",
+   "enunciado": "Volumes (bbl): superfície 1.200; linha de superfície 30; choke line 150; kill line 150; booster line 110; riser 2.800; revestimento 1.100. Poço aberto com washout de 159 bbl; fluido perdido no cascalho de 300 bbl. Qual o volume total requerido para o intervalo (bbl)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "7.499 bbl",
+    "5.999 bbl",
+    "6.899 bbl",
+    "5.699 bbl",
+    "4.799 bbl"
+   ],
+   "correta": 1,
+   "explicacao": "Total = volume para iniciar (5.540) + poço aberto com washout (159) + fluido perdido no cascalho (300) = 5.999 bbl."
+  },
+  {
+   "id": "pr-0010",
+   "dificuldade": 1,
+   "tema": "Programa de fluidos: volumetria",
+   "enunciado": "Volumes (bbl): superfície 800; linha de superfície 20; choke line 100; kill line 100; booster line 80; riser 1.900; revestimento 700. Qual o volume requerido para iniciar a fase (bbl)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "2.900 bbl",
+    "3.420 bbl",
+    "3.900 bbl",
+    "3.700 bbl",
+    "1.800 bbl"
+   ],
+   "correta": 3,
+   "explicacao": "O volume para iniciar a fase é a soma de tudo o que precisa estar cheio antes de perfurar: superfície + linha + choke + kill + booster + riser + revestimento = 3.700 bbl. O poço aberto ainda não existe."
+  },
+  {
+   "id": "pr-0011",
+   "dificuldade": 3,
+   "tema": "Programa de fluidos: volumetria",
+   "enunciado": "Volume teórico do poço aberto: 200 bbl. Washout de 20% sobre o diâmetro do poço (o volume cresce com o quadrado do diâmetro). Qual o volume do poço aberto com washout (bbl)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "346 bbl",
+    "220 bbl",
+    "240 bbl",
+    "288 bbl",
+    "360 bbl"
+   ],
+   "correta": 3,
+   "explicacao": "Diâmetro 20% maior → volume × (1 + 0,2)² = 200 × 1,44 = 288 bbl."
+  },
+  {
+   "id": "pr-0012",
+   "dificuldade": 3,
+   "tema": "Programa de fluidos: volumetria",
+   "enunciado": "Volumes (bbl): superfície 800; linha de superfície 20; choke line 100; kill line 100; booster line 80; riser 1.900; revestimento 700. Poço aberto com washout de 288 bbl; fluido perdido no cascalho de 500 bbl. Qual o volume total requerido para o intervalo (bbl)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "5.161 bbl",
+    "4.200 bbl",
+    "4.488 bbl",
+    "3.988 bbl",
+    "5.610 bbl"
+   ],
+   "correta": 2,
+   "explicacao": "Total = volume para iniciar (3.700) + poço aberto com washout (288) + fluido perdido no cascalho (500) = 4.488 bbl."
+  },
+  {
+   "id": "pr-0013",
+   "dificuldade": 2,
+   "tema": "Programa de fluidos: volumetria",
+   "enunciado": "Sonda com air gap de 28 m e lâmina d'água de 2.028 m (comprimento do riser = air gap + lâmina). IDs: riser 19,25\", choke e kill 4,5\", booster 4,0\". Capacidade em bbl/m = ID² × 0,003187. Qual o volume do riser (bbl)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "2.798 bbl",
+    "2.428 bbl",
+    "2.938 bbl",
+    "740 bbl",
+    "3.035 bbl"
+   ],
+   "correta": 1,
+   "explicacao": "Comprimento = 28 + 2.028 = 2.056 m. Volume = 19,25² × 0,003187 × 2.056 = 2.428 bbl. Não esqueça o air gap."
+  },
+  {
+   "id": "pr-0014",
+   "dificuldade": 2,
+   "tema": "Programa de fluidos: volumetria",
+   "enunciado": "Sonda com air gap de 28 m e lâmina d'água de 2.028 m (comprimento do riser = air gap + lâmina). IDs: riser 19,25\", choke e kill 4,5\", booster 4,0\". Capacidade em bbl/m = ID² × 0,003187. Numa desconexão de emergência, riser e linhas de kill, choke e booster serão trocados por água do mar. Qual o volume de água do mar (bbl), desconsiderando a superfície?",
+   "tipo": "multipla",
+   "alternativas": [
+    "3.498 bbl",
+    "3.358 bbl",
+    "2.238 bbl",
+    "2.428 bbl",
+    "2.798 bbl"
+   ],
+   "correta": 4,
+   "explicacao": "Riser 2.428 + choke 133 + kill 133 + booster 105 = 2.798 bbl. Os volumes de superfície ficam fora."
+  },
+  {
+   "id": "pr-0015",
+   "dificuldade": 3,
+   "tema": "Programa de fluidos: volumetria",
+   "enunciado": "Sonda com air gap de 28 m e lâmina d'água de 2.028 m (comprimento do riser = air gap + lâmina). IDs: riser 19,25\", choke e kill 4,5\", booster 4,0\". Capacidade em bbl/m = ID² × 0,003187. Após a troca das linhas, resta trocar apenas o fluido do riser, e a desconexão deve ocorrer em no máximo 2 h. Qual a vazão mínima (gpm)? (1 bbl = 42 gal)",
+   "tipo": "multipla",
+   "alternativas": [
+    "850 gpm",
+    "1.062 gpm",
+    "979 gpm",
+    "680 gpm",
+    "1.105 gpm"
+   ],
+   "correta": 0,
+   "explicacao": "Só o riser falta: 2.428 bbl × 42 = 101.980 gal ÷ (2 × 60 min) = 850 gpm. As linhas já foram trocadas e não entram."
+  },
+  {
+   "id": "pr-0016",
+   "dificuldade": 2,
+   "tema": "Programa de fluidos: volumetria",
+   "enunciado": "Sonda com air gap de 28 m e lâmina d'água de 2.028 m (comprimento do riser = air gap + lâmina). IDs: riser 19,25\", choke e kill 4,5\", booster 4,0\". Capacidade em bbl/m = ID² × 0,003187. Qual o número de strokes para trocar completamente o riser, com bomba de 4,2 gal/stk? (1 bbl = 42 gal)",
+   "tipo": "multipla",
+   "alternativas": [
+    "30.351 stk",
+    "31.565 stk",
+    "10.198 stk",
+    "27.983 stk",
+    "24.281 stk"
+   ],
+   "correta": 4,
+   "explicacao": "2.428 bbl × 42 = 101.980 gal ÷ 4,2 gal/stk = 24.281 stk."
+  },
+  {
+   "id": "pr-0017",
+   "dificuldade": 2,
+   "tema": "Programa de fluidos: volumetria",
+   "enunciado": "Sonda com air gap de 25 m e lâmina d'água de 1.500 m (comprimento do riser = air gap + lâmina). IDs: riser 19,25\", choke e kill 4,5\", booster 4,0\". Capacidade em bbl/m = ID² × 0,003187. Qual o volume do riser (bbl)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "2.076 bbl",
+    "549 bbl",
+    "1.801 bbl",
+    "2.179 bbl",
+    "2.251 bbl"
+   ],
+   "correta": 2,
+   "explicacao": "Comprimento = 25 + 1.500 = 1.525 m. Volume = 19,25² × 0,003187 × 1.525 = 1.801 bbl. Não esqueça o air gap."
+  },
+  {
+   "id": "pr-0018",
+   "dificuldade": 2,
+   "tema": "Programa de fluidos: volumetria",
+   "enunciado": "Sonda com air gap de 25 m e lâmina d'água de 1.500 m (comprimento do riser = air gap + lâmina). IDs: riser 19,25\", choke e kill 4,5\", booster 4,0\". Capacidade em bbl/m = ID² × 0,003187. Numa desconexão de emergência, riser e linhas de kill, choke e booster serão trocados por água do mar. Qual o volume de água do mar (bbl), desconsiderando a superfície?",
+   "tipo": "multipla",
+   "alternativas": [
+    "1.661 bbl",
+    "2.491 bbl",
+    "2.076 bbl",
+    "2.595 bbl",
+    "1.801 bbl"
+   ],
+   "correta": 2,
+   "explicacao": "Riser 1.801 + choke 98 + kill 98 + booster 78 = 2.076 bbl. Os volumes de superfície ficam fora."
+  },
+  {
+   "id": "pr-0019",
+   "dificuldade": 3,
+   "tema": "Programa de fluidos: volumetria",
+   "enunciado": "Sonda com air gap de 25 m e lâmina d'água de 1.500 m (comprimento do riser = air gap + lâmina). IDs: riser 19,25\", choke e kill 4,5\", booster 4,0\". Capacidade em bbl/m = ID² × 0,003187. Após a troca das linhas, resta trocar apenas o fluido do riser, e a desconexão deve ocorrer em no máximo 3 h. Qual a vazão mínima (gpm)? (1 bbl = 42 gal)",
+   "tipo": "multipla",
+   "alternativas": [
+    "420 gpm",
+    "546 gpm",
+    "484 gpm",
+    "525 gpm",
+    "336 gpm"
+   ],
+   "correta": 0,
+   "explicacao": "Só o riser falta: 1.801 bbl × 42 = 75.642 gal ÷ (3 × 60 min) = 420 gpm. As linhas já foram trocadas e não entram."
+  },
+  {
+   "id": "pr-0020",
+   "dificuldade": 2,
+   "tema": "Programa de fluidos: volumetria",
+   "enunciado": "Sonda com air gap de 25 m e lâmina d'água de 1.500 m (comprimento do riser = air gap + lâmina). IDs: riser 19,25\", choke e kill 4,5\", booster 4,0\". Capacidade em bbl/m = ID² × 0,003187. Qual o número de strokes para trocar completamente o riser, com bomba de 4,2 gal/stk? (1 bbl = 42 gal)",
+   "tipo": "multipla",
+   "alternativas": [
+    "18.010 stk",
+    "20.756 stk",
+    "7.564 stk",
+    "23.413 stk",
+    "22.512 stk"
+   ],
+   "correta": 0,
+   "explicacao": "1.801 bbl × 42 = 75.642 gal ÷ 4,2 gal/stk = 18.010 stk."
+  },
+  {
+   "id": "pr-0021",
+   "dificuldade": 2,
+   "tema": "Programa de fluidos: volumetria",
+   "enunciado": "Sonda com air gap de 31 m e lâmina d'água de 2.883 m (comprimento do riser = air gap + lâmina). IDs: riser 19,25\", choke e kill 4,5\", booster 4,0\". Capacidade em bbl/m = ID² × 0,003187. Qual o volume do riser (bbl)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "4.301 bbl",
+    "1.049 bbl",
+    "3.966 bbl",
+    "3.441 bbl",
+    "4.164 bbl"
+   ],
+   "correta": 3,
+   "explicacao": "Comprimento = 31 + 2.883 = 2.914 m. Volume = 19,25² × 0,003187 × 2.914 = 3.441 bbl. Não esqueça o air gap."
+  },
+  {
+   "id": "pr-0022",
+   "dificuldade": 2,
+   "tema": "Programa de fluidos: volumetria",
+   "enunciado": "Sonda com air gap de 31 m e lâmina d'água de 2.883 m (comprimento do riser = air gap + lâmina). IDs: riser 19,25\", choke e kill 4,5\", booster 4,0\". Capacidade em bbl/m = ID² × 0,003187. Numa desconexão de emergência, riser e linhas de kill, choke e booster serão trocados por água do mar. Qual o volume de água do mar (bbl), desconsiderando a superfície?",
+   "tipo": "multipla",
+   "alternativas": [
+    "3.966 bbl",
+    "4.958 bbl",
+    "4.759 bbl",
+    "3.441 bbl",
+    "3.173 bbl"
+   ],
+   "correta": 0,
+   "explicacao": "Riser 3.441 + choke 188 + kill 188 + booster 149 = 3.966 bbl. Os volumes de superfície ficam fora."
+  },
+  {
+   "id": "pr-0023",
+   "dificuldade": 3,
+   "tema": "Programa de fluidos: volumetria",
+   "enunciado": "Sonda com air gap de 31 m e lâmina d'água de 2.883 m (comprimento do riser = air gap + lâmina). IDs: riser 19,25\", choke e kill 4,5\", booster 4,0\". Capacidade em bbl/m = ID² × 0,003187. Após a troca das linhas, resta trocar apenas o fluido do riser, e a desconexão deve ocorrer em no máximo 3 h. Qual a vazão mínima (gpm)? (1 bbl = 42 gal)",
+   "tipo": "multipla",
+   "alternativas": [
+    "803 gpm",
+    "1.004 gpm",
+    "642 gpm",
+    "1.044 gpm",
+    "925 gpm"
+   ],
+   "correta": 0,
+   "explicacao": "Só o riser falta: 3.441 bbl × 42 = 144.538 gal ÷ (3 × 60 min) = 803 gpm. As linhas já foram trocadas e não entram."
+  },
+  {
+   "id": "pr-0024",
+   "dificuldade": 2,
+   "tema": "Programa de fluidos: volumetria",
+   "enunciado": "Sonda com air gap de 31 m e lâmina d'água de 2.883 m (comprimento do riser = air gap + lâmina). IDs: riser 19,25\", choke e kill 4,5\", booster 4,0\". Capacidade em bbl/m = ID² × 0,003187. Qual o número de strokes para trocar completamente o riser, com bomba de 4,2 gal/stk? (1 bbl = 42 gal)",
+   "tipo": "multipla",
+   "alternativas": [
+    "34.414 stk",
+    "39.661 stk",
+    "43.018 stk",
+    "14.454 stk",
+    "44.738 stk"
+   ],
+   "correta": 0,
+   "explicacao": "3.441 bbl × 42 = 144.538 gal ÷ 4,2 gal/stk = 34.414 stk."
+  },
+  {
+   "id": "pr-0025",
+   "dificuldade": 2,
+   "tema": "Programa de fluidos: volumetria",
+   "enunciado": "Sonda com air gap de 30 m e lâmina d'água de 1.980 m (comprimento do riser = air gap + lâmina). IDs: riser 19,25\", choke e kill 4,5\", booster 4,0\". Capacidade em bbl/m = ID² × 0,003187. Qual o volume do riser (bbl)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "2.736 bbl",
+    "2.872 bbl",
+    "2.968 bbl",
+    "724 bbl",
+    "2.374 bbl"
+   ],
+   "correta": 4,
+   "explicacao": "Comprimento = 30 + 1.980 = 2.010 m. Volume = 19,25² × 0,003187 × 2.010 = 2.374 bbl. Não esqueça o air gap."
+  },
+  {
+   "id": "pr-0026",
+   "dificuldade": 2,
+   "tema": "Programa de fluidos: volumetria",
+   "enunciado": "Sonda com air gap de 30 m e lâmina d'água de 1.980 m (comprimento do riser = air gap + lâmina). IDs: riser 19,25\", choke e kill 4,5\", booster 4,0\". Capacidade em bbl/m = ID² × 0,003187. Numa desconexão de emergência, riser e linhas de kill, choke e booster serão trocados por água do mar. Qual o volume de água do mar (bbl), desconsiderando a superfície?",
+   "tipo": "multipla",
+   "alternativas": [
+    "2.374 bbl",
+    "3.420 bbl",
+    "3.283 bbl",
+    "2.736 bbl",
+    "2.189 bbl"
+   ],
+   "correta": 3,
+   "explicacao": "Riser 2.374 + choke 130 + kill 130 + booster 102 = 2.736 bbl. Os volumes de superfície ficam fora."
+  },
+  {
+   "id": "pr-0027",
+   "dificuldade": 3,
+   "tema": "Programa de fluidos: volumetria",
+   "enunciado": "Sonda com air gap de 30 m e lâmina d'água de 1.980 m (comprimento do riser = air gap + lâmina). IDs: riser 19,25\", choke e kill 4,5\", booster 4,0\". Capacidade em bbl/m = ID² × 0,003187. Após a troca das linhas, resta trocar apenas o fluido do riser, e a desconexão deve ocorrer em no máximo 2 h. Qual a vazão mínima (gpm)? (1 bbl = 42 gal)",
+   "tipo": "multipla",
+   "alternativas": [
+    "831 gpm",
+    "665 gpm",
+    "957 gpm",
+    "1.080 gpm",
+    "1.039 gpm"
+   ],
+   "correta": 0,
+   "explicacao": "Só o riser falta: 2.374 bbl × 42 = 99.699 gal ÷ (2 × 60 min) = 831 gpm. As linhas já foram trocadas e não entram."
+  },
+  {
+   "id": "pr-0028",
+   "dificuldade": 2,
+   "tema": "Programa de fluidos: volumetria",
+   "enunciado": "Sonda com air gap de 27 m e lâmina d'água de 2.400 m (comprimento do riser = air gap + lâmina). IDs: riser 19,25\", choke e kill 4,5\", booster 4,0\". Capacidade em bbl/m = ID² × 0,003187. Qual o volume do riser (bbl)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "3.468 bbl",
+    "874 bbl",
+    "3.303 bbl",
+    "2.866 bbl",
+    "3.582 bbl"
+   ],
+   "correta": 3,
+   "explicacao": "Comprimento = 27 + 2.400 = 2.427 m. Volume = 19,25² × 0,003187 × 2.427 = 2.866 bbl. Não esqueça o air gap."
+  },
+  {
+   "id": "pr-0029",
+   "dificuldade": 2,
+   "tema": "Programa de fluidos: volumetria",
+   "enunciado": "Sonda com air gap de 27 m e lâmina d'água de 2.400 m (comprimento do riser = air gap + lâmina). IDs: riser 19,25\", choke e kill 4,5\", booster 4,0\". Capacidade em bbl/m = ID² × 0,003187. Numa desconexão de emergência, riser e linhas de kill, choke e booster serão trocados por água do mar. Qual o volume de água do mar (bbl), desconsiderando a superfície?",
+   "tipo": "multipla",
+   "alternativas": [
+    "3.964 bbl",
+    "2.866 bbl",
+    "4.129 bbl",
+    "3.303 bbl",
+    "2.642 bbl"
+   ],
+   "correta": 3,
+   "explicacao": "Riser 2.866 + choke 157 + kill 157 + booster 124 = 3.303 bbl. Os volumes de superfície ficam fora."
+  },
+  {
+   "id": "pr-0030",
+   "dificuldade": 3,
+   "tema": "Programa de fluidos: volumetria",
+   "enunciado": "Sonda com air gap de 27 m e lâmina d'água de 2.400 m (comprimento do riser = air gap + lâmina). IDs: riser 19,25\", choke e kill 4,5\", booster 4,0\". Capacidade em bbl/m = ID² × 0,003187. Após a troca das linhas, resta trocar apenas o fluido do riser, e a desconexão deve ocorrer em no máximo 3 h. Qual a vazão mínima (gpm)? (1 bbl = 42 gal)",
+   "tipo": "multipla",
+   "alternativas": [
+    "669 gpm",
+    "836 gpm",
+    "535 gpm",
+    "869 gpm",
+    "771 gpm"
+   ],
+   "correta": 0,
+   "explicacao": "Só o riser falta: 2.866 bbl × 42 = 120.382 gal ÷ (3 × 60 min) = 669 gpm. As linhas já foram trocadas e não entram."
+  },
+  {
+   "id": "pr-0031",
+   "dificuldade": 3,
+   "tema": "Programa de fluidos: fabricação",
+   "enunciado": "Fluido polimérico base água de 6.200 bbl, com goma xantana a 1,5 ppb. Quantos sacos de 25 kg são necessários? (1 kg = 2,2 lb; arredonde para cima)",
+   "tipo": "multipla",
+   "alternativas": [
+    "372",
+    "170",
+    "374",
+    "340",
+    "212"
+   ],
+   "correta": 1,
+   "explicacao": "ppb = lb/bbl. Massa = 1,5 × 6.200 = 9.300 lb ÷ 2,2 = 4.227 kg ÷ 25 kg = 169,1 → 170 unidades (arredondando para cima)."
+  },
+  {
+   "id": "pr-0032",
+   "dificuldade": 2,
+   "tema": "Programa de fluidos: fabricação",
+   "enunciado": "Fluido polimérico base água de 5.721 bbl, com amido modificado (HP) a 8,0 ppb. Quantos sacos de 25 kg são necessários? (1 kg = 2,2 lb; arredonde para cima)",
+   "tipo": "multipla",
+   "alternativas": [
+    "1.831",
+    "1.833",
+    "833",
+    "1.041",
+    "1.666"
+   ],
+   "correta": 2,
+   "explicacao": "ppb = lb/bbl. Massa = 8,0 × 5.721 = 45.768 lb ÷ 2,2 = 20.804 kg ÷ 25 kg = 832,1 → 833 unidades (arredondando para cima)."
+  },
+  {
+   "id": "pr-0033",
+   "dificuldade": 2,
+   "tema": "Programa de fluidos: fabricação",
+   "enunciado": "Fluido polimérico base água de 4.800 bbl, com CMC/PAC L a 2,0 ppb. Quantos sacos de 25 kg são necessários? (1 kg = 2,2 lb; arredonde para cima)",
+   "tipo": "multipla",
+   "alternativas": [
+    "384",
+    "219",
+    "350",
+    "175",
+    "385"
+   ],
+   "correta": 3,
+   "explicacao": "ppb = lb/bbl. Massa = 2,0 × 4.800 = 9.600 lb ÷ 2,2 = 4.364 kg ÷ 25 kg = 174,5 → 175 unidades (arredondando para cima)."
+  },
+  {
+   "id": "pr-0034",
+   "dificuldade": 3,
+   "tema": "Programa de fluidos: fabricação",
+   "enunciado": "Fluido polimérico base água de 6.200 bbl, com óxido de magnésio a 1,0 ppb. Quantos sacos de 25 kg são necessários? (1 kg = 2,2 lb; arredonde para cima)",
+   "tipo": "multipla",
+   "alternativas": [
+    "113",
+    "226",
+    "249",
+    "107",
+    "248"
+   ],
+   "correta": 0,
+   "explicacao": "ppb = lb/bbl. Massa = 1,0 × 6.200 = 6.200 lb ÷ 2,2 = 2.818 kg ÷ 25 kg = 112,7 → 113 unidades (arredondando para cima)."
+  },
+  {
+   "id": "pr-0035",
+   "dificuldade": 2,
+   "tema": "Programa de fluidos: fabricação",
+   "enunciado": "Fluido polimérico base água de 5.000 bbl, com bicarbonato de sódio a 1,5 ppb. Quantos sacos de 25 kg são necessários? (1 kg = 2,2 lb; arredonde para cima)",
+   "tipo": "multipla",
+   "alternativas": [
+    "131",
+    "274",
+    "300",
+    "137",
+    "301"
+   ],
+   "correta": 3,
+   "explicacao": "ppb = lb/bbl. Massa = 1,5 × 5.000 = 7.500 lb ÷ 2,2 = 3.409 kg ÷ 25 kg = 136,4 → 137 unidades (arredondando para cima)."
+  },
+  {
+   "id": "pr-0036",
+   "dificuldade": 2,
+   "tema": "Programa de fluidos: fabricação",
+   "enunciado": "Fluido polimérico base água de 6.500 bbl, com triazina a 0,25 ppb. Quantas bombonas de 23 kg são necessárias? (1 kg = 2,2 lb; arredonde para cima)",
+   "tipo": "multipla",
+   "alternativas": [
+    "73",
+    "66",
+    "71",
+    "27",
+    "33"
+   ],
+   "correta": 4,
+   "explicacao": "ppb = lb/bbl. Massa = 0,25 × 6.500 = 1.625 lb ÷ 2,2 = 739 kg ÷ 23 kg = 32,1 → 33 unidades (arredondando para cima)."
+  },
+  {
+   "id": "pr-0037",
+   "dificuldade": 3,
+   "tema": "Programa de fluidos: fabricação",
+   "enunciado": "Fluido polimérico base água de 7.300 bbl, com antiespumante a 0,3 ppb. Quantas bombonas de 20 kg são necessárias? (1 kg = 2,2 lb; arredonde para cima)",
+   "tipo": "multipla",
+   "alternativas": [
+    "44",
+    "62",
+    "100",
+    "50",
+    "110"
+   ],
+   "correta": 3,
+   "explicacao": "ppb = lb/bbl. Massa = 0,3 × 7.300 = 2.190 lb ÷ 2,2 = 995 kg ÷ 20 kg = 49,8 → 50 unidades (arredondando para cima)."
+  },
+  {
+   "id": "pr-0038",
+   "dificuldade": 2,
+   "tema": "Programa de fluidos: fabricação",
+   "enunciado": "Para fabricar 5.721 bbl de fluido com 12 ppb de barita, quantas toneladas de barita são necessárias? (1 kg = 2,2 lb; arredonde para cima)",
+   "tipo": "multipla",
+   "alternativas": [
+    "32 ton",
+    "64 ton",
+    "69 ton",
+    "40 ton",
+    "42 ton"
+   ],
+   "correta": 0,
+   "explicacao": "12 × 5.721 = 68.652 lb ÷ 2,2 = 31.205 kg = 31,2 ton → 32 ton."
+  },
+  {
+   "id": "pr-0039",
+   "dificuldade": 2,
+   "tema": "Programa de fluidos: fabricação",
+   "enunciado": "Para fabricar 5.243 bbl de fluido com 12 ppb de barita, quantas toneladas de barita são necessárias? (1 kg = 2,2 lb; arredonde para cima)",
+   "tipo": "multipla",
+   "alternativas": [
+    "58 ton",
+    "36 ton",
+    "29 ton",
+    "39 ton",
+    "63 ton"
+   ],
+   "correta": 2,
+   "explicacao": "12 × 5.243 = 62.916 lb ÷ 2,2 = 28.598 kg = 28,6 ton → 29 ton."
+  },
+  {
+   "id": "pr-0040",
+   "dificuldade": 2,
+   "tema": "Programa de fluidos: fabricação",
+   "enunciado": "Para fabricar 6.495 bbl de fluido com 12 ppb de barita, quantas toneladas de barita são necessárias? (1 kg = 2,2 lb; arredonde para cima)",
+   "tipo": "multipla",
+   "alternativas": [
+    "78 ton",
+    "36 ton",
+    "46 ton",
+    "45 ton",
+    "72 ton"
+   ],
+   "correta": 1,
+   "explicacao": "12 × 6.495 = 77.940 lb ÷ 2,2 = 35.427 kg = 35,4 ton → 36 ton."
+  },
+  {
+   "id": "pr-0041",
+   "dificuldade": 2,
+   "tema": "Programa de fluidos: fabricação",
+   "enunciado": "Para fabricar 4.800 bbl de fluido com 12 ppb de barita, quantas toneladas de barita são necessárias? (1 kg = 2,2 lb; arredonde para cima)",
+   "tipo": "multipla",
+   "alternativas": [
+    "58 ton",
+    "34 ton",
+    "27 ton",
+    "54 ton",
+    "37 ton"
+   ],
+   "correta": 2,
+   "explicacao": "12 × 4.800 = 57.600 lb ÷ 2,2 = 26.182 kg = 26,2 ton → 27 ton."
+  },
+  {
+   "id": "pr-0042",
+   "dificuldade": 2,
+   "tema": "Programa de fluidos: fabricação",
+   "enunciado": "Para fabricar 7.000 bbl de fluido com 12 ppb de barita, quantas toneladas de barita são necessárias? (1 kg = 2,2 lb; arredonde para cima)",
+   "tipo": "multipla",
+   "alternativas": [
+    "78 ton",
+    "84 ton",
+    "49 ton",
+    "31 ton",
+    "39 ton"
+   ],
+   "correta": 4,
+   "explicacao": "12 × 7.000 = 84.000 lb ÷ 2,2 = 38.182 kg = 38,2 ton → 39 ton."
+  },
+  {
+   "id": "pr-0043",
+   "dificuldade": 1,
+   "tema": "Programa de fluidos: fabricação",
+   "enunciado": "O fluido de 5.721 bbl é feito com 90% v/v de água industrial e 10% v/v de solução saturada de NaCl. Quantos bbl de solução saturada de NaCl?",
+   "tipo": "multipla",
+   "alternativas": [
+    "457,7 bbl",
+    "715,1 bbl",
+    "1.144,2 bbl",
+    "572,1 bbl",
+    "858,2 bbl"
+   ],
+   "correta": 3,
+   "explicacao": "10% × 5.721 = 572,1 bbl (e 5.148,9 bbl de água industrial)."
+  },
+  {
+   "id": "pr-0044",
+   "dificuldade": 1,
+   "tema": "Programa de fluidos: fabricação",
+   "enunciado": "O fluido de 5.243 bbl é feito com 90% v/v de água industrial e 10% v/v de solução saturada de NaCl. Quantos bbl de solução saturada de NaCl?",
+   "tipo": "multipla",
+   "alternativas": [
+    "655,4 bbl",
+    "524,3 bbl",
+    "419,4 bbl",
+    "786,4 bbl",
+    "1.048,6 bbl"
+   ],
+   "correta": 1,
+   "explicacao": "10% × 5.243 = 524,3 bbl (e 4.718,7 bbl de água industrial)."
+  },
+  {
+   "id": "pr-0045",
+   "dificuldade": 1,
+   "tema": "Programa de fluidos: fabricação",
+   "enunciado": "O fluido de 6.495 bbl é feito com 90% v/v de água industrial e 10% v/v de solução saturada de NaCl. Quantos bbl de solução saturada de NaCl?",
+   "tipo": "multipla",
+   "alternativas": [
+    "811,9 bbl",
+    "1.299,0 bbl",
+    "649,5 bbl",
+    "974,2 bbl",
+    "519,6 bbl"
+   ],
+   "correta": 2,
+   "explicacao": "10% × 6.495 = 649,5 bbl (e 5.845,5 bbl de água industrial)."
+  },
+  {
+   "id": "pr-0046",
+   "dificuldade": 3,
+   "tema": "Programa de fluidos: fabricação",
+   "enunciado": "Chegaram à sonda 8.500 bbl de fluido olefínico com 4 ppb de cal hidratada, mas o programa prevê 8 ppb. Quantas unidades de cal hidratada devem ser adicionadas? (1 kg = 2,2 lb; arredonde para cima)",
+   "tipo": "multipla",
+   "alternativas": [
+    "1.082",
+    "773",
+    "1.932",
+    "1.545",
+    "1.546"
+   ],
+   "correta": 1,
+   "explicacao": "Falta 4 ppb: 4 × 8.500 = 34.000 lb ÷ 2,2 = 15.455 kg ÷ 20 kg = 772,7 → 773. Só a diferença entra, não a concentração total."
+  },
+  {
+   "id": "pr-0047",
+   "dificuldade": 3,
+   "tema": "Programa de fluidos: fabricação",
+   "enunciado": "Chegaram à sonda 6.000 bbl de fluido olefínico com 5 ppb de cal hidratada, mas o programa prevê 8 ppb. Quantas unidades de cal hidratada devem ser adicionadas? (1 kg = 2,2 lb; arredonde para cima)",
+   "tipo": "multipla",
+   "alternativas": [
+    "820",
+    "1.296",
+    "410",
+    "573",
+    "1.090"
+   ],
+   "correta": 2,
+   "explicacao": "Falta 3 ppb: 3 × 6.000 = 18.000 lb ÷ 2,2 = 8.182 kg ÷ 20 kg = 409,1 → 410. Só a diferença entra, não a concentração total."
+  },
+  {
+   "id": "pr-0048",
+   "dificuldade": 3,
+   "tema": "Programa de fluidos: fabricação",
+   "enunciado": "Chegaram à sonda 7.200 bbl de fluido olefínico com 3 ppb de cal hidratada, mas o programa prevê 8 ppb. Quantas unidades de cal hidratada devem ser adicionadas? (1 kg = 2,2 lb; arredonde para cima)",
+   "tipo": "multipla",
+   "alternativas": [
+    "1.309",
+    "1.638",
+    "819",
+    "1.718",
+    "1.146"
+   ],
+   "correta": 2,
+   "explicacao": "Falta 5 ppb: 5 × 7.200 = 36.000 lb ÷ 2,2 = 16.364 kg ÷ 20 kg = 818,2 → 819. Só a diferença entra, não a concentração total."
+  },
+  {
+   "id": "pr-0049",
+   "dificuldade": 3,
+   "tema": "Programa de fluidos: fabricação",
+   "enunciado": "Chegaram à sonda 9.000 bbl de fluido olefínico com 5 ppb de emulsificante, mas o programa prevê 8 ppb. Quantas unidades de emulsificante (tambores de 188 kg) devem ser adicionadas? (1 kg = 2,2 lb; arredonde para cima)",
+   "tipo": "multipla",
+   "alternativas": [
+    "132",
+    "174",
+    "92",
+    "207",
+    "66"
+   ],
+   "correta": 4,
+   "explicacao": "Falta 3 ppb: 3 × 9.000 = 27.000 lb ÷ 2,2 = 12.273 kg ÷ 188 kg = 65,3 → 66. Só a diferença entra, não a concentração total."
+  },
+  {
+   "id": "pr-0050",
+   "dificuldade": 3,
+   "tema": "Programa de fluidos: fabricação",
+   "enunciado": "Chegaram à sonda 6.500 bbl de fluido olefínico com 0,5 ppb de agente óleo molhante, mas o programa prevê 2 ppb. Quantas unidades de agente óleo molhante (tambores de 187 kg) devem ser adicionadas? (1 kg = 2,2 lb; arredonde para cima)",
+   "tipo": "multipla",
+   "alternativas": [
+    "24",
+    "48",
+    "44",
+    "34",
+    "31"
+   ],
+   "correta": 0,
+   "explicacao": "Falta 1,5 ppb: 1,5 × 6.500 = 9.750 lb ÷ 2,2 = 4.432 kg ÷ 187 kg = 23,7 → 24. Só a diferença entra, não a concentração total."
+  },
+  {
+   "id": "pr-0051",
+   "dificuldade": 3,
+   "tema": "Programa de fluidos: fabricação",
+   "enunciado": "O fluido olefínico de 8.119 bbl leva 60 ppb de carbonato de cálcio 2-44. Quantas toneladas? (1 kg = 2,2 lb)",
+   "tipo": "multipla",
+   "alternativas": [
+    "276 ton",
+    "111 ton",
+    "487 ton",
+    "332 ton",
+    "221 ton"
+   ],
+   "correta": 4,
+   "explicacao": "60 × 8.119 = 487.140 lb ÷ 2,2 = 221.427 kg = 221 ton."
+  },
+  {
+   "id": "pr-0052",
+   "dificuldade": 3,
+   "tema": "Programa de fluidos: fabricação",
+   "enunciado": "O fluido olefínico de 6.495 bbl leva 60 ppb de carbonato de cálcio 2-44. Quantas toneladas? (1 kg = 2,2 lb)",
+   "tipo": "multipla",
+   "alternativas": [
+    "390 ton",
+    "177 ton",
+    "221 ton",
+    "89 ton",
+    "266 ton"
+   ],
+   "correta": 1,
+   "explicacao": "60 × 6.495 = 389.700 lb ÷ 2,2 = 177.136 kg = 177 ton."
+  },
+  {
+   "id": "pr-0053",
+   "dificuldade": 3,
+   "tema": "Programa de fluidos: fabricação",
+   "enunciado": "O fluido olefínico de 7.000 bbl leva 60 ppb de carbonato de cálcio 2-44. Quantas toneladas? (1 kg = 2,2 lb)",
+   "tipo": "multipla",
+   "alternativas": [
+    "420 ton",
+    "239 ton",
+    "191 ton",
+    "286 ton",
+    "95 ton"
+   ],
+   "correta": 2,
+   "explicacao": "60 × 7.000 = 420.000 lb ÷ 2,2 = 190.909 kg = 191 ton."
+  },
+  {
+   "id": "pr-0054",
+   "dificuldade": 3,
+   "tema": "Programa de fluidos: fabricação",
+   "enunciado": "Formulação olefínica: olefina 151,1 ppb (124 kg por bbl de olefina) e água industrial 101,5 ppb (159 kg por bbl de água). Qual a razão olefina/água aproximada, em % de olefina na fase líquida? (1 kg = 2,2 lb)",
+   "tipo": "multipla",
+   "alternativas": [
+    "55 % de olefina",
+    "75 % de olefina",
+    "50 % de olefina",
+    "66 % de olefina",
+    "80 % de olefina"
+   ],
+   "correta": 3,
+   "explicacao": "Olefina: 151,1/2,2/124 = 0,554 bbl por bbl de fluido. Água: 101,5/2,2/159 = 0,29 bbl. Razão = 0,554/(0,554+0,29) = 66/34, dentro da faixa 60/40–70/30 do quadro de propriedades."
+  },
+  {
+   "id": "pr-0055",
+   "dificuldade": 3,
+   "tema": "Programa de fluidos: fabricação",
+   "enunciado": "Para 8.119 bbl de fluido com 151,1 ppb de olefina (124 kg por bbl de olefina), qual o volume de olefina (bbl)? (1 kg = 2,2 lb)",
+   "tipo": "multipla",
+   "alternativas": [
+    "5.621 bbl",
+    "3.507 bbl",
+    "9.893 bbl",
+    "4.497 bbl",
+    "2.698 bbl"
+   ],
+   "correta": 3,
+   "explicacao": "151,1 × 8.119 = 1.226.781 lb ÷ 2,2 = 557.628 kg ÷ 124 kg/bbl = 4.497 bbl."
+  },
+  {
+   "id": "pr-0056",
+   "dificuldade": 3,
+   "tema": "Programa de fluidos: fabricação",
+   "enunciado": "Para 6.000 bbl de fluido com 151,1 ppb de olefina (124 kg por bbl de olefina), qual o volume de olefina (bbl)? (1 kg = 2,2 lb)",
+   "tipo": "multipla",
+   "alternativas": [
+    "1.994 bbl",
+    "4.154 bbl",
+    "2.592 bbl",
+    "3.323 bbl",
+    "7.311 bbl"
+   ],
+   "correta": 3,
+   "explicacao": "151,1 × 6.000 = 906.600 lb ÷ 2,2 = 412.091 kg ÷ 124 kg/bbl = 3.323 bbl."
+  },
+  {
+   "id": "pr-0057",
+   "dificuldade": 2,
+   "tema": "Perda de circulação: tampões",
+   "enunciado": "Árvore de decisões (perdas < 300 bbl/h): 10–20 bbl/h → bombear 100–150 bbl com 10–15 ppb de CaCO₃ F e 10–15 ppb de CaCO₃ M; 20–50 bbl/h → 100–150 bbl com 25–35 ppb de CaCO₃ F e 25–35 ppb de CaCO₃ M; 50–100 bbl/h → 100–150 bbl com 20 ppb de CaCO₃ F, 40 ppb de CaCO₃ M e 40 ppb de CaCO₃ C (usar circulating sub); 100–300 bbl/h → 50–100 bbl com 40 ppb de FORM-A-BLOCK (usar circulating sub). O poço perde 40 bbl/h (avaliado estaticamente pelo trip tank). Quantos sacos de 25 kg de CaCO₃ M (médio) são necessários para um tampão de 100 bbl na concentração máxima da árvore? (1 kg = 2,2 lb; arredonde para cima)",
+   "tipo": "multipla",
+   "alternativas": [
+    "54 sacos",
+    "140 sacos",
+    "64 sacos",
+    "128 sacos",
+    "38 sacos"
+   ],
+   "correta": 2,
+   "explicacao": "40 bbl/h está na faixa 20–50 bbl/h: concentração máxima de CaCO₃ M (médio) = 35 ppb. 35 × 100 = 3500 lb ÷ 2,2 = 1.591 kg ÷ 25 = 63,6 → 64 sacos."
+  },
+  {
+   "id": "pr-0058",
+   "dificuldade": 2,
+   "tema": "Perda de circulação: tampões",
+   "enunciado": "Árvore de decisões (perdas < 300 bbl/h): 10–20 bbl/h → bombear 100–150 bbl com 10–15 ppb de CaCO₃ F e 10–15 ppb de CaCO₃ M; 20–50 bbl/h → 100–150 bbl com 25–35 ppb de CaCO₃ F e 25–35 ppb de CaCO₃ M; 50–100 bbl/h → 100–150 bbl com 20 ppb de CaCO₃ F, 40 ppb de CaCO₃ M e 40 ppb de CaCO₃ C (usar circulating sub); 100–300 bbl/h → 50–100 bbl com 40 ppb de FORM-A-BLOCK (usar circulating sub). O poço perde 35 bbl/h (avaliado estaticamente pelo trip tank). Quantos sacos de 25 kg de CaCO₃ F (fino) são necessários para um tampão de 100 bbl na concentração máxima da árvore? (1 kg = 2,2 lb; arredonde para cima)",
+   "tipo": "multipla",
+   "alternativas": [
+    "140 sacos",
+    "54 sacos",
+    "64 sacos",
+    "38 sacos",
+    "128 sacos"
+   ],
+   "correta": 2,
+   "explicacao": "35 bbl/h está na faixa 20–50 bbl/h: concentração máxima de CaCO₃ F (fino) = 35 ppb. 35 × 100 = 3500 lb ÷ 2,2 = 1.591 kg ÷ 25 = 63,6 → 64 sacos."
+  },
+  {
+   "id": "pr-0059",
+   "dificuldade": 2,
+   "tema": "Perda de circulação: tampões",
+   "enunciado": "Árvore de decisões (perdas < 300 bbl/h): 10–20 bbl/h → bombear 100–150 bbl com 10–15 ppb de CaCO₃ F e 10–15 ppb de CaCO₃ M; 20–50 bbl/h → 100–150 bbl com 25–35 ppb de CaCO₃ F e 25–35 ppb de CaCO₃ M; 50–100 bbl/h → 100–150 bbl com 20 ppb de CaCO₃ F, 40 ppb de CaCO₃ M e 40 ppb de CaCO₃ C (usar circulating sub); 100–300 bbl/h → 50–100 bbl com 40 ppb de FORM-A-BLOCK (usar circulating sub). O poço perde 15 bbl/h (avaliado estaticamente pelo trip tank). Quantos sacos de 25 kg de CaCO₃ M (médio) são necessários para um tampão de 100 bbl na concentração máxima da árvore? (1 kg = 2,2 lb; arredonde para cima)",
+   "tipo": "multipla",
+   "alternativas": [
+    "56 sacos",
+    "18 sacos",
+    "16 sacos",
+    "28 sacos",
+    "60 sacos"
+   ],
+   "correta": 3,
+   "explicacao": "15 bbl/h está na faixa 10–20 bbl/h: concentração máxima de CaCO₃ M (médio) = 15 ppb. 15 × 100 = 1500 lb ÷ 2,2 = 682 kg ÷ 25 = 27,3 → 28 sacos."
+  },
+  {
+   "id": "pr-0060",
+   "dificuldade": 3,
+   "tema": "Perda de circulação: tampões",
+   "enunciado": "Árvore de decisões (perdas < 300 bbl/h): 10–20 bbl/h → bombear 100–150 bbl com 10–15 ppb de CaCO₃ F e 10–15 ppb de CaCO₃ M; 20–50 bbl/h → 100–150 bbl com 25–35 ppb de CaCO₃ F e 25–35 ppb de CaCO₃ M; 50–100 bbl/h → 100–150 bbl com 20 ppb de CaCO₃ F, 40 ppb de CaCO₃ M e 40 ppb de CaCO₃ C (usar circulating sub); 100–300 bbl/h → 50–100 bbl com 40 ppb de FORM-A-BLOCK (usar circulating sub). O poço perde 75 bbl/h (avaliado estaticamente pelo trip tank). Quantos sacos de 25 kg de CaCO₃ C (grosso) são necessários para um tampão de 100 bbl na concentração máxima da árvore? (1 kg = 2,2 lb; arredonde para cima)",
+   "tipo": "multipla",
+   "alternativas": [
+    "160 sacos",
+    "146 sacos",
+    "44 sacos",
+    "63 sacos",
+    "73 sacos"
+   ],
+   "correta": 4,
+   "explicacao": "75 bbl/h está na faixa 50–100 bbl/h: concentração máxima de CaCO₃ C (grosso) = 40 ppb. 40 × 100 = 4000 lb ÷ 2,2 = 1.818 kg ÷ 25 = 72,7 → 73 sacos."
+  },
+  {
+   "id": "pr-0061",
+   "dificuldade": 3,
+   "tema": "Perda de circulação: tampões",
+   "enunciado": "Árvore de decisões (perdas < 300 bbl/h): 10–20 bbl/h → bombear 100–150 bbl com 10–15 ppb de CaCO₃ F e 10–15 ppb de CaCO₃ M; 20–50 bbl/h → 100–150 bbl com 25–35 ppb de CaCO₃ F e 25–35 ppb de CaCO₃ M; 50–100 bbl/h → 100–150 bbl com 20 ppb de CaCO₃ F, 40 ppb de CaCO₃ M e 40 ppb de CaCO₃ C (usar circulating sub); 100–300 bbl/h → 50–100 bbl com 40 ppb de FORM-A-BLOCK (usar circulating sub). O poço perde 80 bbl/h (avaliado estaticamente pelo trip tank). Quantos sacos de 25 kg de CaCO₃ M (médio) são necessários para um tampão de 100 bbl na concentração máxima da árvore? (1 kg = 2,2 lb; arredonde para cima)",
+   "tipo": "multipla",
+   "alternativas": [
+    "44 sacos",
+    "63 sacos",
+    "160 sacos",
+    "73 sacos",
+    "146 sacos"
+   ],
+   "correta": 3,
+   "explicacao": "80 bbl/h está na faixa 50–100 bbl/h: concentração máxima de CaCO₃ M (médio) = 40 ppb. 40 × 100 = 4000 lb ÷ 2,2 = 1.818 kg ÷ 25 = 72,7 → 73 sacos."
+  },
+  {
+   "id": "pr-0062",
+   "dificuldade": 2,
+   "tema": "Perda de circulação: tampões",
+   "enunciado": "Árvore de decisões (perdas < 300 bbl/h): 10–20 bbl/h → bombear 100–150 bbl com 10–15 ppb de CaCO₃ F e 10–15 ppb de CaCO₃ M; 20–50 bbl/h → 100–150 bbl com 25–35 ppb de CaCO₃ F e 25–35 ppb de CaCO₃ M; 50–100 bbl/h → 100–150 bbl com 20 ppb de CaCO₃ F, 40 ppb de CaCO₃ M e 40 ppb de CaCO₃ C (usar circulating sub); 100–300 bbl/h → 50–100 bbl com 40 ppb de FORM-A-BLOCK (usar circulating sub). O poço perde 60 bbl/h (avaliado estaticamente pelo trip tank). Quantos sacos de 25 kg de CaCO₃ F (fino) são necessários para um tampão de 100 bbl na concentração máxima da árvore? (1 kg = 2,2 lb; arredonde para cima)",
+   "tipo": "multipla",
+   "alternativas": [
+    "22 sacos",
+    "27 sacos",
+    "80 sacos",
+    "37 sacos",
+    "74 sacos"
+   ],
+   "correta": 3,
+   "explicacao": "60 bbl/h está na faixa 50–100 bbl/h: concentração máxima de CaCO₃ F (fino) = 20 ppb. 20 × 100 = 2000 lb ÷ 2,2 = 909 kg ÷ 25 = 36,4 → 37 sacos."
+  },
+  {
+   "id": "pr-0063",
+   "dificuldade": 3,
+   "tema": "Perda de circulação: tampões",
+   "enunciado": "Árvore de decisões (perdas < 300 bbl/h): 10–20 bbl/h → bombear 100–150 bbl com 10–15 ppb de CaCO₃ F e 10–15 ppb de CaCO₃ M; 20–50 bbl/h → 100–150 bbl com 25–35 ppb de CaCO₃ F e 25–35 ppb de CaCO₃ M; 50–100 bbl/h → 100–150 bbl com 20 ppb de CaCO₃ F, 40 ppb de CaCO₃ M e 40 ppb de CaCO₃ C (usar circulating sub); 100–300 bbl/h → 50–100 bbl com 40 ppb de FORM-A-BLOCK (usar circulating sub). Perda de 75 bbl/h. Qual o total de sacos de 25 kg de carbonato de cálcio (F + M + C) para um tampão de 100 bbl? (1 kg = 2,2 lb; arredonde para cima)",
+   "tipo": "multipla",
+   "alternativas": [
+    "91 sacos",
+    "127 sacos",
+    "146 sacos",
+    "73 sacos",
+    "182 sacos"
+   ],
+   "correta": 4,
+   "explicacao": "Somando as concentrações: 20 + 40 + 40 = 100 ppb. 100 × 100 = 10.000 lb ÷ 2,2 = 4.545 kg ÷ 25 = 181,8 → 182 sacos."
+  },
+  {
+   "id": "pr-0064",
+   "dificuldade": 3,
+   "tema": "Perda de circulação: tampões",
+   "enunciado": "Árvore de decisões (perdas < 300 bbl/h): 10–20 bbl/h → bombear 100–150 bbl com 10–15 ppb de CaCO₃ F e 10–15 ppb de CaCO₃ M; 20–50 bbl/h → 100–150 bbl com 25–35 ppb de CaCO₃ F e 25–35 ppb de CaCO₃ M; 50–100 bbl/h → 100–150 bbl com 20 ppb de CaCO₃ F, 40 ppb de CaCO₃ M e 40 ppb de CaCO₃ C (usar circulating sub); 100–300 bbl/h → 50–100 bbl com 40 ppb de FORM-A-BLOCK (usar circulating sub). Perda de 180 bbl/h. Qual a massa de FORM-A-BLOCK (kg) para um tampão de 50 bbl na concentração indicada? (1 kg = 2,2 lb)",
+   "tipo": "multipla",
+   "alternativas": [
+    "1.364 kg",
+    "2.000 kg",
+    "909 kg",
+    "455 kg",
+    "1.136 kg"
+   ],
+   "correta": 2,
+   "explicacao": "40 ppb × 50 bbl = 2.000 lb ÷ 2,2 = 909 kg."
+  },
+  {
+   "id": "pr-0065",
+   "dificuldade": 3,
+   "tema": "Perda de circulação: tampões",
+   "enunciado": "Árvore de decisões (perdas < 300 bbl/h): 10–20 bbl/h → bombear 100–150 bbl com 10–15 ppb de CaCO₃ F e 10–15 ppb de CaCO₃ M; 20–50 bbl/h → 100–150 bbl com 25–35 ppb de CaCO₃ F e 25–35 ppb de CaCO₃ M; 50–100 bbl/h → 100–150 bbl com 20 ppb de CaCO₃ F, 40 ppb de CaCO₃ M e 40 ppb de CaCO₃ C (usar circulating sub); 100–300 bbl/h → 50–100 bbl com 40 ppb de FORM-A-BLOCK (usar circulating sub). Perda de 180 bbl/h. Qual a massa de FORM-A-BLOCK (kg) para um tampão de 70 bbl na concentração indicada? (1 kg = 2,2 lb)",
+   "tipo": "multipla",
+   "alternativas": [
+    "1.273 kg",
+    "636 kg",
+    "1.909 kg",
+    "1.591 kg",
+    "2.800 kg"
+   ],
+   "correta": 0,
+   "explicacao": "40 ppb × 70 bbl = 2.800 lb ÷ 2,2 = 1.273 kg."
+  },
+  {
+   "id": "pr-0066",
+   "dificuldade": 3,
+   "tema": "Perda de circulação: tampões",
+   "enunciado": "Árvore de decisões (slide): 50–100 bbl/h → bombear 100–150 bbl com 40 ppb de CaCO₃ F, 40 ppb de CaCO₃ M, 40 ppb de CaCO₃ C e 20 ppb de Magma Fiber, usando circulating sub. O poço perde 80 bbl/h estaticamente. Qual a massa de CaCO₃ M (kg) num tampão de 100 bbl na concentração máxima? (1 kg = 2,2 lb)",
+   "tipo": "multipla",
+   "alternativas": [
+    "2.272 kg",
+    "4.000 kg",
+    "1.818 kg",
+    "2.727 kg",
+    "909 kg"
+   ],
+   "correta": 2,
+   "explicacao": "40 ppb × 100 bbl = 4.000 lb ÷ 2,2 = 1.818 kg."
+  },
+  {
+   "id": "pr-0067",
+   "dificuldade": 3,
+   "tema": "Perda de circulação: tampões",
+   "enunciado": "Árvore de decisões (slide): 50–100 bbl/h → bombear 100–150 bbl com 40 ppb de CaCO₃ F, 40 ppb de CaCO₃ M, 40 ppb de CaCO₃ C e 20 ppb de Magma Fiber, usando circulating sub. Qual a massa de Magma Fiber (kg) no tampão de 100 bbl? (1 kg = 2,2 lb)",
+   "tipo": "multipla",
+   "alternativas": [
+    "2.000 kg",
+    "1.136 kg",
+    "455 kg",
+    "1.455 kg",
+    "909 kg"
+   ],
+   "correta": 4,
+   "explicacao": "20 ppb × 100 bbl = 2.000 lb ÷ 2,2 = 909 kg."
+  },
+  {
+   "id": "pr-0068",
+   "dificuldade": 3,
+   "tema": "Perda de circulação: tampões",
+   "enunciado": "Coluna lisa com ID de 4,276\" até 2.000 m. Tampão de 100 bbl, bomba de 0,1 bbl/stk. Quantos strokes para bombear e deslocar todo o tampão para a zona de perda (retirar o tampão da coluna)? (capacidade = ID² × 0,003187 bbl/m)",
+   "tipo": "multipla",
+   "alternativas": [
+    "2.165 stk",
+    "3.248 stk",
+    "1.165 stk",
+    "1.000 stk",
+    "1.083 stk"
+   ],
+   "correta": 0,
+   "explicacao": "Capacidade da coluna = 4,276² × 0,003187 × 2.000 = 116,5 bbl. Bombear o tampão (100 bbl) e deslocá-lo com o volume da coluna: (100 + 116,5) ÷ 0,1 = 2.165 stk. Só o tampão ou só a coluna dá resposta incompleta."
+  },
+  {
+   "id": "pr-0069",
+   "dificuldade": 3,
+   "tema": "Perda de circulação: tampões",
+   "enunciado": "Coluna lisa com ID de 4,276\" até 5.000 m. Tampão de 100 bbl, bomba de 0,1 bbl/stk. Quantos strokes para bombear e deslocar todo o tampão para a zona de perda (retirar o tampão da coluna)? (capacidade = ID² × 0,003187 bbl/m)",
+   "tipo": "multipla",
+   "alternativas": [
+    "1.000 stk",
+    "2.914 stk",
+    "3.914 stk",
+    "5.870 stk",
+    "1.957 stk"
+   ],
+   "correta": 2,
+   "explicacao": "Capacidade da coluna = 4,276² × 0,003187 × 5.000 = 291,4 bbl. Bombear o tampão (100 bbl) e deslocá-lo com o volume da coluna: (100 + 291,4) ÷ 0,1 = 3.914 stk. Só o tampão ou só a coluna dá resposta incompleta."
+  },
+  {
+   "id": "pr-0070",
+   "dificuldade": 3,
+   "tema": "Perda de circulação: tampões",
+   "enunciado": "Coluna lisa com ID de 4,276\" até 3.000 m. Tampão de 120 bbl, bomba de 0,1 bbl/stk. Quantos strokes para bombear e deslocar todo o tampão para a zona de perda (retirar o tampão da coluna)? (capacidade = ID² × 0,003187 bbl/m)",
+   "tipo": "multipla",
+   "alternativas": [
+    "1.474 stk",
+    "2.948 stk",
+    "1.748 stk",
+    "4.422 stk",
+    "1.200 stk"
+   ],
+   "correta": 1,
+   "explicacao": "Capacidade da coluna = 4,276² × 0,003187 × 3.000 = 174,8 bbl. Bombear o tampão (120 bbl) e deslocá-lo com o volume da coluna: (120 + 174,8) ÷ 0,1 = 2.948 stk. Só o tampão ou só a coluna dá resposta incompleta."
+  },
+  {
+   "id": "pr-0071",
+   "dificuldade": 3,
+   "tema": "Perda de circulação: tampões",
+   "enunciado": "Coluna lisa com ID de 4,0\" até 4.000 m. Tampão de 100 bbl, bomba de 0,12 bbl/stk. Quantos strokes para bombear e deslocar todo o tampão para a zona de perda (retirar o tampão da coluna)? (capacidade = ID² × 0,003187 bbl/m)",
+   "tipo": "multipla",
+   "alternativas": [
+    "2.533 stk",
+    "3.800 stk",
+    "833 stk",
+    "1.267 stk",
+    "1.700 stk"
+   ],
+   "correta": 0,
+   "explicacao": "Capacidade da coluna = 4,0² × 0,003187 × 4.000 = 204,0 bbl. Bombear o tampão (100 bbl) e deslocá-lo com o volume da coluna: (100 + 204,0) ÷ 0,12 = 2.533 stk. Só o tampão ou só a coluna dá resposta incompleta."
+  },
+  {
+   "id": "pr-0072",
+   "dificuldade": 3,
+   "tema": "Perda de circulação: tampões",
+   "enunciado": "Coluna lisa com ID de 4,276\" até 2.500 m. Tampão de 150 bbl, bomba de 0,1 bbl/stk. Quantos strokes para bombear e deslocar todo o tampão para a zona de perda (retirar o tampão da coluna)? (capacidade = ID² × 0,003187 bbl/m)",
+   "tipo": "multipla",
+   "alternativas": [
+    "2.957 stk",
+    "4.435 stk",
+    "1.500 stk",
+    "1.478 stk",
+    "1.457 stk"
+   ],
+   "correta": 0,
+   "explicacao": "Capacidade da coluna = 4,276² × 0,003187 × 2.500 = 145,7 bbl. Bombear o tampão (150 bbl) e deslocá-lo com o volume da coluna: (150 + 145,7) ÷ 0,1 = 2.957 stk. Só o tampão ou só a coluna dá resposta incompleta."
+  },
+  {
+   "id": "pr-0073",
+   "dificuldade": 3,
+   "tema": "Prisão de coluna no sal",
+   "enunciado": "Prisão por fechamento do sal: bombeia-se tampão de 80 bbl de água industrial pelo interior da coluna e desloca-se com fluido de perfuração até que 35 bbl estejam no anular (restando 45 bbl na coluna). A coluna tem 300 bbl de capacidade. Qual o volume de fluido de perfuração a bombear após o tampão (bbl)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "220 bbl",
+    "204 bbl",
+    "319 bbl",
+    "300 bbl",
+    "255 bbl"
+   ],
+   "correta": 4,
+   "explicacao": "A frente do tampão chega à broca após 300 − 80 = 220 bbl; mais 35 bbl saindo para o anular = 255 bbl. Equivale a vcol − 45 (o que sobra na coluna)."
+  },
+  {
+   "id": "pr-0074",
+   "dificuldade": 3,
+   "tema": "Prisão de coluna no sal",
+   "enunciado": "Num deslocamento de 255 bbl de fluido de perfuração com o tampão de água para liberar coluna presa no sal, qual o tempo de bombeio (min) a 15 bpm?",
+   "tipo": "multipla",
+   "alternativas": [
+    "21 min",
+    "17 min",
+    "27 min",
+    "8 min",
+    "64 min"
+   ],
+   "correta": 1,
+   "explicacao": "Tempo = volume ÷ vazão = 255 ÷ 15 = 17 min."
+  },
+  {
+   "id": "pr-0075",
+   "dificuldade": 3,
+   "tema": "Prisão de coluna no sal",
+   "enunciado": "Prisão por fechamento do sal: bombeia-se tampão de 80 bbl de água industrial pelo interior da coluna e desloca-se com fluido de perfuração até que 35 bbl estejam no anular (restando 45 bbl na coluna). A coluna tem 280 bbl de capacidade. Qual o volume de fluido de perfuração a bombear após o tampão (bbl)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "294 bbl",
+    "235 bbl",
+    "245 bbl",
+    "280 bbl",
+    "200 bbl"
+   ],
+   "correta": 1,
+   "explicacao": "A frente do tampão chega à broca após 280 − 80 = 200 bbl; mais 35 bbl saindo para o anular = 235 bbl. Equivale a vcol − 45 (o que sobra na coluna)."
+  },
+  {
+   "id": "pr-0076",
+   "dificuldade": 3,
+   "tema": "Prisão de coluna no sal",
+   "enunciado": "Num deslocamento de 235 bbl de fluido de perfuração com o tampão de água para liberar coluna presa no sal, qual o tempo de bombeio (min) a 20 bpm?",
+   "tipo": "multipla",
+   "alternativas": [
+    "10 min",
+    "19 min",
+    "12 min",
+    "6 min",
+    "15 min"
+   ],
+   "correta": 2,
+   "explicacao": "Tempo = volume ÷ vazão = 235 ÷ 20 = 12 min."
+  },
+  {
+   "id": "pr-0077",
+   "dificuldade": 3,
+   "tema": "Prisão de coluna no sal",
+   "enunciado": "Prisão por fechamento do sal: bombeia-se tampão de 80 bbl de água industrial pelo interior da coluna e desloca-se com fluido de perfuração até que 35 bbl estejam no anular (restando 45 bbl na coluna). A coluna tem 240 bbl de capacidade. Qual o volume de fluido de perfuração a bombear após o tampão (bbl)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "205 bbl",
+    "240 bbl",
+    "244 bbl",
+    "160 bbl",
+    "195 bbl"
+   ],
+   "correta": 4,
+   "explicacao": "A frente do tampão chega à broca após 240 − 80 = 160 bbl; mais 35 bbl saindo para o anular = 195 bbl. Equivale a vcol − 45 (o que sobra na coluna)."
+  },
+  {
+   "id": "pr-0078",
+   "dificuldade": 3,
+   "tema": "Prisão de coluna no sal",
+   "enunciado": "Num deslocamento de 195 bbl de fluido de perfuração com o tampão de água para liberar coluna presa no sal, qual o tempo de bombeio (min) a 15 bpm?",
+   "tipo": "multipla",
+   "alternativas": [
+    "21 min",
+    "49 min",
+    "6 min",
+    "13 min",
+    "16 min"
+   ],
+   "correta": 3,
+   "explicacao": "Tempo = volume ÷ vazão = 195 ÷ 15 = 13 min."
+  },
+  {
+   "id": "pr-0079",
+   "dificuldade": 3,
+   "tema": "Prisão de coluna no sal",
+   "enunciado": "Prisão por fechamento do sal: bombeia-se tampão de 80 bbl de água industrial pelo interior da coluna e desloca-se com fluido de perfuração até que 35 bbl estejam no anular (restando 45 bbl na coluna). A coluna tem 320 bbl de capacidade. Qual o volume de fluido de perfuração a bombear após o tampão (bbl)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "275 bbl",
+    "240 bbl",
+    "220 bbl",
+    "320 bbl",
+    "344 bbl"
+   ],
+   "correta": 0,
+   "explicacao": "A frente do tampão chega à broca após 320 − 80 = 240 bbl; mais 35 bbl saindo para o anular = 275 bbl. Equivale a vcol − 45 (o que sobra na coluna)."
+  },
+  {
+   "id": "pr-0080",
+   "dificuldade": 3,
+   "tema": "Prisão de coluna no sal",
+   "enunciado": "Num deslocamento de 275 bbl de fluido de perfuração com o tampão de água para liberar coluna presa no sal, qual o tempo de bombeio (min) a 20 bpm?",
+   "tipo": "multipla",
+   "alternativas": [
+    "7 min",
+    "18 min",
+    "14 min",
+    "22 min",
+    "11 min"
+   ],
+   "correta": 2,
+   "explicacao": "Tempo = volume ÷ vazão = 275 ÷ 20 = 14 min."
+  },
+  {
+   "id": "pr-0081",
+   "dificuldade": 3,
+   "tema": "Simulações de hidráulica",
+   "enunciado": "A perda de carga na broca é de 323 psi com vazão de 750 gpm (mesmos jatos e fluido). Qual a perda na broca com 900 gpm?",
+   "tipo": "multipla",
+   "alternativas": [
+    "558 psi",
+    "388 psi",
+    "444 psi",
+    "465 psi",
+    "581 psi"
+   ],
+   "correta": 3,
+   "explicacao": "Δp_broca = 156ρQ²/(ΣDn²)² ∝ Q². Logo 323 × (900/750)² = 465 psi."
+  },
+  {
+   "id": "pr-0082",
+   "dificuldade": 3,
+   "tema": "Simulações de hidráulica",
+   "enunciado": "A perda de carga na broca é de 465 psi com vazão de 900 gpm (mesmos jatos e fluido). Qual a perda na broca com 1050 gpm?",
+   "tipo": "multipla",
+   "alternativas": [
+    "542 psi",
+    "633 psi",
+    "506 psi",
+    "738 psi",
+    "791 psi"
+   ],
+   "correta": 1,
+   "explicacao": "Δp_broca = 156ρQ²/(ΣDn²)² ∝ Q². Logo 465 × (1050/900)² = 633 psi."
+  },
+  {
+   "id": "pr-0083",
+   "dificuldade": 3,
+   "tema": "Simulações de hidráulica",
+   "enunciado": "A perda de carga na broca é de 200 psi com vazão de 600 gpm (mesmos jatos e fluido). Qual a perda na broca com 1200 gpm?",
+   "tipo": "multipla",
+   "alternativas": [
+    "1.000 psi",
+    "400 psi",
+    "673 psi",
+    "1.600 psi",
+    "800 psi"
+   ],
+   "correta": 4,
+   "explicacao": "Δp_broca = 156ρQ²/(ΣDn²)² ∝ Q². Logo 200 × (1200/600)² = 800 psi."
+  },
+  {
+   "id": "pr-0084",
+   "dificuldade": 3,
+   "tema": "Simulações de hidráulica",
+   "enunciado": "A perda de carga na broca é de 350 psi com vazão de 800 gpm (mesmos jatos e fluido). Qual a perda na broca com 1000 gpm?",
+   "tipo": "multipla",
+   "alternativas": [
+    "517 psi",
+    "820 psi",
+    "438 psi",
+    "684 psi",
+    "547 psi"
+   ],
+   "correta": 4,
+   "explicacao": "Δp_broca = 156ρQ²/(ΣDn²)² ∝ Q². Logo 350 × (1000/800)² = 547 psi."
+  },
+  {
+   "id": "pr-0085",
+   "dificuldade": 1,
+   "tema": "Programa de fluidos: estrutura",
+   "enunciado": "Qual a função principal do programa de fluidos?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Servir de guia operacional da perfuração/completação: formulações, propriedades e recomendações para cada fase",
+    "Definir apenas o custo dos fluidos",
+    "Definir a trajetória do poço",
+    "Registrar somente os volumes finais gastos",
+    "Substituir o projeto de revestimento"
+   ],
+   "correta": 0,
+   "explicacao": "O programa descreve concentrações dos materiais, faixas de propriedades e recomendações operacionais, inclusive para situações adversas."
+  },
+  {
+   "id": "pr-0086",
+   "dificuldade": 2,
+   "tema": "Programa de fluidos: estrutura",
+   "enunciado": "Assinale a INCORRETA sobre o programa de fluidos:",
+   "tipo": "incorreta",
+   "alternativas": [
+    "Descreve as concentrações dos materiais para formular o fluido",
+    "Define apenas a densidade final, sem faixas de outras propriedades",
+    "Determina o intervalo de propriedades físicas e químicas do fluido",
+    "Indica a fase em que cada fluido será usado e o volume necessário",
+    "Auxilia em perda de circulação, prisão de coluna e influxos"
+   ],
+   "correta": 1,
+   "explicacao": "O programa fixa faixas de várias propriedades (Marsh, VP, LE, géis, filtrado, pH etc.), e não só a densidade."
+  },
+  {
+   "id": "pr-0087",
+   "dificuldade": 1,
+   "tema": "Programa de fluidos: estrutura",
+   "enunciado": "Quais situações adversas o programa de fluidos orienta tratar?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Apenas corrosão do riser",
+    "Perda de circulação, prisão de coluna e influxos (kick)",
+    "Apenas falta de energia",
+    "Apenas troca de broca",
+    "Apenas falha de bomba"
+   ],
+   "correta": 1,
+   "explicacao": "Além das recomendações de rotina, o programa traz procedimentos para essas situações."
+  },
+  {
+   "id": "pr-0088",
+   "dificuldade": 2,
+   "tema": "Programa de fluidos: estrutura",
+   "enunciado": "Quais são as partes principais de um programa de fluidos, segundo o sumário apresentado?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Somente tabelas de produtos",
+    "Somente o orçamento",
+    "Apenas o histórico do campo",
+    "Somente exercícios",
+    "Informações gerais e esquemático do poço, quadro de propriedades, recomendações gerais e recomendações específicas"
+   ],
+   "correta": 4,
+   "explicacao": "Recomendações gerais: informações por fase, operacionais, volumetria e fabricação. Específicas: simulações, perda de circulação e prisões de coluna."
+  },
+  {
+   "id": "pr-0089",
+   "dificuldade": 2,
+   "tema": "Programa de fluidos: estrutura",
+   "enunciado": "Assinale a INCORRETA: as recomendações operacionais do programa contemplam:",
+   "tipo": "incorreta",
+   "alternativas": [
+    "Estimulação ácida do reservatório",
+    "FIT/LOT",
+    "Corte de cimento e acessórios",
+    "Descida de revestimento, cimentação e abandono",
+    "Perfilagem e testemunhagem"
+   ],
+   "correta": 0,
+   "explicacao": "As operações de construção do poço listadas são: corte de cimento e acessórios, FIT/LOT, perfuração da fase, perfilagem, testemunhagem, descida de revestimento, cimentação e abandono."
+  },
+  {
+   "id": "pr-0090",
+   "dificuldade": 1,
+   "tema": "Programa de fluidos: estrutura",
+   "enunciado": "Quais informações o programa traz para cada fase?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Apenas a densidade e o gel",
+    "Intervalo e extensão, diâmetro do poço e revestimento, fluido, produtos, controle de sólidos, principais riscos e monitoramento de fluidos e cascalho",
+    "Apenas o custo diário",
+    "Apenas os riscos geológicos",
+    "Apenas o diâmetro da broca"
+   ],
+   "correta": 1,
+   "explicacao": "É a ficha da fase: o que se perfura, com qual fluido e produtos, e quais riscos esperar."
+  },
+  {
+   "id": "pr-0091",
+   "dificuldade": 2,
+   "tema": "Programa de fluidos: estrutura",
+   "enunciado": "Por que o programa de fluidos informa a fase em que cada fluido será usado e o volume necessário?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Para definir o tempo de pega do cimento",
+    "Para eliminar a perfilagem",
+    "Para planejar fabricação, logística e estoque de produtos e fluido antes de iniciar cada fase",
+    "Para dispensar a volumetria",
+    "Para escolher a cor do fluido"
+   ],
+   "correta": 2,
+   "explicacao": "O volume requerido para iniciar a fase e o volume total definem o quanto fabricar e receber na sonda."
+  },
+  {
+   "id": "pr-0092",
+   "dificuldade": 2,
+   "tema": "Esquemático e quadro de propriedades",
+   "enunciado": "No esquema do poço apresentado (Santos – Tupi, 1980 m de lâmina), qual fluido é usado na fase de 8½\", horizontal (90°)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Salmoura sem aditivos",
+    "Fluido olefínico com NaCl",
+    "Fluido à base de diesel",
+    "Fluido base água polimérico (goma xantana e amido modificado)",
+    "Fluido convencional argiloso"
+   ],
+   "correta": 3,
+   "explicacao": "A fase do reservatório usa um fluido aquoso polimérico, com ponte de CaCO₃, de baixo dano."
+  },
+  {
+   "id": "pr-0093",
+   "dificuldade": 2,
+   "tema": "Esquemático e quadro de propriedades",
+   "enunciado": "Qual fluido é programado para a fase de 14¾\" (direcional de 50°)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Água do mar",
+    "Fluido olefínico com NaCl (base sintética)",
+    "Fluido à base de diesel",
+    "Fluido convencional argiloso",
+    "Fluido polimérico base água"
+   ],
+   "correta": 1,
+   "explicacao": "Fluidos não aquosos dão lubricidade e estabilidade em fases direcionais; o programa especifica olefínico com NaCl."
+  },
+  {
+   "id": "pr-0094",
+   "dificuldade": 1,
+   "tema": "Esquemático e quadro de propriedades",
+   "enunciado": "Quais fluidos são usados nas duas primeiras fases (36\" e 26\") do poço?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Olefínico",
+    "Fluido base parafina",
+    "Polimérico com amido",
+    "Fluidos base água convencionais (FPBA argiloso)",
+    "Salmoura de formiato"
+   ],
+   "correta": 3,
+   "explicacao": "Fases rasas e de grande diâmetro usam fluido argiloso, de baixo custo e alta viscosidade."
+  },
+  {
+   "id": "pr-0095",
+   "dificuldade": 2,
+   "tema": "Esquemático e quadro de propriedades",
+   "enunciado": "Por que a Fase I (36\" × 42\") não tem controle de sólidos?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque usa água potável",
+    "Porque é uma fase sem retorno de fluido para a sonda",
+    "Porque o controle é feito no fundo",
+    "Porque não há sólidos",
+    "Porque o fluido é não aquoso"
+   ],
+   "correta": 1,
+   "explicacao": "O quadro registra 'N/A – fase sem retorno': o cascalho e o fluido ficam no fundo do mar."
+  },
+  {
+   "id": "pr-0096",
+   "dificuldade": 1,
+   "tema": "Esquemático e quadro de propriedades",
+   "enunciado": "Quais os principais riscos citados para a Fase I?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Instabilidade de folhelho reativo no 8½\"",
+    "Perda total no reservatório",
+    "Corrosão por H₂S",
+    "Kick de gás profundo",
+    "Arrombamento nos primeiros metros, perda de cabeça, prejuízo à cimentação do condutor e shallow hazard"
+   ],
+   "correta": 4,
+   "explicacao": "São riscos de seção rasa e com grande diâmetro."
+  },
+  {
+   "id": "pr-0097",
+   "dificuldade": 2,
+   "tema": "Esquemático e quadro de propriedades",
+   "enunciado": "Qual o risco principal citado na Fase IV (8½\")?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Gumbo em lâmina d'água",
+    "Shallow hazard",
+    "Arrombamento no leito marinho",
+    "Falta de bombas",
+    "Perda de circulação e instabilidade do poço por argilas magnesianas"
+   ],
+   "correta": 4,
+   "explicacao": "Com fluido aquoso polimérico e densidade baixa, é preciso monitorar perdas e proteger as argilas magnesianas."
+  },
+  {
+   "id": "pr-0098",
+   "dificuldade": 1,
+   "tema": "Esquemático e quadro de propriedades",
+   "enunciado": "Qual o controle de sólidos previsto para a Fase IV?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Nenhum",
+    "Peneiras, centrífuga e mud cleaner",
+    "Apenas sand trap",
+    "Apenas desgaseificador",
+    "Apenas hidrociclones de 12\""
+   ],
+   "correta": 1,
+   "explicacao": "O fluido aquoso polimérico é mantido limpo com peneiras e equipamentos de remoção de finos."
+  },
+  {
+   "id": "pr-0099",
+   "dificuldade": 1,
+   "tema": "Esquemático e quadro de propriedades",
+   "enunciado": "Quais produtos fazem parte do fluido da Fase IV?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Emulsificante e argila organofílica",
+    "Apenas bentonita e barita",
+    "Olefina e cal",
+    "Lignossulfonato e soda",
+    "NaCl, goma xantana, amido modificado (HPA), carbonato de cálcio, MgO, bicarbonato de sódio, triazina e antiespumante"
+   ],
+   "correta": 4,
+   "explicacao": "Goma xantana e HPA dão reologia e controle de filtrado; CaCO₃ faz a ponte; MgO ajusta o pH."
+  },
+  {
+   "id": "pr-0100",
+   "dificuldade": 1,
+   "tema": "Esquemático e quadro de propriedades",
+   "enunciado": "Qual a função da triazina no fluido polimérico?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Adensante",
+    "Controlador de filtrado",
+    "Emulsificante",
+    "Viscosificante",
+    "Bactericida, para proteger polímeros (xantana, amido) da degradação"
+   ],
+   "correta": 4,
+   "explicacao": "Polímeros naturais são biodegradáveis; sem bactericida o fluido perde propriedades."
+  },
+  {
+   "id": "pr-0101",
+   "dificuldade": 1,
+   "tema": "Esquemático e quadro de propriedades",
+   "enunciado": "Para que serve o bicarbonato de sódio no fluido polimérico?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Aumentar a densidade",
+    "Tratar contaminação por cálcio (cimento), precipitando-o como carbonato",
+    "Emulsificar",
+    "Controlar espuma",
+    "Viscosificar"
+   ],
+   "correta": 1,
+   "explicacao": "O quadro limita o cálcio a 400 mg/L nas fases aquosas; o bicarbonato precipita o Ca²⁺ após perfurar cimento."
+  },
+  {
+   "id": "pr-0102",
+   "dificuldade": 1,
+   "tema": "Esquemático e quadro de propriedades",
+   "enunciado": "Qual a função do óxido de magnésio (MgO) no fluido polimérico?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Adensar",
+    "Controlar espuma",
+    "Controlar o pH (9–10) de forma tamponada",
+    "Emulsificar",
+    "Inibir argilas de forma química"
+   ],
+   "correta": 2,
+   "explicacao": "O MgO é uma fonte de alcalinidade pouco solúvel, que tampona o pH na faixa programada."
+  },
+  {
+   "id": "pr-0103",
+   "dificuldade": 1,
+   "tema": "Esquemático e quadro de propriedades",
+   "enunciado": "Qual a função do antiespumante?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Inibir argilas",
+    "Controlar filtrado",
+    "Aumentar a densidade",
+    "Aumentar viscosidade",
+    "Controlar a espuma gerada na fabricação e circulação do fluido"
+   ],
+   "correta": 4,
+   "explicacao": "A mistura de polímeros e a agitação geram espuma, que prejudica a medição de densidade e as bombas."
+  },
+  {
+   "id": "pr-0104",
+   "dificuldade": 2,
+   "tema": "Esquemático e quadro de propriedades",
+   "enunciado": "No quadro de propriedades, por que o intervalo III (olefínico) tem estabilidade elétrica e razão S/A, mas não pH nem filtrado API?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque o intervalo III é raso",
+    "Porque são parâmetros de fluidos não aquosos; pH e filtrado API são típicos de fluidos aquosos",
+    "Porque o fluido III é argiloso",
+    "Porque o API não existe",
+    "Porque o fluido III é água do mar"
+   ],
+   "correta": 1,
+   "explicacao": "Estabilidade elétrica mede a emulsão; razão sintético/água e HTHP são as medidas do NAF. O pH e o filtrado API ficam no fluido aquoso (intervalo IV)."
+  },
+  {
+   "id": "pr-0105",
+   "dificuldade": 2,
+   "tema": "Esquemático e quadro de propriedades",
+   "enunciado": "No quadro, qual a faixa de estabilidade elétrica do fluido olefínico?",
+   "tipo": "multipla",
+   "alternativas": [
+    "250 a 500 V",
+    "0 a 10 V",
+    "1.000 a 2.000 V",
+    "5 a 15 V",
+    "25 a 50 V"
+   ],
+   "correta": 0,
+   "explicacao": "Valores baixos de ES indicam emulsão fraca e risco de molhamento da barita por água."
+  },
+  {
+   "id": "pr-0106",
+   "dificuldade": 2,
+   "tema": "Esquemático e quadro de propriedades",
+   "enunciado": "Qual a faixa de razão sintético/água (S/A) do fluido olefínico no quadro?",
+   "tipo": "multipla",
+   "alternativas": [
+    "40/60 a 50/50",
+    "90/10 a 95/5",
+    "20/80 a 30/70",
+    "60/40 a 70/30",
+    "100/0"
+   ],
+   "correta": 3,
+   "explicacao": "A fase contínua é o sintético; a salinidade da fase aquosa (150.000–300.000 mg/L de NaCl) controla a atividade."
+  },
+  {
+   "id": "pr-0107",
+   "dificuldade": 2,
+   "tema": "Esquemático e quadro de propriedades",
+   "enunciado": "No quadro, qual a faixa de pH do fluido aquoso polimérico da Fase IV?",
+   "tipo": "multipla",
+   "alternativas": [
+    "13 a 14",
+    "7 a 8",
+    "9 a 10",
+    "4 a 5",
+    "11 a 12"
+   ],
+   "correta": 2,
+   "explicacao": "Também 9–10 nas fases I e II."
+  },
+  {
+   "id": "pr-0108",
+   "dificuldade": 2,
+   "tema": "Esquemático e quadro de propriedades",
+   "enunciado": "Qual o limite de teor de areia no fluido olefínico e no polimérico?",
+   "tipo": "multipla",
+   "alternativas": [
+    "10%",
+    "No máximo 1%",
+    "20%",
+    "5%",
+    "15%"
+   ],
+   "correta": 1,
+   "explicacao": "Areia é abrasiva e indica controle de sólidos deficiente."
+  },
+  {
+   "id": "pr-0109",
+   "dificuldade": 3,
+   "tema": "Esquemático e quadro de propriedades",
+   "enunciado": "No quadro de propriedades, qual a faixa de filtrado HTHP do fluido olefínico?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Não há limite",
+    "2 a 5 mL",
+    "0,1 a 0,5 mL",
+    "20 a 50 mL",
+    "10 a 15 mL"
+   ],
+   "correta": 1,
+   "explicacao": "Em fluidos não aquosos o filtrado é medido em HTHP, com valores baixos."
+  },
+  {
+   "id": "pr-0110",
+   "dificuldade": 1,
+   "tema": "Esquemático e quadro de propriedades",
+   "enunciado": "Nas Fases I e II (fluido argiloso), a viscosidade Marsh mínima programada é de 200 s.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "São fluidos viscosos de alta capacidade de limpeza para fases rasas e de grande diâmetro."
+  },
+  {
+   "id": "pr-0111",
+   "dificuldade": 2,
+   "tema": "Esquemático e quadro de propriedades",
+   "enunciado": "O quadro limita o cálcio a 400 mg/L nas fases com fluido base água.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "Cálcio alto prejudica a hidratação da bentonita e dos polímeros; o bicarbonato ajuda no tratamento."
+  },
+  {
+   "id": "pr-0112",
+   "dificuldade": 1,
+   "tema": "Programa de fluidos: volumetria e fabricação",
+   "enunciado": "Quais itens compõem o volume requerido para iniciar a fase?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Poço aberto e cascalho",
+    "Apenas o riser",
+    "Superfície, linha de superfície, choke, kill, booster, riser e revestimento",
+    "Apenas a superfície",
+    "Apenas o poço aberto"
+   ],
+   "correta": 2,
+   "explicacao": "É o volume necessário para ter o poço cheio e o sistema preparado antes de perfurar o trecho aberto."
+  },
+  {
+   "id": "pr-0113",
+   "dificuldade": 1,
+   "tema": "Programa de fluidos: volumetria e fabricação",
+   "enunciado": "O que a linha 'Fluido perdido no cascalho' representa?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Perda no riser",
+    "Perda para a formação",
+    "Evaporação",
+    "Fluido que sai aderido ao cascalho perfurado (fator em bbl/m × metros perfurados)",
+    "Fluido do trip tank"
+   ],
+   "correta": 3,
+   "explicacao": "Entra no volume total do intervalo e é calculado pelo fator (ex.: 1 bbl/m) × comprimento perfurado."
+  },
+  {
+   "id": "pr-0114",
+   "dificuldade": 1,
+   "tema": "Programa de fluidos: volumetria e fabricação",
+   "enunciado": "Por que o poço aberto é calculado com washout?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque a água evapora",
+    "Porque o fluido encolhe",
+    "Porque o diâmetro real costuma ser maior que o nominal, aumentando o volume necessário",
+    "Porque o revestimento aumenta",
+    "Porque a broca é menor"
+   ],
+   "correta": 2,
+   "explicacao": "Washout de 10% no diâmetro eleva o volume em cerca de 21%."
+  },
+  {
+   "id": "pr-0115",
+   "dificuldade": 1,
+   "tema": "Programa de fluidos: volumetria e fabricação",
+   "enunciado": "O que significa 'ppb' em fabricação de fluidos?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Pressão por barril",
+    "Partes por bilhão",
+    "Libras por barril de fluido",
+    "Pés por barril",
+    "Pés cúbicos por bomba"
+   ],
+   "correta": 2,
+   "explicacao": "É a unidade padrão de concentração: lb de produto por bbl de fluido final."
+  },
+  {
+   "id": "pr-0116",
+   "dificuldade": 2,
+   "tema": "Programa de fluidos: volumetria e fabricação",
+   "enunciado": "Por que o fluido do programa leva 10% v/v de solução saturada de NaCl?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Para controlar espuma",
+    "Para reduzir a densidade",
+    "Para fornecer a salinidade programada ao fluido aquoso",
+    "Para gerar emulsão",
+    "Para aumentar a viscosidade"
+   ],
+   "correta": 2,
+   "explicacao": "A solução saturada fornece NaCl para inibição e densidade, sem precisar de grande massa de sal sólido."
+  },
+  {
+   "id": "pr-0117",
+   "dificuldade": 1,
+   "tema": "Programa de fluidos: volumetria e fabricação",
+   "enunciado": "Quando se usa o produto em 'kg ou bbl' no programa?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Só para o diesel",
+    "Só para barita",
+    "Nunca",
+    "O quadro converte ppb em massa (kg) ou volume (bbl) para sacos, bombonas e toneladas de cada produto",
+    "Só para água"
+   ],
+   "correta": 3,
+   "explicacao": "A conversão facilita compras e logística: sacos de 25 kg, bombonas e toneladas."
+  },
+  {
+   "id": "pr-0118",
+   "dificuldade": 2,
+   "tema": "Programa de fluidos: volumetria e fabricação",
+   "enunciado": "Na troca de fluido por água do mar na desconexão de emergência, o que deve ser trocado?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Apenas o poço aberto",
+    "Somente a superfície",
+    "Apenas o riser",
+    "Riser e linhas de kill, choke e booster",
+    "Apenas o revestimento"
+   ],
+   "correta": 3,
+   "explicacao": "Os volumes de superfície ficam fora do cálculo."
+  },
+  {
+   "id": "pr-0119",
+   "dificuldade": 2,
+   "tema": "Programa de fluidos: volumetria e fabricação",
+   "enunciado": "A vazão mínima para trocar o riser por água do mar é obtida dividindo o volume (em gal) pelo tempo máximo (em min) disponível.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "Por exemplo, 144.648 gal em 180 min dá cerca de 803 gpm."
+  },
+  {
+   "id": "pr-0120",
+   "dificuldade": 1,
+   "tema": "Perda de circulação: tampões",
+   "enunciado": "Até qual taxa de perda a árvore de decisões se aplica?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Apenas perdas totais",
+    "Apenas perdas de 1 bbl/h",
+    "Qualquer perda",
+    "Apenas acima de 1.000 bbl/h",
+    "Perdas menores que 300 bbl/h"
+   ],
+   "correta": 4,
+   "explicacao": "Perdas totais ou acima desse limite exigem outras soluções (ex.: tampão de cimento)."
+  },
+  {
+   "id": "pr-0121",
+   "dificuldade": 2,
+   "tema": "Perda de circulação: tampões",
+   "enunciado": "Qual a primeira ação ao ocorrer perda de circulação, segundo a árvore?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Retirar a coluna",
+    "Aumentar a densidade",
+    "Bombear tampão grosso imediatamente",
+    "Aumentar a vazão",
+    "Parar as operações, observar e avaliar a taxa de perda"
+   ],
+   "correta": 4,
+   "explicacao": "A avaliação da taxa (por exemplo, com o trip tank) define a faixa e o tampão adequado."
+  },
+  {
+   "id": "pr-0122",
+   "dificuldade": 2,
+   "tema": "Perda de circulação: tampões",
+   "enunciado": "Por que a taxa de perda deve ser avaliada estaticamente (poço parado, no trip tank)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Para economizar fluido",
+    "Para aumentar o ECD",
+    "Para separar a perda real da formação do efeito dinâmico de ECD e vazão",
+    "Para medir o filtrado",
+    "Para reduzir a densidade"
+   ],
+   "correta": 2,
+   "explicacao": "A circulação aumenta o ECD e pode superestimar a perda. A estática define o tampão."
+  },
+  {
+   "id": "pr-0123",
+   "dificuldade": 2,
+   "tema": "Perda de circulação: tampões",
+   "enunciado": "Qual a tendência da formulação do tampão quando a taxa de perda aumenta?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Menor concentração e material fino",
+    "Apenas redução da densidade",
+    "Apenas água",
+    "Apenas barita",
+    "Maior concentração e granulometria do material (fino → médio → grosso) e uso de fibras"
+   ],
+   "correta": 4,
+   "explicacao": "Perdas maiores exigem partículas maiores e maior concentração para vedar fraturas e vugs."
+  },
+  {
+   "id": "pr-0124",
+   "dificuldade": 1,
+   "tema": "Perda de circulação: tampões",
+   "enunciado": "Em quais faixas de perda a árvore pede o uso do circulating sub?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Nunca",
+    "Apenas perdas totais",
+    "10–20 bbl/h",
+    "50–100 bbl/h e 100–300 bbl/h",
+    "20–50 bbl/h"
+   ],
+   "correta": 3,
+   "explicacao": "O circulating sub permite bombear tampões com material grosso sem entupir os jatos da broca e as ferramentas."
+  },
+  {
+   "id": "pr-0125",
+   "dificuldade": 2,
+   "tema": "Perda de circulação: tampões",
+   "enunciado": "Qual material é indicado na árvore para a faixa de 100–300 bbl/h?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Apenas soda cáustica",
+    "Apenas CaCO₃ fino",
+    "Apenas barita",
+    "Apenas bentonita",
+    "FORM-A-BLOCK (tampão de alta perda de filtrado/squeeze)"
+   ],
+   "correta": 4,
+   "explicacao": "O tampão de FORM-A-BLOCK tem volume menor (50–100 bbl) e é bombeado com circulating sub."
+  },
+  {
+   "id": "pr-0126",
+   "dificuldade": 1,
+   "tema": "Perda de circulação: tampões",
+   "enunciado": "O que fazer se o resultado do tampão da última faixa for negativo?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Repetir indefinidamente",
+    "Voltar à árvore de decisões principal",
+    "Retirar a coluna sempre",
+    "Aumentar a vazão",
+    "Perfurar mais rápido"
+   ],
+   "correta": 1,
+   "explicacao": "Se positivo, retoma-se a perfuração (em MPD, na árvore da prova)."
+  },
+  {
+   "id": "pr-0127",
+   "dificuldade": 1,
+   "tema": "Perda de circulação: tampões",
+   "enunciado": "Em perda total (sem retorno), o que a árvore indica?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Reduzir a vazão apenas",
+    "Entrar em PMCD sem teste de injetividade",
+    "A árvore não contempla perda total; outra decisão é necessária, como tampão de cimento",
+    "Trocar o fluido por água",
+    "Bombear FORM-A-BLOCK na maior concentração"
+   ],
+   "correta": 2,
+   "explicacao": "A árvore cobre perdas menores que 300 bbl/h. Para perda total, outras soluções, como tampão de cimento, podem ser avaliadas."
+  },
+  {
+   "id": "pr-0128",
+   "dificuldade": 2,
+   "tema": "Perda de circulação: tampões",
+   "enunciado": "Qual a recomendação em relação à booster line durante a circulação do tampão para fora do poço?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Aumentar a vazão da booster",
+    "Nenhuma",
+    "Usar apenas a kill line",
+    "Retirar a vazão da booster line",
+    "Fechar a choke line"
+   ],
+   "correta": 3,
+   "explicacao": "Isso evita diluição e contaminação do retorno. Mesmo sem retorno visível, pelo total de strokes, separa-se parte do fluido retornado para minimizar a contaminação do sistema."
+  },
+  {
+   "id": "pr-0129",
+   "dificuldade": 1,
+   "tema": "Simulações de hidráulica e limpeza",
+   "enunciado": "Quais usos de simulação são citados no programa?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Estimar a quantidade de LCM para perda",
+    "Definir a cor do fluido",
+    "Projetar o revestimento",
+    "Calcular o custo do poço",
+    "Limpeza de poço, hidráulica (perdas de carga e ECD), formação e remoção de leito de cascalhos e swab/surge"
+   ],
+   "correta": 4,
+   "explicacao": "A quantidade de tampão de perda segue a árvore de decisões, e não uma simulação."
+  },
+  {
+   "id": "pr-0130",
+   "dificuldade": 2,
+   "tema": "Simulações de hidráulica e limpeza",
+   "enunciado": "Assinale a alternativa que NÃO é função das simulações:",
+   "tipo": "incorreta",
+   "alternativas": [
+    "Prever a região com maior tendência a formar leito de cascalhos",
+    "Definir a maior velocidade de retirada de coluna (swab)",
+    "Simular a melhor vazão para limpeza",
+    "Estimar a quantidade de material para combater perda de circulação",
+    "Estimar perdas de carga e pressão de bombeio"
+   ],
+   "correta": 3,
+   "explicacao": "A quantidade de LCM vem da árvore de decisões (taxa de perda)."
+  },
+  {
+   "id": "pr-0131",
+   "dificuldade": 2,
+   "tema": "Simulações de hidráulica e limpeza",
+   "enunciado": "No gráfico de limpeza, o que acontece com o índice de limpeza (HCI) quando se aumenta a vazão?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Diminui (melhor limpeza)",
+    "Não muda",
+    "Vira turbulento sempre",
+    "Aumenta (pior limpeza)",
+    "Fica negativo"
+   ],
+   "correta": 0,
+   "explicacao": "Menor HCI = melhor limpeza. Vazão maior carrega melhor o cascalho."
+  },
+  {
+   "id": "pr-0132",
+   "dificuldade": 1,
+   "tema": "Simulações de hidráulica e limpeza",
+   "enunciado": "Com a mesma vazão, o que ocorre ao aumentar o ROP?",
+   "tipo": "multipla",
+   "alternativas": [
+    "O leito desaparece",
+    "O índice de limpeza piora (aumenta), pois há mais cascalho gerado por tempo",
+    "O índice melhora",
+    "O ECD cai",
+    "Nada muda"
+   ],
+   "correta": 1,
+   "explicacao": "Para ROP maior, é preciso mais vazão ou reologia adequada para manter o poço limpo."
+  },
+  {
+   "id": "pr-0133",
+   "dificuldade": 3,
+   "tema": "Simulações de hidráulica e limpeza",
+   "enunciado": "No gráfico de limpeza, qual a classificação do HCI entre 0,25 e 0,5?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Very good hole cleaning",
+    "Nenhuma",
+    "Fair hole cleaning",
+    "Good hole cleaning (boa limpeza)",
+    "Poor hole cleaning"
+   ],
+   "correta": 3,
+   "explicacao": "Faixas: 0–0,25 muito boa; 0,25–0,5 boa; 0,5–0,75 razoável; acima de 0,75 ruim."
+  },
+  {
+   "id": "pr-0134",
+   "dificuldade": 3,
+   "tema": "Simulações de hidráulica e limpeza",
+   "enunciado": "Na simulação, com 750 gpm formou-se leito de cascalhos e com 900 gpm houve remoção (ROP 20 m/h, 120 rpm). Qual o preço pago em pressão?",
+   "tipo": "multipla",
+   "alternativas": [
+    "O ECD caiu pela metade",
+    "A pressão total subiu de cerca de 1.808 para 2.478 psi",
+    "Não houve variação",
+    "A pressão caiu",
+    "A pressão total foi igual à da broca"
+   ],
+   "correta": 1,
+   "explicacao": "A perda de carga cresce com a vazão (na broca ∝ Q²). Fazer a limpeza custa pressão de bombeio e ECD."
+  },
+  {
+   "id": "pr-0135",
+   "dificuldade": 2,
+   "tema": "Prisão de coluna",
+   "enunciado": "Em quais cenários o risco de prisão de coluna é maior, segundo o programa?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Apenas em poços novos",
+    "Apenas em perfilagem",
+    "Perfuração em lâmina d'água rasa",
+    "Fechamento do sal, desmoronamento e prisão diferencial",
+    "Poço vertical em calcário limpo"
+   ],
+   "correta": 3,
+   "explicacao": "O programa traz medidas de prevenção e mitigação para esses eventos."
+  },
+  {
+   "id": "pr-0136",
+   "dificuldade": 1,
+   "tema": "Prisão de coluna",
+   "enunciado": "Quando se bombeia o tampão de água industrial numa prisão no sal?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Após 10 tentativas de batidas de jar (ou 30 min) sem resultado",
+    "Após retirar a coluna",
+    "Imediatamente sem trabalhar a coluna",
+    "Antes de qualquer tentativa",
+    "Após 24 h"
+   ],
+   "correta": 0,
+   "explicacao": "A água industrial dissolve o sal que prende a coluna."
+  },
+  {
+   "id": "pr-0137",
+   "dificuldade": 2,
+   "tema": "Prisão de coluna",
+   "enunciado": "Qual o volume de tampão de água industrial e a vazão máxima do procedimento?",
+   "tipo": "multipla",
+   "alternativas": [
+    "80 bbl a máxima vazão (15 a 20 bpm)",
+    "80 bbl a 1 bpm",
+    "1.000 bbl a 50 bpm",
+    "10 bbl a 1 bpm",
+    "300 bbl a 5 bpm"
+   ],
+   "correta": 0,
+   "explicacao": "A alta vazão favorece o carreamento e a ação do tampão sobre o sal."
+  },
+  {
+   "id": "pr-0138",
+   "dificuldade": 1,
+   "tema": "Prisão de coluna",
+   "enunciado": "Com que fluido se desloca o tampão de água?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Fluido mais leve",
+    "Salmoura saturada",
+    "Água do mar",
+    "Fluido de perfuração com o mesmo peso usado na perfuração",
+    "Fluido mais pesado"
+   ],
+   "correta": 3,
+   "explicacao": "Manter o peso evita desbalancear as pressões no poço (efeito do tubo em U)."
+  },
+  {
+   "id": "pr-0139",
+   "dificuldade": 1,
+   "tema": "Prisão de coluna",
+   "enunciado": "Qual o procedimento durante o trabalho com a coluna após o tampão?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Parar o jar",
+    "Trabalhar com drilling jar por 30 min, sem combinar esforços",
+    "Reduzir a densidade",
+    "Combinar torque e tração máximos",
+    "Girar a coluna a alta rotação"
+   ],
+   "correta": 1,
+   "explicacao": "Se não resolver, bombeia-se mais 15 bbl de fluido de perfuração a 15–20 bpm e trabalha-se mais 30 min."
+  },
+  {
+   "id": "pr-0140",
+   "dificuldade": 3,
+   "tema": "Prisão de coluna",
+   "enunciado": "Qual o tempo total de trabalho com a coluna nos ciclos do tampão (30 min iniciais + repetições)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "1 hora",
+    "8 horas",
+    "4 horas",
+    "30 min",
+    "2 horas"
+   ],
+   "correta": 4,
+   "explicacao": "Trabalha-se 30 min, e mais 30 min a cada ciclo de 15 bbl; repetindo-se mais 2 vezes, totalizam 2 h."
+  },
+  {
+   "id": "pr-0141",
+   "dificuldade": 3,
+   "tema": "Prisão de coluna",
+   "enunciado": "Se o procedimento não resolver, o que fazer?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Circular a água industrial para fora do poço e repetir todo o procedimento",
+    "Aumentar o peso do fluido",
+    "Parar a sonda por 24 h",
+    "Cimentar o poço",
+    "Trocar a broca"
+   ],
+   "correta": 0,
+   "explicacao": "O ciclo se repete com novo tampão de água."
+  },
+  {
+   "id": "pr-0142",
+   "dificuldade": 1,
+   "tema": "Prisão de coluna",
+   "enunciado": "Após liberar a coluna, é necessário bombear o colchão (tampão de água) para a superfície.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 1,
+   "explicacao": "Segundo o programa, não é necessário o bombeio do colchão para a superfície após a liberação da coluna."
+  },
+  {
+   "id": "pr-0143",
+   "dificuldade": 2,
+   "tema": "Perda de circulação: tampões",
+   "enunciado": "No gráfico de limpeza do programa, qualquer ROP é bem limpo se a vazão for acima de 600 gpm.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 1,
+   "explicacao": "A limpeza depende da combinação de ROP e vazão. Para ROP 40 m/h, o índice fica pior que para ROP 10 m/h na mesma vazão."
+  },
+  {
+   "id": "pr-0144",
+   "dificuldade": 3,
+   "tema": "Perda de circulação: tampões",
+   "enunciado": "Sobre as árvores de decisão para perda de circulação, considere:",
+   "tipo": "combinacao",
+   "afirmativas": [
+    "I. A faixa é definida pela taxa de perda estática.",
+    "II. Para taxas maiores, aumentam a concentração e o tamanho do material.",
+    "III. Perda total é resolvida pelo tampão da faixa de 10–20 bbl/h."
+   ],
+   "alternativas": [
+    "Apenas I",
+    "Apenas II",
+    "Apenas III",
+    "Apenas I e II",
+    "Apenas I e III"
+   ],
+   "correta": 3,
+   "explicacao": "III é falsa: perda total não é contemplada pela árvore (cimento, MPD etc.)."
+  },
+  {
+   "id": "pr-0145",
+   "dificuldade": 3,
+   "tema": "Prisão de coluna",
+   "enunciado": "Sobre a prisão de coluna no sal:",
+   "tipo": "combinacao",
+   "afirmativas": [
+    "I. Usa-se tampão de água industrial para dissolver o sal.",
+    "II. O tampão deve ser deslocado com fluido de mesmo peso.",
+    "III. A vazão deve ser reduzida ao mínimo durante o bombeio."
+   ],
+   "alternativas": [
+    "Apenas I",
+    "Apenas III",
+    "Apenas I e II",
+    "Apenas I e III",
+    "I, II e III"
+   ],
+   "correta": 2,
+   "explicacao": "III é falsa: bombeia-se à máxima vazão (15–20 bpm)."
+  },
+  {
+   "id": "pr-0146",
+   "dificuldade": 2,
+   "tema": "Programa de fluidos: estrutura",
+   "enunciado": "Sobre o programa de fluidos:",
+   "tipo": "combinacao",
+   "afirmativas": [
+    "I. É um guia operacional.",
+    "II. Contém formulações e faixas de propriedades.",
+    "III. Só vale para fluidos base água."
+   ],
+   "alternativas": [
+    "Apenas I",
+    "Apenas II",
+    "Apenas I e II",
+    "Apenas I e III",
+    "I, II e III"
+   ],
+   "correta": 2,
+   "explicacao": "III é falsa: contempla todos os fluidos usados no poço (aquosos e não aquosos)."
+  }
+ ],
+ "flashcards": [
+  {
+   "id": "pr-f001",
+   "frente": "Programa de fluidos",
+   "verso": "Guia operacional da perfuração/completação: concentrações dos materiais, faixas de propriedades e recomendações, incluindo perda de circulação, prisão de coluna e influxos."
+  },
+  {
+   "id": "pr-f002",
+   "frente": "Partes do programa",
+   "verso": "Informações gerais e esquemático, quadro de propriedades, recomendações gerais (por fase, operacionais, volumetria e fabricação) e específicas (simulações, perda de circulação, prisões)."
+  },
+  {
+   "id": "pr-f003",
+   "frente": "Ficha de cada fase",
+   "verso": "Intervalo, extensão, diâmetro, revestimento, fluido, produtos, controle de sólidos, principais riscos e monitoramento de fluidos e cascalho."
+  },
+  {
+   "id": "pr-f004",
+   "frente": "Recomendações operacionais",
+   "verso": "Corte de cimento e acessórios, FIT/LOT, perfuração da fase, perfilagem, testemunhagem, descida de revestimento, cimentação e abandono."
+  },
+  {
+   "id": "pr-f005",
+   "frente": "Fluidos por fase (exemplo)",
+   "verso": "I e II: base água argiloso (convencional). III (14¾\", 50°): olefínico com NaCl. IV (8½\", 90°): base água polimérico com goma xantana e amido."
+  },
+  {
+   "id": "pr-f006",
+   "frente": "Fase I sem retorno",
+   "verso": "36\" × 42\", sem retorno para a sonda: não há controle de sólidos. Riscos: arrombamento, perda de cabeça, cimentação do condutor, shallow hazard."
+  },
+  {
+   "id": "pr-f007",
+   "frente": "Fase IV: risco",
+   "verso": "Perda de circulação e instabilidade por argilas magnesianas. Controle de sólidos: peneiras, centrífuga e mud cleaner."
+  },
+  {
+   "id": "pr-f008",
+   "frente": "Produtos da Fase IV",
+   "verso": "NaCl, goma xantana (reologia), amido HP (filtrado), CaCO₃ (ponte), MgO (pH), bicarbonato de sódio (cálcio), triazina (bactericida), antiespumante."
+  },
+  {
+   "id": "pr-f009",
+   "frente": "Triazina",
+   "verso": "Bactericida que protege polímeros naturais (xantana, amido) da degradação."
+  },
+  {
+   "id": "pr-f010",
+   "frente": "Bicarbonato de sódio",
+   "verso": "Trata contaminação por cálcio (cimento), precipitando carbonato. O quadro limita o cálcio a 400 mg/L."
+  },
+  {
+   "id": "pr-f011",
+   "frente": "MgO",
+   "verso": "Fonte de alcalinidade tamponada, mantém o pH em 9–10 no fluido polimérico."
+  },
+  {
+   "id": "pr-f012",
+   "frente": "Quadro de propriedades: aquoso",
+   "verso": "pH 9–10, cálcio ≤ 400 mg/L, areia ≤ 1%, filtrado API (4–6 mL na Fase IV), salinidade NaCl 50.000–120.000 mg/L, Marsh ≥ 200 s nas fases I e II."
+  },
+  {
+   "id": "pr-f013",
+   "frente": "Quadro de propriedades: olefínico",
+   "verso": "Estabilidade elétrica 250–500 V, razão S/A 60/40 a 70/30, filtrado HTHP 2–5 mL, salinidade NaCl 150.000–300.000 mg/L, areia ≤ 1%. Sem pH nem filtrado API."
+  },
+  {
+   "id": "pr-f014",
+   "frente": "Volume requerido para iniciar a fase",
+   "verso": "Superfície + linha de superfície + choke + kill + booster + riser + revestimento."
+  },
+  {
+   "id": "pr-f015",
+   "frente": "Volume total do intervalo",
+   "verso": "Volume para iniciar + poço aberto com washout + fluido perdido no cascalho (fator bbl/m × metros)."
+  },
+  {
+   "id": "pr-f016",
+   "frente": "Washout no volume",
+   "verso": "Volume do poço aberto × (1 + washout)². Washout de 10% no diâmetro = × 1,21."
+  },
+  {
+   "id": "pr-f017",
+   "frente": "Capacidade em bbl/m",
+   "verso": "ID² × 0,003187 (ID em polegadas). Riser: comprimento = air gap + lâmina d'água."
+  },
+  {
+   "id": "pr-f018",
+   "frente": "Troca do riser por água do mar",
+   "verso": "Volume = riser + choke + kill + booster (sem superfície). Vazão mínima (gpm) = volume do riser em gal ÷ tempo (min). Strokes = gal ÷ gal/stk."
+  },
+  {
+   "id": "pr-f019",
+   "frente": "ppb",
+   "verso": "Libras de produto por barril de fluido. Massa (kg) = ppb × volume ÷ 2,2. Sacos = kg ÷ peso do saco."
+  },
+  {
+   "id": "pr-f020",
+   "frente": "Fabricação: arredondamento",
+   "verso": "Número de sacos, bombonas ou toneladas se arredonda sempre para cima."
+  },
+  {
+   "id": "pr-f021",
+   "frente": "Ajuste de concentração",
+   "verso": "Adicionar somente a diferença: (ppb do programa − ppb recebido) × volume ÷ 2,2 ÷ embalagem."
+  },
+  {
+   "id": "pr-f022",
+   "frente": "Árvore de perda de circulação",
+   "verso": "Perdas < 300 bbl/h: parar, observar e avaliar a taxa (estática). Faixas: 10–20, 20–50, 50–100 e 100–300 bbl/h; maior perda = mais concentração, partículas maiores e fibras."
+  },
+  {
+   "id": "pr-f023",
+   "frente": "Circulating sub",
+   "verso": "Usado nas faixas de 50–100 e 100–300 bbl/h para bombear tampões com material grosso sem entupir jatos e ferramentas."
+  },
+  {
+   "id": "pr-f024",
+   "frente": "Tampão de perda: cálculo",
+   "verso": "Massa = ppb máximo × volume do tampão ÷ 2,2. Sacos de 25 kg. Ex.: 35 ppb × 100 bbl → 64 sacos."
+  },
+  {
+   "id": "pr-f025",
+   "frente": "Strokes do tampão",
+   "verso": "(Volume do tampão + capacidade da coluna até a zona de perda) ÷ capacidade da bomba (bbl/stk)."
+  },
+  {
+   "id": "pr-f026",
+   "frente": "Perda total",
+   "verso": "Não está na árvore (< 300 bbl/h). Alternativas: tampão de cimento, MPD/PMCD (com teste de injetividade)."
+  },
+  {
+   "id": "pr-f027",
+   "frente": "Booster line no tampão",
+   "verso": "Retirar a vazão da booster line ao circular o tampão para fora, e separar parte do retorno para minimizar a contaminação do sistema."
+  },
+  {
+   "id": "pr-f028",
+   "frente": "Prisão no sal: procedimento",
+   "verso": "Após 10 batidas de jar (ou 30 min): 80 bbl de água industrial a 15–20 bpm, deslocar com fluido de mesmo peso até 35 bbl no anular (45 na coluna), trabalhar com jar 30 min."
+  },
+  {
+   "id": "pr-f029",
+   "frente": "Prisão no sal: ciclos",
+   "verso": "Sem sucesso: bombear mais 15 bbl de fluido a 15–20 bpm e trabalhar 30 min; repetir mais 2 vezes (total de 2 h). Depois, circular a água para fora e repetir."
+  },
+  {
+   "id": "pr-f030",
+   "frente": "Prisão no sal: volume de fluido",
+   "verso": "Fluido após o tampão = capacidade da coluna − 45 bbl (80 bbl de tampão com 35 bbl no anular)."
+  },
+  {
+   "id": "pr-f031",
+   "frente": "Simulação de limpeza",
+   "verso": "Índice de limpeza (HCI): 0–0,25 muito boa, 0,25–0,5 boa, 0,5–0,75 razoável, > 0,75 ruim. Mais ROP piora; mais vazão melhora."
+  },
+  {
+   "id": "pr-f032",
+   "frente": "Simulações do programa",
+   "verso": "Limpeza e formação de leito, hidráulica (perdas de carga, ECD, pressão de bombeio), swab/surge. A quantidade de LCM não vem de simulação."
+  },
+  {
+   "id": "pr-f033",
+   "frente": "Δp na broca × vazão",
+   "verso": "Δp_broca ∝ Q². Ex.: 323 psi a 750 gpm → 465 psi a 900 gpm."
+  }
+ ]
+}

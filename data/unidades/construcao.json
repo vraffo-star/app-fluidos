@@ -372,7 +372,7 @@
   },
   {
    "id": "cp-0025",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Pressão hidrostática",
    "enunciado": "Qual a pressão hidrostática no fundo de um poço vertical de 3.000 m cheio com fluido de 10,0 lb/gal?",
    "tipo": "multipla",
@@ -388,7 +388,7 @@
   },
   {
    "id": "cp-0026",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Pressão hidrostática",
    "enunciado": "Um poço direcional tem profundidade medida de 2.300 m e vertical de 1.800 m. Com lama de 9,8 lb/gal, qual a pressão hidrostática no fundo?",
    "tipo": "multipla",
@@ -404,7 +404,7 @@
   },
   {
    "id": "cp-0027",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Revestimentos",
    "enunciado": "Assinale a alternativa INCORRETA sobre as funções das colunas de revestimento:",
    "tipo": "incorreta",
@@ -420,7 +420,7 @@
   },
   {
    "id": "cp-0028",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Fases do poço",
    "enunciado": "Assinale a INCORRETA. O número de fases e o comprimento de cada fase dependem de:",
    "tipo": "incorreta",
@@ -548,7 +548,7 @@
   },
   {
    "id": "cp-0036",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Fatores de flutuação",
    "enunciado": "Qual o fator de flutuação (Ff = 1 − PL/65,5) para lama de 13,1 lb/gal?",
    "tipo": "multipla",
@@ -580,7 +580,7 @@
   },
   {
    "id": "cp-0038",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Volumetria",
    "enunciado": "Um tubo de perfuração com ID de 4,276 pol. Qual a capacidade interna (bbl/m), usando Cap = ID² × 0,0031871?",
    "tipo": "multipla",
@@ -596,7 +596,7 @@
   },
   {
    "id": "cp-0039",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Volumetria",
    "enunciado": "Qual a capacidade anular (bbl/m) entre poço de 12 1/4 pol e tubo de 5 pol (OD)?",
    "tipo": "multipla",
@@ -628,7 +628,7 @@
   },
   {
    "id": "cp-0041",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Sistema de circulação",
    "enunciado": "Qual a capacidade da bomba (bbl/stroke) com camisa de 6 pol, curso de 10 pol e eficiência de 90%, usando qp = D²·L·Ep / 411.765,7?",
    "tipo": "multipla",
@@ -644,7 +644,7 @@
   },
   {
    "id": "cp-0042",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Sistema de circulação",
    "enunciado": "A bomba do exemplo anterior (0,0787 bbl/stroke) opera a 120 SPM. Qual a vazão?",
    "tipo": "multipla",
@@ -660,7 +660,7 @@
   },
   {
    "id": "cp-0043",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Sistema de circulação",
    "enunciado": "Com vazão de 7 bbl/min e volume anular de 560 bbl, qual o tempo de bottoms-up?",
    "tipo": "multipla",
@@ -920,7 +920,7 @@
   },
   {
    "id": "cp-0060",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Gradiente de pressão",
    "enunciado": "Uma formação com gradiente de pressão de poros de 1,30 psi/m é classificada como:",
    "tipo": "multipla",
@@ -984,7 +984,7 @@
   },
   {
    "id": "cp-0064",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Massa específica equivalente",
    "enunciado": "Sapata a 1.200 m, lama de 10,5 lb/gal e pressão na cabeça de 1.500 psi no teste de absorção. Qual a massa específica equivalente de absorção?",
    "tipo": "multipla",
@@ -1000,7 +1000,7 @@
   },
   {
    "id": "cp-0065",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Massa específica equivalente",
    "enunciado": "Pressão de 4.463 psi num ponto a 2.500 m. Qual a massa específica equivalente?",
    "tipo": "multipla",
@@ -1016,7 +1016,7 @@
   },
   {
    "id": "cp-0066",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Tubo em U",
    "enunciado": "Ao final da perfuração, o poço tem fluido de 11,0 lb/gal na coluna e 10,2 lb/gal no anular. Como os fluidos tendem a se comportar?",
    "tipo": "multipla",
@@ -1064,7 +1064,7 @@
   },
   {
    "id": "cp-0069",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Prisão de coluna",
    "enunciado": "Assinale a INCORRETA sobre a prisão por diferencial de pressão:",
    "tipo": "incorreta",
@@ -1476,7 +1476,7 @@
   },
   {
    "id": "cp-0094",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Gradiente de pressão",
    "enunciado": "Gradientes de pressão entre 1,42 e 1,53 psi/m são considerados pressão normal de formação.",
    "tipo": "vf",
@@ -1703,7 +1703,7 @@
   },
   {
    "id": "cp-0109",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Volumetria",
    "enunciado": "Três tanques ativos de 6 × 3,2 × 3 m. Qual o volume total em barris?",
    "tipo": "multipla",
@@ -1719,7 +1719,7 @@
   },
   {
    "id": "cp-0110",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Volumetria",
    "enunciado": "Quantos barris cabem em 1.000 m de anular entre poço de 12 1/4 pol e tubo de 5 pol?",
    "tipo": "multipla",
@@ -1895,7 +1895,7 @@
   },
   {
    "id": "cp-0121",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Sonda e equipamentos",
    "enunciado": "Sobre a sonda e seus equipamentos, marque as afirmativas corretas:",
    "tipo": "combinacao",

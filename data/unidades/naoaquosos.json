@@ -1,0 +1,1628 @@
+{
+ "id": "naoaquosos",
+ "perguntas": [
+  {
+   "id": "na-0001",
+   "dificuldade": 1,
+   "tema": "Razão óleo/água (retorta)",
+   "enunciado": "Em uma retorta de 10 mL de fluido sintético sem sal na água: óleo = 6,0 mL e água = 2,0 mL. Qual a razão óleo/água (parcela de óleo, em %)? (O = %óleo/(%óleo + %água) × 100)",
+   "tipo": "multipla",
+   "alternativas": [
+    "75,0 % de óleo",
+    "60,0 % de óleo",
+    "93,8 % de óleo",
+    "63,8 % de óleo",
+    "25,0 % de óleo"
+   ],
+   "correta": 0,
+   "explicacao": "%óleo = 60%, %água = 20% → O = 60/(60 + 20) × 100 = 75,0% (RO/A ≈ 75/25)."
+  },
+  {
+   "id": "na-0002",
+   "dificuldade": 1,
+   "tema": "Razão óleo/água (retorta)",
+   "enunciado": "Em uma retorta de 10 mL de fluido sintético sem sal na água: óleo = 5,5 mL e água = 3,0 mL. Qual a razão óleo/água (parcela de óleo, em %)? (O = %óleo/(%óleo + %água) × 100)",
+   "tipo": "multipla",
+   "alternativas": [
+    "51,8 % de óleo",
+    "80,9 % de óleo",
+    "64,7 % de óleo",
+    "55,0 % de óleo",
+    "35,3 % de óleo"
+   ],
+   "correta": 2,
+   "explicacao": "%óleo = 55%, %água = 30% → O = 55/(55 + 30) × 100 = 64,7% (RO/A ≈ 65/35)."
+  },
+  {
+   "id": "na-0003",
+   "dificuldade": 1,
+   "tema": "Razão óleo/água (retorta)",
+   "enunciado": "Em uma retorta de 10 mL de fluido sintético sem sal na água: óleo = 5,0 mL e água = 2,5 mL. Qual a razão óleo/água (parcela de óleo, em %)? (O = %óleo/(%óleo + %água) × 100)",
+   "tipo": "multipla",
+   "alternativas": [
+    "33,3 % de óleo",
+    "50,0 % de óleo",
+    "83,4 % de óleo",
+    "66,7 % de óleo",
+    "56,7 % de óleo"
+   ],
+   "correta": 3,
+   "explicacao": "%óleo = 50%, %água = 25% → O = 50/(50 + 25) × 100 = 66,7% (RO/A ≈ 67/33)."
+  },
+  {
+   "id": "na-0004",
+   "dificuldade": 3,
+   "tema": "Razão óleo/água (retorta)",
+   "enunciado": "Em uma retorta de 10 mL de fluido sintético sem sal na água: óleo = 4,8 mL e água = 3,2 mL. Qual a razão óleo/água (parcela de óleo, em %)? (O = %óleo/(%óleo + %água) × 100)",
+   "tipo": "multipla",
+   "alternativas": [
+    "75,0 % de óleo",
+    "40,0 % de óleo",
+    "60,0 % de óleo",
+    "51,0 % de óleo",
+    "48,0 % de óleo"
+   ],
+   "correta": 2,
+   "explicacao": "%óleo = 48%, %água = 32% → O = 48/(48 + 32) × 100 = 60,0% (RO/A ≈ 60/40)."
+  },
+  {
+   "id": "na-0005",
+   "dificuldade": 3,
+   "tema": "Razão óleo/água (retorta)",
+   "enunciado": "Retorta de 10 mL de fluido com CaCl₂ na fase aquosa: 6,0 mL de óleo e 2,0 mL de água. O fator de volume da salmoura é 1,12. Qual a razão óleo/água corrigida (parcela de óleo, em %)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "72,8 % de óleo",
+    "77,1 % de óleo",
+    "91,0 % de óleo",
+    "80,1 % de óleo",
+    "27,2 % de óleo"
+   ],
+   "correta": 0,
+   "explicacao": "Correção: Vsalm = VA × FV = 2,0 × 1,12 = 2,24 mL. O = 6,0/(6,0 + 2,24) × 100 = 72,8%. Sem correção, seria 75,0%: a correção sempre reduz a razão O/A (mais fase aquosa)."
+  },
+  {
+   "id": "na-0006",
+   "dificuldade": 3,
+   "tema": "Razão óleo/água (retorta)",
+   "enunciado": "Retorta de 10 mL de fluido com CaCl₂ na fase aquosa: 5,4 mL de óleo e 3,0 mL de água. O fator de volume da salmoura é 1,10. Qual a razão óleo/água corrigida (parcela de óleo, em %)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "62,1 % de óleo",
+    "37,9 % de óleo",
+    "68,3 % de óleo",
+    "77,6 % de óleo",
+    "66,4 % de óleo"
+   ],
+   "correta": 0,
+   "explicacao": "Correção: Vsalm = VA × FV = 3,0 × 1,10 = 3,30 mL. O = 5,4/(5,4 + 3,30) × 100 = 62,1%. Sem correção, seria 64,3%: a correção sempre reduz a razão O/A (mais fase aquosa)."
+  },
+  {
+   "id": "na-0007",
+   "dificuldade": 3,
+   "tema": "Razão óleo/água (retorta)",
+   "enunciado": "Retorta de 10 mL de fluido com CaCl₂ na fase aquosa: 6,3 mL de óleo e 2,2 mL de água. O fator de volume da salmoura é 1,15. Qual a razão óleo/água corrigida (parcela de óleo, em %)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "89,1 % de óleo",
+    "71,3 % de óleo",
+    "76,7 % de óleo",
+    "78,5 % de óleo",
+    "28,7 % de óleo"
+   ],
+   "correta": 1,
+   "explicacao": "Correção: Vsalm = VA × FV = 2,2 × 1,15 = 2,53 mL. O = 6,3/(6,3 + 2,53) × 100 = 71,3%. Sem correção, seria 74,1%: a correção sempre reduz a razão O/A (mais fase aquosa)."
+  },
+  {
+   "id": "na-0008",
+   "dificuldade": 1,
+   "tema": "Alcalinidade (Pm)",
+   "enunciado": "Em um fluido de emulsão inversa, Pm = 2,0 mL de H₂SO₄ 0,1 N por mL de fluido. Qual o excesso de cal, em lb/bbl? (Excesso de cal = Pm × 1,295)",
+   "tipo": "multipla",
+   "alternativas": [
+    "1,54 lb/bbl",
+    "7,01 lb/bbl",
+    "5,18 lb/bbl",
+    "1,29 lb/bbl",
+    "2,59 lb/bbl"
+   ],
+   "correta": 4,
+   "explicacao": "Excesso de cal = 2,0 × 1,295 = 2,59 lb/bbl de Ca(OH)₂."
+  },
+  {
+   "id": "na-0009",
+   "dificuldade": 1,
+   "tema": "Alcalinidade (Pm)",
+   "enunciado": "Em um fluido de emulsão inversa, Pm = 3,5 mL de H₂SO₄ 0,1 N por mL de fluido. Qual o excesso de cal, em lb/bbl? (Excesso de cal = Pm × 1,295)",
+   "tipo": "multipla",
+   "alternativas": [
+    "2,27 lb/bbl",
+    "9,06 lb/bbl",
+    "4,53 lb/bbl",
+    "2,70 lb/bbl",
+    "12,27 lb/bbl"
+   ],
+   "correta": 2,
+   "explicacao": "Excesso de cal = 3,5 × 1,295 = 4,53 lb/bbl de Ca(OH)₂."
+  },
+  {
+   "id": "na-0010",
+   "dificuldade": 2,
+   "tema": "Alcalinidade (Pm)",
+   "enunciado": "Em um fluido de emulsão inversa, Pm = 1,2 mL de H₂SO₄ 0,1 N por mL de fluido. Qual o excesso de cal, em lb/bbl? (Excesso de cal = Pm × 1,295)",
+   "tipo": "multipla",
+   "alternativas": [
+    "1,55 lb/bbl",
+    "0,78 lb/bbl",
+    "3,11 lb/bbl",
+    "0,93 lb/bbl",
+    "4,21 lb/bbl"
+   ],
+   "correta": 0,
+   "explicacao": "Excesso de cal = 1,2 × 1,295 = 1,55 lb/bbl de Ca(OH)₂."
+  },
+  {
+   "id": "na-0011",
+   "dificuldade": 3,
+   "tema": "Ajuste de razão O/A",
+   "enunciado": "Fluido com 1.000 bbl de fase líquida (600 bbl de óleo e 400 bbl de salmoura, RO/A 60/40). Quantos bbl de base orgânica adicionar para chegar a 70/30, sem alterar a salmoura?",
+   "tipo": "multipla",
+   "alternativas": [
+    "333 bbl",
+    "100 bbl",
+    "533 bbl",
+    "400 bbl",
+    "200 bbl"
+   ],
+   "correta": 0,
+   "explicacao": "Com a salmoura fixa em 400 bbl: base final = 400 × 70/30 = 933 bbl. Base a adicionar = 933 − 600 = 333 bbl (líquido final 1.333 bbl, 70% de base)."
+  },
+  {
+   "id": "na-0012",
+   "dificuldade": 3,
+   "tema": "Ajuste de razão O/A",
+   "enunciado": "Fluido com 600 bbl de fase líquida (510 bbl de base e 90 bbl de salmoura, RO/A 85/15). Quantos bbl de salmoura adicionar para chegar a 75/25, sem alterar a base?",
+   "tipo": "multipla",
+   "alternativas": [
+    "150 bbl",
+    "80 bbl",
+    "60 bbl",
+    "40 bbl",
+    "90 bbl"
+   ],
+   "correta": 1,
+   "explicacao": "Com a base fixa em 510 bbl: líquido final = 510/0,75 = 680 bbl. Salmoura a adicionar = 680 − 600 = 80 bbl (salmoura final 170 bbl = 25%)."
+  },
+  {
+   "id": "na-0013",
+   "dificuldade": 2,
+   "tema": "Ajuste de razão O/A",
+   "enunciado": "Preparar 500 bbl de fluido não aquoso com 8% de sólidos (v/v) e RO/A = 70/30 (a razão considera só o líquido). Quantos bbl de base orgânica?",
+   "tipo": "multipla",
+   "alternativas": [
+    "150 bbl",
+    "460 bbl",
+    "350 bbl",
+    "322 bbl",
+    "138 bbl"
+   ],
+   "correta": 3,
+   "explicacao": "Líquidos = 500 × 0,92 = 460 bbl; base = 0,70 × 460 = 322 bbl; salmoura = 138 bbl."
+  },
+  {
+   "id": "na-0014",
+   "dificuldade": 2,
+   "tema": "Ajuste de razão O/A",
+   "enunciado": "Para o mesmo fluido de 500 bbl (8% de sólidos; RO/A 70/30), quantos bbl de salmoura?",
+   "tipo": "multipla",
+   "alternativas": [
+    "460 bbl",
+    "138 bbl",
+    "40 bbl",
+    "150 bbl",
+    "322 bbl"
+   ],
+   "correta": 1,
+   "explicacao": "Salmoura = 0,30 × 460 = 138 bbl."
+  },
+  {
+   "id": "na-0015",
+   "dificuldade": 3,
+   "tema": "Ajuste de razão O/A",
+   "enunciado": "500 bbl de fluido de 12,0 ppg são diluídos com 100 bbl de base parafínica (0,776 g/mL ≈ 6,48 ppg) para corrigir a razão O/A. Qual a densidade resultante, em ppg? (volumes aditivos)",
+   "tipo": "multipla",
+   "alternativas": [
+    "9,24 ppg",
+    "11,08 ppg",
+    "11,80 ppg",
+    "11,78 ppg",
+    "13,85 ppg"
+   ],
+   "correta": 1,
+   "explicacao": "Densidade = (12,0 × 500 + 6,48 × 100)/600 = 11,08 ppg."
+  },
+  {
+   "id": "na-0016",
+   "dificuldade": 3,
+   "tema": "Ajuste de razão O/A",
+   "enunciado": "Após a diluição (600 bbl a 11,08 ppg), quantas lb de barita (35,08 ppg) devem ser adicionadas para voltar a 12,0 ppg? (1.471,76·V·(Df−Di)/(35,08−Df))",
+   "tipo": "multipla",
+   "alternativas": [
+    "44.034 lb",
+    "45.795 lb",
+    "15.979 lb",
+    "21.136 lb",
+    "35.227 lb"
+   ],
+   "correta": 4,
+   "explicacao": "Mb = 1.471,76 × 600 × (12,0 − 11,08)/(35,08 − 12,0) = 35.227 lb ≈ 16,0 t. É por isso que, ao corrigir a razão O/A com base, re-adensa-se e repõem-se emulsificante, cal e modificador reológico."
+  },
+  {
+   "id": "na-0017",
+   "dificuldade": 3,
+   "tema": "Salinidade da fase aquosa",
+   "enunciado": "Em um fluido com 30% de fase aquosa (v/v), a titulação do fluido inteiro indica 30.000 mg de Cl⁻ por L de fluido. Qual a concentração de Cl⁻ na fase aquosa, em mg/L? (Todo o cloreto está na fase aquosa.)",
+   "tipo": "multipla",
+   "alternativas": [
+    "130.000 mg/L",
+    "70.000 mg/L",
+    "100.000 mg/L",
+    "30.000 mg/L",
+    "125.000 mg/L"
+   ],
+   "correta": 2,
+   "explicacao": "O sal está só na fase aquosa: [Cl⁻]aq = 30.000/0,30 = 100.000 mg/L. Se a medida fosse da fase aquosa, o valor seria usado direto."
+  },
+  {
+   "id": "na-0018",
+   "dificuldade": 3,
+   "tema": "Salinidade da fase aquosa",
+   "enunciado": "Em um fluido com 35% de fase aquosa (v/v), a titulação do fluido inteiro indica 42.000 mg de Cl⁻ por L de fluido. Qual a concentração de Cl⁻ na fase aquosa, em mg/L? (Todo o cloreto está na fase aquosa.)",
+   "tipo": "multipla",
+   "alternativas": [
+    "84.000 mg/L",
+    "150.000 mg/L",
+    "156.000 mg/L",
+    "120.000 mg/L",
+    "42.000 mg/L"
+   ],
+   "correta": 3,
+   "explicacao": "O sal está só na fase aquosa: [Cl⁻]aq = 42.000/0,35 = 120.000 mg/L. Se a medida fosse da fase aquosa, o valor seria usado direto."
+  },
+  {
+   "id": "na-0019",
+   "dificuldade": 2,
+   "tema": "Salinidade da fase aquosa",
+   "enunciado": "Uma salmoura de CaCl₂ tem Cl⁻ = 120.000 mg/L. Qual a concentração de CaCl₂? (CaCl₂ = 1,56 × Cl⁻)",
+   "tipo": "multipla",
+   "alternativas": [
+    "76.923 mg/L",
+    "252.000 mg/L",
+    "187.200 mg/L",
+    "144.000 mg/L",
+    "198.000 mg/L"
+   ],
+   "correta": 2,
+   "explicacao": "CaCl₂ = 1,56 × 120.000 = 187.200 mg/L (NaCl seria 1,65 × Cl⁻)."
+  },
+  {
+   "id": "na-0020",
+   "dificuldade": 1,
+   "tema": "Histórico e aplicação",
+   "enunciado": "O que define um fluido de emulsão inversa?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Fase contínua aquosa com óleo disperso",
+    "Fluido com 100% de óleo e nenhum sólido",
+    "Fase contínua orgânica (óleo ou sintético) com água ou salmoura dispersa em gotículas, estabilizadas por emulsificantes",
+    "Mistura de dois líquidos miscíveis sem tensoativo",
+    "Salmoura saturada com barita"
+   ],
+   "correta": 2,
+   "explicacao": "Na emulsão inversa (água em óleo), a base orgânica é a fase externa. O teor de água pode chegar a 50% ou mais, mantido disperso por tensoativos que atuam entre as fases."
+  },
+  {
+   "id": "na-0021",
+   "dificuldade": 1,
+   "tema": "Histórico e aplicação",
+   "enunciado": "Qual a diferença, em teor de água, entre emulsão verdadeira e emulsão inversa de perfuração?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Verdadeira: menos de 10% v/v de água; inversa: 10% v/v ou mais",
+    "Verdadeira: 100% de óleo; inversa: 100% de água",
+    "Verdadeira: mais de 50%; inversa: menos de 5%",
+    "Ambas têm até 10%",
+    "Verdadeira: com salmoura de CaCl₂; inversa: com NaCl"
+   ],
+   "correta": 0,
+   "explicacao": "Pelo critério do curso, 'emulsões verdadeiras' têm menos de 10% em volume de água e 'emulsões inversas' 10% ou mais."
+  },
+  {
+   "id": "na-0022",
+   "dificuldade": 2,
+   "tema": "Histórico e aplicação",
+   "enunciado": "Assinale a alternativa INCORRETA sobre as vantagens do uso de óleo como fluido de perfuração (início do uso):",
+   "tipo": "incorreta",
+   "alternativas": [
+    "As argilas não hidratam nem incham",
+    "Baixíssimo custo inicial e nenhum risco ambiental",
+    "A estabilidade do poço melhora",
+    "Reduzem-se os alargamentos do poço",
+    "Aumenta a resistência à contaminação"
+   ],
+   "correta": 1,
+   "explicacao": "O custo inicial é alto e o risco de poluição é relevante; por isso o descarte exige cuidado. As demais alternativas são vantagens listadas no curso."
+  },
+  {
+   "id": "na-0023",
+   "dificuldade": 1,
+   "tema": "Histórico e aplicação",
+   "enunciado": "Quais são desvantagens clássicas do uso de óleo cru/diesel como fase contínua?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Baixa lubricidade",
+    "Incapacidade de perfurar evaporitos",
+    "Hidratação excessiva de folhelhos",
+    "Redução de densidade a menos de 6 ppg",
+    "Inflamabilidade e ataque a elastômeros (mangueiras, o-rings, gaxetas, elementos do BOP)"
+   ],
+   "correta": 4,
+   "explicacao": "Óleos são inflamáveis e contêm componentes que desgastam borrachas. Além disso, têm custo e potencial poluidor altos."
+  },
+  {
+   "id": "na-0024",
+   "dificuldade": 2,
+   "tema": "Histórico e aplicação",
+   "enunciado": "Em qual situação o fluido não aquoso é mais indicado?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Poços HPHT, horizontais/ERW, folhelhos reativos e evaporitos, com alta lubricidade e inibição",
+    "Perfuração em regiões com aquíferos",
+    "Poços em que o descarte do fluido é liberado",
+    "Fase superficial com poço raso e baixo custo",
+    "Poços com baixa pressão de poros e fratura fácil"
+   ],
+   "correta": 0,
+   "explicacao": "A alta lubricidade e a inibição resolvem trajetórias complexas e formações reativas. Aquíferos (contaminação), perda de circulação e restrições de descarte são limitações."
+  },
+  {
+   "id": "na-0025",
+   "dificuldade": 1,
+   "tema": "Histórico e aplicação",
+   "enunciado": "Qual das opções NÃO é vantagem do fluido não aquoso?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Poços que exigem altas densidades",
+    "Perfuração de poços com alta temperatura e pressão",
+    "Perfuração de formações argilosas e plásticas",
+    "Perfuração em regiões de aquíferos",
+    "Alta lubricidade em poços direcionais"
+   ],
+   "correta": 3,
+   "explicacao": "Em aquíferos, o risco de contaminação ambiental é alto: é uma restrição do fluido não aquoso, não uma vantagem."
+  },
+  {
+   "id": "na-0026",
+   "dificuldade": 1,
+   "tema": "Histórico e aplicação",
+   "enunciado": "Qual das opções NÃO é desvantagem do fluido não aquoso?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Limitação do controle volumétrico em perda de circulação",
+    "Limitação nos tipos de perfis que podem ser corridos",
+    "Dificuldade de detectar gás, pela solubilidade na fase contínua",
+    "Grande reatividade com folhelhos hidratáveis",
+    "Maior possibilidade de contaminação ambiental"
+   ],
+   "correta": 3,
+   "explicacao": "Os fluidos não aquosos são pouco reativos com folhelhos: esse é um ponto forte. As demais são desvantagens do sistema."
+  },
+  {
+   "id": "na-0027",
+   "dificuldade": 2,
+   "tema": "Histórico e aplicação",
+   "enunciado": "Por que a detecção de influxo de gás é mais difícil em fluido não aquoso?",
+   "tipo": "multipla",
+   "alternativas": [
+    "O gás é insolúvel e sobe rápido",
+    "O gás é solúvel na fase orgânica, e o ganho de volume nos tanques fica mascarado",
+    "A densidade não permite a leitura",
+    "O gás reage com a cal e desaparece",
+    "O fluido não aquoso é opaco"
+   ],
+   "correta": 1,
+   "explicacao": "O gás dissolve-se na base orgânica e só se expande próximo à superfície. O ganho de volume aparece tarde, o que exige atenção redobrada ao monitorar os tanques."
+  },
+  {
+   "id": "na-0028",
+   "dificuldade": 3,
+   "tema": "Histórico e aplicação",
+   "enunciado": "Quais restrições ambientais o curso cita para o descarte de NAF no Brasil?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Descarte de fluido liberado; cascalho proibido",
+    "Descarte de fluido proibido; cascalho liberado só após o secador; parafina com aromáticos < 20 ppm",
+    "O descarte é livre abaixo de 3.000 m",
+    "Só o descarte de olefina é proibido",
+    "Qualquer base é liberada se a salinidade for baixa"
+   ],
+   "correta": 1,
+   "explicacao": "O fluido não pode ser descartado; o cascalho só é liberado após o tratamento (secador de cascalho), e a base parafínica deve ter teor de aromáticos < 20 ppm."
+  },
+  {
+   "id": "na-0029",
+   "dificuldade": 2,
+   "tema": "Histórico e aplicação",
+   "enunciado": "Por que a olefina passou a ser preferida à n-parafina no Brasil?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Não tem fase aquosa",
+    "Não precisa de emulsificante",
+    "A dupla ligação aumenta a biodegradabilidade, com desempenho similar",
+    "É mais barata que o diesel",
+    "Tem maior ponto de fulgor que o diesel"
+   ],
+   "correta": 2,
+   "explicacao": "As olefinas (PAO, LAO e olefina interna) são insaturadas; a dupla ligação favorece a biodegradação. A performance e a qualidade são parecidas com as do fluido de n-parafina."
+  },
+  {
+   "id": "na-0030",
+   "dificuldade": 1,
+   "tema": "Emulsões e tensoativos",
+   "enunciado": "O que são tensoativos (surfactantes)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Moléculas anfifílicas, com uma região hidrofílica e outra hidrofóbica, que reduzem a tensão interfacial",
+    "Sais inorgânicos que aumentam a densidade",
+    "Ácidos que reduzem o pH",
+    "Polímeros que só viscosificam a água",
+    "Argilas que se hidratam"
+   ],
+   "correta": 0,
+   "explicacao": "A cauda apolar é solúvel em óleo, e a cabeça polar em água. Nas interfaces, diminuem a energia superficial e estabilizam a emulsão."
+  },
+  {
+   "id": "na-0031",
+   "dificuldade": 1,
+   "tema": "Emulsões e tensoativos",
+   "enunciado": "Como se classificam os tensoativos quanto à carga da porção hidrofílica?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Líquidos, sólidos e gasosos",
+    "Aniônicos, catiônicos e não iônicos",
+    "Hidrofílicos, lipofílicos e neutros",
+    "Ácidos, básicos e salinos",
+    "Orgânicos, inorgânicos e mistos"
+   ],
+   "correta": 1,
+   "explicacao": "A classificação depende da carga exibida pela cabeça polar da molécula."
+  },
+  {
+   "id": "na-0032",
+   "dificuldade": 1,
+   "tema": "Emulsões e tensoativos",
+   "enunciado": "O que indica o número HLB (EHL) de um emulsificante?",
+   "tipo": "multipla",
+   "alternativas": [
+    "O teor de cal do emulsificante",
+    "O equilíbrio hidrofílico-lipofílico: HLB alto favorece emulsões O/A; HLB baixo favorece A/O",
+    "A salinidade do emulsificante",
+    "A viscosidade da emulsão",
+    "O ponto de fulgor da base"
+   ],
+   "correta": 1,
+   "explicacao": "Emulsificantes de fluido de emulsão inversa (A/O) têm HLB baixo, isto é, são predominantemente lipofílicos."
+  },
+  {
+   "id": "na-0033",
+   "dificuldade": 3,
+   "tema": "Emulsões e tensoativos",
+   "enunciado": "Que tipo de sabão favorece a emulsão água em óleo (A/O)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Só tensoativos catiônicos",
+    "Qualquer sabão, sem distinção",
+    "Sabões de potássio",
+    "Sabões de metais alcalinos monovalentes",
+    "Sabões de metais polivalentes (como o cálcio)"
+   ],
+   "correta": 4,
+   "explicacao": "Sabões de metais pesados/polivalentes favorecem A/O; monovalentes (Na, K) favorecem O/A. Por isso a cal (Ca²⁺) é usada para formar o sabão do emulsificante de ácido graxo."
+  },
+  {
+   "id": "na-0034",
+   "dificuldade": 2,
+   "tema": "Emulsões e tensoativos",
+   "enunciado": "Em uma emulsão A/O com gotas de igual tamanho, a que tem menos água tende a ser mais estável.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "Com menor fração de água, a distância entre as gotas é maior e é menor a chance de coalescência."
+  },
+  {
+   "id": "na-0035",
+   "dificuldade": 1,
+   "tema": "Emulsões e tensoativos",
+   "enunciado": "O que é saponificação no fluido de emulsão inversa?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Dissolução do CaCl₂ na água",
+    "Reação entre barita e água formando BaCO₃",
+    "Reação entre o ácido graxo e a cal formando sabão de cálcio, que estabiliza a emulsão",
+    "Neutralização do H₂S pela salmoura",
+    "Hidratação da argila organofílica"
+   ],
+   "correta": 2,
+   "explicacao": "R–COOH + Ca(OH)₂ → sabão de cálcio (R–COO)₂Ca + H₂O. A cauda lipofílica se orienta para o óleo e a cabeça iônica para a água."
+  },
+  {
+   "id": "na-0036",
+   "dificuldade": 1,
+   "tema": "Emulsões e tensoativos",
+   "enunciado": "O ângulo de contato é usado para avaliar a molhabilidade de um sólido por um líquido.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "Quanto menor o ângulo, maior a tendência de espalhamento (molhabilidade). Em NAF, os sólidos devem ser molhados por óleo."
+  },
+  {
+   "id": "na-0037",
+   "dificuldade": 2,
+   "tema": "Componentes",
+   "enunciado": "Quais propriedades uma parafina deve ter para ser usada como base de NAF?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Ponto de fulgor < 40 °C e viscosidade > 5 cSt",
+    "Viscosidade > 10 cSt, ponto de fulgor < 30 °C",
+    "Viscosidade < 3 cSt a 40 °C, ponto de fulgor > 70 °C e ponto de fluidez < 3 °C",
+    "Densidade > 1,2 g/mL",
+    "Ponto de fluidez > 20 °C"
+   ],
+   "correta": 2,
+   "explicacao": "Baixa viscosidade facilita a hidráulica; ponto de fulgor alto reduz risco de incêndio; ponto de fluidez baixo evita gelificação a frio."
+  },
+  {
+   "id": "na-0038",
+   "dificuldade": 2,
+   "tema": "Componentes",
+   "enunciado": "Como se obtém a n-parafina usada em fluidos de perfuração?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Refino de uma corrente de diesel: peneira molecular separa os aromáticos e depois destila-se a fração alifática",
+    "Mistura direta de diesel e água",
+    "Esterificação com cal",
+    "Reação de ácido graxo com álcool",
+    "Hidrogenação de olefinas ramificadas"
+   ],
+   "correta": 0,
+   "explicacao": "A peneira molecular remove aromáticos e a destilação fracionada separa as frações C13+ e C13−. A iso-parafina vem de olefina ramificada hidrogenada (a partir do propeno)."
+  },
+  {
+   "id": "na-0039",
+   "dificuldade": 3,
+   "tema": "Componentes",
+   "enunciado": "Qual a principal desvantagem dos ésteres como base de NAF?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Ponto de fulgor abaixo de 40 °C",
+    "Alto teor de aromáticos",
+    "Baixa biodegradabilidade",
+    "Incompatibilidade com a barita",
+    "Viscosidade geralmente > 4 cSt, custo alto e hidrólise em ácidos e bases"
+   ],
+   "correta": 4,
+   "explicacao": "Os ésteres são biodegradáveis, mas mais viscosos, o que exige RO/A mais altas e encarece o sistema; a ligação éster hidrolisa em meio ácido ou alcalino, e as duplas ligações podem oxidar."
+  },
+  {
+   "id": "na-0040",
+   "dificuldade": 1,
+   "tema": "Componentes",
+   "enunciado": "Quais os tipos de olefina citados no curso?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Aniônica, catiônica e não iônica",
+    "Mineral, cru e hidrogenado",
+    "Poli-alfa-olefina (PAO), linear-alfa-olefina (LAO) e olefina interna",
+    "Éter, éster e acetal",
+    "Parafina, isoparafina e diesel"
+   ],
+   "correta": 2,
+   "explicacao": "A olefina interna (dupla ligação no meio da cadeia) é a mais fácil de biodegradar."
+  },
+  {
+   "id": "na-0041",
+   "dificuldade": 2,
+   "tema": "Componentes",
+   "enunciado": "Por que as salmouras de NaCl e CaCl₂ são as mais usadas na fase interna?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque são líquidas e dispensam cal",
+    "Porque eliminam a necessidade de emulsificante",
+    "Pelo custo, pela atividade química requerida e pelo risco de manuseio; NaCl custa cerca de 1/10 do CaCl₂",
+    "Porque o CaCl₂ é mais barato que o NaCl",
+    "Porque aumentam a viscosidade da base"
+   ],
+   "correta": 2,
+   "explicacao": "CaCl₂ atinge atividades mais baixas (maior inibição) que o NaCl, mas custa bem mais. A escolha depende da atividade requerida pelo folhelho."
+  },
+  {
+   "id": "na-0042",
+   "dificuldade": 1,
+   "tema": "Atividade da água",
+   "enunciado": "O que é a atividade da água (Aw) da fase aquosa de um NAF?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Concentração de cal na base",
+    "Razão óleo/água",
+    "Medida do potencial químico da água emulsionada; água pura tem Aw = 1,0 e menores valores indicam maior inibição",
+    "Medida da densidade da salmoura",
+    "Viscosidade da salmoura"
+   ],
+   "correta": 2,
+   "explicacao": "A Aw é obtida pela umidade relativa (eletro-higrômetro) ou estimada pela composição. Salmouras de CaCl₂ vão de ≈ 0,80 (22% p/p) a ≈ 0,55 (34% p/p)."
+  },
+  {
+   "id": "na-0043",
+   "dificuldade": 2,
+   "tema": "Atividade da água",
+   "enunciado": "Quanto menor a atividade da água da fase aquosa do fluido, mais inibido é o fluido.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "Menor atividade significa menor potencial químico da água do fluido: reduz-se a tendência de transferir água para o folhelho."
+  },
+  {
+   "id": "na-0044",
+   "dificuldade": 3,
+   "tema": "Atividade da água",
+   "enunciado": "Como o fenômeno osmótico se aplica ao sistema fluido não aquoso/folhelho?",
+   "tipo": "multipla",
+   "alternativas": [
+    "A cal cria pressão osmótica positiva",
+    "A água do fluido é sempre retida na emulsão",
+    "O óleo dissolve as argilas",
+    "A barita sedimenta no folhelho",
+    "A emulsão funciona como membrana semipermeável: o fluxo de água depende da diferença de atividade entre a salmoura e a água do folhelho"
+   ],
+   "correta": 4,
+   "explicacao": "Se a atividade do fluido for maior que a do folhelho, a água migra para a rocha (inchamento). O ajuste da salinidade da fase interna equilibra os potenciais químicos."
+  },
+  {
+   "id": "na-0045",
+   "dificuldade": 2,
+   "tema": "Atividade da água",
+   "enunciado": "Em um folhelho, houve inchamento por entrada da água da emulsão. Qual a causa e a correção?",
+   "tipo": "multipla",
+   "alternativas": [
+    "A atividade da salmoura estava acima da água conata; aumentar a salinidade da fase dispersa",
+    "A cal estava baixa; adicionar barita",
+    "A razão O/A estava alta; adicionar água doce",
+    "A salinidade estava alta; reduzir o sal",
+    "O ES estava alto; diluir com base"
+   ],
+   "correta": 0,
+   "explicacao": "Quando a atividade do fluido supera a da água do folhelho, a água passa para a rocha. Elevando a salinidade, reduz-se a atividade."
+  },
+  {
+   "id": "na-0046",
+   "dificuldade": 2,
+   "tema": "Componentes",
+   "enunciado": "Quais as três funções da cal em um fluido de emulsão inversa?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Formar o sabão graxo, manter a alcalinidade (menos corrosão) e combater gases ácidos",
+    "Viscosificar, adensar e reduzir filtrado",
+    "Diminuir a atividade da água, controlar pH e precipitar Ca",
+    "Molhar sólidos, reduzir a densidade e inibir bactérias",
+    "Reduzir a ES, aumentar a ROA e dissolver sais"
+   ],
+   "correta": 0,
+   "explicacao": "CaO + H₂O → Ca(OH)₂. O excesso de cal (Pm) é a reserva para CO₂ e H₂S."
+  },
+  {
+   "id": "na-0047",
+   "dificuldade": 1,
+   "tema": "Componentes",
+   "enunciado": "O filtrado de um NAF bem monitorado é constituído por:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Água salgada",
+    "Água e óleo em partes iguais",
+    "Polímeros dissolvidos",
+    "Sólidos molhados por água",
+    "Apenas a fase oleosa"
+   ],
+   "correta": 4,
+   "explicacao": "Emulsões retêm bem a fase dispersa. Mesmo assim se controla a taxa de filtração (HPHT) para minimizar o risco de prisão por diferencial de pressão. A presença de água no filtrado indica emulsão fraca."
+  },
+  {
+   "id": "na-0048",
+   "dificuldade": 1,
+   "tema": "Componentes",
+   "enunciado": "Quais fatores afetam o filtrado HPHT de um NAF?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Viscosidade da fase contínua, razão O/A, molhabilidade dos sólidos e concentração de sólidos",
+    "Somente a densidade da barita",
+    "O tipo de bactericida",
+    "Somente a temperatura ambiente",
+    "A cor da base orgânica"
+   ],
+   "correta": 0,
+   "explicacao": "Esses fatores determinam a qualidade do reboco. Redutores típicos: lignitos aminados, copolímeros sintéticos e ácidos graxos polimerizados."
+  },
+  {
+   "id": "na-0049",
+   "dificuldade": 1,
+   "tema": "Componentes",
+   "enunciado": "Qual a função da argila organofílica no NAF?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Viscosificar a emulsão e suspender sólidos; é bentonita tratada com amina quaternária",
+    "Dissolver a barita",
+    "Reduzir a ES a zero",
+    "Substituir a salmoura",
+    "Aumentar o Pm"
+   ],
+   "correta": 0,
+   "explicacao": "A troca do Na⁺ por íon amônio quaternário torna a esmectita compatível com óleo: ESMECTITA-Na⁺ + [NR₄]⁺ → ESMECTITA-NR₄ + Na⁺."
+  },
+  {
+   "id": "na-0050",
+   "dificuldade": 3,
+   "tema": "Componentes",
+   "enunciado": "Qual a vantagem dos modificadores reológicos (ácidos graxos polimerizados) sobre a argila organofílica?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Atuam principalmente em baixas taxas de cisalhamento, sustentando sólidos sem elevar muito a perda de carga; precisam de sólidos para atuar",
+    "Reduzem a salinidade",
+    "Reduzem a densidade",
+    "Aumentam a PV de forma intensa",
+    "Eliminam o uso de emulsificante"
+   ],
+   "correta": 0,
+   "explicacao": "Os modificadores aumentam o LSRV (3 rpm) e o gel com menor impacto na viscosidade a altas taxas, o que ajuda no ECD. Para serem eficientes, precisam da presença de sólidos."
+  },
+  {
+   "id": "na-0051",
+   "dificuldade": 1,
+   "tema": "Componentes",
+   "enunciado": "Para que serve o agente molhante (óleo-molhante) em um NAF?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Inverter a molhabilidade dos sólidos inorgânicos, tornando-os molháveis por óleo",
+    "Facilitar a litologia da geologia",
+    "Inverter a molhabilidade para água",
+    "Reduzir o filtrado da fase aquosa",
+    "Reduzir a densidade do fluido"
+   ],
+   "correta": 0,
+   "explicacao": "A barita e os sólidos de perfuração são molháveis por água e tendem a aglomerar, sedimentar ou até inverter a emulsão. O agente molhante os torna molháveis por óleo e evita o problema."
+  },
+  {
+   "id": "na-0052",
+   "dificuldade": 2,
+   "tema": "Componentes",
+   "enunciado": "Em que situação é justificável usar dispersante (afinante) em NAF?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Para separar óleo e água após a perfuração",
+    "Para reduzir a viscosidade antes de descer revestimento ou iniciar cimentação, evitando grandes diluições",
+    "Para aumentar a ES do fluido",
+    "Para aumentar a ROP",
+    "Para preparar o fluido antes de adensar"
+   ],
+   "correta": 1,
+   "explicacao": "O dispersante (aminas de ácidos graxos, ácidos graxos sulfonados) baixa a viscosidade rapidamente quando a diluição com base exigiria volume alto e custo proibitivo."
+  },
+  {
+   "id": "na-0053",
+   "dificuldade": 2,
+   "tema": "Componentes",
+   "enunciado": "Em NAF para a fase do reservatório, qual o adensante mais comum e por quê?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Cloreto de sódio, por dissolver",
+    "Barita, por ser acidificável",
+    "Argila organofílica, por ser densa",
+    "Hematita, por ter baixa densidade",
+    "Carbonato de cálcio, por ser solúvel em ácido e menos danoso à formação"
+   ],
+   "correta": 4,
+   "explicacao": "O CaCO₃ pode ser removido por ácido. A barita micronizada é usada em sistemas que buscam baixa PV e menor ECD, e a hematita em altas densidades, por diminuir a fração volumétrica de sólidos."
+  },
+  {
+   "id": "na-0054",
+   "dificuldade": 3,
+   "tema": "Componentes",
+   "enunciado": "Qual a vantagem de usar hematita em fluidos de altíssima densidade?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Aumenta a ES",
+    "Por ser mais densa que a barita, diminui a fração volumétrica de sólidos para a mesma densidade",
+    "Dissolve-se na salmoura",
+    "É molhável por óleo naturalmente",
+    "É acidificável"
+   ],
+   "correta": 1,
+   "explicacao": "Menor fração de sólidos significa menor PV e menor ECD. Em contrapartida, fluidos com hematita costumam apresentar menor ES que os com barita."
+  },
+  {
+   "id": "na-0055",
+   "dificuldade": 1,
+   "tema": "Propriedades e testes",
+   "enunciado": "Qual propriedade e qual equipamento indicam a estabilidade de uma emulsão inversa?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Filtrado, filtro HPHT",
+    "Estabilidade elétrica (ES), medidor de estabilidade elétrica",
+    "Razão O/A, retorta",
+    "Viscosidade plástica, viscosímetro Fann",
+    "Pm, titulação"
+   ],
+   "correta": 1,
+   "explicacao": "A ES é a tensão necessária para romper a emulsão e permitir a passagem de corrente. Valores altos indicam emulsão mais forte e estável."
+  },
+  {
+   "id": "na-0056",
+   "dificuldade": 1,
+   "tema": "Propriedades e testes",
+   "enunciado": "Qual fator reduz a estabilidade elétrica de um NAF?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Aumento da água livre e de sólidos molhados por água",
+    "Aumento do cisalhamento do fluido novo",
+    "Uso de barita em vez de hematita",
+    "Maior energia de emulsão",
+    "Menor quantidade de água"
+   ],
+   "correta": 0,
+   "explicacao": "Água e sólidos molhados por água diminuem a ES. O cisalhamento tende a aumentá-la, pois as gotas ficam menores e mais bem emulsionadas."
+  },
+  {
+   "id": "na-0057",
+   "dificuldade": 3,
+   "tema": "Propriedades e testes",
+   "enunciado": "Um fluido novo recebido da planta apresenta ES um pouco abaixo da especificação. Qual a conduta mais adequada?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Adicionar cal em grande excesso imediatamente",
+    "Circular e cisalhar o fluido na broca; a ES tende a subir e se enquadrar",
+    "Adicionar dispersante",
+    "Adicionar mais barita",
+    "Adicionar salmoura para reduzir a RO/A"
+   ],
+   "correta": 1,
+   "explicacao": "Um fluido novo tem gotas maiores e fracamente emulsionadas. Depois de cisalhado, a ES aumenta. Só se trata se, após a circulação, ainda estiver baixa."
+  },
+  {
+   "id": "na-0058",
+   "dificuldade": 2,
+   "tema": "Propriedades e testes",
+   "enunciado": "A saturação da fase aquosa com CaCl₂ provoca qual efeito?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Aumenta a atividade da água",
+    "Eleva o Pm a 10",
+    "O sal precipita como sólido molhado por água, reduzindo a ES e causando problemas",
+    "Aumenta a ES",
+    "Dissolve o emulsificante"
+   ],
+   "correta": 2,
+   "explicacao": "Ao saturar, o sal cristaliza como um sólido molhado por água, que desestabiliza a emulsão. Trata-se diluindo com água e adicionando emulsificante, cal e agente molhante."
+  },
+  {
+   "id": "na-0059",
+   "dificuldade": 1,
+   "tema": "Propriedades e testes",
+   "enunciado": "O que mede o Pm em um NAF?",
+   "tipo": "multipla",
+   "alternativas": [
+    "A ES",
+    "O pH da salmoura",
+    "O teor de cloretos",
+    "O excesso de cal no fluido; excesso (lb/bbl) = Pm × 1,295",
+    "A atividade da água"
+   ],
+   "correta": 3,
+   "explicacao": "Pm vem da titulação com H₂SO₄ 0,1 N. Emulsificantes de aminas/amidas não dependem de cal, e por isso não exigem Pm alto."
+  },
+  {
+   "id": "na-0060",
+   "dificuldade": 1,
+   "tema": "Propriedades e testes",
+   "enunciado": "Por que o filtrado HPHT é medido em NAF?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Para medir a salinidade",
+    "Para medir a cal",
+    "Para determinar o pH",
+    "Para medir o ponto de fluidez",
+    "Para controlar a taxa de filtração e reduzir o risco de prisão por diferencial; água no filtrado indica emulsão fraca"
+   ],
+   "correta": 4,
+   "explicacao": "O filtrado é oleoso (não hidrata argilas), mas filtração alta gera reboco espesso e prisão por diferencial. Água no filtrado exige emulsificante e cal."
+  },
+  {
+   "id": "na-0061",
+   "dificuldade": 1,
+   "tema": "Propriedades e testes",
+   "enunciado": "A razão O/A (RO/A) é calculada de que forma?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Só com o volume de óleo",
+    "Com o pH do filtrado",
+    "Com a densidade do fluido",
+    "Com o volume total do fluido",
+    "Sem considerar sólidos, com o volume de água da retorta corrigido pela salinidade"
+   ],
+   "correta": 4,
+   "explicacao": "RO/A = %óleo/(%óleo + %água corrigida) × 100. Se a salmoura é de CaCl₂, a correção aumenta o volume de fase aquosa e, assim, reduz a razão O/A."
+  },
+  {
+   "id": "na-0062",
+   "dificuldade": 3,
+   "tema": "Propriedades e testes",
+   "enunciado": "Se há CaCl₂ dissolvido na fase aquosa, o que acontece com a RO/A ao corrigir a porcentagem de água?",
+   "tipo": "multipla",
+   "alternativas": [
+    "A RO/A corrigida é menor que a anterior à correção",
+    "Não pode ser calculada",
+    "Sobe e depois cai",
+    "É maior que a anterior",
+    "É igual"
+   ],
+   "correta": 0,
+   "explicacao": "O volume da fase aquosa (salmoura) é maior que a água medida na retorta (FV > 1), então o denominador aumenta e a razão de óleo diminui."
+  },
+  {
+   "id": "na-0063",
+   "dificuldade": 1,
+   "tema": "Propriedades e testes",
+   "enunciado": "Quais fatores influenciam a escolha da RO/A?",
+   "tipo": "multipla",
+   "alternativas": [
+    "A distância entre sondas",
+    "Somente a cor do fluido",
+    "Somente a ES",
+    "Somente o custo da barita",
+    "Custo da base, óleo e sal impregnados nos cascalhos, reologia, controle de filtrado, peso do fluido e temperatura"
+   ],
+   "correta": 4,
+   "explicacao": "A RO/A é um compromisso: mais óleo reduz a viscosidade, mas encarece o sistema e deixa mais óleo nos cascalhos. Mais água reduz custo, mas exige mais emulsificante."
+  },
+  {
+   "id": "na-0064",
+   "dificuldade": 1,
+   "tema": "Propriedades e testes",
+   "enunciado": "Qual aparelho mede a umidade relativa gerada por um fluido (ou cascalho) em recipiente fechado para estimar a atividade da água?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Medidor de ES",
+    "Funil Marsh",
+    "Eletro-higrômetro",
+    "Retorta",
+    "Viscosímetro Fann"
+   ],
+   "correta": 2,
+   "explicacao": "A umidade relativa do vapor em equilíbrio com o fluido ou cascalho fornece a atividade da água."
+  },
+  {
+   "id": "na-0065",
+   "dificuldade": 2,
+   "tema": "Preparo",
+   "enunciado": "Qual a ordem mais adequada para preparar um fluido de emulsão inversa?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Adensante → salmoura → base",
+    "Argila → barita → água → emulsificante",
+    "Salmoura → cal → barita → base",
+    "Cal → barita → salmoura → base",
+    "Base orgânica → tensoativos e redutor de filtrado → salmoura (agitação) → cal → argila organofílica → agente molhante → adensante"
+   ],
+   "correta": 4,
+   "explicacao": "A emulsificação mecânica exige a salmoura sob vigorosa agitação em uma base já aditivada. A cal forma o sabão; a argila vem após a emulsão e o agente molhante antes da barita. Após ≈ 1 h de mistura, testa-se a amostra."
+  },
+  {
+   "id": "na-0066",
+   "dificuldade": 2,
+   "tema": "Preparo",
+   "enunciado": "Quando se ajustam as propriedades de um NAF em operação?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Só com o fluido parado",
+    "Nunca: as propriedades são fixas",
+    "Só em tanques estáticos",
+    "Os aditivos são adicionados durante a circulação, pois o cisalhamento estabiliza o fluido",
+    "Só após a perfuração"
+   ],
+   "correta": 3,
+   "explicacao": "Fluidos a base óleo são de fácil manutenção, e o fluido cisalhado estabiliza suas propriedades."
+  },
+  {
+   "id": "na-0067",
+   "dificuldade": 3,
+   "tema": "Preparo",
+   "enunciado": "A razão O/A inicial de um fluido de 12 ppg precisa ser corrigida de 70/30 para 60/40. Qual a melhor sequência?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Adicionar base orgânica e nada mais",
+    "Esperar o cisalhamento na broca",
+    "Adicionar só argila organofílica",
+    "Adicionar apenas barita",
+    "Calcular e adicionar salmoura; depois repor barita, emulsificante e cal, e ajustar a reologia com modificador"
+   ],
+   "correta": 4,
+   "explicacao": "Mudar a RO/A dilui ou concentra tudo: densidade, emulsificante, cal e reologia precisam ser repostos. (Para elevar o teor de óleo, adiciona-se base; para elevar a água, salmoura.)"
+  },
+  {
+   "id": "na-0068",
+   "dificuldade": 3,
+   "tema": "Preparo",
+   "enunciado": "Em qual etapa do preparo se ajusta a densidade?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Na última etapa, com barita ou carbonato de cálcio",
+    "Junto com a salmoura",
+    "Junto com a cal",
+    "Não se ajusta a densidade",
+    "Na primeira etapa, antes da base"
+   ],
+   "correta": 0,
+   "explicacao": "Primeiro se constrói a emulsão e a reologia; depois se adensa para evitar sedimentação e incompatibilidades."
+  },
+  {
+   "id": "na-0069",
+   "dificuldade": 2,
+   "tema": "Problemas e tratamentos",
+   "enunciado": "Há enceramento das telas das peneiras em um NAF ao perfurar argilas hidratáveis. Qual a causa provável e o tratamento?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Emulsão fraca; adicionar emulsificante primário e cal",
+    "RO/A alta; adicionar salmoura",
+    "ES alta; adicionar sal",
+    "Telas muito fechadas; abrir as telas",
+    "Viscosidade alta; adicionar dispersante"
+   ],
+   "correta": 0,
+   "explicacao": "Com emulsão fraca ou sólidos molháveis por água, os finos aglomeram e entopem as telas. O tratamento é reforçar emulsificante e cal, e/ou adicionar agente molhante."
+  },
+  {
+   "id": "na-0070",
+   "dificuldade": 2,
+   "tema": "Problemas e tratamentos",
+   "enunciado": "Aparece água no filtrado HPHT. Qual a causa provável e o tratamento?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Papel de filtro furado; repetir apenas",
+    "ES alta; adicionar sal",
+    "RO/A alta; adicionar mais base",
+    "Emulsão fraca; adicionar emulsificante primário e cal",
+    "Excesso de dispersante; adicionar argila"
+   ],
+   "correta": 3,
+   "explicacao": "Água no filtrado indica que a emulsão rompeu parcialmente. Repõe-se emulsificante e cal; só se descarta falha do teste se o papel estiver defeituoso."
+  },
+  {
+   "id": "na-0071",
+   "dificuldade": 3,
+   "tema": "Problemas e tratamentos",
+   "enunciado": "Viscosidade excessiva em NAF com sólidos perfurados incorporados. Qual o tratamento coerente?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Aumentar o ritmo de perfuração sem tratamento",
+    "Adicionar barita para reduzir a viscosidade",
+    "Adicionar mais salmoura",
+    "Usar extratores de sólidos, diluir com base e, se preciso, adicionar agente molhante",
+    "Adicionar mais argila organofílica"
+   ],
+   "correta": 3,
+   "explicacao": "Os sólidos aumentam a viscosidade plástica pelo atrito entre as partículas. A solução é remover os sólidos, diluir e garantir que estejam molhados por óleo."
+  },
+  {
+   "id": "na-0072",
+   "dificuldade": 2,
+   "tema": "Problemas e tratamentos",
+   "enunciado": "Viscosidade insuficiente em NAF. Qual das causas e tratamentos é correta?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Excesso de cal; adicionar HCl",
+    "Pouca água; adicionar diesel",
+    "Muita água; adicionar mais água",
+    "Pouca argila organofílica ou pouco modificador; adicionar o produto, ou cisalhar o fluido novo",
+    "Excesso de sólidos; adicionar dispersante"
+   ],
+   "correta": 3,
+   "explicacao": "Causas: baixa concentração de viscosificante, pouca água, poucos sólidos e fluido novo sem cisalhamento. Tratamento: argila organofílica/modificador, salmoura, sólidos inertes ou cisalhamento."
+  },
+  {
+   "id": "na-0073",
+   "dificuldade": 3,
+   "tema": "Problemas e tratamentos",
+   "enunciado": "Houve contaminação por água doce em um NAF. Qual o impacto esperado?",
+   "tipo": "multipla",
+   "alternativas": [
+    "RO/A diminui, ES cai e a viscosidade sobe abruptamente",
+    "RO/A aumenta e a ES cai, com viscosidade menor",
+    "Nada muda",
+    "RO/A diminui, ES sobe e a viscosidade cai",
+    "RO/A aumenta, ES sobe e a viscosidade cai"
+   ],
+   "correta": 0,
+   "explicacao": "A água extra aumenta a fração dispersa e a água livre, o que reduz ES e eleva a viscosidade. A correção usa emulsificante, cal e, se preciso, base orgânica."
+  },
+  {
+   "id": "na-0074",
+   "dificuldade": 3,
+   "tema": "Problemas e tratamentos",
+   "enunciado": "Qual a conduta no caso de contaminação por H₂S em um NAF?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Adicionar só dispersante",
+    "Aumentar a densidade e adicionar óxido de zinco (e cal), com proteção da coluna contra corrosão",
+    "Abandonar o poço imediatamente",
+    "Reduzir a densidade e adicionar ácido cítrico",
+    "Reduzir a densidade e aumentar o Pm"
+   ],
+   "correta": 1,
+   "explicacao": "Indicadores: queda do Pm, odor de ovo podre, fluido enegrecido, coluna enegrecida. Tratamento: aumentar o peso, adicionar cal e óxido de zinco (ou sal) e inibidor de corrosão."
+  },
+  {
+   "id": "na-0075",
+   "dificuldade": 2,
+   "tema": "Problemas e tratamentos",
+   "enunciado": "Qual o indicador de contaminação por CO₂ em NAF e o tratamento?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Queda do Pm e aumento da reologia; adicionar cal e diluir com a base e emulsificante",
+    "Queda de ES; adicionar sal",
+    "Aumento da densidade; adicionar óleo",
+    "Aumento do Pm; adicionar HCl",
+    "Aumento de ES; adicionar água"
+   ],
+   "correta": 0,
+   "explicacao": "O CO₂ consome a cal (alcalinidade) e pode gerar carbonatos que elevam a reologia. Repõe-se cal e trata-se com base e emulsificante."
+  },
+  {
+   "id": "na-0076",
+   "dificuldade": 3,
+   "tema": "Problemas e tratamentos",
+   "enunciado": "Durante a fase de reservatório com NAF, a perda dinâmica média é de 40 bbl/h. Qual a melhor atitude?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Diminuir a densidade em 1 ppg com olefina",
+    "Bombear tampão de água doce",
+    "Continuar perfurando e observar",
+    "Aumentar a densidade em 1 ppg",
+    "Parar, bombear tampão de LCM na zona de perda, aguardar e reavaliar a taxa de perda antes de retomar"
+   ],
+   "correta": 4,
+   "explicacao": "Perda parcial em reservatório exige controle: o tampão de LCM tampona a perda, e se reavalia a taxa. Aumentar o peso piora a perda; água doce quebraria a emulsão."
+  },
+  {
+   "id": "na-0077",
+   "dificuldade": 2,
+   "tema": "Problemas e tratamentos",
+   "enunciado": "Quais causas de perda de circulação em NAF são citadas e seus tratamentos?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Só reduzir a salinidade",
+    "Só adicionar dispersante",
+    "Pressão hidrostática excessiva (reduzir o peso), perda de carga anular (reduzir viscosidade/vazão) e surge excessivo (reduzir a velocidade de descida)",
+    "Só adicionar cal",
+    "Só aumentar a densidade"
+   ],
+   "correta": 2,
+   "explicacao": "Em todos os casos, usa-se LCM para combater a perda e fortalecer pontos frágeis, além de ajustar peso, reologia e velocidade de manobra."
+  },
+  {
+   "id": "na-0078",
+   "dificuldade": 3,
+   "tema": "Problemas e tratamentos",
+   "enunciado": "Qual a causa e o tratamento de sólidos molhados por água em NAF?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Atividade alta; adicionar água",
+    "Tratamento insuficiente de emulsificante/cal ou sólidos excessivos; adicionar emulsificante, cal e agente molhante e usar extratores",
+    "Excesso de dispersante; diluir",
+    "Baixa viscosidade; adicionar diesel",
+    "ES alta; adicionar salmoura"
+   ],
+   "correta": 1,
+   "explicacao": "Também pode ocorrer por supersaturação do sal (nesse caso, diluir com água). Sólidos molhados por água reduzem a ES e podem inverter a emulsão."
+  },
+  {
+   "id": "na-0079",
+   "dificuldade": 3,
+   "tema": "Problemas e tratamentos",
+   "enunciado": "Por que um fluido novo e pouco cisalhado costuma apresentar viscosidade insuficiente e ES baixa?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque a salmoura está saturada",
+    "Porque o pH está baixo",
+    "Porque falta barita",
+    "Porque a base está contaminada",
+    "Porque as gotas são maiores e ainda não estão totalmente emulsionadas; o cisalhamento na broca estabiliza o sistema"
+   ],
+   "correta": 4,
+   "explicacao": "A energia de emulsão ainda não foi aplicada. Antes de adicionar produtos, circule o fluido e reavalie."
+  },
+  {
+   "id": "na-0080",
+   "dificuldade": 2,
+   "tema": "Emulsões e tensoativos",
+   "enunciado": "Sobre os fluidos não aquosos de emulsão inversa, considere:",
+   "tipo": "combinacao",
+   "afirmativas": [
+    "I. A fase contínua é a base orgânica.",
+    "II. A cal ajuda a formar o sabão de cálcio do emulsificante.",
+    "III. Os sólidos molháveis por água favorecem a estabilidade da emulsão."
+   ],
+   "alternativas": [
+    "Apenas I",
+    "Apenas II",
+    "Apenas III",
+    "Apenas I e II",
+    "Apenas II e III"
+   ],
+   "correta": 3,
+   "explicacao": "III é falsa: sólidos molháveis por água tendem a aglomerar e inverter a emulsão. Por isso se usa agente molhante. I e II estão corretas."
+  },
+  {
+   "id": "na-0081",
+   "dificuldade": 3,
+   "tema": "Propriedades e testes",
+   "enunciado": "Sobre as propriedades de um NAF, considere:",
+   "tipo": "combinacao",
+   "afirmativas": [
+    "I. A estabilidade elétrica diminui com o aumento de água e de sólidos molhados por água.",
+    "II. O excesso de cal é calculado por Pm × 1,295 (lb/bbl).",
+    "III. A RO/A deve ser calculada com o volume de água da retorta sem correção, mesmo com CaCl₂."
+   ],
+   "alternativas": [
+    "Apenas I",
+    "Apenas II",
+    "Apenas I e II",
+    "Apenas I e III",
+    "I, II e III"
+   ],
+   "correta": 2,
+   "explicacao": "III é falsa: a água da retorta deve ser corrigida pela salinidade (FV). I e II estão corretas."
+  },
+  {
+   "id": "na-0082",
+   "dificuldade": 3,
+   "tema": "Problemas e tratamentos",
+   "enunciado": "Sobre a contaminação por gases ácidos em NAF, considere:",
+   "tipo": "combinacao",
+   "afirmativas": [
+    "I. O H₂S provoca queda de Pm e odor de ovo podre.",
+    "II. O óxido de zinco é usado no tratamento de H₂S.",
+    "III. Em contaminação por CO₂, deve-se reduzir o teor de cal."
+   ],
+   "alternativas": [
+    "Apenas I",
+    "Apenas II",
+    "Apenas I e II",
+    "Apenas I e III",
+    "Apenas II e III"
+   ],
+   "correta": 2,
+   "explicacao": "III é falsa: o CO₂ consome a cal; deve-se repor cal e alcalinidade. I e II são corretas."
+  },
+  {
+   "id": "na-0083",
+   "dificuldade": 3,
+   "tema": "Problemas e tratamentos",
+   "enunciado": "Assinale a INCORRETA sobre problemas e tratamentos em NAF:",
+   "tipo": "incorreta",
+   "alternativas": [
+    "Para enceramento de telas, reforça-se o emulsificante e cal",
+    "Para sólidos molhados por água, adicionam-se emulsificante, cal e molhante",
+    "Para inchamento de argila causado por atividade alta da salmoura, deve-se reduzir a salinidade da fase dispersa",
+    "Para viscosidade insuficiente por pouca argila organofílica, adiciona-se o viscosificante",
+    "Para água no filtrado, adiciona-se emulsificante primário e cal"
+   ],
+   "correta": 2,
+   "explicacao": "Em inchamento por atividade alta da salmoura, aumenta-se a salinidade da fase dispersa (para reduzir a atividade). Reduzir o sal agravaria o problema."
+  },
+  {
+   "id": "na-0084",
+   "dificuldade": 3,
+   "tema": "Atividade da água",
+   "enunciado": "Assinale a INCORRETA sobre atividade da água (Aw) em NAF:",
+   "tipo": "incorreta",
+   "alternativas": [
+    "Salmoura de CaCl₂ a 22% p/p tem Aw ≈ 0,80",
+    "A água pura tem Aw = 0,5 e é a mais inibidora",
+    "A Aw pode ser medida pela umidade relativa",
+    "Menores Aw significam fluidos mais inibidos",
+    "Salmoura de CaCl₂ a 34% p/p tem Aw ≈ 0,55"
+   ],
+   "correta": 1,
+   "explicacao": "Água pura tem Aw = 1,0 (a máxima). Quanto menor a Aw, maior a inibição."
+  },
+  {
+   "id": "na-0085",
+   "dificuldade": 2,
+   "tema": "Propriedades e testes",
+   "enunciado": "Assinale a INCORRETA sobre a estabilidade elétrica (ES):",
+   "tipo": "incorreta",
+   "alternativas": [
+    "Fluidos novos têm ES menor que após cisalhados",
+    "A ES aumenta quando a quantidade de água livre aumenta",
+    "Hematita costuma dar ES menor que barita",
+    "Valores altos indicam emulsão mais forte",
+    "A ES é medida em aparelho específico"
+   ],
+   "correta": 1,
+   "explicacao": "Mais água livre e sólidos molhados por água reduzem a ES."
+  },
+  {
+   "id": "na-0086",
+   "dificuldade": 1,
+   "tema": "Componentes",
+   "enunciado": "O CaCl₂ é mais caro que o NaCl, mas reduz mais a atividade da água.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "A faixa de Aw do CaCl₂ (0,80 a 0,55) é mais baixa que a do NaCl, mas o custo é ≈ 10× maior."
+  },
+  {
+   "id": "na-0087",
+   "dificuldade": 1,
+   "tema": "Componentes",
+   "enunciado": "A argila organofílica é bentonita tratada com amina quaternária.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "A troca do Na⁺ por cátion orgânico torna a argila hidrofóbica e compatível com a base oleosa."
+  },
+  {
+   "id": "na-0088",
+   "dificuldade": 2,
+   "tema": "Componentes",
+   "enunciado": "Em NAF, a barita é molhável por óleo naturalmente e dispensa agente molhante.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 1,
+   "explicacao": "A barita é mineral e molhável por água; sem agente molhante pode aglomerar e inverter a emulsão."
+  },
+  {
+   "id": "na-0089",
+   "dificuldade": 2,
+   "tema": "Preparo",
+   "enunciado": "No preparo de NAF, a salmoura é adicionada sob vigorosa agitação à base já aditivada, para obter emulsão mecânica.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "A energia de cisalhamento forma as gotículas; o emulsificante as estabiliza."
+  },
+  {
+   "id": "na-0090",
+   "dificuldade": 2,
+   "tema": "Problemas e tratamentos",
+   "enunciado": "Para corrigir sólidos finos em excesso em NAF, recomenda-se usar os extratores de sólidos e adicionar emulsificante e cal.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "A remoção mecânica é a base do tratamento. O emulsificante e a cal ajudam a manter os finos molhados por óleo."
+  }
+ ],
+ "flashcards": [
+  {
+   "id": "na-f001",
+   "frente": "Fluido de emulsão inversa",
+   "verso": "Fase contínua: base orgânica (óleo, mineral, n-parafina, olefina, éster...). Fase dispersa: água ou salmoura (NaCl, CaCl₂, formiatos...). Teor de água ≥ 10% (abaixo de 10%: emulsão verdadeira)."
+  },
+  {
+   "id": "na-f002",
+   "frente": "Vantagens do NAF",
+   "verso": "Argilas não hidratam; poço estável; menos alargamento; bom com evaporitos; propriedades estáveis; resistência a contaminações; alta lubricidade; HPHT; altas densidades."
+  },
+  {
+   "id": "na-f003",
+   "frente": "Desvantagens do NAF",
+   "verso": "Custo alto; risco ambiental e descarte restrito; dificuldade de detectar gás; limita alguns perfis; limita controle volumétrico em perdas; inadequado em aquíferos."
+  },
+  {
+   "id": "na-f004",
+   "frente": "Restrições IBAMA (curso)",
+   "verso": "Parafina com aromáticos < 20 ppm; descarte de fluido proibido; cascalho liberado após secador."
+  },
+  {
+   "id": "na-f005",
+   "frente": "Bases orgânicas",
+   "verso": "Diesel (aromáticos, toxicidade), óleo mineral, n-parafina (peneira molecular), iso-parafina, diesel hidrogenado, olefinas (PAO, LAO, interna), éteres, acetais, ésteres."
+  },
+  {
+   "id": "na-f006",
+   "frente": "Parafinas para NAF",
+   "verso": "Viscosidade < 3 cSt a 40 °C · ponto de fulgor > 70 °C · ponto de fluidez < 3 °C."
+  },
+  {
+   "id": "na-f007",
+   "frente": "Olefinas",
+   "verso": "Insaturadas, dupla ligação favorece a biodegradabilidade. Hoje usadas no Brasil. PAO (ramificada), LAO (linear) e olefina interna (a mais biodegradável)."
+  },
+  {
+   "id": "na-f008",
+   "frente": "Ésteres",
+   "verso": "Muito biodegradáveis. Viscosidade > 4 cSt, custo alto, sujeitos à hidrólise (ácido e base) e à oxidação das duplas ligações."
+  },
+  {
+   "id": "na-f009",
+   "frente": "Tensoativos",
+   "verso": "Anfifílicos (hidrofílico + hidrofóbico). Classes: aniônicos, catiônicos, não iônicos. HLB alto: O/A; HLB baixo: A/O."
+  },
+  {
+   "id": "na-f010",
+   "frente": "Sabões e tipo de emulsão",
+   "verso": "Sabões de metais polivalentes (Ca) favorecem A/O; monovalentes (Na, K) favorecem O/A."
+  },
+  {
+   "id": "na-f011",
+   "frente": "Saponificação em NAF",
+   "verso": "R–COOH + Ca(OH)₂ → (R–COO)₂Ca + H₂O: sabão de cálcio que estabiliza a emulsão A/O."
+  },
+  {
+   "id": "na-f012",
+   "frente": "Funções da cal",
+   "verso": "1) Formar sabão com o ácido graxo; 2) manter alcalinidade (menos corrosão); 3) combater gases ácidos (CO₂ e H₂S)."
+  },
+  {
+   "id": "na-f013",
+   "frente": "Fase aquosa: sais",
+   "verso": "NaCl e CaCl₂ são os mais usados. NaCl custa ≈ 1/10 do CaCl₂. CaCl₂ atinge menor atividade."
+  },
+  {
+   "id": "na-f014",
+   "frente": "Atividade da água (Aw)",
+   "verso": "Água pura = 1,0. CaCl₂ 22% p/p ≈ 0,80; 34% p/p ≈ 0,55. Menor Aw = maior inibição. Medida por umidade relativa (eletro-higrômetro)."
+  },
+  {
+   "id": "na-f015",
+   "frente": "Osmose e inibição",
+   "verso": "A emulsão atua como membrana semipermeável. Água flui da maior para a menor atividade. Fluidos de atividade balanceada evitam o fluxo para o folhelho."
+  },
+  {
+   "id": "na-f016",
+   "frente": "Argila organofílica",
+   "verso": "Esmectita-Na⁺ + [NR₄]⁺ → esmectita-NR₄. Viscosifica o NAF e ajuda na suspensão e no filtrado."
+  },
+  {
+   "id": "na-f017",
+   "frente": "Modificadores reológicos",
+   "verso": "Ácidos graxos polimerizados: atuam em baixas taxas (LSRV), sustentam sólidos com menor perda de carga; precisam de sólidos."
+  },
+  {
+   "id": "na-f018",
+   "frente": "Redutores de filtrado",
+   "verso": "Lignitos aminados, copolímeros sintéticos, ácidos graxos polimerizados. HPHT depende da viscosidade da base, RO/A, molhabilidade e sólidos."
+  },
+  {
+   "id": "na-f019",
+   "frente": "Agente molhante",
+   "verso": "Inverte a molhabilidade dos sólidos para óleo. Sólidos molháveis por água aglomeram, sedimentam e invertem a emulsão."
+  },
+  {
+   "id": "na-f020",
+   "frente": "Dispersantes (afinantes)",
+   "verso": "Reduzem viscosidade rápido (descida de revestimento, antes de cimentação). Aminas e ácidos graxos sulfonados. Não fazem parte da base."
+  },
+  {
+   "id": "na-f021",
+   "frente": "Adensantes",
+   "verso": "Barita (comum); CaCO₃ (reservatório, acidificável); barita micronizada (baixa PV/ECD); hematita (altas densidades, ES menor)."
+  },
+  {
+   "id": "na-f022",
+   "frente": "Reologia",
+   "verso": "PV: atrito entre sólidos e fluido; Ty: suspensão e carreamento; leitura a 3 rpm e n indicam pseudoplasticidade."
+  },
+  {
+   "id": "na-f023",
+   "frente": "Pm e excesso de cal",
+   "verso": "Excesso de cal (lb/bbl) = Pm × 1,295. Titulação com H₂SO₄ 0,1 N. Emulsificantes aminados/amídicos não dependem de cal."
+  },
+  {
+   "id": "na-f024",
+   "frente": "Estabilidade elétrica",
+   "verso": "Mede a força da emulsão. ↑ água e sólidos molhados por água = ↓ ES. Fluido novo sobe após cisalhamento. Hematita costuma dar ES menor que barita. Saturação de CaCl₂ cria sólido molhado por água."
+  },
+  {
+   "id": "na-f025",
+   "frente": "Filtrado HPHT",
+   "verso": "Em NAF é só óleo. Controla-se para evitar prisão por diferencial. Água no filtrado = emulsão fraca."
+  },
+  {
+   "id": "na-f026",
+   "frente": "Razão O/A",
+   "verso": "O = %óleo/(%óleo + %água) × 100, sem sólidos. Corrigir a água pelo FV (salmoura). Com CaCl₂, a RO/A corrigida é menor."
+  },
+  {
+   "id": "na-f027",
+   "frente": "Fatores da RO/A",
+   "verso": "Custo da base, óleo e sal nos cascalhos, reologia, filtrado, peso e temperatura."
+  },
+  {
+   "id": "na-f028",
+   "frente": "Ordem de preparo",
+   "verso": "Base → tensoativos e redutor → salmoura sob agitação → cal → argila organofílica → agente molhante → adensante. Testar após ≈ 1 h."
+  },
+  {
+   "id": "na-f029",
+   "frente": "Viscosidade insuficiente",
+   "verso": "Causas: pouco viscosificante, pouca água, poucos sólidos, fluido novo. Tratamento: argila/modificador, salmoura, sólidos inertes, cisalhar."
+  },
+  {
+   "id": "na-f030",
+   "frente": "Viscosidade excessiva",
+   "verso": "Causas: muita água, sólidos perfurados, sólidos molhados por água, excesso de viscosificante. Tratamento: diluir com base, extrator de sólidos, molhante, emulsificante e cal, dispersante."
+  },
+  {
+   "id": "na-f031",
+   "frente": "Água no filtrado e peneiras enceradas",
+   "verso": "Emulsão fraca: adicionar emulsificante primário e cal. Peneiras enceradas: também agente molhante."
+  },
+  {
+   "id": "na-f032",
+   "frente": "Sólidos molhados por água",
+   "verso": "Supersaturação (diluir com água), sólidos excessivos (extratores), tratamento insuficiente (emulsificante, cal e molhante)."
+  },
+  {
+   "id": "na-f033",
+   "frente": "Inchamento de argila",
+   "verso": "Atividade da salmoura maior que a da água conata: aumentar a salinidade da fase dispersa. Água livre: emulsificante e cal."
+  },
+  {
+   "id": "na-f034",
+   "frente": "CO₂ em NAF",
+   "verso": "Queda do Pm e aumento da reologia. Adicionar cal; diluir com base e emulsificante."
+  },
+  {
+   "id": "na-f035",
+   "frente": "H₂S em NAF",
+   "verso": "Queda do Pm, odor de ovo podre, fluido e coluna enegrecidos. Aumentar o peso, adicionar cal e ZnO (ou sal), proteger com inibidor de corrosão."
+  },
+  {
+   "id": "na-f036",
+   "frente": "Perda de circulação",
+   "verso": "Reduzir peso (hidrostática excessiva), viscosidade/vazão (perda de carga anular), velocidade de descida (surge). Tampões de LCM; reavaliar a taxa."
+  },
+  {
+   "id": "na-f037",
+   "frente": "Contaminação por água doce",
+   "verso": "↓ RO/A, ↓ ES, ↑ abrupto da viscosidade. Tratar com emulsificante, cal e base."
+  },
+  {
+   "id": "na-f038",
+   "frente": "Correção da RO/A",
+   "verso": "Mudar a RO/A dilui tudo: repor barita (densidade), emulsificante, cal e modificador reológico."
+  }
+ ]
+}

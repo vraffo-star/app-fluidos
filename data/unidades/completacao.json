@@ -1,0 +1,1840 @@
+{
+ "id": "completacao",
+ "perguntas": [
+  {
+   "id": "cm-0001",
+   "dificuldade": 1,
+   "tema": "Pressão hidrostática",
+   "enunciado": "Fluido de completação de 9,8 ppg. TVD do topo dos canhoneados = 2.500 m. Qual a pressão hidrostática? (PH = 0,1704 · ρ · TVD)",
+   "tipo": "multipla",
+   "alternativas": [
+    "3.340 psi",
+    "1.274 psi",
+    "4.175 psi",
+    "4.592 psi",
+    "5.219 psi"
+   ],
+   "correta": 2,
+   "explicacao": "PH = 0,1704 × 9,8 × 2.500 = 4.175 psi. Usa-se o TVD (vertical) do topo dos canhoneados, não o MD."
+  },
+  {
+   "id": "cm-0002",
+   "dificuldade": 1,
+   "tema": "Pressão hidrostática",
+   "enunciado": "Fluido de completação de 10,2 ppg. TVD do topo dos canhoneados = 1.900 m. Qual a pressão hidrostática? (PH = 0,1704 · ρ · TVD)",
+   "tipo": "multipla",
+   "alternativas": [
+    "1.008 psi",
+    "3.302 psi",
+    "3.633 psi",
+    "4.128 psi",
+    "2.642 psi"
+   ],
+   "correta": 1,
+   "explicacao": "PH = 0,1704 × 10,2 × 1.900 = 3.302 psi. Usa-se o TVD (vertical) do topo dos canhoneados, não o MD."
+  },
+  {
+   "id": "cm-0003",
+   "dificuldade": 1,
+   "tema": "Pressão hidrostática",
+   "enunciado": "Fluido de completação de 8,6 ppg. TVD do topo dos canhoneados = 3.000 m. Qual a pressão hidrostática? (PH = 0,1704 · ρ · TVD)",
+   "tipo": "multipla",
+   "alternativas": [
+    "4.836 psi",
+    "5.495 psi",
+    "3.517 psi",
+    "1.342 psi",
+    "4.396 psi"
+   ],
+   "correta": 4,
+   "explicacao": "PH = 0,1704 × 8,6 × 3.000 = 4.396 psi. Usa-se o TVD (vertical) do topo dos canhoneados, não o MD."
+  },
+  {
+   "id": "cm-0004",
+   "dificuldade": 2,
+   "tema": "Pressão hidrostática",
+   "enunciado": "Fluido de completação de 11,4 ppg. TVD do topo dos canhoneados = 3.200 m. Qual a pressão hidrostática? (PH = 0,1704 · ρ · TVD)",
+   "tipo": "multipla",
+   "alternativas": [
+    "4.973 psi",
+    "6.216 psi",
+    "7.770 psi",
+    "6.838 psi",
+    "1.897 psi"
+   ],
+   "correta": 1,
+   "explicacao": "PH = 0,1704 × 11,4 × 3.200 = 6.216 psi. Usa-se o TVD (vertical) do topo dos canhoneados, não o MD."
+  },
+  {
+   "id": "cm-0005",
+   "dificuldade": 2,
+   "tema": "Pressão hidrostática",
+   "enunciado": "Fluido de completação de 9,9 ppg. TVD do topo dos canhoneados = 1.900 m. Qual a pressão hidrostática? (PH = 0,1704 · ρ · TVD)",
+   "tipo": "multipla",
+   "alternativas": [
+    "3.205 psi",
+    "978 psi",
+    "2.564 psi",
+    "4.006 psi",
+    "3.526 psi"
+   ],
+   "correta": 0,
+   "explicacao": "PH = 0,1704 × 9,9 × 1.900 = 3.205 psi. Usa-se o TVD (vertical) do topo dos canhoneados, não o MD."
+  },
+  {
+   "id": "cm-0006",
+   "dificuldade": 2,
+   "tema": "Pressão hidrostática",
+   "enunciado": "Poço direcional com salmoura de 10,1 ppg. TVD do topo dos canhoneados = 2.100 m e MD = 2.600 m. Qual a pressão hidrostática?",
+   "tipo": "multipla",
+   "alternativas": [
+    "4.518 psi",
+    "4.475 psi",
+    "3.976 psi",
+    "3.614 psi",
+    "3.072 psi"
+   ],
+   "correta": 3,
+   "explicacao": "PH depende só da profundidade vertical: 0,1704 × 10,1 × 2.100 = 3.614 psi. Usar o MD (2.600 m) superestimaria a pressão."
+  },
+  {
+   "id": "cm-0007",
+   "dificuldade": 2,
+   "tema": "Pressão hidrostática",
+   "enunciado": "Um poço tem salmoura de 9,8 ppg e TVD do topo dos canhoneados = 8.202,5 ft = 2.500 m. Qual a pressão hidrostática? (0,052 × ρ × TVD em ft ≈ 0,1704 × ρ × TVD em m)",
+   "tipo": "multipla",
+   "alternativas": [
+    "4.598 psi",
+    "4.848 psi",
+    "4.180 psi",
+    "5.225 psi",
+    "3.344 psi"
+   ],
+   "correta": 2,
+   "explicacao": "PH = 0,052 × 9,8 × 8.202,5 = 4.180 psi (≈ 4.175 psi pela forma métrica). Usa-se o TVD do topo dos canhoneados."
+  },
+  {
+   "id": "cm-0008",
+   "dificuldade": 2,
+   "tema": "BHP: circulação direta e reversa",
+   "enunciado": "Salmoura de 9,9 ppg, TVD do topo dos canhoneados = 1.900 m. Perda de carga no anular = 95 psi e na coluna = 460 psi. Qual a pressão no fundo (BHP) em circulação DIRETA?",
+   "tipo": "multipla",
+   "alternativas": [
+    "3.300 psi",
+    "3.665 psi",
+    "2.640 psi",
+    "3.760 psi",
+    "4.125 psi"
+   ],
+   "correta": 0,
+   "explicacao": "PH = 0,1704 × 9,9 × 1.900 = 3.205 psi. Na circulação direta o fundo sente a perda de carga do anular: BHP = 3.205 + 95 = 3.300 psi."
+  },
+  {
+   "id": "cm-0009",
+   "dificuldade": 2,
+   "tema": "BHP: circulação direta e reversa",
+   "enunciado": "Mesmo poço: salmoura de 9,9 ppg, TVD = 1.900 m, perdas de carga de 95 psi (anular) e 460 psi (coluna). Qual a BHP em circulação REVERSA?",
+   "tipo": "multipla",
+   "alternativas": [
+    "3.205 psi",
+    "3.300 psi",
+    "3.665 psi",
+    "4.581 psi",
+    "2.932 psi"
+   ],
+   "correta": 2,
+   "explicacao": "Na circulação reversa o fluido desce pelo anular e sobe pela coluna: o fundo sente a perda de carga da coluna. BHP = 3.205 + 460 = 3.665 psi (maior que na direta)."
+  },
+  {
+   "id": "cm-0010",
+   "dificuldade": 2,
+   "tema": "BHP: circulação direta e reversa",
+   "enunciado": "Salmoura de 9,6 ppg, TVD do topo dos canhoneados = 2.800 m. Perda de carga no anular = 95 psi e na coluna = 460 psi. Qual a pressão no fundo (BHP) em circulação DIRETA?",
+   "tipo": "multipla",
+   "alternativas": [
+    "5.844 psi",
+    "5.040 psi",
+    "4.675 psi",
+    "3.740 psi",
+    "5.135 psi"
+   ],
+   "correta": 2,
+   "explicacao": "PH = 0,1704 × 9,6 × 2.800 = 4.580 psi. Na circulação direta o fundo sente a perda de carga do anular: BHP = 4.580 + 95 = 4.675 psi."
+  },
+  {
+   "id": "cm-0011",
+   "dificuldade": 2,
+   "tema": "BHP: circulação direta e reversa",
+   "enunciado": "Mesmo poço: salmoura de 9,6 ppg, TVD = 2.800 m, perdas de carga de 95 psi (anular) e 460 psi (coluna). Qual a BHP em circulação REVERSA?",
+   "tipo": "multipla",
+   "alternativas": [
+    "6.300 psi",
+    "4.032 psi",
+    "4.675 psi",
+    "5.040 psi",
+    "4.580 psi"
+   ],
+   "correta": 3,
+   "explicacao": "Na circulação reversa o fluido desce pelo anular e sobe pela coluna: o fundo sente a perda de carga da coluna. BHP = 4.580 + 460 = 5.040 psi (maior que na direta)."
+  },
+  {
+   "id": "cm-0012",
+   "dificuldade": 3,
+   "tema": "BHP: circulação direta e reversa",
+   "enunciado": "Salmoura de 10,4 ppg, TVD do topo dos canhoneados = 2.400 m. Perda de carga no anular = 120 psi e na coluna = 500 psi. Qual a pressão no fundo (BHP) em circulação DIRETA?",
+   "tipo": "multipla",
+   "alternativas": [
+    "3.498 psi",
+    "4.373 psi",
+    "5.466 psi",
+    "4.873 psi",
+    "4.753 psi"
+   ],
+   "correta": 1,
+   "explicacao": "PH = 0,1704 × 10,4 × 2.400 = 4.253 psi. Na circulação direta o fundo sente a perda de carga do anular: BHP = 4.253 + 120 = 4.373 psi."
+  },
+  {
+   "id": "cm-0013",
+   "dificuldade": 3,
+   "tema": "BHP: circulação direta e reversa",
+   "enunciado": "Mesmo poço: salmoura de 10,4 ppg, TVD = 2.400 m, perdas de carga de 120 psi (anular) e 500 psi (coluna). Qual a BHP em circulação REVERSA?",
+   "tipo": "multipla",
+   "alternativas": [
+    "3.802 psi",
+    "4.753 psi",
+    "5.941 psi",
+    "4.373 psi",
+    "4.253 psi"
+   ],
+   "correta": 1,
+   "explicacao": "Na circulação reversa o fluido desce pelo anular e sobe pela coluna: o fundo sente a perda de carga da coluna. BHP = 4.253 + 500 = 4.753 psi (maior que na direta)."
+  },
+  {
+   "id": "cm-0014",
+   "dificuldade": 3,
+   "tema": "BHP: circulação direta e reversa",
+   "enunciado": "Salmoura de 9,0 ppg, TVD do topo dos canhoneados = 3.000 m. Perda de carga no anular = 70 psi e na coluna = 380 psi. Qual a pressão no fundo (BHP) em circulação DIRETA?",
+   "tipo": "multipla",
+   "alternativas": [
+    "4.671 psi",
+    "5.051 psi",
+    "3.737 psi",
+    "5.839 psi",
+    "4.981 psi"
+   ],
+   "correta": 0,
+   "explicacao": "PH = 0,1704 × 9,0 × 3.000 = 4.601 psi. Na circulação direta o fundo sente a perda de carga do anular: BHP = 4.601 + 70 = 4.671 psi."
+  },
+  {
+   "id": "cm-0015",
+   "dificuldade": 3,
+   "tema": "BHP: circulação direta e reversa",
+   "enunciado": "Mesmo poço: salmoura de 9,0 ppg, TVD = 3.000 m, perdas de carga de 70 psi (anular) e 380 psi (coluna). Qual a BHP em circulação REVERSA?",
+   "tipo": "multipla",
+   "alternativas": [
+    "4.601 psi",
+    "6.226 psi",
+    "4.671 psi",
+    "3.985 psi",
+    "4.981 psi"
+   ],
+   "correta": 4,
+   "explicacao": "Na circulação reversa o fluido desce pelo anular e sobe pela coluna: o fundo sente a perda de carga da coluna. BHP = 4.601 + 380 = 4.981 psi (maior que na direta)."
+  },
+  {
+   "id": "cm-0016",
+   "dificuldade": 1,
+   "tema": "Gradientes e fluidos diferentes",
+   "enunciado": "Qual o gradiente de pressão de um fluido (gás) de 2,00 ppg? (G = 0,1704 × ρ, em psi/m)",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,375 psi/m",
+    "0,426 psi/m",
+    "0,273 psi/m",
+    "0,104 psi/m",
+    "0,341 psi/m"
+   ],
+   "correta": 4,
+   "explicacao": "G = 0,1704 × 2,00 = 0,341 psi/m."
+  },
+  {
+   "id": "cm-0017",
+   "dificuldade": 1,
+   "tema": "Gradientes e fluidos diferentes",
+   "enunciado": "Qual o gradiente de pressão de um fluido (água salgada) de 8,60 ppg? (G = 0,1704 × ρ, em psi/m)",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,447 psi/m",
+    "1,612 psi/m",
+    "1,465 psi/m",
+    "1,831 psi/m",
+    "1,172 psi/m"
+   ],
+   "correta": 2,
+   "explicacao": "G = 0,1704 × 8,60 = 1,465 psi/m."
+  },
+  {
+   "id": "cm-0018",
+   "dificuldade": 1,
+   "tema": "Gradientes e fluidos diferentes",
+   "enunciado": "Qual o gradiente de pressão de um fluido (água de formação (pressão normal)) de 8,94 ppg? (G = 0,1704 × ρ, em psi/m)",
+   "tipo": "multipla",
+   "alternativas": [
+    "1,904 psi/m",
+    "1,219 psi/m",
+    "0,465 psi/m",
+    "1,676 psi/m",
+    "1,523 psi/m"
+   ],
+   "correta": 4,
+   "explicacao": "G = 0,1704 × 8,94 = 1,523 psi/m."
+  },
+  {
+   "id": "cm-0019",
+   "dificuldade": 2,
+   "tema": "Gradientes e fluidos diferentes",
+   "enunciado": "Qual o gradiente de pressão de um fluido (salmoura) de 10,30 ppg? (G = 0,1704 × ρ, em psi/m)",
+   "tipo": "multipla",
+   "alternativas": [
+    "1,755 psi/m",
+    "2,194 psi/m",
+    "1,404 psi/m",
+    "1,931 psi/m",
+    "0,536 psi/m"
+   ],
+   "correta": 0,
+   "explicacao": "G = 0,1704 × 10,30 = 1,755 psi/m."
+  },
+  {
+   "id": "cm-0020",
+   "dificuldade": 3,
+   "tema": "Gradientes e fluidos diferentes",
+   "enunciado": "Poço com três colunas de fluido: óleo de 6,7 ppg (1.000 m), água de 8,6 ppg (2.000 m) e salmoura de 9,2 ppg (3.000 m). Qual a BHP total?",
+   "tipo": "multipla",
+   "alternativas": [
+    "10.970 psi",
+    "4.388 psi",
+    "8.776 psi",
+    "9.406 psi",
+    "9.276 psi"
+   ],
+   "correta": 2,
+   "explicacao": "BHP = Σ PHi = 1.142 + 2.931 + 4.703 = 8.776 psi. Cada fluido é calculado separadamente."
+  },
+  {
+   "id": "cm-0021",
+   "dificuldade": 3,
+   "tema": "Gradientes e fluidos diferentes",
+   "enunciado": "Coluna com 800 m de água do mar (8,4 ppg) acima de 1.500 m de salmoura de 10,0 ppg. Qual a pressão hidrostática no fundo?",
+   "tipo": "multipla",
+   "alternativas": [
+    "2.556 psi",
+    "3.919 psi",
+    "3.292 psi",
+    "1.145 psi",
+    "3.701 psi"
+   ],
+   "correta": 4,
+   "explicacao": "PH = 0,1704 × 8,4 × 800 + 0,1704 × 10,0 × 1.500 = 1.145 + 2.556 = 3.701 psi."
+  },
+  {
+   "id": "cm-0022",
+   "dificuldade": 2,
+   "tema": "Pressão da formação e SITP",
+   "enunciado": "Poço fechado com SITP = 1500 psi e coluna de 10,1 ppg. TVD do topo dos canhoneados = 2.100 m. Qual a pressão da formação (PF = PH + SITP)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "2.114 psi",
+    "1.500 psi",
+    "5.864 psi",
+    "5.114 psi",
+    "3.614 psi"
+   ],
+   "correta": 3,
+   "explicacao": "PH = 0,1704 × 10,1 × 2.100 = 3.614 psi; PF = 3.614 + 1500 = 5.114 psi. O SICP (anular) zero indica que o packer está vedando."
+  },
+  {
+   "id": "cm-0023",
+   "dificuldade": 3,
+   "tema": "Pressão da formação e SITP",
+   "enunciado": "Poço fechado com SITP = 2100 psi e coluna de 9,0 ppg. TVD do topo dos canhoneados = 2.800 m. Qual a pressão da formação (PF = PH + SITP)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "2.194 psi",
+    "7.444 psi",
+    "4.294 psi",
+    "2.100 psi",
+    "6.394 psi"
+   ],
+   "correta": 4,
+   "explicacao": "PH = 0,1704 × 9,0 × 2.800 = 4.294 psi; PF = 4.294 + 2100 = 6.394 psi. O SICP (anular) zero indica que o packer está vedando."
+  },
+  {
+   "id": "cm-0024",
+   "dificuldade": 2,
+   "tema": "Pressão da formação e SITP",
+   "enunciado": "Poço fechado com SITP = 400 psi e coluna de 7,0 ppg. TVD do topo dos canhoneados = 2.000 m. Qual a pressão da formação (PF = PH + SITP)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "2.986 psi",
+    "2.386 psi",
+    "3.482 psi",
+    "1.986 psi",
+    "2.786 psi"
+   ],
+   "correta": 4,
+   "explicacao": "PH = 0,1704 × 7,0 × 2.000 = 2.386 psi; PF = 2.386 + 400 = 2.786 psi. O SICP (anular) zero indica que o packer está vedando."
+  },
+  {
+   "id": "cm-0025",
+   "dificuldade": 2,
+   "tema": "Pressão da formação e SITP",
+   "enunciado": "Em um poço fechado, SITP = 320 psi e SICP = 600 psi. O que indica o SICP diferente de zero?",
+   "tipo": "multipla",
+   "alternativas": [
+    "A SITP está errada",
+    "O poço está em overbalance",
+    "A formação está depletada",
+    "O packer não está vedando (vazamento), comunicando coluna e anular",
+    "O fluido está limpo"
+   ],
+   "correta": 3,
+   "explicacao": "Com o packer selando, a pressão do anular independe da coluna. SICP ≠ 0 indica vazamento no packer. A SITP é usada para calcular o fluido de matar e a pressão de bombeio."
+  },
+  {
+   "id": "cm-0026",
+   "dificuldade": 2,
+   "tema": "Peso de fluido e fluido de matar",
+   "enunciado": "Qual o peso de fluido que equilibra uma pressão de poros de 5.440 psi a 3.100 m de TVD? (ρ = PF/(0,1704·TVD))",
+   "tipo": "multipla",
+   "alternativas": [
+    "9,3 ppg",
+    "12,9 ppg",
+    "11,3 ppg",
+    "10,3 ppg",
+    "33,7 ppg"
+   ],
+   "correta": 3,
+   "explicacao": "ρ = 5.440/(0,1704 × 3.100) = 10,3 ppg."
+  },
+  {
+   "id": "cm-0027",
+   "dificuldade": 2,
+   "tema": "Peso de fluido e fluido de matar",
+   "enunciado": "Qual o peso de fluido que equilibra uma pressão de poros de 3.800 psi a 2.200 m de TVD? (ρ = PF/(0,1704·TVD))",
+   "tipo": "multipla",
+   "alternativas": [
+    "11,2 ppg",
+    "10,1 ppg",
+    "9,1 ppg",
+    "33,2 ppg",
+    "12,6 ppg"
+   ],
+   "correta": 1,
+   "explicacao": "ρ = 3.800/(0,1704 × 2.200) = 10,1 ppg."
+  },
+  {
+   "id": "cm-0028",
+   "dificuldade": 2,
+   "tema": "Peso de fluido e fluido de matar",
+   "enunciado": "Qual o peso de fluido que equilibra uma pressão de poros de 6.200 psi a 3.500 m de TVD? (ρ = PF/(0,1704·TVD))",
+   "tipo": "multipla",
+   "alternativas": [
+    "10,4 ppg",
+    "11,4 ppg",
+    "9,4 ppg",
+    "34,1 ppg",
+    "13,0 ppg"
+   ],
+   "correta": 0,
+   "explicacao": "ρ = 6.200/(0,1704 × 3.500) = 10,4 ppg."
+  },
+  {
+   "id": "cm-0029",
+   "dificuldade": 2,
+   "tema": "Peso de fluido e fluido de matar",
+   "enunciado": "Pressão de poro = 4.000 psi, TVD = 3.048 m e overbalance desejado = 0,5 ppg. Qual a densidade mínima do fluido de amortecimento? (ρ = PF/(0,1704·TVD) + OB)",
+   "tipo": "multipla",
+   "alternativas": [
+    "7,70 ppg",
+    "8,70 ppg",
+    "9,02 ppg",
+    "8,20 ppg",
+    "7,20 ppg"
+   ],
+   "correta": 3,
+   "explicacao": "ρ equivalente = 4.000/(0,1704 × 3.048) = 7,70 ppg; mais 0,5 ppg de overbalance = 8,20 ppg."
+  },
+  {
+   "id": "cm-0030",
+   "dificuldade": 3,
+   "tema": "Peso de fluido e fluido de matar",
+   "enunciado": "Pressão de poro = 5.200 psi, TVD = 2.896 m e overbalance desejado = 0,3 ppg. Qual a densidade mínima do fluido de amortecimento? (ρ = PF/(0,1704·TVD) + OB)",
+   "tipo": "multipla",
+   "alternativas": [
+    "11,92 ppg",
+    "10,84 ppg",
+    "8,67 ppg",
+    "10,24 ppg",
+    "13,55 ppg"
+   ],
+   "correta": 1,
+   "explicacao": "ρ equivalente = 5.200/(0,1704 × 2.896) = 10,54 ppg; mais 0,3 ppg de overbalance = 10,84 ppg."
+  },
+  {
+   "id": "cm-0031",
+   "dificuldade": 3,
+   "tema": "Peso de fluido e fluido de matar",
+   "enunciado": "Pressão de poro = 6.500 psi, TVD = 3.658 m e overbalance desejado = 0,8 ppg. Qual a densidade mínima do fluido de amortecimento? (ρ = PF/(0,1704·TVD) + OB)",
+   "tipo": "multipla",
+   "alternativas": [
+    "11,23 ppg",
+    "9,63 ppg",
+    "12,35 ppg",
+    "10,43 ppg",
+    "12,03 ppg"
+   ],
+   "correta": 0,
+   "explicacao": "ρ equivalente = 6.500/(0,1704 × 3.658) = 10,43 ppg; mais 0,8 ppg de overbalance = 11,23 ppg."
+  },
+  {
+   "id": "cm-0032",
+   "dificuldade": 3,
+   "tema": "Peso de fluido e fluido de matar",
+   "enunciado": "Pressão de poro = 5.720 psi, TVD = 3.109 m e overbalance desejado = 0,6 ppg. Qual a densidade mínima do fluido de amortecimento? (ρ = PF/(0,1704·TVD) + OB)",
+   "tipo": "multipla",
+   "alternativas": [
+    "12,00 ppg",
+    "11,40 ppg",
+    "10,80 ppg",
+    "12,54 ppg",
+    "10,20 ppg"
+   ],
+   "correta": 1,
+   "explicacao": "ρ equivalente = 5.720/(0,1704 × 3.109) = 10,80 ppg; mais 0,6 ppg de overbalance = 11,40 ppg."
+  },
+  {
+   "id": "cm-0033",
+   "dificuldade": 2,
+   "tema": "Peso de fluido e fluido de matar",
+   "enunciado": "Poço em kick com fluido de 9,0 ppg, SITP = 600 psi, TVD = 2.500 m. Qual a densidade do fluido de matar? (ρm = ρ + SITP/(0,1704·TVD))",
+   "tipo": "multipla",
+   "alternativas": [
+    "10,41 ppg",
+    "11,82 ppg",
+    "13,01 ppg",
+    "9,70 ppg",
+    "10,91 ppg"
+   ],
+   "correta": 0,
+   "explicacao": "Incremento = 600/(0,1704 × 2.500) = 1,41 ppg; ρm = 9,0 + 1,41 = 10,41 ppg."
+  },
+  {
+   "id": "cm-0034",
+   "dificuldade": 3,
+   "tema": "Peso de fluido e fluido de matar",
+   "enunciado": "Poço em kick com fluido de 8,4 ppg, SITP = 800 psi, TVD = 3.000 m. Qual a densidade do fluido de matar? (ρm = ρ + SITP/(0,1704·TVD))",
+   "tipo": "multipla",
+   "alternativas": [
+    "11,53 ppg",
+    "9,18 ppg",
+    "9,96 ppg",
+    "12,45 ppg",
+    "10,46 ppg"
+   ],
+   "correta": 2,
+   "explicacao": "Incremento = 800/(0,1704 × 3.000) = 1,56 ppg; ρm = 8,4 + 1,56 = 9,96 ppg."
+  },
+  {
+   "id": "cm-0035",
+   "dificuldade": 3,
+   "tema": "Peso de fluido e fluido de matar",
+   "enunciado": "Poço em kick com fluido de 10,0 ppg, SITP = 450 psi, TVD = 2.800 m. Qual a densidade do fluido de matar? (ρm = ρ + SITP/(0,1704·TVD))",
+   "tipo": "multipla",
+   "alternativas": [
+    "10,47 ppg",
+    "13,67 ppg",
+    "10,94 ppg",
+    "11,89 ppg",
+    "11,44 ppg"
+   ],
+   "correta": 2,
+   "explicacao": "Incremento = 450/(0,1704 × 2.800) = 0,94 ppg; ρm = 10,0 + 0,94 = 10,94 ppg."
+  },
+  {
+   "id": "cm-0036",
+   "dificuldade": 3,
+   "tema": "Peso de fluido e fluido de matar",
+   "enunciado": "Gradiente de poros = 1,837 psi/m; topo dos canhoneados a 1.829 m (TVD). Qual a massa específica necessária para amortecer (overbalance nulo)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "10,8 ppg",
+    "3,4 ppg",
+    "13,5 ppg",
+    "11,3 ppg",
+    "9,8 ppg"
+   ],
+   "correta": 0,
+   "explicacao": "PF = 1,837 × 1.829 = 3.360 psi; ρ = PF/(0,1704 × 1.829) = 10,78 ppg ≈ 10,8 ppg. Basta dividir o gradiente por 0,1704."
+  },
+  {
+   "id": "cm-0037",
+   "dificuldade": 3,
+   "tema": "Peso de fluido e fluido de matar",
+   "enunciado": "Formação a 3.828 m (TVD) com gradiente de poros de 1,624 psi/m. A SITP é 2.500 psi. Qual a massa específica média do fluido na coluna?",
+   "tipo": "multipla",
+   "alternativas": [
+    "8,5 ppg",
+    "3,8 ppg",
+    "5,7 ppg",
+    "9,5 ppg",
+    "7,2 ppg"
+   ],
+   "correta": 2,
+   "explicacao": "PF = 1,624 × 3.828 = 6.217 psi; PH = PF − SITP = 3.717 psi; ρ = 3.717/(0,1704 × 3.828) = 5,70 ppg ≈ 5,7 ppg (um fluido leve: o poço produz)."
+  },
+  {
+   "id": "cm-0038",
+   "dificuldade": 2,
+   "tema": "ECD",
+   "enunciado": "Fluido de 12,0 ppg, perda de pressão por atrito no anular de 300 psi e TVD = 10.000 ft. Qual a ECD? (ECD = ρ + ΔP/(0,052·TVD))",
+   "tipo": "multipla",
+   "alternativas": [
+    "12,58 ppg",
+    "10,06 ppg",
+    "12,03 ppg",
+    "15,72 ppg",
+    "12,00 ppg"
+   ],
+   "correta": 0,
+   "explicacao": "ECD = 12,0 + 300/(0,052 × 10.000) = 12,0 + 0,58 = 12,58 ppg."
+  },
+  {
+   "id": "cm-0039",
+   "dificuldade": 2,
+   "tema": "ECD",
+   "enunciado": "Fluido de 10,5 ppg, perda de pressão por atrito no anular de 250 psi e TVD = 8.500 ft. Qual a ECD? (ECD = ρ + ΔP/(0,052·TVD))",
+   "tipo": "multipla",
+   "alternativas": [
+    "10,53 ppg",
+    "11,07 ppg",
+    "11,57 ppg",
+    "13,84 ppg",
+    "10,50 ppg"
+   ],
+   "correta": 1,
+   "explicacao": "ECD = 10,5 + 250/(0,052 × 8.500) = 10,5 + 0,57 = 11,07 ppg."
+  },
+  {
+   "id": "cm-0040",
+   "dificuldade": 2,
+   "tema": "ECD",
+   "enunciado": "Fluido de 14,5 ppg, perda de pressão por atrito no anular de 400 psi e TVD = 11.000 ft. Qual a ECD? (ECD = ρ + ΔP/(0,052·TVD))",
+   "tipo": "multipla",
+   "alternativas": [
+    "19,00 ppg",
+    "15,20 ppg",
+    "14,50 ppg",
+    "12,16 ppg",
+    "14,54 ppg"
+   ],
+   "correta": 1,
+   "explicacao": "ECD = 14,5 + 400/(0,052 × 11.000) = 14,5 + 0,70 = 15,20 ppg."
+  },
+  {
+   "id": "cm-0041",
+   "dificuldade": 3,
+   "tema": "ECD",
+   "enunciado": "Para manter a ECD abaixo de 15,5 ppg a 11.000 ft, com fluido de 14,5 ppg, qual a perda de pressão por atrito máxima admissível? (ΔP = (ECD − ρ) · 0,052 · TVD)",
+   "tipo": "multipla",
+   "alternativas": [
+    "715 psi",
+    "458 psi",
+    "572 psi",
+    "858 psi",
+    "286 psi"
+   ],
+   "correta": 2,
+   "explicacao": "ΔP = (15,5 − 14,5) × 0,052 × 11.000 = 572 psi."
+  },
+  {
+   "id": "cm-0042",
+   "dificuldade": 3,
+   "tema": "ECD",
+   "enunciado": "Fluido de 12,0 ppg a 10.000 ft de TVD. A formação sente 12,77 ppg em circulação. Qual a perda de pressão por atrito no anular?",
+   "tipo": "multipla",
+   "alternativas": [
+    "320 psi",
+    "400 psi",
+    "600 psi",
+    "268 psi",
+    "500 psi"
+   ],
+   "correta": 1,
+   "explicacao": "ΔP = (12,77 − 12,0) × 0,052 × 10.000 = 400 psi."
+  },
+  {
+   "id": "cm-0043",
+   "dificuldade": 3,
+   "tema": "Pressão de fratura e overbalance",
+   "enunciado": "Fluido de 11,0 ppg, TVD = 1.829 m, gradiente de poros = 1,837 psi/m e gradiente de fratura = 2,067 psi/m. Qual a pressão de superfície máxima, sem bombeio, que ainda não fratura a formação? (Pfratura − PH)",
+   "tipo": "multipla",
+   "alternativas": [
+    "852 psi",
+    "421 psi",
+    "282 psi",
+    "352 psi",
+    "440 psi"
+   ],
+   "correta": 3,
+   "explicacao": "Pfratura = 2,067 × 1.829 = 3.781 psi; PH = 3.428 psi; margem na superfície = 352 psi."
+  },
+  {
+   "id": "cm-0044",
+   "dificuldade": 3,
+   "tema": "Pressão de fratura e overbalance",
+   "enunciado": "No mesmo poço (ρ = 11,0 ppg, TVD = 1.829 m, Gporos = 1,837 psi/m), qual o overbalance em psi? (PH − PF)",
+   "tipo": "multipla",
+   "alternativas": [
+    "85 psi",
+    "54 psi",
+    "68 psi",
+    "102 psi",
+    "46 psi"
+   ],
+   "correta": 2,
+   "explicacao": "PF = 1,837 × 1.829 = 3.360 psi; PH = 3.428 psi; overbalance = 68 psi (sobrebalanceado)."
+  },
+  {
+   "id": "cm-0045",
+   "dificuldade": 3,
+   "tema": "Pressão de fratura e overbalance",
+   "enunciado": "Fluido de 9,6 ppg, TVD = 2.804 m, gradiente de poros = 1,194 psi/m e gradiente de fratura = 1,962 psi/m. Qual a pressão de superfície máxima, sem bombeio, que ainda não fratura a formação? (Pfratura − PH)",
+   "tipo": "multipla",
+   "alternativas": [
+    "2.153 psi",
+    "1.238 psi",
+    "1.142 psi",
+    "1.414 psi",
+    "914 psi"
+   ],
+   "correta": 4,
+   "explicacao": "Pfratura = 1,962 × 2.804 = 5.501 psi; PH = 4.587 psi; margem na superfície = 914 psi."
+  },
+  {
+   "id": "cm-0046",
+   "dificuldade": 3,
+   "tema": "Pressão de fratura e overbalance",
+   "enunciado": "No mesmo poço (ρ = 9,6 ppg, TVD = 2.804 m, Gporos = 1,194 psi/m), qual o overbalance em psi? (PH − PF)",
+   "tipo": "multipla",
+   "alternativas": [
+    "2.913 psi",
+    "4.587 psi",
+    "1.548 psi",
+    "1.238 psi",
+    "3.349 psi"
+   ],
+   "correta": 3,
+   "explicacao": "PF = 1,194 × 2.804 = 3.349 psi; PH = 4.587 psi; overbalance = 1.238 psi (sobrebalanceado)."
+  },
+  {
+   "id": "cm-0047",
+   "dificuldade": 3,
+   "tema": "Tampão de calcita",
+   "enunciado": "Quantas lb/bbl de calcita são necessárias para elevar um fluido de 8,5 ppg para 10,0 ppg? (MC = 945 (df − di)/(22,5 − df))",
+   "tipo": "multipla",
+   "alternativas": [
+    "63,0 lb/bbl",
+    "101,2 lb/bbl",
+    "113,4 lb/bbl",
+    "147,4 lb/bbl",
+    "79,4 lb/bbl"
+   ],
+   "correta": 2,
+   "explicacao": "MC = 945 × (10,0 − 8,5)/(22,5 − 10,0) = 113,4 lb/bbl."
+  },
+  {
+   "id": "cm-0048",
+   "dificuldade": 3,
+   "tema": "Tampão de calcita",
+   "enunciado": "Quantas lb/bbl de calcita são necessárias para elevar um fluido de 9,0 ppg para 10,5 ppg? (MC = 945 (df − di)/(22,5 − df))",
+   "tipo": "multipla",
+   "alternativas": [
+    "82,7 lb/bbl",
+    "105,0 lb/bbl",
+    "63,0 lb/bbl",
+    "153,6 lb/bbl",
+    "118,1 lb/bbl"
+   ],
+   "correta": 4,
+   "explicacao": "MC = 945 × (10,5 − 9,0)/(22,5 − 10,5) = 118,1 lb/bbl."
+  },
+  {
+   "id": "cm-0049",
+   "dificuldade": 3,
+   "tema": "Tampão de calcita",
+   "enunciado": "Quantas lb/bbl de calcita são necessárias para elevar um fluido de 10,0 ppg para 11,0 ppg? (MC = 945 (df − di)/(22,5 − df))",
+   "tipo": "multipla",
+   "alternativas": [
+    "106,8 lb/bbl",
+    "57,5 lb/bbl",
+    "42,0 lb/bbl",
+    "82,2 lb/bbl",
+    "75,6 lb/bbl"
+   ],
+   "correta": 3,
+   "explicacao": "MC = 945 × (11,0 − 10,0)/(22,5 − 11,0) = 82,2 lb/bbl."
+  },
+  {
+   "id": "cm-0050",
+   "dificuldade": 3,
+   "tema": "Tampão de calcita",
+   "enunciado": "Para um tampão de 150 bbl que exige 113 lb/bbl de calcita, quantos sacos de 25 kg (55,125 lb) são necessários (arredonde para cima)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "155 sacos",
+    "109 sacos",
+    "386 sacos",
+    "309 sacos",
+    "679 sacos"
+   ],
+   "correta": 3,
+   "explicacao": "Massa = 150 × 113,4 = 17.010 lb; ÷ 55,125 = 308,6 → 309 sacos."
+  },
+  {
+   "id": "cm-0051",
+   "dificuldade": 2,
+   "tema": "Salmouras de completação",
+   "enunciado": "Salmoura saturada de NaCl a 10,0 ppg: 1.090 lb de sal para cada 10 bbl de fluido. Quantos kg de sal para 500 bbl?",
+   "tipo": "multipla",
+   "alternativas": [
+    "24.721 kg",
+    "19.777 kg",
+    "37.082 kg",
+    "54.500 kg",
+    "30.901 kg"
+   ],
+   "correta": 0,
+   "explicacao": "109,00 lb/bbl × 500 bbl = 54.500 lb ÷ 2,2046 = 24.721 kg."
+  },
+  {
+   "id": "cm-0052",
+   "dificuldade": 2,
+   "tema": "Salmouras de completação",
+   "enunciado": "Salmoura saturada de KCl a 9,6 ppg: 910,8 lb de sal para cada 10 bbl de fluido. Quantos kg de sal para 500 bbl?",
+   "tipo": "multipla",
+   "alternativas": [
+    "30.985 kg",
+    "25.821 kg",
+    "20.657 kg",
+    "45.540 kg",
+    "16.526 kg"
+   ],
+   "correta": 2,
+   "explicacao": "91,08 lb/bbl × 500 bbl = 45.540 lb ÷ 2,2046 = 20.657 kg."
+  },
+  {
+   "id": "cm-0053",
+   "dificuldade": 2,
+   "tema": "Salmouras de completação",
+   "enunciado": "Salmoura saturada de CaCl₂ a 12,0 ppg: 2.730 lb de sal para cada 10 bbl de fluido. Quantos kg de sal para 500 bbl?",
+   "tipo": "multipla",
+   "alternativas": [
+    "61.916 kg",
+    "136.500 kg",
+    "49.533 kg",
+    "92.874 kg",
+    "77.395 kg"
+   ],
+   "correta": 0,
+   "explicacao": "273,00 lb/bbl × 500 bbl = 136.500 lb ÷ 2,2046 = 61.916 kg."
+  },
+  {
+   "id": "cm-0054",
+   "dificuldade": 2,
+   "tema": "Salmouras de completação",
+   "enunciado": "Para 10 bbl de salmoura saturada de NaCl a 10 ppg (1.090 lb de sal) são necessários 8,881 bbl de água. Qual o volume ocupado pelo sal, em bbl?",
+   "tipo": "multipla",
+   "alternativas": [
+    "1,119 bbl",
+    "1,399 bbl",
+    "2,238 bbl",
+    "1,679 bbl",
+    "0,895 bbl"
+   ],
+   "correta": 0,
+   "explicacao": "O sal dissolvido ocupa 10 − 8,881 = 1,119 bbl (FV = 10/8,881 = 1,126)."
+  },
+  {
+   "id": "cm-0055",
+   "dificuldade": 2,
+   "tema": "Salmouras de completação",
+   "enunciado": "Para 500 bbl de salmoura de CaCl₂ de 12 ppg (6,285 bbl de água por 10 bbl de fluido), quantos bbl de água são necessários?",
+   "tipo": "multipla",
+   "alternativas": [
+    "450,0 bbl",
+    "600,0 bbl",
+    "185,8 bbl",
+    "314,2 bbl",
+    "795,5 bbl"
+   ],
+   "correta": 3,
+   "explicacao": "500 × 0,6285 = 314,2 bbl de água; o restante (185,8 bbl) é o volume ocupado pelo sal dissolvido."
+  },
+  {
+   "id": "cm-0056",
+   "dificuldade": 1,
+   "tema": "Definições e funções",
+   "enunciado": "Como se define um fluido de completação?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Fluido viscoso usado em poço aberto para perfuração",
+    "Fluido de cimentação",
+    "Fluido de base óleo com argila organofílica",
+    "Fluido salino usado em poço revestido para completação, workover e limpeza, em condição de segurança (barreira), sem danificar a formação e com pressão hidrostática ligeiramente acima da estática da formação",
+    "Fluido que gera pressão inferior à da formação (underbalance)"
+   ],
+   "correta": 3,
+   "explicacao": "É um fluido salino (salmoura) ou, em alguns casos, viscoso/calcita/água produzida, empregado em poço revestido. Deve ser a primeira barreira de segurança (overbalance) e não causar dano."
+  },
+  {
+   "id": "cm-0057",
+   "dificuldade": 1,
+   "tema": "Definições e funções",
+   "enunciado": "Quais fluidos podem ser usados como fluido de completação?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Apenas lama base óleo",
+    "Apenas ácidos",
+    "Apenas gás",
+    "Fluidos viscosos (polímeros/calcita), fluidos salinos (salmouras) e água produzida do mesmo campo",
+    "Apenas cimento"
+   ],
+   "correta": 3,
+   "explicacao": "A salmoura é o mais comum. O fluido viscoso com polímero ou calcita é empregado quando há perda; a água produzida pode servir quando compatível."
+  },
+  {
+   "id": "cm-0058",
+   "dificuldade": 1,
+   "tema": "Definições e funções",
+   "enunciado": "Qual NÃO é função de um fluido de completação?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Impedir a migração de fluido da formação para o poço",
+    "Gerar sub-balanceamento (underbalance) para o poço produzir",
+    "Minimizar a corrosão dos equipamentos",
+    "Não danificar a formação",
+    "Carrear partículas sólidas do poço (areia, limalha)"
+   ],
+   "correta": 1,
+   "explicacao": "O fluido deve manter overbalance. Underbalance permite influxo e perda de controle."
+  },
+  {
+   "id": "cm-0059",
+   "dificuldade": 1,
+   "tema": "Definições e funções",
+   "enunciado": "O que significa 'amortecer' um poço?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Criar uma barreira hidráulica com fluido cuja pressão hidrostática supere a da formação, sem que a formação absorva volume desnecessário",
+    "Deixar a formação absorver o máximo de fluido",
+    "Trocar o fluido por gás",
+    "Fechar o poço com BOP e esperar",
+    "Reduzir a pressão hidrostática a zero"
+   ],
+   "correta": 0,
+   "explicacao": "O essencial é a hidrostática superar a pressão da formação (overbalance). Um bom amortecimento minimiza a perda de fluido para a formação."
+  },
+  {
+   "id": "cm-0060",
+   "dificuldade": 1,
+   "tema": "Definições e funções",
+   "enunciado": "Qual a diferença entre completação e workover?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Completação equipa o poço para produzir ou injetar (após a perfuração); workover são intervenções posteriores para manter ou melhorar a produção",
+    "Workover vem antes da completação",
+    "Não há diferença",
+    "Workover é a perfuração do poço",
+    "Completação é feita em poço aberto; workover em poço revestido"
+   ],
+   "correta": 0,
+   "explicacao": "Workover inclui avaliação, recompletação, restauração, limpeza, estimulação, troca do método de elevação e abandono."
+  },
+  {
+   "id": "cm-0061",
+   "dificuldade": 2,
+   "tema": "Definições e funções",
+   "enunciado": "Quais características se esperam de um fluido de completação?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Limpo, pouco corrosivo, fácil de controlar, baixa perda de carga, inerte a bactérias e econômico",
+    "Base óleo cru",
+    "Com alto filtrado",
+    "Muito viscoso e corrosivo",
+    "Rico em sólidos, para tamponar a formação"
+   ],
+   "correta": 0,
+   "explicacao": "Sólidos e corrosão danificam a formação e os equipamentos. As propriedades devem ser facilmente controláveis em campo."
+  },
+  {
+   "id": "cm-0062",
+   "dificuldade": 2,
+   "tema": "Definições e funções",
+   "enunciado": "Qual o intuito de usar sais na composição do fluido de completação?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Precipitar o H₂S",
+    "Aumentar a taxa de corrosão",
+    "Reduzir a densidade",
+    "Aumentar a viscosidade plástica",
+    "Inibir o inchamento de argilas e dar peso (densidade) ao fluido"
+   ],
+   "correta": 4,
+   "explicacao": "Sais fornecem densidade e inibem argilas, com o mínimo de sólidos."
+  },
+  {
+   "id": "cm-0063",
+   "dificuldade": 2,
+   "tema": "Definições e funções",
+   "enunciado": "Qual o conjunto mínimo desejável na composição de um fluido de completação?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Sal, preventor de emulsão e biocida",
+    "Soda, cal e argila organofílica",
+    "Cimento, areia e água",
+    "Diesel, cal e barita",
+    "Barita, bentonita e lignito"
+   ],
+   "correta": 0,
+   "explicacao": "O sal dá peso e inibição; o preventor de emulsão evita dano por emulsões com o óleo da formação; o biocida protege polímeros e minimiza a corrosão por bactérias."
+  },
+  {
+   "id": "cm-0064",
+   "dificuldade": 2,
+   "tema": "Definições e funções",
+   "enunciado": "Quais aditivos minimizam a corrosão em fluidos de completação?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Polímeros viscosos",
+    "Emulsificantes",
+    "Barita, calcita e bentonita",
+    "Inibidor de corrosão, biocidas, sequestrante de O₂ e sequestrante de H₂S",
+    "Argila organofílica, cal e cal virgem"
+   ],
+   "correta": 3,
+   "explicacao": "Oxigênio e H₂S dissolvidos e bactérias são as principais causas de corrosão em salmouras."
+  },
+  {
+   "id": "cm-0065",
+   "dificuldade": 2,
+   "tema": "Definições e funções",
+   "enunciado": "Quais aditivos ajudam a evitar dano à formação (parte 1 do curso)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Inibidor de parafina/asfaltenos, preventor de emulsão, agente umectante e inibidor de incrustação",
+    "Barita, bentonita e cimento",
+    "Emulsificante e cal",
+    "Dispersante e lignito",
+    "Sequestrante de O₂ apenas"
+   ],
+   "correta": 0,
+   "explicacao": "Esses aditivos evitam bloqueio por emulsões, incrustação, depósitos orgânicos e alteração de molhabilidade. Também há inibidor de argila, redutor de fricção e desincrustante."
+  },
+  {
+   "id": "cm-0066",
+   "dificuldade": 1,
+   "tema": "Pressões e controle de poço",
+   "enunciado": "Qual pressão é a primeira barreira de segurança do poço?",
+   "tipo": "multipla",
+   "alternativas": [
+    "A pressão de bombeio",
+    "A pressão hidrostática do fluido de completação ou intervenção",
+    "A pressão de poro",
+    "A pressão de fratura",
+    "A pressão de superfície do BOP"
+   ],
+   "correta": 1,
+   "explicacao": "A coluna de fluido (overbalance) impede a surgência. O BOP e o packer são barreiras adicionais."
+  },
+  {
+   "id": "cm-0067",
+   "dificuldade": 2,
+   "tema": "Pressões e controle de poço",
+   "enunciado": "Qual profundidade usar no cálculo da pressão hidrostática e qual no cálculo de volume ou perda de carga?",
+   "tipo": "multipla",
+   "alternativas": [
+    "MD do topo para ambos",
+    "Profundidade da sapata para ambos",
+    "TVD da base para ambos",
+    "MD do topo para pressão; TVD da base para volume",
+    "TVD do topo dos canhoneados para pressão; MD da base dos canhoneados para volume e perda de carga"
+   ],
+   "correta": 4,
+   "explicacao": "A hidrostática depende só da altura vertical. O volume e o atrito dependem do comprimento real percorrido (MD)."
+  },
+  {
+   "id": "cm-0068",
+   "dificuldade": 2,
+   "tema": "Pressões e controle de poço",
+   "enunciado": "Em qual circulação o fundo do poço sente a maior pressão e por quê?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Direta, pois o anular tem menos atrito",
+    "Reversa, pois a perda de carga da coluna é maior que a do anular",
+    "Direta, pois a coluna é mais curta",
+    "As duas são iguais",
+    "Nenhuma: o fundo só sente a hidrostática"
+   ],
+   "correta": 1,
+   "explicacao": "Direta: BHP = PH + ΔP anular. Reversa: BHP = PH + ΔP coluna. Como a perda na coluna é maior (ex.: 460 × 95 psi), a BHP é maior na reversa."
+  },
+  {
+   "id": "cm-0069",
+   "dificuldade": 1,
+   "tema": "Pressões e controle de poço",
+   "enunciado": "O que é ECD?",
+   "tipo": "multipla",
+   "alternativas": [
+    "A densidade do gás",
+    "A densidade do fluido em repouso",
+    "A densidade da barita",
+    "A densidade equivalente de circulação: a densidade que gera a pressão total no fundo, somando a hidrostática e as perdas de carga do anular",
+    "O limite de fratura"
+   ],
+   "correta": 3,
+   "explicacao": "ECD = ρ + ΔPfric/(0,052 · TVD). Monitorar o ECD evita fratura (ECD alta) e kick (ECD baixa em janela estreita)."
+  },
+  {
+   "id": "cm-0070",
+   "dificuldade": 2,
+   "tema": "Pressões e controle de poço",
+   "enunciado": "Classifique um poço em que a BHP é menor que a pressão da formação.",
+   "tipo": "multipla",
+   "alternativas": [
+    "Sobrebalanceado",
+    "Balanceado",
+    "Sub-balanceado (underbalance)",
+    "Amortecido",
+    "Fraturado"
+   ],
+   "correta": 2,
+   "explicacao": "Underbalance permite influxo (kick). Balanceado: BHP = PF; overbalance: BHP > PF."
+  },
+  {
+   "id": "cm-0071",
+   "dificuldade": 2,
+   "tema": "Pressões e controle de poço",
+   "enunciado": "Qual a ordem de grandeza do peso de um gás e de água doce em ppg?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Todos ≈ 15 ppg",
+    "Gás: menos de 2–4 ppg; água doce ≈ 8,3 ppg; água de formação normal ≈ 8,94 ppg",
+    "Gás 8,3 ppg; água 2 ppg",
+    "Gás 12 ppg; água 12 ppg",
+    "Gás 10 ppg; água 5 ppg"
+   ],
+   "correta": 1,
+   "explicacao": "O gás é muito leve (gradiente ≈ 0,34 psi/m para 2 ppg). A água doce tem 8,3 ppg; a água de formação costuma usar 8,94 ppg."
+  },
+  {
+   "id": "cm-0072",
+   "dificuldade": 3,
+   "tema": "Pressões e controle de poço",
+   "enunciado": "Em poço direcional e vertical com o mesmo fluido e mesma profundidade vertical, o que se pode afirmar da pressão hidrostática?",
+   "tipo": "multipla",
+   "alternativas": [
+    "É maior no direcional, pelo MD",
+    "É menor no direcional",
+    "É igual, pois depende da massa específica e da profundidade vertical",
+    "Depende do diâmetro",
+    "Depende da vazão"
+   ],
+   "correta": 2,
+   "explicacao": "A pressão hidrostática é função de ρ e do TVD. O MD só afeta volumes e perdas de carga."
+  },
+  {
+   "id": "cm-0073",
+   "dificuldade": 3,
+   "tema": "Pressões e controle de poço",
+   "enunciado": "Como se calcula a pressão no fundo de um poço fechado e estabilizado com kick?",
+   "tipo": "multipla",
+   "alternativas": [
+    "BHP = pressão de fratura",
+    "BHP = PH de gás",
+    "BHP = PH − SITP",
+    "BHP = PH + SICP × 2",
+    "BHP = PH da coluna + SITP"
+   ],
+   "correta": 4,
+   "explicacao": "A pressão no fundo soma a hidrostática do fluido na coluna e a pressão de superfície no fechamento (SITP)."
+  },
+  {
+   "id": "cm-0074",
+   "dificuldade": 3,
+   "tema": "Pressões e controle de poço",
+   "enunciado": "Qual a fórmula do peso do fluido de amortecimento com margem de segurança?",
+   "tipo": "multipla",
+   "alternativas": [
+    "ρ = PF × 0,1704 × TVD",
+    "ρ = PF/(0,1704 · TVD) + overbalance desejado (tipicamente 0,2 a 1,0 ppg)",
+    "ρ = fratura/poros",
+    "ρ = SITP/TVD",
+    "ρ = PF/TVD − overbalance"
+   ],
+   "correta": 1,
+   "explicacao": "Calcula-se o peso que equilibra a PF e soma-se a margem de segurança. Acima da margem, cresce o risco de perda de circulação."
+  },
+  {
+   "id": "cm-0075",
+   "dificuldade": 1,
+   "tema": "Pressões e controle de poço",
+   "enunciado": "Em um poço com packer vedando, SICP diferente de zero indica falha na vedação.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "O anular é isolado pelo packer; pressão no anular indica vazamento ou comunicação."
+  },
+  {
+   "id": "cm-0076",
+   "dificuldade": 1,
+   "tema": "Kicks e perda de circulação",
+   "enunciado": "Quais indícios de kick ocorrem durante a manobra?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Poço aceitando menos fluido que o volume de aço retirado, ou devolvendo mais que o volume de aço descido",
+    "Redução da vazão das bombas",
+    "Aumento de densidade no retorno",
+    "Poço aceitando mais fluido que o aço retirado",
+    "Queda de temperatura"
+   ],
+   "correta": 0,
+   "explicacao": "Variações de volume na manobra mostram que fluido da formação entra (ou sai fluido) no poço."
+  },
+  {
+   "id": "cm-0077",
+   "dificuldade": 1,
+   "tema": "Kicks e perda de circulação",
+   "enunciado": "Quais indícios de kick ocorrem durante a circulação?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Aumento da pressão de circulação",
+    "Aumento da viscosidade apenas",
+    "Aumento de volume nos tanques, fluxo com bombas desligadas, queda da pressão de circulação e perda de densidade",
+    "Aumento de densidade",
+    "Redução de volume nos tanques"
+   ],
+   "correta": 2,
+   "explicacao": "Fluidos leves (óleo ou gás) entram no poço e reduzem a densidade e a pressão, enquanto o nível nos tanques sobe."
+  },
+  {
+   "id": "cm-0078",
+   "dificuldade": 2,
+   "tema": "Kicks e perda de circulação",
+   "enunciado": "Qual a principal forma de corrigir perda de circulação em fluidos de completação?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Trocar o fluido por água doce",
+    "Reduzir a salinidade",
+    "Adicionar cimento",
+    "Aumentar a densidade",
+    "Adicionar LCM (materiais de combate a perda), que selam fraturas e impedem o crescimento das induzidas"
+   ],
+   "correta": 4,
+   "explicacao": "O LCM tampona as perdas. Em salmoura, usa-se fluido com polímero e calcita como obturante."
+  },
+  {
+   "id": "cm-0079",
+   "dificuldade": 2,
+   "tema": "Kicks e perda de circulação",
+   "enunciado": "Qual a finalidade do teste de absorção em um poço amortecido?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Calcular a densidade do gás",
+    "Definir a viscosidade plástica",
+    "Definir frequência e volume de abastecimento para manter o overbalance; o nível de fluido é controlado por medição acústica (sonolog)",
+    "Medir a corrosão",
+    "Medir a salinidade"
+   ],
+   "correta": 2,
+   "explicacao": "Com o poço 'bebendo', o nível cai e o overbalance diminui. O teste permite repor fluido a tempo de evitar influxo."
+  },
+  {
+   "id": "cm-0080",
+   "dificuldade": 3,
+   "tema": "Kicks e perda de circulação",
+   "enunciado": "O poço 'bebe' (perde fluido para a formação) e não é abastecido. O que ocorre?",
+   "tipo": "multipla",
+   "alternativas": [
+    "A pressão hidrostática aumenta",
+    "O nível de fluido cai e perde-se o overbalance, podendo causar reação do poço e até blowout",
+    "Nada ocorre",
+    "O nível cai e perde o underbalance, causando kick",
+    "O poço se mantém amortecido, basta trocar o fluido por um viscoso"
+   ],
+   "correta": 1,
+   "explicacao": "A salvaguarda do poço é o overbalance. Sem reposição, a hidrostática cai e a formação pode fluir. Por isso se faz o teste de absorção e o controle do nível."
+  },
+  {
+   "id": "cm-0081",
+   "dificuldade": 3,
+   "tema": "Kicks e perda de circulação",
+   "enunciado": "Quais fatores podem aumentar a pressão da formação durante a intervenção, gerando kick?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Uso de biocida",
+    "Comunicação com poços injetores ou com poços vizinhos em perfuração",
+    "Aumento da densidade do fluido",
+    "Adição de calcita",
+    "Aumento da salinidade"
+   ],
+   "correta": 1,
+   "explicacao": "A pressão da formação já é conhecida na completação. Um aumento só ocorre por comunicação com outras zonas ou poços."
+  },
+  {
+   "id": "cm-0082",
+   "dificuldade": 1,
+   "tema": "Salmouras",
+   "enunciado": "Qual a densidade máxima de uma solução de NaCl a 80 °F?",
+   "tipo": "multipla",
+   "alternativas": [
+    "15,0 ppg",
+    "10,0 ppg",
+    "8,3 ppg",
+    "19,2 ppg",
+    "12,0 ppg"
+   ],
+   "correta": 1,
+   "explicacao": "A salmoura de NaCl sat. tem 10,0 ppg a 80 °F: 1.090 lb de sal por 10 bbl, com 8,881 bbl de água (≈ 26%)."
+  },
+  {
+   "id": "cm-0083",
+   "dificuldade": 1,
+   "tema": "Salmouras",
+   "enunciado": "Qual a densidade máxima do KCl e do CaCl₂ a 80 °F?",
+   "tipo": "multipla",
+   "alternativas": [
+    "KCl: 9,6 ppg; CaCl₂: 12,0 ppg",
+    "KCl: 12,0 ppg; CaCl₂: 9,6 ppg",
+    "Ambos 15,0 ppg",
+    "Ambos 10,0 ppg",
+    "KCl: 8,3 ppg; CaCl₂: 15,0 ppg"
+   ],
+   "correta": 0,
+   "explicacao": "KCl: 910,8 lb/10 bbl, 22,6%. CaCl₂: 2.730 lb/10 bbl, 42%, libera calor ao dissolver."
+  },
+  {
+   "id": "cm-0084",
+   "dificuldade": 1,
+   "tema": "Salmouras",
+   "enunciado": "Para qual tipo de formação o KCl é mais apropriado?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Formações muito argilosas e hidratáveis (estabilizador de argilas, em 1 a 3%)",
+    "Formações de sal",
+    "Arenitos sem argila",
+    "Poços com H₂S",
+    "Formações carbonáticas limpas"
+   ],
+   "correta": 0,
+   "explicacao": "O KCl é efetivo como estabilizador de argila. Corrosão tolerável com inibidor e pH entre 7 e 8."
+  },
+  {
+   "id": "cm-0085",
+   "dificuldade": 2,
+   "tema": "Salmouras",
+   "enunciado": "Qual a principal vantagem do NaCl como salmoura de completação?",
+   "tipo": "multipla",
+   "alternativas": [
+    "É o único que não precisa filtrar",
+    "É simples, econômico, compatível com a maioria dos aditivos e pouco corrosivo",
+    "É o mais inibidor de argilas",
+    "Atinge 19 ppg",
+    "Libera muito calor ao dissolver"
+   ],
+   "correta": 1,
+   "explicacao": "Sua limitação é a densidade máxima (10,0 ppg). Para pesos maiores usa-se CaCl₂ ou misturas."
+  },
+  {
+   "id": "cm-0086",
+   "dificuldade": 1,
+   "tema": "Salmouras",
+   "enunciado": "Qual característica do CaCl₂ exige cuidado no preparo?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Absorve gás",
+    "Libera grande quantidade de calor ao se dissolver e absorve água",
+    "Precipita a argila",
+    "Reduz a densidade",
+    "É insolúvel"
+   ],
+   "correta": 1,
+   "explicacao": "A dissolução é exotérmica; o produto também é higroscópico (absorve mais de três vezes o seu peso em água)."
+  },
+  {
+   "id": "cm-0087",
+   "dificuldade": 2,
+   "tema": "Salmouras",
+   "enunciado": "Como classificam-se as soluções salinas quanto ao limite de solubilidade?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Limpa, suja e turva",
+    "Filtrada, não filtrada e polimérica",
+    "Leve, média e pesada",
+    "Insaturada (pode dissolver mais), saturada (no limite) e supersaturada (acima do limite, instável)",
+    "Ácida, básica e neutra"
+   ],
+   "correta": 3,
+   "explicacao": "Uma solução supersaturada é instável: um pequeno cristal pode provocar a precipitação do excesso, com sal no fundo do poço."
+  },
+  {
+   "id": "cm-0088",
+   "dificuldade": 3,
+   "tema": "Salmouras",
+   "enunciado": "Por que se misturam sais para fazer um fluido de completação mais pesado?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Para dispensar a filtração",
+    "Para eliminar o filtrado",
+    "Para atingir densidades maiores sem que o sal cristalize na temperatura de uso",
+    "Para reduzir a densidade",
+    "Para aumentar o pH acima de 12"
+   ],
+   "correta": 2,
+   "explicacao": "A cristalização depende da temperatura e da composição. Misturas de sais ampliam a faixa de densidade sem cristalizar."
+  },
+  {
+   "id": "cm-0089",
+   "dificuldade": 1,
+   "tema": "Salmouras",
+   "enunciado": "Qual a função do packer fluid?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Fornecer pressão hidrostática no anular acima do packer, diminuir o diferencial no revestimento (evitar colapso) e proteger metais e elastômeros da corrosão",
+    "Substituir o fluido de completação",
+    "Cimentar o anular",
+    "Aumentar a produção",
+    "Inibir hidratos apenas"
+   ],
+   "correta": 0,
+   "explicacao": "O packer fluid fica entre a coluna e o revestimento acima do packer. Deve ser estável, não degradar com o tempo/temperatura, ter corrosão controlada e não danificar a formação."
+  },
+  {
+   "id": "cm-0090",
+   "dificuldade": 1,
+   "tema": "Salmouras",
+   "enunciado": "Quais fatores definem o tipo de packer fluid?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Densidade requerida, liga da coluna e do revestimento, temperatura, compatibilidade e níveis de corrosão",
+    "Tamanho do tubo apenas",
+    "Cor do fluido",
+    "Vazão da bomba",
+    "Salinidade da água do mar apenas"
+   ],
+   "correta": 0,
+   "explicacao": "Esses critérios garantem estabilidade química e baixa corrosão ao longo do tempo."
+  },
+  {
+   "id": "cm-0091",
+   "dificuldade": 3,
+   "tema": "Salmouras",
+   "enunciado": "Qual a função do MEG em um fluido de completação base água?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Substituir o sal totalmente",
+    "Inibir hidratos e reduzir a atividade da água, em ambientes de alta pressão e baixa temperatura",
+    "Aumentar a densidade acima de 15 ppg",
+    "Aumentar a corrosão",
+    "Reduzir a viscosidade a zero"
+   ],
+   "correta": 1,
+   "explicacao": "O MEG (monoetilenoglicol) evita que gás e água formem hidratos que bloqueiam o poço ou a linha. Concentração típica de 20 a 50%, com 7 a 10% de sal."
+  },
+  {
+   "id": "cm-0092",
+   "dificuldade": 1,
+   "tema": "Salmouras",
+   "enunciado": "A salmoura não precisa de filtração, pois o sal já vem puro.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 1,
+   "explicacao": "As impurezas dos sais são removidas por filtração. Salmouras para completação devem ser limpas e livres de sólidos."
+  },
+  {
+   "id": "cm-0093",
+   "dificuldade": 2,
+   "tema": "Fluidos poliméricos e calcita",
+   "enunciado": "Quando se usa FCBA polimérico em vez de salmoura simples?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Sempre, por custo",
+    "Quando a salmoura é saturada",
+    "Quando o pH é ácido",
+    "Quando há excesso de sal",
+    "Quando há grande perda para a formação ('poço bebendo') ou necessidade de controle de filtração e carreamento"
+   ],
+   "correta": 4,
+   "explicacao": "O fluido polimérico é mais caro e pode causar dano; é usado para controle de filtração e viscosidade e para carrear sólidos."
+  },
+  {
+   "id": "cm-0094",
+   "dificuldade": 2,
+   "tema": "Fluidos poliméricos e calcita",
+   "enunciado": "Quais polímeros são citados para fluidos de completação e qual a carga iônica?",
+   "tipo": "multipla",
+   "alternativas": [
+    "CMC e HEC (catiônicos)",
+    "Todos catiônicos",
+    "Todos aniônicos",
+    "HEC e xantana (não iônicos)",
+    "CMC e goma xantana (aniônicos); HEC, goma guar e HPG (não iônicos)"
+   ],
+   "correta": 4,
+   "explicacao": "A carga influencia a sensibilidade à salinidade: polímeros iônicos são mais afetados."
+  },
+  {
+   "id": "cm-0095",
+   "dificuldade": 1,
+   "tema": "Fluidos poliméricos e calcita",
+   "enunciado": "O que são 'olhos de peixe' no preparo de fluido polimérico?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Grumos de barita",
+    "Cristais de sal",
+    "Partículas de polímero semi-hidratadas, formadas por molhamento superficial e agitação ineficiente",
+    "Bolhas de gás",
+    "Gotas de óleo"
+   ],
+   "correta": 2,
+   "explicacao": "Evitam-se adicionando o polímero lentamente sob agitação vigorosa."
+  },
+  {
+   "id": "cm-0096",
+   "dificuldade": 3,
+   "tema": "Fluidos poliméricos e calcita",
+   "enunciado": "Qual o pH ideal de hidratação do HEC e da goma guar?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Ambos pH < 2",
+    "HEC: 4–6; guar: 7–9",
+    "HEC: pH 7–9; guar: pH 4–6",
+    "Ambos pH > 12",
+    "Nenhum depende do pH"
+   ],
+   "correta": 2,
+   "explicacao": "O pH do meio afeta a hidratação de alguns polímeros. Outros fatores: dispersibilidade, agitação, salinidade e temperatura (que favorece a hidratação)."
+  },
+  {
+   "id": "cm-0097",
+   "dificuldade": 3,
+   "tema": "Fluidos poliméricos e calcita",
+   "enunciado": "Como a salinidade afeta a hidratação do CMC sódico?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Só afeta o pH",
+    "Não afeta",
+    "Só afeta a cor",
+    "Aumenta a hidratação",
+    "Reduz a velocidade de hidratação, e mais ainda na presença de metais alcalinos terrosos (Ca²⁺, Mg²⁺)"
+   ],
+   "correta": 4,
+   "explicacao": "Polímeros com forte caráter iônico são mais sensíveis à força iônica do meio."
+  },
+  {
+   "id": "cm-0098",
+   "dificuldade": 3,
+   "tema": "Fluidos poliméricos e calcita",
+   "enunciado": "Como se prepara um fluido adensado com calcita para amortecimento?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Misturar diesel e calcita",
+    "Adicionar bentonita e cal",
+    "Adicionar calcita primeiro, depois água",
+    "Hidratar a xantana (1 a 2 lb/bbl), adicionar calcita até o peso e manter pH ≈ 8–9 com soda cáustica, se necessário",
+    "Usar barita sem polímero"
+   ],
+   "correta": 3,
+   "explicacao": "A calcita é obturante e solúvel em ácido. A quantidade vem de MC = 945 (df − di)/(22,5 − df) lb/bbl."
+  },
+  {
+   "id": "cm-0099",
+   "dificuldade": 1,
+   "tema": "Testes e equipamentos",
+   "enunciado": "Que equipamento mede a turbidez (limpeza) de uma salmoura de completação?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Turbidímetro",
+    "Balança de lama",
+    "Retorta",
+    "Funil Marsh",
+    "Viscosímetro Fann"
+   ],
+   "correta": 0,
+   "explicacao": "A salmoura deve ser limpa (baixa turbidez). Também se usam balança de lama (densidade), pHmetro, funil Marsh e kits de análises físico-químicas."
+  },
+  {
+   "id": "cm-0100",
+   "dificuldade": 3,
+   "tema": "Pressões e controle de poço",
+   "enunciado": "Sobre pressões em completação, considere:",
+   "tipo": "combinacao",
+   "afirmativas": [
+    "I. A pressão hidrostática depende do TVD e da massa específica, não do MD.",
+    "II. Em circulação reversa, a BHP é maior que na direta quando a perda de carga da coluna supera a do anular.",
+    "III. Poço overbalance significa BHP menor que a pressão da formação."
+   ],
+   "alternativas": [
+    "Apenas I",
+    "Apenas I e II",
+    "Apenas I e III",
+    "Apenas II e III",
+    "I, II e III"
+   ],
+   "correta": 1,
+   "explicacao": "III é falsa: overbalance é BHP maior que a pressão da formação. I e II estão corretas."
+  },
+  {
+   "id": "cm-0101",
+   "dificuldade": 3,
+   "tema": "Salmouras",
+   "enunciado": "Sobre salmouras de completação, considere:",
+   "tipo": "combinacao",
+   "afirmativas": [
+    "I. O NaCl chega a 10,0 ppg a 80 °F.",
+    "II. O KCl é adequado para formações argilosas hidratáveis.",
+    "III. O CaCl₂ dissolve com absorção de calor, esfriando a solução."
+   ],
+   "alternativas": [
+    "Apenas I",
+    "Apenas II",
+    "Apenas I e II",
+    "Apenas II e III",
+    "I, II e III"
+   ],
+   "correta": 2,
+   "explicacao": "III é falsa: a dissolução do CaCl₂ libera grande quantidade de calor (exotérmica). I e II estão corretas."
+  },
+  {
+   "id": "cm-0102",
+   "dificuldade": 3,
+   "tema": "Salmouras",
+   "enunciado": "Assinale a INCORRETA sobre salmouras:",
+   "tipo": "incorreta",
+   "alternativas": [
+    "O KCl pode estabilizar argilas em 1 a 3%",
+    "O NaCl é o sal que atinge a maior densidade (19 ppg)",
+    "O CaCl₂ pode chegar a 12,0 ppg a 80 °F",
+    "Misturar sais pode aumentar a densidade sem cristalizar",
+    "A solução supersaturada é instável"
+   ],
+   "correta": 1,
+   "explicacao": "O NaCl chega só a 10,0 ppg. Para pesos maiores usam-se CaCl₂ ou outros sais/misturas."
+  },
+  {
+   "id": "cm-0103",
+   "dificuldade": 2,
+   "tema": "Definições e funções",
+   "enunciado": "Assinale a INCORRETA sobre fluidos de completação:",
+   "tipo": "incorreta",
+   "alternativas": [
+    "Devem ser inertes a bactérias",
+    "Devem minimizar a corrosão",
+    "Devem ter baixa perda de carga",
+    "Podem estar em underbalance para facilitar a produção durante a intervenção",
+    "Devem ser limpos"
+   ],
+   "correta": 3,
+   "explicacao": "Durante intervenções, mantém-se overbalance. Underbalance deixaria o poço sem a primeira barreira."
+  },
+  {
+   "id": "cm-0104",
+   "dificuldade": 1,
+   "tema": "Definições e funções",
+   "enunciado": "A completação é uma intervenção subsequente à perfuração do poço.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "Ela equipa o poço para produzir ou injetar. Os trabalhos posteriores, para manter ou melhorar a produção, são chamados de workover."
+  },
+  {
+   "id": "cm-0105",
+   "dificuldade": 1,
+   "tema": "Definições e funções",
+   "enunciado": "Amortecer um poço significa criar uma barreira hidráulica em underbalance.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 1,
+   "explicacao": "É em overbalance: a pressão hidrostática deve superar a da formação."
+  }
+ ],
+ "flashcards": [
+  {
+   "id": "cm-f001",
+   "frente": "Fluido de completação",
+   "verso": "Fluido salino (salmoura) usado em poço revestido para completação, workover e limpeza, como barreira de segurança, sem dano à formação e com overbalance ligeiro."
+  },
+  {
+   "id": "cm-f002",
+   "frente": "Tipos de fluido de completação",
+   "verso": "Viscoso (polímero/calcita), salinos (salmouras/brines), água produzida do campo. Packer fluid: no anular acima do packer."
+  },
+  {
+   "id": "cm-f003",
+   "frente": "Funções principais",
+   "verso": "Impedir migração de fluido da formação, estabilizar a BHP, permitir operações seguras, minimizar corrosão, não danificar a formação, carrear sólidos."
+  },
+  {
+   "id": "cm-f004",
+   "frente": "Aditivos anticorrosão",
+   "verso": "Inibidor de corrosão, biocida, sequestrante de O₂, sequestrante de H₂S."
+  },
+  {
+   "id": "cm-f005",
+   "frente": "Aditivos contra dano",
+   "verso": "Inibidor de parafina/asfaltenos, preventor de emulsão, agente umectante, inibidor de incrustação, inibidor de argila, redutor de fricção, desincrustante."
+  },
+  {
+   "id": "cm-f006",
+   "frente": "Pressão hidrostática",
+   "verso": "PH (psi) = 0,1704 · ρ (ppg) · TVD (m) [ou 0,052 · ρ · TVD (ft)]. Usa o TVD do topo dos canhoneados."
+  },
+  {
+   "id": "cm-f007",
+   "frente": "Qual profundidade usar",
+   "verso": "Pressão e peso de fluido: TVD do topo dos canhoneados. Volume e perda de carga: MD da base dos canhoneados."
+  },
+  {
+   "id": "cm-f008",
+   "frente": "Gradiente de pressão",
+   "verso": "G (psi/m) = 0,1704 · ρ. Gás < 2–4 ppg; água doce 8,3; água salgada ≥ 8,43; água de formação normal 8,94 ppg (1,523 psi/m)."
+  },
+  {
+   "id": "cm-f009",
+   "frente": "BHP com fluidos diferentes",
+   "verso": "BHP = PH₁ + PH₂ + ... + PHn (cada fluido por sua coluna)."
+  },
+  {
+   "id": "cm-f010",
+   "frente": "BHP em circulação",
+   "verso": "Direta: BHP = PH + ΔP anular. Reversa: BHP = PH + ΔP coluna (maior). Pbombeio = Plinha + Pcoluna + Panular."
+  },
+  {
+   "id": "cm-f011",
+   "frente": "SITP e SICP",
+   "verso": "SITP: pressão de fechamento na coluna; SICP: no anular. SICP ≠ 0 indica packer vazando. PF = PH + SITP."
+  },
+  {
+   "id": "cm-f012",
+   "frente": "Pressão da formação",
+   "verso": "PF = Gporos · TVD, ou PF = PH da coluna + SITP. Peso equilibrante ρ = PF/(0,1704 · TVD)."
+  },
+  {
+   "id": "cm-f013",
+   "frente": "Condições de pressão",
+   "verso": "Underbalance: BHP < PF. Balanceado: BHP = PF. Overbalance: BHP > PF."
+  },
+  {
+   "id": "cm-f014",
+   "frente": "Fluido de amortecimento",
+   "verso": "ρ = PF/(0,1704 · TVD) + overbalance (0,2 a 1,0 ppg). Exemplo: 4.000 psi, 3.048 m, 0,5 ppg → 8,19 ppg."
+  },
+  {
+   "id": "cm-f015",
+   "frente": "Fluido de matar",
+   "verso": "ρm = ρ + SITP/(0,1704 · TVD). O kick indica que o fluido estava leve (underbalance)."
+  },
+  {
+   "id": "cm-f016",
+   "frente": "ECD",
+   "verso": "ECD = ρ + ΔPfric/(0,052 · TVD ft). Ex.: 12,0 ppg, 400 psi, 10.000 ft → 12,77 ppg. ΔPmáx = (ECDmáx − ρ) · 0,052 · TVD."
+  },
+  {
+   "id": "cm-f017",
+   "frente": "Pressão de fratura",
+   "verso": "Pfratura = Gfratura · TVD. Margem na superfície sem bombeio = Pfratura − PH."
+  },
+  {
+   "id": "cm-f018",
+   "frente": "Teste de absorção",
+   "verso": "Define frequência e volume de abastecimento para manter o overbalance. Nível medido por sonolog. Poço bebendo sem reposição perde overbalance: risco de blowout."
+  },
+  {
+   "id": "cm-f019",
+   "frente": "Indícios de kick (manobra)",
+   "verso": "Poço aceita menos fluido que o aço retirado, ou devolve mais que o aço descido."
+  },
+  {
+   "id": "cm-f020",
+   "frente": "Indícios de kick (circulação)",
+   "verso": "Aumento do volume nos tanques, fluxo com bombas paradas, queda da pressão de circulação, perda de densidade."
+  },
+  {
+   "id": "cm-f021",
+   "frente": "Perda de circulação",
+   "verso": "Combate com LCM: sela fraturas naturais e impede o crescimento das induzidas. Para peso e obturante: salmoura com polímero e calcita."
+  },
+  {
+   "id": "cm-f022",
+   "frente": "NaCl",
+   "verso": "Máx. 10,0 ppg a 80 °F (1.090 lb/10 bbl; 8,881 bbl de água; ≈ 26%). Simples, econômico e pouco corrosivo."
+  },
+  {
+   "id": "cm-f023",
+   "frente": "KCl",
+   "verso": "Máx. 9,6 ppg (910,8 lb/10 bbl; 8,916 bbl de água; 22,6%). Para argilas hidratáveis (1–3%). pH 7–8 com inibidor."
+  },
+  {
+   "id": "cm-f024",
+   "frente": "CaCl₂",
+   "verso": "Máx. 12,0 ppg (2.730 lb/10 bbl; 6,285 bbl de água; 42%). Exotérmico, higroscópico, principal adensante de salmouras."
+  },
+  {
+   "id": "cm-f025",
+   "frente": "Saturação",
+   "verso": "Insaturada: dissolve mais. Saturada: no limite. Supersaturada: acima do limite, instável (cristaliza com o menor estímulo)."
+  },
+  {
+   "id": "cm-f026",
+   "frente": "Packer fluid",
+   "verso": "Fica no anular acima do packer: dá hidrostática, reduz o diferencial (colapso) e protege metais e elastômeros. Deve ser estável, com corrosão controlada e sem dano."
+  },
+  {
+   "id": "cm-f027",
+   "frente": "FCBA + MEG",
+   "verso": "MEG inibe hidratos e reduz a atividade da água. 20–50% de MEG, 7–10% de sal, pH 6,5–7,5, densidade 1,05–1,20 g/cm³."
+  },
+  {
+   "id": "cm-f028",
+   "frente": "FCBA polimérico",
+   "verso": "Usado em perda para a formação, controle de filtração e carreamento. Polímeros: CMC e xantana (aniônicos); HEC, guar e HPG (não iônicos)."
+  },
+  {
+   "id": "cm-f029",
+   "frente": "Preparo de polímero",
+   "verso": "Dispersibilidade, agitação (evita 'olho de peixe'), pH (HEC 7–9; guar 4–6), salinidade (afeta CMC) e temperatura (favorece a hidratação)."
+  },
+  {
+   "id": "cm-f030",
+   "frente": "Tampão de calcita",
+   "verso": "Xantana 1–2 lb/bbl + calcita; pH ≈ 8–9 (soda). MC = 945 (df − di)/(22,5 − df) lb/bbl."
+  },
+  {
+   "id": "cm-f031",
+   "frente": "Equipamentos de teste",
+   "verso": "Turbidímetro, balança de lama (atm. e pressurizada), pHmetro, funil Marsh, kit de análises da água."
+  }
+ ]
+}

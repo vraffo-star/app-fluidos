@@ -1,0 +1,1591 @@
+{
+ "id": "abandono",
+ "perguntas": [
+  {
+   "id": "ab-0001",
+   "dificuldade": 3,
+   "tema": "Canhoneio: over/underbalance",
+   "enunciado": "Antes do canhoneio, o fluido de completação tem 10,0 lb/gal e o topo do intervalo está a 2.800 m TVD. A pressão do reservatório é de 4.500 psi (PH = 0,1704 × ρ × TVD). Qual a condição do canhoneio e o diferencial?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Overbalance de 271 psi",
+    "Underbalance de 271 psi",
+    "Underbalance de 136 psi",
+    "Balanceado (diferencial nulo)",
+    "Overbalance de 488 psi"
+   ],
+   "correta": 0,
+   "explicacao": "PH = 0,1704 × 10,0 × 2.800 = 4.771 psi. Diferencial = 4.771 − 4.500 = 271 psi → overbalance. Pressão hidrostática acima da do reservatório é overbalance; abaixo é underbalance."
+  },
+  {
+   "id": "ab-0002",
+   "dificuldade": 3,
+   "tema": "Canhoneio: over/underbalance",
+   "enunciado": "Antes do canhoneio, o fluido de completação tem 9,2 lb/gal e o topo do intervalo está a 3.500 m TVD. A pressão do reservatório é de 5.700 psi (PH = 0,1704 × ρ × TVD). Qual a condição do canhoneio e o diferencial?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Overbalance de 107 psi",
+    "Overbalance de 213 psi",
+    "Underbalance de 213 psi",
+    "Underbalance de 384 psi",
+    "Balanceado (diferencial nulo)"
+   ],
+   "correta": 2,
+   "explicacao": "PH = 0,1704 × 9,2 × 3.500 = 5.487 psi. Diferencial = 5.487 − 5.700 = -213 psi → underbalance. Pressão hidrostática acima da do reservatório é overbalance; abaixo é underbalance."
+  },
+  {
+   "id": "ab-0003",
+   "dificuldade": 3,
+   "tema": "Canhoneio: over/underbalance",
+   "enunciado": "Antes do canhoneio, o fluido de completação tem 8,6 lb/gal e o topo do intervalo está a 4.000 m TVD. A pressão do reservatório é de 5.500 psi (PH = 0,1704 × ρ × TVD). Qual a condição do canhoneio e o diferencial?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Balanceado (diferencial nulo)",
+    "Underbalance de 362 psi",
+    "Overbalance de 362 psi",
+    "Underbalance de 181 psi",
+    "Overbalance de 651 psi"
+   ],
+   "correta": 2,
+   "explicacao": "PH = 0,1704 × 8,6 × 4.000 = 5.862 psi. Diferencial = 5.862 − 5.500 = 362 psi → overbalance. Pressão hidrostática acima da do reservatório é overbalance; abaixo é underbalance."
+  },
+  {
+   "id": "ab-0004",
+   "dificuldade": 3,
+   "tema": "Canhoneio: over/underbalance",
+   "enunciado": "Antes do canhoneio, o fluido de completação tem 9,6 lb/gal e o topo do intervalo está a 3.200 m TVD. A pressão do reservatório é de 5.800 psi (PH = 0,1704 × ρ × TVD). Qual a condição do canhoneio e o diferencial?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Overbalance de 565 psi",
+    "Underbalance de 565 psi",
+    "Overbalance de 283 psi",
+    "Balanceado (diferencial nulo)",
+    "Underbalance de 1.018 psi"
+   ],
+   "correta": 1,
+   "explicacao": "PH = 0,1704 × 9,6 × 3.200 = 5.235 psi. Diferencial = 5.235 − 5.800 = -565 psi → underbalance. Pressão hidrostática acima da do reservatório é overbalance; abaixo é underbalance."
+  },
+  {
+   "id": "ab-0005",
+   "dificuldade": 3,
+   "tema": "Canhoneio: over/underbalance",
+   "enunciado": "Antes do canhoneio, o fluido de completação tem 8,5 lb/gal e o topo do intervalo está a 5.000 m TVD. A pressão do reservatório é de 7.000 psi (PH = 0,1704 × ρ × TVD). Qual a condição do canhoneio e o diferencial?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Underbalance de 121 psi",
+    "Underbalance de 242 psi",
+    "Balanceado (diferencial nulo)",
+    "Overbalance de 242 psi",
+    "Overbalance de 436 psi"
+   ],
+   "correta": 3,
+   "explicacao": "PH = 0,1704 × 8,5 × 5.000 = 7.242 psi. Diferencial = 7.242 − 7.000 = 242 psi → overbalance. Pressão hidrostática acima da do reservatório é overbalance; abaixo é underbalance."
+  },
+  {
+   "id": "ab-0006",
+   "dificuldade": 3,
+   "tema": "Canhoneio: over/underbalance",
+   "enunciado": "Antes do canhoneio, o fluido de completação tem 9,0 lb/gal e o topo do intervalo está a 4.500 m TVD. A pressão do reservatório é de 6.600 psi (PH = 0,1704 × ρ × TVD). Qual a condição do canhoneio e o diferencial?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Overbalance de 301 psi",
+    "Overbalance de 542 psi",
+    "Balanceado (diferencial nulo)",
+    "Underbalance de 301 psi",
+    "Underbalance de 151 psi"
+   ],
+   "correta": 0,
+   "explicacao": "PH = 0,1704 × 9,0 × 4.500 = 6.901 psi. Diferencial = 6.901 − 6.600 = 301 psi → overbalance. Pressão hidrostática acima da do reservatório é overbalance; abaixo é underbalance."
+  },
+  {
+   "id": "ab-0007",
+   "dificuldade": 3,
+   "tema": "Fluido de completação: densidade",
+   "enunciado": "Para canhonear em overbalance de 200 psi, com reservatório a 4.600 psi e topo do intervalo a 3.000 m TVD, qual a densidade do fluido de completação (lb/gal)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "8,61 lb/gal",
+    "9,00 lb/gal",
+    "11,27 lb/gal",
+    "30,77 lb/gal",
+    "9,39 lb/gal"
+   ],
+   "correta": 4,
+   "explicacao": "Pressão alvo = 4.600 + 200 = 4.800 psi. ρ = P/(0,1704 × TVD) = 4.800/(0,1704 × 3.000) = 9,39 lb/gal. Sem o overbalance, a densidade só equilibra o reservatório."
+  },
+  {
+   "id": "ab-0008",
+   "dificuldade": 3,
+   "tema": "Fluido de completação: densidade",
+   "enunciado": "Para canhonear em overbalance de 250 psi, com reservatório a 5.400 psi e topo do intervalo a 3.500 m TVD, qual a densidade do fluido de completação (lb/gal)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "8,64 lb/gal",
+    "11,37 lb/gal",
+    "9,05 lb/gal",
+    "31,04 lb/gal",
+    "9,47 lb/gal"
+   ],
+   "correta": 4,
+   "explicacao": "Pressão alvo = 5.400 + 250 = 5.650 psi. ρ = P/(0,1704 × TVD) = 5.650/(0,1704 × 3.500) = 9,47 lb/gal. Sem o overbalance, a densidade só equilibra o reservatório."
+  },
+  {
+   "id": "ab-0009",
+   "dificuldade": 3,
+   "tema": "Fluido de completação: densidade",
+   "enunciado": "Para canhonear em overbalance de 300 psi, com reservatório a 6.100 psi e topo do intervalo a 4.000 m TVD, qual a densidade do fluido de completação (lb/gal)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "8,95 lb/gal",
+    "30,77 lb/gal",
+    "9,39 lb/gal",
+    "8,51 lb/gal",
+    "11,27 lb/gal"
+   ],
+   "correta": 2,
+   "explicacao": "Pressão alvo = 6.100 + 300 = 6.400 psi. ρ = P/(0,1704 × TVD) = 6.400/(0,1704 × 4.000) = 9,39 lb/gal. Sem o overbalance, a densidade só equilibra o reservatório."
+  },
+  {
+   "id": "ab-0010",
+   "dificuldade": 3,
+   "tema": "Fluido de completação: densidade",
+   "enunciado": "Para canhonear em overbalance de 150 psi, com reservatório a 3.800 psi e topo do intervalo a 2.500 m TVD, qual a densidade do fluido de completação (lb/gal)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "8,57 lb/gal",
+    "11,13 lb/gal",
+    "9,27 lb/gal",
+    "11,59 lb/gal",
+    "30,38 lb/gal"
+   ],
+   "correta": 2,
+   "explicacao": "Pressão alvo = 3.800 + 150 = 3.950 psi. ρ = P/(0,1704 × TVD) = 3.950/(0,1704 × 2.500) = 9,27 lb/gal. Sem o overbalance, a densidade só equilibra o reservatório."
+  },
+  {
+   "id": "ab-0011",
+   "dificuldade": 3,
+   "tema": "Abandono: tampão de cimento",
+   "enunciado": "Tampão de cimento num poço (ou revestimento) com diâmetro interno de 8,5\", comprimento de 100 m e excesso de 20%. Capacidade em bbl/m = D² × 0,003187. Qual o volume de pasta necessário (bbl)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "34,5 bbl",
+    "55,3 bbl",
+    "22,1 bbl",
+    "27,6 bbl",
+    "23,0 bbl"
+   ],
+   "correta": 3,
+   "explicacao": "Volume = 8,5² × 0,003187 × 100 × 1,2 = 27,6 bbl. O excesso aumenta o volume em 20%."
+  },
+  {
+   "id": "ab-0012",
+   "dificuldade": 3,
+   "tema": "Abandono: tampão de cimento",
+   "enunciado": "Tampão de cimento num poço (ou revestimento) com diâmetro interno de 8,5\", comprimento de 100 m e excesso de 20%. Capacidade em bbl/m = D² × 0,003187. Pasta com rendimento de 1,15 ft³/sk (1 bbl = 5,6146 ft³). Quantos sacos de cimento? (arredonde para cima)",
+   "tipo": "multipla",
+   "alternativas": [
+    "101 sacos",
+    "108 sacos",
+    "169 sacos",
+    "155 sacos",
+    "135 sacos"
+   ],
+   "correta": 4,
+   "explicacao": "Volume = 27,6 bbl × 5,6146 = 155,1 ft³ ÷ 1,15 = 134,9 → 135 sacos."
+  },
+  {
+   "id": "ab-0013",
+   "dificuldade": 3,
+   "tema": "Abandono: tampão de cimento",
+   "enunciado": "Tampão de cimento num poço (ou revestimento) com diâmetro interno de 8,681\", comprimento de 150 m e excesso de 0%. Capacidade em bbl/m = D² × 0,003187. Qual o volume de pasta necessário (bbl)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "54,0 bbl",
+    "45,0 bbl",
+    "36,0 bbl",
+    "28,8 bbl",
+    "72,1 bbl"
+   ],
+   "correta": 2,
+   "explicacao": "Volume = 8,681² × 0,003187 × 150 × 1,0 = 36,0 bbl. O excesso aumenta o volume em 0%."
+  },
+  {
+   "id": "ab-0014",
+   "dificuldade": 3,
+   "tema": "Abandono: tampão de cimento",
+   "enunciado": "Tampão de cimento num poço (ou revestimento) com diâmetro interno de 8,681\", comprimento de 150 m e excesso de 0%. Capacidade em bbl/m = D² × 0,003187. Pasta com rendimento de 1,15 ft³/sk (1 bbl = 5,6146 ft³). Quantos sacos de cimento? (arredonde para cima)",
+   "tipo": "multipla",
+   "alternativas": [
+    "132 sacos",
+    "202 sacos",
+    "220 sacos",
+    "141 sacos",
+    "176 sacos"
+   ],
+   "correta": 4,
+   "explicacao": "Volume = 36,0 bbl × 5,6146 = 202,3 ft³ ÷ 1,15 = 175,9 → 176 sacos."
+  },
+  {
+   "id": "ab-0015",
+   "dificuldade": 3,
+   "tema": "Abandono: tampão de cimento",
+   "enunciado": "Tampão de cimento num poço (ou revestimento) com diâmetro interno de 6,0\", comprimento de 60 m e excesso de 10%. Capacidade em bbl/m = D² × 0,003187. Qual o volume de pasta necessário (bbl)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "6,9 bbl",
+    "6,1 bbl",
+    "9,5 bbl",
+    "15,1 bbl",
+    "7,6 bbl"
+   ],
+   "correta": 4,
+   "explicacao": "Volume = 6,0² × 0,003187 × 60 × 1,1 = 7,6 bbl. O excesso aumenta o volume em 10%."
+  },
+  {
+   "id": "ab-0016",
+   "dificuldade": 3,
+   "tema": "Abandono: tampão de cimento",
+   "enunciado": "Tampão de cimento num poço (ou revestimento) com diâmetro interno de 6,0\", comprimento de 60 m e excesso de 10%. Capacidade em bbl/m = D² × 0,003187. Pasta com rendimento de 1,15 ft³/sk (1 bbl = 5,6146 ft³). Quantos sacos de cimento? (arredonde para cima)",
+   "tipo": "multipla",
+   "alternativas": [
+    "46 sacos",
+    "37 sacos",
+    "43 sacos",
+    "28 sacos",
+    "30 sacos"
+   ],
+   "correta": 1,
+   "explicacao": "Volume = 7,6 bbl × 5,6146 = 42,5 ft³ ÷ 1,15 = 37,0 → 37 sacos."
+  },
+  {
+   "id": "ab-0017",
+   "dificuldade": 3,
+   "tema": "Abandono: tampão de cimento",
+   "enunciado": "Tampão de cimento num poço (ou revestimento) com diâmetro interno de 12,25\", comprimento de 120 m e excesso de 30%. Capacidade em bbl/m = D² × 0,003187. Qual o volume de pasta necessário (bbl)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "74,6 bbl",
+    "149,2 bbl",
+    "93,2 bbl",
+    "57,4 bbl",
+    "59,7 bbl"
+   ],
+   "correta": 0,
+   "explicacao": "Volume = 12,25² × 0,003187 × 120 × 1,3 = 74,6 bbl. O excesso aumenta o volume em 30%."
+  },
+  {
+   "id": "ab-0018",
+   "dificuldade": 3,
+   "tema": "Abandono: tampão de cimento",
+   "enunciado": "Tampão de cimento num poço (ou revestimento) com diâmetro interno de 12,25\", comprimento de 120 m e excesso de 30%. Capacidade em bbl/m = D² × 0,003187. Pasta com rendimento de 1,15 ft³/sk (1 bbl = 5,6146 ft³). Quantos sacos de cimento? (arredonde para cima)",
+   "tipo": "multipla",
+   "alternativas": [
+    "365 sacos",
+    "456 sacos",
+    "419 sacos",
+    "273 sacos",
+    "455 sacos"
+   ],
+   "correta": 0,
+   "explicacao": "Volume = 74,6 bbl × 5,6146 = 418,9 ft³ ÷ 1,15 = 364,3 → 365 sacos."
+  },
+  {
+   "id": "ab-0019",
+   "dificuldade": 1,
+   "tema": "Completação: fundamentos",
+   "enunciado": "Qual o objetivo principal da completação?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Substituir o revestimento de superfície",
+    "Perfurar a próxima fase do poço",
+    "Reduzir o diâmetro do poço",
+    "Conectar o reservatório à superfície com um caminho controlado de fluxo, minimizando dano à formação",
+    "Aumentar a densidade da lama"
+   ],
+   "correta": 3,
+   "explicacao": "A completação cria o caminho de fluxo, controla os fluidos (packers, válvulas, ICVs, tubing hanger), protege o revestimento e permite intervenções futuras."
+  },
+  {
+   "id": "ab-0020",
+   "dificuldade": 2,
+   "tema": "Completação: fundamentos",
+   "enunciado": "Qual o principal propósito do condicionamento do poço antes da completação?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Facilitar a perfuração do próximo poço",
+    "Aumentar a temperatura do fluido",
+    "Garantir limpeza, estabilidade e compatibilidade química do fluido",
+    "Reduzir o diâmetro interno do revestimento",
+    "Reduzir o número de válvulas da coluna"
+   ],
+   "correta": 2,
+   "explicacao": "Na prova da disciplina, a resposta correta é 'limpeza, estabilidade e compatibilidade química do fluido'."
+  },
+  {
+   "id": "ab-0021",
+   "dificuldade": 2,
+   "tema": "Completação: fundamentos",
+   "enunciado": "Quais as características do fluido de completação (workover fluid / completion brine) que substitui o de perfuração?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Baixo teor de sólidos, compatibilidade com o reservatório e densidade adequada para estabilidade",
+    "Alto teor de sólidos para vedar o reservatório",
+    "Densidade sempre mínima",
+    "Alta viscosidade plástica sempre",
+    "Fase oleosa obrigatória"
+   ],
+   "correta": 0,
+   "explicacao": "O fluido deve minimizar o dano à formação e ao poço, sem sólidos que obstruam os canhoneados."
+  },
+  {
+   "id": "ab-0022",
+   "dificuldade": 3,
+   "tema": "Completação: fundamentos",
+   "enunciado": "Assinale a INCORRETA sobre a substituição do fluido de perfuração por fluido de completação:",
+   "tipo": "incorreta",
+   "alternativas": [
+    "Tem propriedades diferentes do fluido de perfuração",
+    "Deve ter densidade adequada para a estabilidade do poço",
+    "Deve ser compatível quimicamente com o reservatório",
+    "Deve-se manter o alto teor de sólidos do fluido de perfuração",
+    "Reduz o nível de sólidos"
+   ],
+   "correta": 3,
+   "explicacao": "O fluido de completação deve ter o menor teor de sólidos possível."
+  },
+  {
+   "id": "ab-0023",
+   "dificuldade": 1,
+   "tema": "Completação: fundamentos",
+   "enunciado": "Qual o objetivo de proteger o revestimento e o poço na completação?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Manter a integridade, evitando colapso, corrosão e migração de fluidos",
+    "Aumentar a rugosidade do revestimento",
+    "Reduzir a pressão de reservatório",
+    "Eliminar o fluido do anular",
+    "Aumentar a taxa de perfuração"
+   ],
+   "correta": 0,
+   "explicacao": "A integridade do revestimento é a base do isolamento entre zonas."
+  },
+  {
+   "id": "ab-0024",
+   "dificuldade": 1,
+   "tema": "Completação: fundamentos",
+   "enunciado": "Qual a função do tubing hanger, packers e válvulas de controle de fluxo (ICV) na completação?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Controlar o fluxo dos fluidos e permitir o controle de zonas completadas",
+    "Substituir o BOP",
+    "Medir a salinidade",
+    "Perfurar o poço",
+    "Aumentar a densidade do fluido"
+   ],
+   "correta": 0,
+   "explicacao": "São os componentes que isolam, suspendem a coluna e regulam o fluxo."
+  },
+  {
+   "id": "ab-0025",
+   "dificuldade": 3,
+   "tema": "Completação: fundamentos",
+   "enunciado": "A primeira fase da completação visa possibilitar o acesso ao interior do poço, com toda a segurança necessária, e consiste na instalação de equipamentos de segurança.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "Resposta da prova: Verdadeiro. A instalação dos equipamentos de segurança (como BOP) viabiliza as demais fases."
+  },
+  {
+   "id": "ab-0026",
+   "dificuldade": 2,
+   "tema": "Avaliação da cimentação",
+   "enunciado": "Para que serve a avaliação da cimentação antes da completação?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Aumentar o nível de água no poço",
+    "Confirmar a integridade e o isolamento hidráulico entre as zonas",
+    "Aumentar a taxa de produção da árvore",
+    "Reduzir a pressão do reservatório",
+    "Permitir intervenções sem BOP"
+   ],
+   "correta": 1,
+   "explicacao": "Cimentação deficiente gera comunicação entre zonas, produção indesejada de água ou gás e fluxos interzonais."
+  },
+  {
+   "id": "ab-0027",
+   "dificuldade": 2,
+   "tema": "Avaliação da cimentação",
+   "enunciado": "Quais os métodos citados para avaliar a cimentação?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Apenas análise de cascalho",
+    "Apenas perfil de raios gama",
+    "CBL, RBT (ferramentas de perfil de cimentação) e pressurização contra o anular",
+    "Apenas teste de densidade",
+    "Apenas inspeção visual"
+   ],
+   "correta": 2,
+   "explicacao": "CBL e RBT medem a aderência do cimento; o teste de pressão verifica a vedação hidráulica."
+  },
+  {
+   "id": "ab-0028",
+   "dificuldade": 3,
+   "tema": "Avaliação da cimentação",
+   "enunciado": "Se for comprovada a existência de vedação hidráulica, procede-se à correção da cimentação primária.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 1,
+   "explicacao": "A correção (cimentação secundária/squeeze) só é feita quando NÃO há vedação hidráulica comprovada."
+  },
+  {
+   "id": "ab-0029",
+   "dificuldade": 2,
+   "tema": "Avaliação da cimentação",
+   "enunciado": "Quais as consequências de uma cimentação mal avaliada ou mal executada?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Maior vida útil da broca",
+    "Redução do consumo de fluido",
+    "Melhora da perfilagem",
+    "Comunicação entre zonas, produção indesejada de água ou gás e fluxos interzonais",
+    "Aumento de ROP"
+   ],
+   "correta": 3,
+   "explicacao": "É por isso que a avaliação é feita antes de baixar a coluna e canhonear."
+  },
+  {
+   "id": "ab-0030",
+   "dificuldade": 2,
+   "tema": "Canhoneio",
+   "enunciado": "Qual o tipo de canhoneio mais utilizado em águas profundas?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Canhoneio a céu aberto",
+    "Canhoneio por jato de água",
+    "Canhoneio sem carga",
+    "TCP (tubing-conveyed perforating)",
+    "Wireline perforating"
+   ],
+   "correta": 3,
+   "explicacao": "O TCP é descido na coluna, permitindo canhonear longos intervalos em uma só descida."
+  },
+  {
+   "id": "ab-0031",
+   "dificuldade": 2,
+   "tema": "Canhoneio",
+   "enunciado": "Em que casos se usa o canhoneio a cabo (wireline)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Somente em poços sem revestimento",
+    "Somente em poços de injeção",
+    "Operações de menor risco e precisão",
+    "Nunca",
+    "Longos intervalos em alto ângulo e águas profundas"
+   ],
+   "correta": 2,
+   "explicacao": "O wireline é usado em operações mais simples e de precisão."
+  },
+  {
+   "id": "ab-0032",
+   "dificuldade": 2,
+   "tema": "Canhoneio",
+   "enunciado": "De que depende a escolha entre canhoneio overbalance e underbalance?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Do diferencial de pressão desejado entre o poço e o reservatório",
+    "Da cor do fluido",
+    "Do tipo de packer",
+    "Do diâmetro da broca",
+    "Da lâmina d'água"
+   ],
+   "correta": 0,
+   "explicacao": "Overbalance: PH > pressão do reservatório. Underbalance: PH < pressão do reservatório (favorece a limpeza dos túneis)."
+  },
+  {
+   "id": "ab-0033",
+   "dificuldade": 1,
+   "tema": "Canhoneio",
+   "enunciado": "Quais aspectos a qualidade do canhoneio impacta?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Apenas a corrosão da coluna",
+    "Apenas o custo da sonda",
+    "Produtividade, dano à formação e estabilidade dos túneis",
+    "Apenas a densidade do fluido",
+    "Apenas o tempo de pega"
+   ],
+   "correta": 2,
+   "explicacao": "Um canhoneio ruim limita o fluxo e pode danificar a formação."
+  },
+  {
+   "id": "ab-0034",
+   "dificuldade": 2,
+   "tema": "Canhoneio",
+   "enunciado": "Os canhões descidos pelo interior da coluna de produção (through tubing) têm diâmetro menor que os TCP, o que limita as cargas e a penetração.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "Na prova, a afirmação invertida (through tubing e TCP maiores) é falsa; o TCP permite cargas maiores."
+  },
+  {
+   "id": "ab-0035",
+   "dificuldade": 2,
+   "tema": "Coluna de produção",
+   "enunciado": "Por que a coluna de produção (COP) ou de injeção (COI) é a 'espinha dorsal' da completação?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque não precisa de válvulas",
+    "Porque substitui o revestimento",
+    "Porque dispensa packers",
+    "Porque contém os componentes de controle, segurança e monitoramento em tempo real",
+    "Porque é a parte mais barata"
+   ],
+   "correta": 3,
+   "explicacao": "Inclui tubos, SSSV, mandris, ICVs, sensores e linhas de controle."
+  },
+  {
+   "id": "ab-0036",
+   "dificuldade": 2,
+   "tema": "Coluna de produção",
+   "enunciado": "Qual componente essencial da coluna oferece segurança e monitoramento de pressão e temperatura em tempo real?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Sensores permanentes de fundo (PDG)",
+    "Tubo flexível",
+    "Filtro de areia de superfície",
+    "Gate valve manual",
+    "Tubing hanger"
+   ],
+   "correta": 0,
+   "explicacao": "Segundo a prova, 'sensores permanentes de fundo'."
+  },
+  {
+   "id": "ab-0037",
+   "dificuldade": 2,
+   "tema": "Coluna de produção",
+   "enunciado": "Quais linhas de controle podem ser usadas na coluna?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Nenhuma",
+    "Hidráulica, elétrica ou fibra ótica",
+    "Apenas pneumática",
+    "Apenas hidráulica",
+    "Apenas de aço sólido"
+   ],
+   "correta": 1,
+   "explicacao": "Servem para acionar válvulas, packers, SSSV, ICVs e para telemetria de sensores."
+  },
+  {
+   "id": "ab-0038",
+   "dificuldade": 3,
+   "tema": "Coluna de produção",
+   "enunciado": "Assinale a INCORRETA sobre as funções da coluna de produção/injeção:",
+   "tipo": "incorreta",
+   "alternativas": [
+    "Isolar o anular e garantir vedação entre revestimento e coluna",
+    "Permitir controle da produção por zona (seletividade)",
+    "Possibilitar o monitoramento em tempo real de pressão e temperatura",
+    "Substituir o revestimento de produção",
+    "Conduzir o fluxo até a superfície"
+   ],
+   "correta": 3,
+   "explicacao": "A coluna não substitui o revestimento; trabalha dentro dele."
+  },
+  {
+   "id": "ab-0039",
+   "dificuldade": 1,
+   "tema": "Coluna de produção",
+   "enunciado": "Quais packers podem compor a coluna?",
+   "tipo": "multipla",
+   "alternativas": [
+    "De produção, de abandono e de poço aberto",
+    "Nenhum",
+    "Apenas de produção",
+    "Apenas hidráulicos",
+    "Apenas de superfície"
+   ],
+   "correta": 0,
+   "explicacao": "Cada tipo isola um intervalo; os packers de abandono são usados no descomissionamento."
+  },
+  {
+   "id": "ab-0040",
+   "dificuldade": 1,
+   "tema": "Coluna de produção",
+   "enunciado": "Qual a função das válvulas de segurança de subsuperfície (SSSV)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Dissolver incrustações",
+    "Substituir o packer",
+    "Medir a densidade",
+    "Aumentar a vazão",
+    "Fechar o poço em emergência (barreira secundária)"
+   ],
+   "correta": 4,
+   "explicacao": "Compõem as barreiras secundárias junto com BOP, árvore de natal e packers."
+  },
+  {
+   "id": "ab-0041",
+   "dificuldade": 1,
+   "tema": "Coluna de produção",
+   "enunciado": "Qual a função dos mandris de injeção química?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Fechar o BOP",
+    "Cortar a coluna",
+    "Ancorar o riser",
+    "Alterar a trajetória",
+    "Permitir injetar produtos (inibidores) na coluna durante a produção"
+   ],
+   "correta": 4,
+   "explicacao": "A injeção química protege contra incrustação, corrosão e hidratos."
+  },
+  {
+   "id": "ab-0042",
+   "dificuldade": 1,
+   "tema": "Árvores de natal",
+   "enunciado": "Onde e como é usada a árvore seca (dry tree)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Nunca em plataformas",
+    "Em plataformas fixas, com a árvore de natal na superfície e acesso direto ao poço",
+    "Em águas ultraprofundas",
+    "Somente em poços de gás",
+    "No leito marinho"
+   ],
+   "correta": 1,
+   "explicacao": "Intervenções são mais simples, rápidas e baratas; típica de lâminas menores (100–300 m), geralmente pós-sal."
+  },
+  {
+   "id": "ab-0043",
+   "dificuldade": 1,
+   "tema": "Árvores de natal",
+   "enunciado": "Quando se usa a árvore molhada (subsea tree)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Apenas em poços de gás seco",
+    "Em terra",
+    "Em águas profundas e ultraprofundas, com intervenções dependentes de sondas/navios de alta capacidade",
+    "Em lâmina de 20 m",
+    "Nunca em pré-sal"
+   ],
+   "correta": 2,
+   "explicacao": "Operações são mais complexas, de custo elevado, e atingem camadas do pré-sal."
+  },
+  {
+   "id": "ab-0044",
+   "dificuldade": 3,
+   "tema": "Árvores de natal",
+   "enunciado": "Qual o critério de classificação das árvores de natal molhadas (ANM) quanto ao uso de riser de completação ou drill pipe riser?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Equipamentos de manuseio",
+    "Modo de instalação",
+    "Componentes e suas funções",
+    "Fabricante",
+    "Nenhuma das anteriores"
+   ],
+   "correta": 0,
+   "explicacao": "Gabarito da prova: classificação segundo os equipamentos de manuseio."
+  },
+  {
+   "id": "ab-0045",
+   "dificuldade": 1,
+   "tema": "Árvores de natal",
+   "enunciado": "Quais as válvulas da árvore seca citadas?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Apenas válvulas de gaveta",
+    "Adaptador de testes, pistoneio (swab), laterais (wings), master superior e inferior, agulha/choke",
+    "Apenas uma master",
+    "BOP de coiled tubing",
+    "THRT e JRC"
+   ],
+   "correta": 1,
+   "explicacao": "Há ainda manômetro/monitoramento e linha de produção."
+  },
+  {
+   "id": "ab-0046",
+   "dificuldade": 1,
+   "tema": "Árvores de natal",
+   "enunciado": "Quais as válvulas da árvore molhada citadas?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Apenas wing",
+    "Master única",
+    "Master e wing de produção e de anular, XO (crossover), swab de produção e de anular",
+    "Pistoneio",
+    "Adaptador de testes"
+   ],
+   "correta": 2,
+   "explicacao": "A XO (crossover) conecta produção e anular."
+  },
+  {
+   "id": "ab-0047",
+   "dificuldade": 2,
+   "tema": "Completação convencional e inteligente",
+   "enunciado": "Quais as características da completação convencional (simples)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Vários packers com controle remoto",
+    "Um único packer, sem controle de zonas e com monitoramento simples de pressão e temperatura",
+    "Controle de zonas em tempo real",
+    "Sem coluna",
+    "Sem packer"
+   ],
+   "correta": 1,
+   "explicacao": "Não há seletividade de zonas."
+  },
+  {
+   "id": "ab-0048",
+   "dificuldade": 1,
+   "tema": "Completação convencional e inteligente",
+   "enunciado": "O que a completação inteligente permite?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Somente produzir sem controle",
+    "Eliminar a coluna de produção",
+    "Dispensar o BOP",
+    "Evitar qualquer intervenção",
+    "Seletividade de zonas, controle de fluxo e isolamento de zonas com alta produção de água, monitoramento e ação remotos"
+   ],
+   "correta": 4,
+   "explicacao": "Possui mais de um packer e ICVs para controlar cada zona."
+  },
+  {
+   "id": "ab-0049",
+   "dificuldade": 3,
+   "tema": "Completação convencional e inteligente",
+   "enunciado": "Em qual cenário uma completação inteligente é vantajosa?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Quando há múltiplas zonas e é preciso fechar a zona que passou a produzir muita água sem intervir no poço",
+    "Poço de uma só zona sem água",
+    "Poço abandonado",
+    "Poço sem reservatório",
+    "Poço raso em terra"
+   ],
+   "correta": 0,
+   "explicacao": "As ICVs permitem fechar ou estrangular zonas remotamente, evitando intervenção com sonda."
+  },
+  {
+   "id": "ab-0050",
+   "dificuldade": 1,
+   "tema": "Intervenção em poços",
+   "enunciado": "O que é intervenção em poços?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Cimentação do condutor",
+    "Fabricação do fluido",
+    "Apenas troca do riser",
+    "Perfuração de uma nova fase",
+    "Conjunto de operações após a conclusão do poço para restaurar, manter ou melhorar a integridade e a produtividade"
+   ],
+   "correta": 4,
+   "explicacao": "Resposta da prova: restaurar, manter ou melhorar integridade e produtividade."
+  },
+  {
+   "id": "ab-0051",
+   "dificuldade": 2,
+   "tema": "Intervenção em poços",
+   "enunciado": "Por que a intervenção é considerada atividade crítica?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque é feita só em terra",
+    "Porque dispensa BOP",
+    "Porque não usa fluido",
+    "Envolve a manipulação direta das barreiras de poço e a reentrada em ambientes pressurizados",
+    "Porque nunca altera produção"
+   ],
+   "correta": 3,
+   "explicacao": "Qualquer falha de barreira pode resultar em perda de controle do poço."
+  },
+  {
+   "id": "ab-0052",
+   "dificuldade": 2,
+   "tema": "Intervenção em poços",
+   "enunciado": "Quais problemas motivam uma intervenção para recuperar produção?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Danos, incrustações ou problemas mecânicos",
+    "Perda de broca",
+    "Excesso de ROP",
+    "Falta de estoque de lama",
+    "Corrosão do riser de perfuração"
+   ],
+   "correta": 0,
+   "explicacao": "Intervenções também removem, substituem ou instalam equipamentos internos."
+  },
+  {
+   "id": "ab-0053",
+   "dificuldade": 2,
+   "tema": "Intervenção em poços",
+   "enunciado": "Quais são as barreiras primárias em uma intervenção?",
+   "tipo": "multipla",
+   "alternativas": [
+    "SSSV",
+    "Árvore de natal",
+    "Fluido de controle (kill mud, fluidos balanceados)",
+    "Packers",
+    "BOP"
+   ],
+   "correta": 2,
+   "explicacao": "Barreira primária é o fluido; BOP, árvore, SSSV e packers são secundárias."
+  },
+  {
+   "id": "ab-0054",
+   "dificuldade": 1,
+   "tema": "Intervenção em poços",
+   "enunciado": "Quais são as barreiras secundárias?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Nenhuma",
+    "Apenas o cimento",
+    "Apenas o fluido de controle",
+    "Apenas a coluna",
+    "BOP, árvore de natal, válvulas de segurança de subsuperfície e packers"
+   ],
+   "correta": 4,
+   "explicacao": "Na falha da primária (hidrostática), as secundárias contêm a pressão."
+  },
+  {
+   "id": "ab-0055",
+   "dificuldade": 1,
+   "tema": "Intervenção em poços",
+   "enunciado": "O que se monitora em tempo real durante uma intervenção?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Apenas o nível de óleo do gerador",
+    "Pressão no interior da coluna e nos anulares A, B e C, inclusive equalizações e bleed-off",
+    "Apenas a rotação",
+    "Apenas a densidade do fluido",
+    "Apenas a temperatura ambiente"
+   ],
+   "correta": 1,
+   "explicacao": "O monitoramento ajuda a diagnosticar comunicação entre anulares."
+  },
+  {
+   "id": "ab-0056",
+   "dificuldade": 1,
+   "tema": "Intervenção em poços",
+   "enunciado": "O que a janela operacional do fluido de controle depende?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Do custo diário",
+    "Apenas da cor",
+    "Da sonda",
+    "Apenas do tipo de BOP",
+    "Gradiente de fratura, porosidade e permeabilidade das formações e condição over/under/balanced desejada"
+   ],
+   "correta": 4,
+   "explicacao": "Fluido muito leve perde a barreira; muito pesado fratura a formação ou causa perda."
+  },
+  {
+   "id": "ab-0057",
+   "dificuldade": 2,
+   "tema": "Intervenção em poços",
+   "enunciado": "Qual a diferença entre Heavy Workover e Light Workover (rigless)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Heavy usa sonda de grande capacidade e pode retirar a coluna completa; Light usa unidades leves (slickline, wireline, coiled tubing)",
+    "Heavy não usa fluido; Light usa",
+    "Light retira o revestimento",
+    "São idênticas",
+    "Heavy é só em terra"
+   ],
+   "correta": 0,
+   "explicacao": "Light visa desobstruções, plugs, avaliações e diagnósticos sem sonda."
+  },
+  {
+   "id": "ab-0058",
+   "dificuldade": 1,
+   "tema": "Intervenção em poços",
+   "enunciado": "Quais operações são típicas do Heavy Workover?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Apenas medições com slickline",
+    "Somente limpeza com N₂",
+    "Apenas troca de manômetro",
+    "Retirada completa da coluna, substituição de revestimentos internos ou packers permanentes e reparos estruturais",
+    "Apenas instalação de plugs"
+   ],
+   "correta": 3,
+   "explicacao": "É a intervenção mais pesada, inclusive para abandono definitivo."
+  },
+  {
+   "id": "ab-0059",
+   "dificuldade": 2,
+   "tema": "Intervenção em poços",
+   "enunciado": "Quais operações são típicas do Light Workover (rigless)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Retirada de coluna completa",
+    "Substituição de packers permanentes",
+    "Desobstruções, instalação de plugs, avaliação, medição e diagnóstico",
+    "Perfuração de nova fase",
+    "Troca de revestimento"
+   ],
+   "correta": 2,
+   "explicacao": "Usa slickline, wireline e coiled tubing, isolados ou combinados."
+  },
+  {
+   "id": "ab-0060",
+   "dificuldade": 1,
+   "tema": "Equipamentos de intervenção",
+   "enunciado": "Quais operações o coiled tubing realiza?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Apenas canhoneio",
+    "Cleanout, nitrogen lifting, acidificação, drilling e pescaria, com capacidade de tração de 90 a 180 klbf",
+    "Somente cimentação de superfície",
+    "Apenas BOP",
+    "Apenas medição de pressão"
+   ],
+   "correta": 1,
+   "explicacao": "Combina equipamentos hidráulicos, mecânicos e de controle de poço, com poço pressurizado."
+  },
+  {
+   "id": "ab-0061",
+   "dificuldade": 2,
+   "tema": "Equipamentos de intervenção",
+   "enunciado": "Quais os componentes do equipamento de coiled tubing?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Umbilical e THRT",
+    "Gerador e riser",
+    "Carretel, injetor, tubo contínuo, BOP de CT, cabine de operação e workshop (MHA/BHA)",
+    "Apenas o carretel",
+    "Somente cabo de aço"
+   ],
+   "correta": 2,
+   "explicacao": "O injetor conduz o tubo contínuo ao poço."
+  },
+  {
+   "id": "ab-0062",
+   "dificuldade": 2,
+   "tema": "Equipamentos de intervenção",
+   "enunciado": "Qual a diferença entre wireline e slickline quanto ao cabo?",
+   "tipo": "multipla",
+   "alternativas": [
+    "O wireline não usa cabo",
+    "O slickline usa tubo",
+    "Ambos usam tubo contínuo",
+    "Não há diferença",
+    "Wireline: cabo metálico ou elétrico (e-line). Slickline: cabo sólido e liso, para operações mecânicas"
+   ],
+   "correta": 4,
+   "explicacao": "O slickline executa operações mecânicas com ferramentas passivas ou acionadas por peso, pressão ou movimento."
+  },
+  {
+   "id": "ab-0063",
+   "dificuldade": 2,
+   "tema": "Equipamentos de intervenção",
+   "enunciado": "Qual a ordem de grandeza da tração suportada pelo wireline?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Cerca de 8 klbf",
+    "Cerca de 90 klbf",
+    "Cerca de 180 klbf",
+    "Cerca de 1.000 klbf",
+    "Cerca de 0,1 klbf"
+   ],
+   "correta": 0,
+   "explicacao": "Muito inferior ao coiled tubing (90–180 klbf); por isso é uma intervenção leve."
+  },
+  {
+   "id": "ab-0064",
+   "dificuldade": 1,
+   "tema": "Equipamentos de intervenção",
+   "enunciado": "Quais os componentes de uma unidade de wireline?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Carretel, BOP dedicado, cabine de telemetria, gerador diesel e workshop de BHA",
+    "Carretel de CT e injetor",
+    "Apenas THRT",
+    "Apenas JRC",
+    "Riser e umbilical"
+   ],
+   "correta": 0,
+   "explicacao": "A cabine de telemetria registra a profundidade e a tensão do cabo."
+  },
+  {
+   "id": "ab-0065",
+   "dificuldade": 1,
+   "tema": "Equipamentos de intervenção",
+   "enunciado": "Quais os componentes do slickline?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Surface flow tree apenas",
+    "THRT e umbilical",
+    "Injetor e tubo contínuo",
+    "Cabine de operação, bobina com cabo, workshop de ferramentas e skid com BOP e lubrificador",
+    "Riser de completação"
+   ],
+   "correta": 3,
+   "explicacao": "O lubrificador permite entrar no poço pressurizado."
+  },
+  {
+   "id": "ab-0066",
+   "dificuldade": 1,
+   "tema": "Equipamentos de intervenção",
+   "enunciado": "O que é a surface flow tree?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Um tipo de cimento",
+    "Uma ferramenta de pesca",
+    "Conjunto de válvulas e conexões na cabeça do poço que controla, direciona e isola o fluxo, sendo uma das principais barreiras",
+    "Um tipo de fluido",
+    "Um tipo de broca"
+   ],
+   "correta": 2,
+   "explicacao": "Direciona o fluxo para manifolds, separadores, flare e sistemas de teste, e suporta lubrificadores e BOPs de intervenção."
+  },
+  {
+   "id": "ab-0067",
+   "dificuldade": 2,
+   "tema": "Equipamentos de intervenção",
+   "enunciado": "Quais as três válvulas principais da surface flow tree?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Dreno, pistoneio e linha",
+    "Cega, corte e tubo",
+    "Anular, ram e solenoide",
+    "Swab, wing e master",
+    "Choke, kill e booster"
+   ],
+   "correta": 3,
+   "explicacao": "Podem ser hidráulicas ou manuais, e algumas são fail-safe. Permitem 'ataque' para matar o poço."
+  },
+  {
+   "id": "ab-0068",
+   "dificuldade": 1,
+   "tema": "Equipamentos de intervenção",
+   "enunciado": "Qual a função do umbilical em intervenção submarina?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Transmitir comandos, energia e fluidos da superfície aos equipamentos submarinos",
+    "Substituir o BOP",
+    "Bombear cimento",
+    "Aumentar a densidade",
+    "Cortar a coluna"
+   ],
+   "correta": 0,
+   "explicacao": "O umbilical (ex.: 16 funções) tem linhas hidráulicas, cabos elétricos, fibras ópticas, armaduras e jacket."
+  },
+  {
+   "id": "ab-0069",
+   "dificuldade": 1,
+   "tema": "Equipamentos de intervenção",
+   "enunciado": "O que é a THRT?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Uma válvula de segurança",
+    "Um tipo de broca",
+    "Um tipo de packer",
+    "Um tipo de cabo",
+    "Ferramenta de corrida do tubing hanger, usada para instalar o tubing hanger na cabeça do poço/árvore"
+   ],
+   "correta": 4,
+   "explicacao": "Suporta o peso da coluna, aciona funções hidráulicas do TH e permite testes de pressão."
+  },
+  {
+   "id": "ab-0070",
+   "dificuldade": 3,
+   "tema": "Equipamentos de intervenção",
+   "enunciado": "Qual a função da JRC no conjunto de intervenção?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Bombear fluido",
+    "Perfurar",
+    "Medir a densidade",
+    "Cortar tubos",
+    "Ponto de acoplamento intermediário para jumpers hidráulicos ou elétricos"
+   ],
+   "correta": 4,
+   "explicacao": "Varia conforme o fabricante."
+  },
+  {
+   "id": "ab-0071",
+   "dificuldade": 2,
+   "tema": "BOP",
+   "enunciado": "Quais as gavetas do BOP citadas e para que servem?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Somente corte",
+    "Somente anular",
+    "Cega (veda poço vazio), corte (cisalha a coluna), tubo (veda em volta do tubo) e cunha",
+    "Somente cega",
+    "Somente gaveta de tubo"
+   ],
+   "correta": 2,
+   "explicacao": "O BOP pode vedar o poço e cortar a coluna em emergência."
+  },
+  {
+   "id": "ab-0072",
+   "dificuldade": 1,
+   "tema": "BOP",
+   "enunciado": "Qual a função da gaveta de corte?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Vedar em torno do tubo",
+    "Girar a coluna",
+    "Cisalhar a coluna de perfuração ou produção e selar o poço em emergência",
+    "Alimentar o poço",
+    "Medir a pressão"
+   ],
+   "correta": 2,
+   "explicacao": "Depois do corte, a gaveta cega fecha o poço."
+  },
+  {
+   "id": "ab-0073",
+   "dificuldade": 2,
+   "tema": "BOP",
+   "enunciado": "Quais componentes fazem parte do sistema de controle do BOP?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Painel de controle, cabine de comando, umbilical, módulo eletrônico, válvula solenoide e válvula POD",
+    "CT e injetor",
+    "Packers e SSSV",
+    "Apenas manômetros",
+    "Tubing hanger e JRC"
+   ],
+   "correta": 0,
+   "explicacao": "A função é aplicada às gavetas por comando hidráulico."
+  },
+  {
+   "id": "ab-0074",
+   "dificuldade": 2,
+   "tema": "Abandono de poços",
+   "enunciado": "Qual a estratégia típica de abandono de um poço vertical simples?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Deixar o poço aberto",
+    "Cortar o revestimento sem tampão",
+    "Apenas retirar a árvore",
+    "Tampões de cimento nas zonas produtoras e CSB próximo à cabeça, apoiados em formação selante",
+    "Somente injetar água"
+   ],
+   "correta": 3,
+   "explicacao": "É o cenário mais básico, de trajetória retilínea e normalmente uma única zona produtora."
+  },
+  {
+   "id": "ab-0075",
+   "dificuldade": 2,
+   "tema": "Abandono de poços",
+   "enunciado": "Qual o principal desafio do abandono em poço desviado ou inclinado?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Excesso de pressão no riser",
+    "Falta de BOP",
+    "Gravidade: acúmulo desigual do cimento e possível formação de canais",
+    "Falta de água",
+    "Falta de revestimento"
+   ],
+   "correta": 2,
+   "explicacao": "Estratégia: tampões alongados e verificação com perfil de cimentação para garantir o isolamento."
+  },
+  {
+   "id": "ab-0076",
+   "dificuldade": 2,
+   "tema": "Abandono de poços",
+   "enunciado": "Qual a estratégia de abandono para poço multilateral?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Nenhum tampão",
+    "Cimento só no fundo",
+    "Apenas cimento na lateral principal",
+    "Um único tampão na cabeça",
+    "Cada lateral recebe seu próprio CSB independente (isolamento por branch)"
+   ],
+   "correta": 4,
+   "explicacao": "Evita vazamento entre laterais; são necessárias barreiras independentes."
+  },
+  {
+   "id": "ab-0077",
+   "dificuldade": 1,
+   "tema": "Abandono de poços",
+   "enunciado": "Quais os cuidados no abandono de poço injetor?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Isolar a zona injetora e avaliar rigorosamente a pressão antes de instalar os tampões",
+    "Apenas fechar a válvula",
+    "Injetar mais fluido",
+    "Ignorar a pressão",
+    "Aumentar a pressão de injeção"
+   ],
+   "correta": 0,
+   "explicacao": "O risco é pressão interna elevada e migração entre zonas."
+  },
+  {
+   "id": "ab-0078",
+   "dificuldade": 3,
+   "tema": "Abandono de poços",
+   "enunciado": "Qual a estratégia no abandono de poço com completação dupla ou inteligente?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Apenas fechar a árvore",
+    "Apenas cortar a coluna",
+    "Redundância de barreiras: cimento mais barreiras mecânicas (bridge plugs, válvulas de isolamento) e remoção ou isolamento dos componentes",
+    "Apenas um tampão de cimento",
+    "Nenhuma ação"
+   ],
+   "correta": 2,
+   "explicacao": "Há múltiplas colunas e componentes mecânicos a remover ou isolar."
+  },
+  {
+   "id": "ab-0079",
+   "dificuldade": 2,
+   "tema": "Abandono de poços",
+   "enunciado": "Qual o risco do abandono de poço com múltiplas zonas abertas ou sem completação?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Falta de barita",
+    "Excesso de ROP",
+    "Perda de broca",
+    "Corrosão do riser",
+    "Crossflow e comunicação entre formações"
+   ],
+   "correta": 4,
+   "explicacao": "Estratégia: CSBs intermediários para impedir a comunicação entre zonas."
+  },
+  {
+   "id": "ab-0080",
+   "dificuldade": 1,
+   "tema": "Abandono de poços",
+   "enunciado": "Qual o papel do BOP no abandono de poços?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Reduzir a produção",
+    "Medir a densidade",
+    "Conter pressões inesperadas, prevenir blowouts, cortar e vedar o poço e manter o controle durante a cimentação dos tampões",
+    "Substituir o cimento",
+    "Aumentar a pressão"
+   ],
+   "correta": 2,
+   "explicacao": "O uso de um sistema de controle eficiente é exigência legal da ANP."
+  },
+  {
+   "id": "ab-0081",
+   "dificuldade": 2,
+   "tema": "Abandono de poços",
+   "enunciado": "Quais os principais impactos ambientais de um abandono mal executado?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Formação de hidratos",
+    "Contaminação de aquíferos e emissão de metano",
+    "Aumento do ROP",
+    "Redução da pressão do reservatório",
+    "Aumento da temperatura do fluido"
+   ],
+   "correta": 1,
+   "explicacao": "Resposta da prova. Poços mal tamponados podem emitir metano, gás de efeito estufa muito potente."
+  },
+  {
+   "id": "ab-0082",
+   "dificuldade": 2,
+   "tema": "Abandono de poços",
+   "enunciado": "Por que se exigem múltiplos conjuntos de barreiras no abandono?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Para impedir a migração de fluidos entre zonas e até aquíferos",
+    "Para dispensar o cimento",
+    "Para aumentar a produção",
+    "Para reduzir o custo",
+    "Para acelerar a operação"
+   ],
+   "correta": 0,
+   "explicacao": "As diretrizes da ANP e do IBP destacam esse risco."
+  },
+  {
+   "id": "ab-0083",
+   "dificuldade": 1,
+   "tema": "Abandono de poços",
+   "enunciado": "Qual a função das formações selantes no abandono?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Aumentar a vazão",
+    "Servir de base para cimentação dos tampões",
+    "Armazenar fluido",
+    "Dissolver o cimento",
+    "Substituir o packer"
+   ],
+   "correta": 1,
+   "explicacao": "Formações selantes (ex.: folhelhos competentes) ajudam a garantir o isolamento."
+  },
+  {
+   "id": "ab-0084",
+   "dificuldade": 2,
+   "tema": "Abandono de poços",
+   "enunciado": "Por que o abandono é considerado uma das etapas mais críticas do ciclo de vida do poço?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque não envolve cimento",
+    "Porque ocorre antes da perfuração",
+    "Porque, se mal executado, causa consequências ambientais sérias e duradouras",
+    "Porque é a etapa mais barata",
+    "Porque dispensa regulação"
+   ],
+   "correta": 2,
+   "explicacao": "ANP e IBP tratam o tema como parte essencial da proteção ambiental e da integridade de longo prazo."
+  },
+  {
+   "id": "ab-0085",
+   "dificuldade": 2,
+   "tema": "Fraturamento",
+   "enunciado": "Qual característica é desejável em um fluido de fraturamento?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Sempre alta densidade",
+    "Alto resíduo",
+    "Baixa viscosidade na coluna, baixo coeficiente de filtragem e pouco resíduo nas paredes da fratura",
+    "Alta perda de filtrado",
+    "Alta viscosidade na coluna"
+   ],
+   "correta": 2,
+   "explicacao": "Na prova, todas as características apresentadas são desejáveis."
+  },
+  {
+   "id": "ab-0086",
+   "dificuldade": 3,
+   "tema": "Intervenção em poços",
+   "enunciado": "Sobre barreiras em intervenção:",
+   "tipo": "combinacao",
+   "afirmativas": [
+    "I. O fluido de controle é uma barreira primária.",
+    "II. BOP, árvore de natal, SSSV e packers são barreiras secundárias.",
+    "III. As intervenções dispensam controle rigoroso de poço."
+   ],
+   "alternativas": [
+    "Apenas I",
+    "Apenas III",
+    "Apenas I e II",
+    "Apenas I e III",
+    "I, II e III"
+   ],
+   "correta": 2,
+   "explicacao": "III é falsa: as intervenções exigem controle rigoroso do poço (well control)."
+  },
+  {
+   "id": "ab-0087",
+   "dificuldade": 3,
+   "tema": "Abandono de poços",
+   "enunciado": "Sobre o abandono de poços:",
+   "tipo": "combinacao",
+   "afirmativas": [
+    "I. Cada lateral de um poço multilateral recebe seu CSB independente.",
+    "II. Em poço desviado, usam-se tampões alongados e se verifica o cimento por perfil.",
+    "III. Em poços com completação inteligente, basta um único tampão de cimento."
+   ],
+   "alternativas": [
+    "Apenas I",
+    "Apenas II",
+    "Apenas I e II",
+    "Apenas I e III",
+    "I, II e III"
+   ],
+   "correta": 2,
+   "explicacao": "III é falsa: usa-se redundância de barreiras (cimento + barreiras mecânicas)."
+  },
+  {
+   "id": "ab-0088",
+   "dificuldade": 3,
+   "tema": "Árvores de natal",
+   "enunciado": "Sobre árvores de natal:",
+   "tipo": "combinacao",
+   "afirmativas": [
+    "I. A árvore seca fica na superfície.",
+    "II. A árvore molhada é usada em águas profundas e ultraprofundas.",
+    "III. Intervenções em árvore seca são mais complexas e caras que em molhada."
+   ],
+   "alternativas": [
+    "Apenas I",
+    "Apenas II",
+    "Apenas I e II",
+    "Apenas II e III",
+    "I, II e III"
+   ],
+   "correta": 2,
+   "explicacao": "III é falsa: na seca, as intervenções são mais simples, rápidas e baratas."
+  }
+ ],
+ "flashcards": [
+  {
+   "id": "ab-f001",
+   "frente": "Objetivo da completação",
+   "verso": "Conectar reservatório e superfície com caminho controlado de fluxo, minimizar dano, controlar fluxo (packers, ICV, tubing hanger), proteger o revestimento e permitir intervenções futuras."
+  },
+  {
+   "id": "ab-f002",
+   "frente": "Condicionamento do poço",
+   "verso": "Limpeza com workover fluids/brines, troca do fluido de perfuração pelo de completação, baixo teor de sólidos, compatibilidade com o reservatório e densidade adequada."
+  },
+  {
+   "id": "ab-f003",
+   "frente": "Avaliação da cimentação",
+   "verso": "Confirma integridade e isolamento hidráulico entre zonas. Métodos: CBL, RBT e pressurização contra o anular. Correção só se NÃO houver vedação."
+  },
+  {
+   "id": "ab-f004",
+   "frente": "Consequências de cimentação ruim",
+   "verso": "Comunicação entre zonas, produção indesejada de água ou gás e fluxos interzonais."
+  },
+  {
+   "id": "ab-f005",
+   "frente": "TCP",
+   "verso": "Tubing-conveyed perforating: o mais usado em águas profundas; canhões maiores que os through-tubing, com mais penetração."
+  },
+  {
+   "id": "ab-f006",
+   "frente": "Wireline perforating",
+   "verso": "Canhoneio a cabo, usado em operações de menor risco e precisão."
+  },
+  {
+   "id": "ab-f007",
+   "frente": "Overbalance × underbalance",
+   "verso": "Overbalance: pressão hidrostática > pressão do reservatório. Underbalance: menor. PH (psi) = 0,1704 × ρ (lb/gal) × TVD (m)."
+  },
+  {
+   "id": "ab-f008",
+   "frente": "Qualidade do canhoneio",
+   "verso": "Impacta produtividade, dano à formação e estabilidade dos túneis."
+  },
+  {
+   "id": "ab-f009",
+   "frente": "Coluna de produção/injeção",
+   "verso": "Espinha dorsal da completação: tubos, SSSV, nipples e mandris, ICV, sensores (PDG), linhas de controle (hidráulica, elétrica, fibra ótica), tubing hanger, packers."
+  },
+  {
+   "id": "ab-f010",
+   "frente": "Funções da coluna",
+   "verso": "Conduzir fluxo, isolar anulares, acessar múltiplas zonas, seletividade, suportar pressões, monitorar P e T em tempo real, controlar fluxo em emergência, gerar histórico."
+  },
+  {
+   "id": "ab-f011",
+   "frente": "Packers",
+   "verso": "De produção, de abandono e de poço aberto. Isolam intervalos entre coluna e revestimento."
+  },
+  {
+   "id": "ab-f012",
+   "frente": "Árvore seca (dry tree)",
+   "verso": "Plataformas fixas, na superfície, acesso direto; intervenção simples, rápida e barata; lâminas de 100–300 m; geralmente pós-sal."
+  },
+  {
+   "id": "ab-f013",
+   "frente": "Árvore molhada (subsea tree)",
+   "verso": "Águas profundas e ultraprofundas; operação complexa e cara; intervenção com sondas/navios de alta capacidade; pré-sal."
+  },
+  {
+   "id": "ab-f014",
+   "frente": "Válvulas da árvore seca",
+   "verso": "Adaptador de testes, pistoneio (swab), laterais (wings), master superior e inferior, agulha/choke, manômetro e linha de produção."
+  },
+  {
+   "id": "ab-f015",
+   "frente": "Válvulas da árvore molhada",
+   "verso": "Master e wing de produção e de anular, XO (crossover), swab de produção e de anular."
+  },
+  {
+   "id": "ab-f016",
+   "frente": "Classificação da ANM",
+   "verso": "Pela utilização de riser de completação ou drill pipe riser: classificação segundo os equipamentos de manuseio (gabarito da prova)."
+  },
+  {
+   "id": "ab-f017",
+   "frente": "Completação convencional",
+   "verso": "Um único packer, sem controle de zonas, monitoramento simples."
+  },
+  {
+   "id": "ab-f018",
+   "frente": "Completação inteligente",
+   "verso": "Vários packers e ICVs: seletividade de zonas, controle do fluxo, fecha zonas com muita água, monitoramento e ação remotos."
+  },
+  {
+   "id": "ab-f019",
+   "frente": "Intervenção em poços",
+   "verso": "Operações após a conclusão para restaurar, manter ou melhorar integridade e produtividade. Crítica: envolve barreiras e reentrada em ambiente pressurizado."
+  },
+  {
+   "id": "ab-f020",
+   "frente": "Barreiras em intervenção",
+   "verso": "Primária: fluido de controle (kill mud, balanceado). Secundárias: BOP, árvore de natal, SSSV, packers."
+  },
+  {
+   "id": "ab-f021",
+   "frente": "Monitoramento de pressões",
+   "verso": "Interior da coluna e anulares A, B e C em tempo real; equalizações e bleed-off; diagnóstico de comunicação entre anulares."
+  },
+  {
+   "id": "ab-f022",
+   "frente": "Gavetas do BOP",
+   "verso": "Cega (veda poço vazio), corte (cisalha a coluna), tubo (veda em torno do tubo) e cunha."
+  },
+  {
+   "id": "ab-f023",
+   "frente": "Heavy workover",
+   "verso": "Sonda ou navio de grande capacidade; retira a coluna completa, troca revestimentos internos e packers permanentes, reparos estruturais; pode ser abandono definitivo."
+  },
+  {
+   "id": "ab-f024",
+   "frente": "Light workover (rigless)",
+   "verso": "Unidades sem torre: slickline, wireline e coiled tubing. Desobstruções, plugs, avaliação, medições e diagnósticos."
+  },
+  {
+   "id": "ab-f025",
+   "frente": "Coiled tubing",
+   "verso": "Tubo contínuo em poço pressurizado: cleanout, nitrogen lifting, acidificação, drilling, pescaria. Tração de 90 a 180 klbf. Carretel, injetor, BOP de CT."
+  },
+  {
+   "id": "ab-f026",
+   "frente": "Wireline e slickline",
+   "verso": "Wireline: cabo metálico ou elétrico (e-line), ~8 klbf. Slickline: cabo sólido liso para operações mecânicas. Poço pressurizado, sem tirar a coluna."
+  },
+  {
+   "id": "ab-f027",
+   "frente": "Surface flow tree",
+   "verso": "Válvulas na cabeça do poço: controla, direciona e isola o fluxo; barreira de segurança. Três válvulas: swab, wing e master."
+  },
+  {
+   "id": "ab-f028",
+   "frente": "Umbilical, JRC e THRT",
+   "verso": "Umbilical: comandos, energia e fluidos até o subsea. JRC: acoplamento de jumpers. THRT: ferramenta de corrida do tubing hanger."
+  },
+  {
+   "id": "ab-f029",
+   "frente": "Abandono: poço vertical",
+   "verso": "Tampões de cimento nas zonas produtoras e CSB próximo à cabeça, com formação selante de base."
+  },
+  {
+   "id": "ab-f030",
+   "frente": "Abandono: poço desviado",
+   "verso": "Gravidade causa acúmulo desigual e canais: tampões alongados e verificação com perfil de cimentação."
+  },
+  {
+   "id": "ab-f031",
+   "frente": "Abandono: multilateral",
+   "verso": "Cada lateral recebe seu CSB independente (isolamento por branch)."
+  },
+  {
+   "id": "ab-f032",
+   "frente": "Abandono: injetor, dupla e zonas abertas",
+   "verso": "Injetor: isolar a zona e avaliar a pressão. Dupla/inteligente: cimento + barreiras mecânicas. Zonas abertas: CSBs intermediários contra crossflow."
+  },
+  {
+   "id": "ab-f033",
+   "frente": "BOP e impacto ambiental",
+   "verso": "BOP no abandono: conter pressão, prevenir blowout, cortar e vedar. Abandono ruim: contaminação de aquíferos e emissão de metano."
+  },
+  {
+   "id": "ab-f034",
+   "frente": "Tampão de cimento (cálculo)",
+   "verso": "Volume = D² × 0,003187 × L × (1 + excesso). Sacos = volume (bbl) × 5,6146 ÷ rendimento (ft³/sk)."
+  }
+ ]
+}

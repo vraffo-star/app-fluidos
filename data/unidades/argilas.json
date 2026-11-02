@@ -227,7 +227,7 @@
   },
   {
    "id": "arg-0015",
-   "dificuldade": 2,
+   "dificuldade": 1,
    "tema": "CTC",
    "enunciado": "O que é a capacidade de troca de cátions (CTC) de uma argila?",
    "tipo": "multipla",
@@ -639,7 +639,7 @@
   },
   {
    "id": "arg-0041",
-   "dificuldade": 2,
+   "dificuldade": 1,
    "tema": "Salinidade",
    "enunciado": "O que é o Q-Mix?",
    "tipo": "multipla",
@@ -751,7 +751,7 @@
   },
   {
    "id": "arg-0048",
-   "dificuldade": 2,
+   "dificuldade": 1,
    "tema": "Organofílicas",
    "enunciado": "Como se sintetiza uma argila organofílica?",
    "tipo": "multipla",
@@ -812,7 +812,7 @@
   },
   {
    "id": "arg-0052",
-   "dificuldade": 2,
+   "dificuldade": 1,
    "tema": "Organofílicas",
    "enunciado": "Existem jazidas naturais de bentonita organofílica.",
    "tipo": "vf",
@@ -1038,7 +1038,7 @@
   },
   {
    "id": "arg-0066",
-   "dificuldade": 2,
+   "dificuldade": 1,
    "tema": "Formações argilosas",
    "enunciado": "O que é uma marga?",
    "tipo": "multipla",
@@ -1400,7 +1400,7 @@
   },
   {
    "id": "arg-0089",
-   "dificuldade": 2,
+   "dificuldade": 1,
    "tema": "Formações argilosas",
    "enunciado": "Enceramento é um problema do revestimento, e não das partes cortantes da coluna.",
    "tipo": "vf",

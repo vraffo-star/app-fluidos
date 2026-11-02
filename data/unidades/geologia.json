@@ -19,7 +19,7 @@
   },
   {
    "id": "geo-0002",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Conceitos básicos",
    "enunciado": "Segundo a apresentação, como os engenheiros e químicos costumam definir “gás natural”, diferentemente dos geólogos?",
    "tipo": "multipla",
@@ -112,7 +112,7 @@
   },
   {
    "id": "geo-0008",
-   "dificuldade": 2,
+   "dificuldade": 1,
    "tema": "Estrutura da Terra",
    "enunciado": "Sobre o núcleo terrestre, é correto afirmar:",
    "tipo": "multipla",
@@ -160,7 +160,7 @@
   },
   {
    "id": "geo-0013",
-   "dificuldade": 2,
+   "dificuldade": 1,
    "tema": "Origem do petróleo",
    "enunciado": "O que é o querogênio?",
    "tipo": "multipla",
@@ -256,7 +256,7 @@
   },
   {
    "id": "geo-0019",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Sistema petrolífero",
    "enunciado": "Além dos elementos e processos, o que mais é necessário para que um sistema petrolífero gere acumulações comerciais?",
    "tipo": "multipla",
@@ -304,7 +304,7 @@
   },
   {
    "id": "geo-0022",
-   "dificuldade": 2,
+   "dificuldade": 1,
    "tema": "Sistema petrolífero",
    "enunciado": "O que caracteriza um sistema petrolífero atípico ígneo-sedimentar?",
    "tipo": "multipla",
@@ -352,7 +352,7 @@
   },
   {
    "id": "geo-0025",
-   "dificuldade": 2,
+   "dificuldade": 1,
    "tema": "Rocha geradora",
    "enunciado": "O que define uma rocha geradora “ativa” no conceito de sistemas petrolíferos?",
    "tipo": "multipla",
@@ -464,7 +464,7 @@
   },
   {
    "id": "geo-0032",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Geoquímica",
    "enunciado": "No pirograma da pirólise, o pico S2 representa:",
    "tipo": "multipla",
@@ -480,7 +480,7 @@
   },
   {
    "id": "geo-0033",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Geoquímica",
    "enunciado": "Segundo a escala apresentada, um potencial gerador (S2) de 15 kg HC/t de rocha é considerado:",
    "tipo": "multipla",
@@ -496,7 +496,7 @@
   },
   {
    "id": "geo-0034",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Geoquímica",
    "enunciado": "Por que a pirólise usa temperaturas de 300 a 550 °C, muito maiores do que as de subsuperfície?",
    "tipo": "multipla",
@@ -560,7 +560,7 @@
   },
   {
    "id": "geo-0038",
-   "dificuldade": 2,
+   "dificuldade": 1,
    "tema": "Geoquímica",
    "enunciado": "Somente o teor de carbono orgânico já basta para definir uma rocha como geradora.",
    "tipo": "vf",
@@ -573,7 +573,7 @@
   },
   {
    "id": "geo-0039",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Rocha geradora",
    "enunciado": "Sedimentos marinhos depositados em condições anóxicas costumam ter altas concentrações de quais elementos, correlacionadas ao carbono orgânico?",
    "tipo": "multipla",
@@ -813,7 +813,7 @@
   },
   {
    "id": "geo-0054",
-   "dificuldade": 2,
+   "dificuldade": 1,
    "tema": "Porosidade",
    "enunciado": "Como a porosidade pode ser obtida de forma indireta?",
    "tipo": "multipla",
@@ -845,7 +845,7 @@
   },
   {
    "id": "geo-0056",
-   "dificuldade": 2,
+   "dificuldade": 1,
    "tema": "Permeabilidade",
    "enunciado": "A permeabilidade efetiva de uma rocha depende:",
    "tipo": "multipla",
@@ -861,7 +861,7 @@
   },
   {
    "id": "geo-0057",
-   "dificuldade": 2,
+   "dificuldade": 1,
    "tema": "Permeabilidade",
    "enunciado": "A permeabilidade relativa de um fluido é:",
    "tipo": "multipla",
@@ -922,7 +922,7 @@
   },
   {
    "id": "geo-0061",
-   "dificuldade": 2,
+   "dificuldade": 1,
    "tema": "Rocha selante",
    "enunciado": "Qual das rochas abaixo NÃO costuma atuar como selante?",
    "tipo": "multipla",
@@ -1024,7 +1024,7 @@
   },
   {
    "id": "geo-0067",
-   "dificuldade": 2,
+   "dificuldade": 1,
    "tema": "Vocabulário exploratório",
    "enunciado": "O que é um “play” exploratório?",
    "tipo": "multipla",
@@ -1040,7 +1040,7 @@
   },
   {
    "id": "geo-0068",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Vocabulário exploratório",
    "enunciado": "Assinale a alternativa INCORRETA sobre o vocabulário exploratório:",
    "tipo": "incorreta",
@@ -1104,7 +1104,7 @@
   },
   {
    "id": "geo-0072",
-   "dificuldade": 2,
+   "dificuldade": 1,
    "tema": "Métodos exploratórios",
    "enunciado": "Qual a fonte sísmica usada na aquisição marítima?",
    "tipo": "multipla",
@@ -1136,7 +1136,7 @@
   },
   {
    "id": "geo-0074",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Métodos exploratórios",
    "enunciado": "Qual a principal vantagem da sísmica 3D em relação à 2D?",
    "tipo": "multipla",
@@ -1152,7 +1152,7 @@
   },
   {
    "id": "geo-0075",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Métodos exploratórios",
    "enunciado": "A gravimetria mede variações do campo gravitacional causadas por diferenças de densidade das rochas. Para que ela é útil na exploração?",
    "tipo": "multipla",
@@ -1216,7 +1216,7 @@
   },
   {
    "id": "geo-0079",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Métodos exploratórios",
    "enunciado": "Gravimetria e magnetometria são chamados de métodos potenciais e normalmente são usados para delinear grandes feições do embasamento.",
    "tipo": "vf",
@@ -1245,7 +1245,7 @@
   },
   {
    "id": "geo-0081",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Poços",
    "enunciado": "Pela classificação da ANP, um poço “1-CAM-1-RN” é de qual categoria?",
    "tipo": "multipla",
@@ -1277,7 +1277,7 @@
   },
   {
    "id": "geo-0083",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Poços",
    "enunciado": "Um poço destinado a injetar fluidos para melhorar a recuperação ou manter a energia do reservatório pertence à categoria:",
    "tipo": "multipla",
@@ -1325,7 +1325,7 @@
   },
   {
    "id": "geo-0087",
-   "dificuldade": 2,
+   "dificuldade": 1,
    "tema": "Testemunhagem",
    "enunciado": "Qual é a finalidade da testemunhagem?",
    "tipo": "multipla",
@@ -1549,7 +1549,7 @@
   },
   {
    "id": "geo-0101",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Perfilagem",
    "enunciado": "Quais parâmetros principais de um reservatório os perfis elétricos, acústicos e radioativos permitem obter ou inferir?",
    "tipo": "multipla",
@@ -1597,7 +1597,7 @@
   },
   {
    "id": "geo-0104",
-   "dificuldade": 2,
+   "dificuldade": 1,
    "tema": "Perfilagem",
    "enunciado": "O perfil caliper mede:",
    "tipo": "multipla",
@@ -1661,7 +1661,7 @@
   },
   {
    "id": "geo-0108",
-   "dificuldade": 2,
+   "dificuldade": 1,
    "tema": "Geofísica de poço",
    "enunciado": "Para que serve o levantamento checkshot?",
    "tipo": "multipla",
@@ -1709,7 +1709,7 @@
   },
   {
    "id": "geo-0111",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Perfis de cimentação",
    "enunciado": "Qual ferramenta ultrassônica giratória fornece imagem do cimento em contato com o revestimento e permite visualizar canais em 3D?",
    "tipo": "multipla",
@@ -1741,7 +1741,7 @@
   },
   {
    "id": "geo-0113",
-   "dificuldade": 2,
+   "dificuldade": 1,
    "tema": "Saturação",
    "enunciado": "Saturação de hidrocarbonetos é definida como:",
    "tipo": "multipla",
@@ -1821,7 +1821,7 @@
   },
   {
    "id": "geo-0118",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Cubagem",
    "enunciado": "Um campo tem volume original de óleo (VOIP) de 200 milhões de barris e fator de recuperação de 30%. Qual o volume recuperável?",
    "tipo": "multipla",
@@ -1853,7 +1853,7 @@
   },
   {
    "id": "geo-0120",
-   "dificuldade": 2,
+   "dificuldade": 1,
    "tema": "Cubagem",
    "enunciado": "O fator de recuperação (FR) é:",
    "tipo": "multipla",
@@ -1923,7 +1923,7 @@
   },
   {
    "id": "geo-0130",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Rocha reservatório",
    "enunciado": "Assinale a alternativa INCORRETA sobre rochas reservatório:",
    "tipo": "incorreta",

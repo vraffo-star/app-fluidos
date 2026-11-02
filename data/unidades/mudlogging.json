@@ -384,7 +384,7 @@
   },
   {
    "id": "ml-0025",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Sensores",
    "enunciado": "Um aumento significativo da ROP, acompanhado de redução do torque e aumento do gás total, pode indicar:",
    "tipo": "multipla",
@@ -525,7 +525,7 @@
   },
   {
    "id": "ml-0034",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "H2S",
    "enunciado": "Por que o sensor de H2S é posicionado nas peneiras, na plataforma e nas unidades?",
    "tipo": "multipla",
@@ -744,7 +744,7 @@
   },
   {
    "id": "ml-0047",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Bomba triplex",
    "enunciado": "Com Cv = 0,0997 bbl/stroke, quantos strokes são necessários para bombear 200 bbl?",
    "tipo": "multipla",
@@ -760,7 +760,7 @@
   },
   {
    "id": "ml-0048",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Bomba triplex",
    "enunciado": "Para bombear 200 bbl em 25 min com 2.007 strokes, qual a velocidade da bomba?",
    "tipo": "multipla",
@@ -776,7 +776,7 @@
   },
   {
    "id": "ml-0049",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Bomba triplex",
    "enunciado": "Qual o número mínimo de strokes para deslocar 150 bbl com camisa de 6 1/2 pol, curso de 12 pol e eficiência de 97%?",
    "tipo": "multipla",
@@ -792,7 +792,7 @@
   },
   {
    "id": "ml-0050",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Bomba triplex",
    "enunciado": "Ao trocar a camisa da bomba de 6 pol por uma de 5 pol, mantendo curso e eficiência, o que ocorre?",
    "tipo": "multipla",
@@ -984,7 +984,7 @@
   },
   {
    "id": "ml-0062",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Amostras de calha",
    "enunciado": "O aparecimento repentino e em grande quantidade de material estranho (como calcita comercial ou aditivo) na amostra indica:",
    "tipo": "multipla",
@@ -1048,7 +1048,7 @@
   },
   {
    "id": "ml-0066",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Indícios",
    "enunciado": "Fluorescência em mais de 90% dos fragmentos é classificada como:",
    "tipo": "multipla",
@@ -1199,7 +1199,7 @@
   },
   {
    "id": "ml-0076",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Calibração",
    "enunciado": "O sensor de H2S deve ser calibrado em ambiente fechado, para evitar dispersão do gás de calibração.",
    "tipo": "vf",
@@ -1212,7 +1212,7 @@
   },
   {
    "id": "ml-0077",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Mud logging",
    "enunciado": "Assinale a INCORRETA. O mud logging inclui:",
    "tipo": "incorreta",
@@ -1244,7 +1244,7 @@
   },
   {
    "id": "ml-0079",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Gás",
    "enunciado": "Sobre detecção de gás, analise:",
    "tipo": "combinacao",

@@ -1,0 +1,1770 @@
+{
+ "id": "filtracao",
+ "perguntas": [
+  {
+   "id": "fi-0001",
+   "dificuldade": 2,
+   "tema": "Filtração: cálculos",
+   "enunciado": "Num teste API (30 min), já descontado o spurt loss, o volume acumulado foi 3,0 mL em 5 min. Qual o volume aproximado em 30 min (QF = a·√t)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "6,0 mL",
+    "3,3 mL",
+    "18,0 mL",
+    "9,6 mL",
+    "7,3 mL"
+   ],
+   "correta": 4,
+   "explicacao": "a = 3,0/√5 = 1,342; Q30 = a·√30 = 7,3 mL."
+  },
+  {
+   "id": "fi-0002",
+   "dificuldade": 2,
+   "tema": "Filtração: cálculos",
+   "enunciado": "Num teste API (30 min), já descontado o spurt loss, o volume acumulado foi 4,1 mL em 5 min. Qual o volume aproximado em 30 min (QF = a·√t)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "4,5 mL",
+    "10,0 mL",
+    "8,2 mL",
+    "24,6 mL",
+    "13,1 mL"
+   ],
+   "correta": 1,
+   "explicacao": "a = 4,1/√5 = 1,834; Q30 = a·√30 = 10,0 mL."
+  },
+  {
+   "id": "fi-0003",
+   "dificuldade": 2,
+   "tema": "Filtração: cálculos",
+   "enunciado": "Num teste API (30 min), já descontado o spurt loss, o volume acumulado foi 2,5 mL em 5 min. Qual o volume aproximado em 30 min (QF = a·√t)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "2,7 mL",
+    "15,0 mL",
+    "6,1 mL",
+    "8,0 mL",
+    "5,0 mL"
+   ],
+   "correta": 2,
+   "explicacao": "a = 2,5/√5 = 1,118; Q30 = a·√30 = 6,1 mL."
+  },
+  {
+   "id": "fi-0004",
+   "dificuldade": 1,
+   "tema": "Filtração: cálculos",
+   "enunciado": "Num teste API (30 min), já descontado o spurt loss, o volume acumulado foi 4,5 mL em 7,5 min. Qual o volume aproximado em 30 min (QF = a·√t)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "18,0 mL",
+    "9,0 mL",
+    "3,3 mL",
+    "11,7 mL",
+    "11,2 mL"
+   ],
+   "correta": 1,
+   "explicacao": "a = 4,5/√7,5 = 1,643; Q30 = a·√30 = 9,0 mL."
+  },
+  {
+   "id": "fi-0005",
+   "dificuldade": 2,
+   "tema": "Filtração: cálculos",
+   "enunciado": "Num teste API (30 min), já descontado o spurt loss, o volume acumulado foi 2,8 mL em 4 min. Qual o volume aproximado em 30 min (QF = a·√t)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "10,0 mL",
+    "5,6 mL",
+    "3,8 mL",
+    "7,7 mL",
+    "21,0 mL"
+   ],
+   "correta": 3,
+   "explicacao": "a = 2,8/√4 = 1,400; Q30 = a·√30 = 7,7 mL."
+  },
+  {
+   "id": "fi-0006",
+   "dificuldade": 2,
+   "tema": "Filtração: cálculos",
+   "enunciado": "Num teste API (30 min), já descontado o spurt loss, o volume acumulado foi 5,2 mL em 10 min. Qual o volume aproximado em 30 min (QF = a·√t)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "11,7 mL",
+    "9,0 mL",
+    "2,8 mL",
+    "15,6 mL",
+    "10,4 mL"
+   ],
+   "correta": 1,
+   "explicacao": "a = 5,2/√10 = 1,644; Q30 = a·√30 = 9,0 mL."
+  },
+  {
+   "id": "fi-0007",
+   "dificuldade": 2,
+   "tema": "Filtração: cálculos",
+   "enunciado": "Num teste API (30 min), já descontado o spurt loss, o volume acumulado foi 3,6 mL em 6 min. Qual o volume aproximado em 30 min (QF = a·√t)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "7,2 mL",
+    "8,0 mL",
+    "10,5 mL",
+    "3,3 mL",
+    "18,0 mL"
+   ],
+   "correta": 1,
+   "explicacao": "a = 3,6/√6 = 1,470; Q30 = a·√30 = 8,0 mL."
+  },
+  {
+   "id": "fi-0008",
+   "dificuldade": 2,
+   "tema": "Filtração: cálculos",
+   "enunciado": "Num teste API (30 min), já descontado o spurt loss, o volume acumulado foi 3,8 mL em 5 min. Qual o volume aproximado em 30 min (QF = a·√t)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "12,1 mL",
+    "22,8 mL",
+    "7,6 mL",
+    "4,2 mL",
+    "9,3 mL"
+   ],
+   "correta": 4,
+   "explicacao": "a = 3,8/√5 = 1,699; Q30 = a·√30 = 9,3 mL."
+  },
+  {
+   "id": "fi-0009",
+   "dificuldade": 1,
+   "tema": "Filtração: cálculos",
+   "enunciado": "O volume de filtrado acumulado em 7,5 min num ensaio API (sem spurt) foi 3,0 mL. Qual a estimativa do filtrado API de 30 min?",
+   "tipo": "multipla",
+   "alternativas": [
+    "6,0 mL",
+    "4,5 mL",
+    "12,0 mL",
+    "9,0 mL",
+    "9,6 mL"
+   ],
+   "correta": 0,
+   "explicacao": "Q30 = 2 · Q7,5 (√30/√7,5 = 2) = 6,0 mL."
+  },
+  {
+   "id": "fi-0010",
+   "dificuldade": 1,
+   "tema": "Filtração: cálculos",
+   "enunciado": "O volume de filtrado acumulado em 7,5 min num ensaio API (sem spurt) foi 4,5 mL. Qual a estimativa do filtrado API de 30 min?",
+   "tipo": "multipla",
+   "alternativas": [
+    "18,0 mL",
+    "6,8 mL",
+    "13,5 mL",
+    "14,4 mL",
+    "9,0 mL"
+   ],
+   "correta": 4,
+   "explicacao": "Q30 = 2 · Q7,5 (√30/√7,5 = 2) = 9,0 mL."
+  },
+  {
+   "id": "fi-0011",
+   "dificuldade": 1,
+   "tema": "Filtração: cálculos",
+   "enunciado": "O volume de filtrado acumulado em 7,5 min num ensaio API (sem spurt) foi 5,2 mL. Qual a estimativa do filtrado API de 30 min?",
+   "tipo": "multipla",
+   "alternativas": [
+    "7,8 mL",
+    "16,6 mL",
+    "15,6 mL",
+    "10,4 mL",
+    "20,8 mL"
+   ],
+   "correta": 3,
+   "explicacao": "Q30 = 2 · Q7,5 (√30/√7,5 = 2) = 10,4 mL."
+  },
+  {
+   "id": "fi-0012",
+   "dificuldade": 1,
+   "tema": "Filtração: cálculos",
+   "enunciado": "O volume de filtrado acumulado em 7,5 min num ensaio API (sem spurt) foi 6,0 mL. Qual a estimativa do filtrado API de 30 min?",
+   "tipo": "multipla",
+   "alternativas": [
+    "9,0 mL",
+    "19,2 mL",
+    "12,0 mL",
+    "18,0 mL",
+    "24,0 mL"
+   ],
+   "correta": 2,
+   "explicacao": "Q30 = 2 · Q7,5 (√30/√7,5 = 2) = 12,0 mL."
+  },
+  {
+   "id": "fi-0013",
+   "dificuldade": 3,
+   "tema": "Filtração: cálculos",
+   "enunciado": "Em um teste API de filtração estática obtiveram-se 4,2 mL em 4 min e 10,0 mL em 30 min. Qual o spurt loss (Q0)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "1,07 mL",
+    "1,86 mL",
+    "0,86 mL",
+    "2,53 mL",
+    "2,10 mL"
+   ],
+   "correta": 2,
+   "explicacao": "a = (10,0 − 4,2)/(√30 − √4) = 1,668; Q0 = 4,2 − 1,668·√4 = 0,86 mL."
+  },
+  {
+   "id": "fi-0014",
+   "dificuldade": 3,
+   "tema": "Filtração: cálculos",
+   "enunciado": "Em um teste API de filtração estática obtiveram-se 4,2 mL em 4 min e 10,0 mL em 30 min. Qual o coeficiente de filtração a (mL/min^0,5)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "2,10 mL/min^0,5",
+    "1,83 mL/min^0,5",
+    "1,67 mL/min^0,5",
+    "2,34 mL/min^0,5",
+    "0,67 mL/min^0,5"
+   ],
+   "correta": 2,
+   "explicacao": "a = (Q2 − Q1)/(√t2 − √t1) = 5,8/3,477 = 1,668."
+  },
+  {
+   "id": "fi-0015",
+   "dificuldade": 3,
+   "tema": "Filtração: cálculos",
+   "enunciado": "Em um teste API de filtração estática obtiveram-se 4,2 mL em 4 min e 10,0 mL em 30 min. Qual o volume acumulado em 1 hora?",
+   "tipo": "multipla",
+   "alternativas": [
+    "12,9 mL",
+    "17,2 mL",
+    "20,0 mL",
+    "12,0 mL",
+    "13,8 mL"
+   ],
+   "correta": 4,
+   "explicacao": "QF = 1,668·√t + 0,86. Q60 = 1,668·√60 + 0,86 = 13,8 mL."
+  },
+  {
+   "id": "fi-0016",
+   "dificuldade": 3,
+   "tema": "Filtração: cálculos",
+   "enunciado": "Em um teste API de filtração estática obtiveram-se 4,0 mL em 4 min e 10,0 mL em 30 min. Qual o spurt loss (Q0)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "2,00 mL",
+    "0,55 mL",
+    "0,69 mL",
+    "1,29 mL",
+    "0,44 mL"
+   ],
+   "correta": 1,
+   "explicacao": "a = (10,0 − 4,0)/(√30 − √4) = 1,726; Q0 = 4,0 − 1,726·√4 = 0,55 mL."
+  },
+  {
+   "id": "fi-0017",
+   "dificuldade": 3,
+   "tema": "Filtração: cálculos",
+   "enunciado": "Em um teste API de filtração estática obtiveram-se 4,0 mL em 4 min e 10,0 mL em 30 min. Qual o coeficiente de filtração a (mL/min^0,5)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "2,42 mL/min^0,5",
+    "1,83 mL/min^0,5",
+    "1,73 mL/min^0,5",
+    "0,69 mL/min^0,5",
+    "2,00 mL/min^0,5"
+   ],
+   "correta": 2,
+   "explicacao": "a = (Q2 − Q1)/(√t2 − √t1) = 6,0/3,477 = 1,726."
+  },
+  {
+   "id": "fi-0018",
+   "dificuldade": 3,
+   "tema": "Filtração: cálculos",
+   "enunciado": "Em um teste API de filtração estática obtiveram-se 4,0 mL em 4 min e 10,0 mL em 30 min. Qual o volume acumulado em 1 hora?",
+   "tipo": "multipla",
+   "alternativas": [
+    "11,1 mL",
+    "12,0 mL",
+    "13,9 mL",
+    "20,0 mL",
+    "17,4 mL"
+   ],
+   "correta": 2,
+   "explicacao": "QF = 1,726·√t + 0,55. Q60 = 1,726·√60 + 0,55 = 13,9 mL."
+  },
+  {
+   "id": "fi-0019",
+   "dificuldade": 3,
+   "tema": "Filtração: cálculos",
+   "enunciado": "Em um teste API de filtração estática obtiveram-se 3,2 mL em 5 min e 8,5 mL em 30 min. Qual o spurt loss (Q0)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "-0,37 mL",
+    "-0,58 mL",
+    "-0,46 mL",
+    "-0,69 mL",
+    "-0,31 mL"
+   ],
+   "correta": 2,
+   "explicacao": "a = (8,5 − 3,2)/(√30 − √5) = 1,635; Q0 = 3,2 − 1,635·√5 = -0,46 mL."
+  },
+  {
+   "id": "fi-0020",
+   "dificuldade": 3,
+   "tema": "Filtração: cálculos",
+   "enunciado": "Em um teste API de filtração estática obtiveram-se 3,2 mL em 5 min e 8,5 mL em 30 min. Qual o coeficiente de filtração a (mL/min^0,5)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "1,55 mL/min^0,5",
+    "1,43 mL/min^0,5",
+    "1,64 mL/min^0,5",
+    "0,64 mL/min^0,5",
+    "2,29 mL/min^0,5"
+   ],
+   "correta": 2,
+   "explicacao": "a = (Q2 − Q1)/(√t2 − √t1) = 5,3/3,241 = 1,635."
+  },
+  {
+   "id": "fi-0021",
+   "dificuldade": 3,
+   "tema": "Filtração: cálculos",
+   "enunciado": "Em um teste API de filtração estática obtiveram-se 3,2 mL em 5 min e 8,5 mL em 30 min. Qual o volume acumulado em 1 hora?",
+   "tipo": "multipla",
+   "alternativas": [
+    "12,2 mL",
+    "9,8 mL",
+    "17,0 mL",
+    "10,2 mL",
+    "15,2 mL"
+   ],
+   "correta": 0,
+   "explicacao": "QF = 1,635·√t + -0,46. Q60 = 1,635·√60 + -0,46 = 12,2 mL."
+  },
+  {
+   "id": "fi-0022",
+   "dificuldade": 3,
+   "tema": "Filtração: cálculos",
+   "enunciado": "Em um teste API de filtração estática obtiveram-se 3,6 mL em 4 min e 9,2 mL em 30 min. Qual o spurt loss (Q0)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,47 mL",
+    "0,38 mL",
+    "0,30 mL",
+    "0,98 mL",
+    "0,57 mL"
+   ],
+   "correta": 1,
+   "explicacao": "a = (9,2 − 3,6)/(√30 − √4) = 1,610; Q0 = 3,6 − 1,610·√4 = 0,38 mL."
+  },
+  {
+   "id": "fi-0023",
+   "dificuldade": 3,
+   "tema": "Filtração: cálculos",
+   "enunciado": "Em um teste API de filtração estática obtiveram-se 3,6 mL em 4 min e 9,2 mL em 30 min. Qual o coeficiente de filtração a (mL/min^0,5)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "1,80 mL/min^0,5",
+    "2,25 mL/min^0,5",
+    "1,61 mL/min^0,5",
+    "0,65 mL/min^0,5",
+    "1,68 mL/min^0,5"
+   ],
+   "correta": 2,
+   "explicacao": "a = (Q2 − Q1)/(√t2 − √t1) = 5,6/3,477 = 1,610."
+  },
+  {
+   "id": "fi-0024",
+   "dificuldade": 3,
+   "tema": "Filtração: cálculos",
+   "enunciado": "Em um teste API de filtração estática obtiveram-se 3,6 mL em 4 min e 9,2 mL em 30 min. Qual o volume acumulado em 1 hora?",
+   "tipo": "multipla",
+   "alternativas": [
+    "12,9 mL",
+    "16,1 mL",
+    "11,0 mL",
+    "10,3 mL",
+    "18,4 mL"
+   ],
+   "correta": 0,
+   "explicacao": "QF = 1,610·√t + 0,38. Q60 = 1,610·√60 + 0,38 = 12,9 mL."
+  },
+  {
+   "id": "fi-0025",
+   "dificuldade": 3,
+   "tema": "Filtração: cálculos",
+   "enunciado": "Em um teste API de filtração estática obtiveram-se 5,0 mL em 4 min e 11,6 mL em 30 min. Qual o spurt loss (Q0)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "3,10 mL",
+    "1,20 mL",
+    "1,50 mL",
+    "2,50 mL",
+    "2,47 mL"
+   ],
+   "correta": 1,
+   "explicacao": "a = (11,6 − 5,0)/(√30 − √4) = 1,898; Q0 = 5,0 − 1,898·√4 = 1,20 mL."
+  },
+  {
+   "id": "fi-0026",
+   "dificuldade": 3,
+   "tema": "Filtração: cálculos",
+   "enunciado": "Em um teste API de filtração estática obtiveram-se 5,0 mL em 4 min e 11,6 mL em 30 min. Qual o coeficiente de filtração a (mL/min^0,5)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,76 mL/min^0,5",
+    "2,50 mL/min^0,5",
+    "1,90 mL/min^0,5",
+    "2,12 mL/min^0,5",
+    "2,66 mL/min^0,5"
+   ],
+   "correta": 2,
+   "explicacao": "a = (Q2 − Q1)/(√t2 − √t1) = 6,6/3,477 = 1,898."
+  },
+  {
+   "id": "fi-0027",
+   "dificuldade": 3,
+   "tema": "Filtração: cálculos",
+   "enunciado": "Em um teste API de filtração estática obtiveram-se 5,0 mL em 4 min e 11,6 mL em 30 min. Qual o volume acumulado em 1 hora?",
+   "tipo": "multipla",
+   "alternativas": [
+    "23,2 mL",
+    "15,9 mL",
+    "14,7 mL",
+    "19,9 mL",
+    "13,9 mL"
+   ],
+   "correta": 1,
+   "explicacao": "QF = 1,898·√t + 1,20. Q60 = 1,898·√60 + 1,20 = 15,9 mL."
+  },
+  {
+   "id": "fi-0028",
+   "dificuldade": 3,
+   "tema": "Filtração: cálculos",
+   "enunciado": "Em um teste API de filtração estática obtiveram-se 4,0 mL em 5 min e 9,5 mL em 30 min. Qual o spurt loss (Q0)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,26 mL",
+    "0,67 mL",
+    "0,21 mL",
+    "0,17 mL",
+    "0,32 mL"
+   ],
+   "correta": 2,
+   "explicacao": "a = (9,5 − 4,0)/(√30 − √5) = 1,697; Q0 = 4,0 − 1,697·√5 = 0,21 mL."
+  },
+  {
+   "id": "fi-0029",
+   "dificuldade": 3,
+   "tema": "Filtração: cálculos",
+   "enunciado": "Em um teste API de filtração estática obtiveram-se 4,0 mL em 5 min e 9,5 mL em 30 min. Qual o coeficiente de filtração a (mL/min^0,5)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,66 mL/min^0,5",
+    "2,38 mL/min^0,5",
+    "1,79 mL/min^0,5",
+    "1,70 mL/min^0,5",
+    "2,12 mL/min^0,5"
+   ],
+   "correta": 3,
+   "explicacao": "a = (Q2 − Q1)/(√t2 − √t1) = 5,5/3,241 = 1,697."
+  },
+  {
+   "id": "fi-0030",
+   "dificuldade": 3,
+   "tema": "Filtração: cálculos",
+   "enunciado": "Em um teste API de filtração estática obtiveram-se 4,0 mL em 5 min e 9,5 mL em 30 min. Qual o volume acumulado em 1 hora?",
+   "tipo": "multipla",
+   "alternativas": [
+    "10,6 mL",
+    "16,6 mL",
+    "11,4 mL",
+    "13,3 mL",
+    "19,0 mL"
+   ],
+   "correta": 3,
+   "explicacao": "QF = 1,697·√t + 0,21. Q60 = 1,697·√60 + 0,21 = 13,3 mL."
+  },
+  {
+   "id": "fi-0031",
+   "dificuldade": 3,
+   "tema": "Filtração: cálculos",
+   "enunciado": "Em um teste API de filtração estática obtiveram-se 2,8 mL em 4 min e 7,6 mL em 30 min. Qual o spurt loss (Q0)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,04 mL",
+    "0,08 mL",
+    "0,06 mL",
+    "0,05 mL",
+    "0,03 mL"
+   ],
+   "correta": 0,
+   "explicacao": "a = (7,6 − 2,8)/(√30 − √4) = 1,380; Q0 = 2,8 − 1,380·√4 = 0,04 mL."
+  },
+  {
+   "id": "fi-0032",
+   "dificuldade": 3,
+   "tema": "Filtração: cálculos",
+   "enunciado": "Em um teste API de filtração estática obtiveram-se 2,8 mL em 4 min e 7,6 mL em 30 min. Qual o coeficiente de filtração a (mL/min^0,5)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "1,72 mL/min^0,5",
+    "1,38 mL/min^0,5",
+    "0,55 mL/min^0,5",
+    "1,93 mL/min^0,5",
+    "1,10 mL/min^0,5"
+   ],
+   "correta": 1,
+   "explicacao": "a = (Q2 − Q1)/(√t2 − √t1) = 4,8/3,477 = 1,380."
+  },
+  {
+   "id": "fi-0033",
+   "dificuldade": 3,
+   "tema": "Filtração: cálculos",
+   "enunciado": "Em um teste API de filtração estática obtiveram-se 2,8 mL em 4 min e 7,6 mL em 30 min. Qual o volume acumulado em 1 hora?",
+   "tipo": "multipla",
+   "alternativas": [
+    "8,6 mL",
+    "10,7 mL",
+    "15,2 mL",
+    "13,4 mL",
+    "9,1 mL"
+   ],
+   "correta": 1,
+   "explicacao": "QF = 1,380·√t + 0,04. Q60 = 1,380·√60 + 0,04 = 10,7 mL."
+  },
+  {
+   "id": "fi-0034",
+   "dificuldade": 3,
+   "tema": "Filtração: cálculos",
+   "enunciado": "Em um teste API de filtração estática obtiveram-se 6,0 mL em 4 min e 12,6 mL em 30 min. Qual o spurt loss (Q0)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "4,10 mL",
+    "2,20 mL",
+    "4,27 mL",
+    "2,75 mL",
+    "3,00 mL"
+   ],
+   "correta": 1,
+   "explicacao": "a = (12,6 − 6,0)/(√30 − √4) = 1,898; Q0 = 6,0 − 1,898·√4 = 2,20 mL."
+  },
+  {
+   "id": "fi-0035",
+   "dificuldade": 3,
+   "tema": "Filtração: cálculos",
+   "enunciado": "Em um teste API de filtração estática obtiveram-se 6,0 mL em 4 min e 12,6 mL em 30 min. Qual o coeficiente de filtração a (mL/min^0,5)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "3,00 mL/min^0,5",
+    "2,66 mL/min^0,5",
+    "2,30 mL/min^0,5",
+    "1,90 mL/min^0,5",
+    "0,76 mL/min^0,5"
+   ],
+   "correta": 3,
+   "explicacao": "a = (Q2 − Q1)/(√t2 − √t1) = 6,6/3,477 = 1,898."
+  },
+  {
+   "id": "fi-0036",
+   "dificuldade": 3,
+   "tema": "Filtração: cálculos",
+   "enunciado": "Em um teste API de filtração estática obtiveram-se 6,0 mL em 4 min e 12,6 mL em 30 min. Qual o volume acumulado em 1 hora?",
+   "tipo": "multipla",
+   "alternativas": [
+    "16,9 mL",
+    "14,7 mL",
+    "15,1 mL",
+    "21,1 mL",
+    "25,2 mL"
+   ],
+   "correta": 0,
+   "explicacao": "QF = 1,898·√t + 2,20. Q60 = 1,898·√60 + 2,20 = 16,9 mL."
+  },
+  {
+   "id": "fi-0037",
+   "dificuldade": 3,
+   "tema": "Filtração: cálculos",
+   "enunciado": "Em um ensaio API-BTBP obtiveram-se 4 mL em 4 min e 10 mL em 30 min. Qual a equação da filtração estática (aprox.)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "QF = 1,72 + 0,56·√t",
+    "QF = 4 + 10·√t",
+    "QF = 0,56·√t + 1,72",
+    "QF = 0,56 + 1,72·√t",
+    "QF = 10 + 0,5·√t"
+   ],
+   "correta": 3,
+   "explicacao": "a = (10 − 4)/(√30 − √4) = 6/3,477 = 1,72; Q0 = 4 − 1,72·2 = 0,56 mL."
+  },
+  {
+   "id": "fi-0038",
+   "dificuldade": 1,
+   "tema": "Filtração: cálculos",
+   "enunciado": "No ensaio HPHT, com meia área de filtro API, coletou-se 6,0 mL em 30 min. Qual o filtrado HPHT a reportar?",
+   "tipo": "multipla",
+   "alternativas": [
+    "3,0 mL",
+    "24,0 mL",
+    "6,0 mL",
+    "12,0 mL",
+    "9,0 mL"
+   ],
+   "correta": 3,
+   "explicacao": "O filtro HPHT tem metade da área do API; o volume coletado é multiplicado por 2: 6,0 × 2 = 12,0 mL."
+  },
+  {
+   "id": "fi-0039",
+   "dificuldade": 1,
+   "tema": "Filtração: cálculos",
+   "enunciado": "No ensaio HPHT, com meia área de filtro API, coletou-se 7,5 mL em 30 min. Qual o filtrado HPHT a reportar?",
+   "tipo": "multipla",
+   "alternativas": [
+    "7,5 mL",
+    "11,2 mL",
+    "15,0 mL",
+    "30,0 mL",
+    "3,8 mL"
+   ],
+   "correta": 2,
+   "explicacao": "O filtro HPHT tem metade da área do API; o volume coletado é multiplicado por 2: 7,5 × 2 = 15,0 mL."
+  },
+  {
+   "id": "fi-0040",
+   "dificuldade": 1,
+   "tema": "Filtração: cálculos",
+   "enunciado": "No ensaio HPHT, com meia área de filtro API, coletou-se 9,0 mL em 30 min. Qual o filtrado HPHT a reportar?",
+   "tipo": "multipla",
+   "alternativas": [
+    "9,0 mL",
+    "4,5 mL",
+    "36,0 mL",
+    "13,5 mL",
+    "18,0 mL"
+   ],
+   "correta": 4,
+   "explicacao": "O filtro HPHT tem metade da área do API; o volume coletado é multiplicado por 2: 9,0 × 2 = 18,0 mL."
+  },
+  {
+   "id": "fi-0041",
+   "dificuldade": 1,
+   "tema": "Filtração: cálculos",
+   "enunciado": "No ensaio HPHT, com meia área de filtro API, coletou-se 5,0 mL em 30 min. Qual o filtrado HPHT a reportar?",
+   "tipo": "multipla",
+   "alternativas": [
+    "2,5 mL",
+    "5,0 mL",
+    "7,5 mL",
+    "10,0 mL",
+    "20,0 mL"
+   ],
+   "correta": 3,
+   "explicacao": "O filtro HPHT tem metade da área do API; o volume coletado é multiplicado por 2: 5,0 × 2 = 10,0 mL."
+  },
+  {
+   "id": "fi-0042",
+   "dificuldade": 3,
+   "tema": "Filtração: cálculos",
+   "enunciado": "Em condições ideais (reboco incompressível), um fluido filtra 6,0 mL com ΔP = 100 psi. Qual o filtrado com ΔP = 400 psi no mesmo tempo (Qf ∝ ΔP^0,5)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "24,0 mL",
+    "15,0 mL",
+    "15,6 mL",
+    "12,0 mL",
+    "3,0 mL"
+   ],
+   "correta": 3,
+   "explicacao": "Qf ∝ √ΔP: 6,0 × √(400/100) = 12,0 mL. Na prática, com reboco compressível, o expoente é menor que 0,5."
+  },
+  {
+   "id": "fi-0043",
+   "dificuldade": 3,
+   "tema": "Filtração: cálculos",
+   "enunciado": "Em condições ideais (reboco incompressível), um fluido filtra 5,0 mL com ΔP = 100 psi. Qual o filtrado com ΔP = 500 psi no mesmo tempo (Qf ∝ ΔP^0,5)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "11,2 mL",
+    "14,5 mL",
+    "9,0 mL",
+    "25,0 mL",
+    "14,0 mL"
+   ],
+   "correta": 0,
+   "explicacao": "Qf ∝ √ΔP: 5,0 × √(500/100) = 11,2 mL. Na prática, com reboco compressível, o expoente é menor que 0,5."
+  },
+  {
+   "id": "fi-0044",
+   "dificuldade": 3,
+   "tema": "Filtração: cálculos",
+   "enunciado": "Em condições ideais (reboco incompressível), um fluido filtra 4,0 mL com ΔP = 100 psi. Qual o filtrado com ΔP = 900 psi no mesmo tempo (Qf ∝ ΔP^0,5)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "15,0 mL",
+    "9,6 mL",
+    "12,0 mL",
+    "36,0 mL",
+    "15,6 mL"
+   ],
+   "correta": 2,
+   "explicacao": "Qf ∝ √ΔP: 4,0 × √(900/100) = 12,0 mL. Na prática, com reboco compressível, o expoente é menor que 0,5."
+  },
+  {
+   "id": "fi-0045",
+   "dificuldade": 3,
+   "tema": "Filtração: cálculos",
+   "enunciado": "Em condições ideais (reboco incompressível), um fluido filtra 8,0 mL com ΔP = 200 psi. Qual o filtrado com ΔP = 800 psi no mesmo tempo (Qf ∝ ΔP^0,5)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "16,0 mL",
+    "20,0 mL",
+    "20,8 mL",
+    "4,0 mL",
+    "32,0 mL"
+   ],
+   "correta": 0,
+   "explicacao": "Qf ∝ √ΔP: 8,0 × √(800/200) = 16,0 mL. Na prática, com reboco compressível, o expoente é menor que 0,5."
+  },
+  {
+   "id": "fi-0046",
+   "dificuldade": 3,
+   "tema": "Filtração: cálculos",
+   "enunciado": "Um fluido apresenta 10,0 mL de filtrado com viscosidade de 20 cP no filtrado. Com a viscosidade de 80 cP, mantidos os demais fatores, qual o filtrado (Qf ∝ 1/μ^0,5)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "6,5 mL",
+    "20,0 mL",
+    "6,2 mL",
+    "2,5 mL",
+    "5,0 mL"
+   ],
+   "correta": 4,
+   "explicacao": "Qf ∝ μ^−0,5: 10,0 × √(20/80) = 5,0 mL."
+  },
+  {
+   "id": "fi-0047",
+   "dificuldade": 3,
+   "tema": "Filtração: cálculos",
+   "enunciado": "Um fluido apresenta 12,0 mL de filtrado com viscosidade de 10 cP no filtrado. Com a viscosidade de 40 cP, mantidos os demais fatores, qual o filtrado (Qf ∝ 1/μ^0,5)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "7,5 mL",
+    "3,0 mL",
+    "24,0 mL",
+    "7,8 mL",
+    "6,0 mL"
+   ],
+   "correta": 4,
+   "explicacao": "Qf ∝ μ^−0,5: 12,0 × √(10/40) = 6,0 mL."
+  },
+  {
+   "id": "fi-0048",
+   "dificuldade": 3,
+   "tema": "Filtração: cálculos",
+   "enunciado": "Um fluido apresenta 8,0 mL de filtrado com viscosidade de 25 cP no filtrado. Com a viscosidade de 100 cP, mantidos os demais fatores, qual o filtrado (Qf ∝ 1/μ^0,5)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "5,0 mL",
+    "4,0 mL",
+    "5,2 mL",
+    "16,0 mL",
+    "2,0 mL"
+   ],
+   "correta": 1,
+   "explicacao": "Qf ∝ μ^−0,5: 8,0 × √(25/100) = 4,0 mL."
+  },
+  {
+   "id": "fi-0049",
+   "dificuldade": 3,
+   "tema": "Filtração: cálculos",
+   "enunciado": "Um fluido apresenta 9,0 mL de filtrado com viscosidade de 15 cP no filtrado. Com a viscosidade de 60 cP, mantidos os demais fatores, qual o filtrado (Qf ∝ 1/μ^0,5)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "4,5 mL",
+    "5,9 mL",
+    "5,6 mL",
+    "2,2 mL",
+    "18,0 mL"
+   ],
+   "correta": 0,
+   "explicacao": "Qf ∝ μ^−0,5: 9,0 × √(15/60) = 4,5 mL."
+  },
+  {
+   "id": "fi-0050",
+   "dificuldade": 3,
+   "tema": "Filtração: cálculos",
+   "enunciado": "Em condições idênticas, um filtro de 45,0 cm² coleta 8,0 mL. Quanto coletaria um filtro de 22,5 cm² (Qf ∝ A, pois Qf² ∝ A²)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "5,0 mL",
+    "8,0 mL",
+    "2,0 mL",
+    "4,0 mL",
+    "6,0 mL"
+   ],
+   "correta": 3,
+   "explicacao": "Da equação fundamental, Qf ∝ A. Razão de áreas = 0,50; Qf = 4,0 mL."
+  },
+  {
+   "id": "fi-0051",
+   "dificuldade": 3,
+   "tema": "Filtração: cálculos",
+   "enunciado": "Em condições idênticas, um filtro de 45,0 cm² coleta 6,0 mL. Quanto coletaria um filtro de 90,0 cm² (Qf ∝ A, pois Qf² ∝ A²)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "24,0 mL",
+    "15,0 mL",
+    "12,0 mL",
+    "6,0 mL",
+    "18,0 mL"
+   ],
+   "correta": 2,
+   "explicacao": "Da equação fundamental, Qf ∝ A. Razão de áreas = 2,00; Qf = 12,0 mL."
+  },
+  {
+   "id": "fi-0052",
+   "dificuldade": 2,
+   "tema": "Poder de retenção",
+   "enunciado": "Dois fluidos com mesma concentração de controlador de filtrado, 100 psi, temperatura ambiente e 30 min. O fluido A filtrou 12 mL e o B, 8 mL. Qual a conclusão correta?",
+   "tipo": "multipla",
+   "alternativas": [
+    "O fluido A tem maior poder de retenção, pois tem o menor volume de filtrado",
+    "O fluido B tem maior poder de retenção, pois tem o menor volume de filtrado acumulado",
+    "O fluido B tem maior poder de retenção, pois tem o maior volume de filtrado acumulado",
+    "Os dois têm o mesmo poder de retenção",
+    "O fluido A tem maior poder de retenção, pois forma reboco mais espesso"
+   ],
+   "correta": 1,
+   "explicacao": "R = QL/Qf: quanto menor o filtrado cedido, maior o poder de retenção."
+  },
+  {
+   "id": "fi-0053",
+   "dificuldade": 2,
+   "tema": "Poder de retenção",
+   "enunciado": "Dois fluidos com mesma concentração de controlador de filtrado, 100 psi, temperatura ambiente e 30 min. O fluido A filtrou 9 mL e o B, 14 mL. Qual a conclusão correta?",
+   "tipo": "multipla",
+   "alternativas": [
+    "O fluido A tem maior poder de retenção, pois tem o maior volume de filtrado acumulado",
+    "O fluido B tem maior poder de retenção, pois tem o menor volume de filtrado",
+    "Os dois têm o mesmo poder de retenção",
+    "O fluido A tem maior poder de retenção, pois tem o menor volume de filtrado acumulado",
+    "O fluido B tem maior poder de retenção, pois forma reboco mais espesso"
+   ],
+   "correta": 3,
+   "explicacao": "R = QL/Qf: quanto menor o filtrado cedido, maior o poder de retenção."
+  },
+  {
+   "id": "fi-0054",
+   "dificuldade": 2,
+   "tema": "Poder de retenção",
+   "enunciado": "Dois fluidos com mesma concentração de controlador de filtrado, 100 psi, temperatura ambiente e 30 min. O fluido A filtrou 6 mL e o B, 10 mL. Qual a conclusão correta?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Os dois têm o mesmo poder de retenção",
+    "O fluido B tem maior poder de retenção, pois forma reboco mais espesso",
+    "O fluido B tem maior poder de retenção, pois tem o menor volume de filtrado",
+    "O fluido A tem maior poder de retenção, pois tem o menor volume de filtrado acumulado",
+    "O fluido A tem maior poder de retenção, pois tem o maior volume de filtrado acumulado"
+   ],
+   "correta": 3,
+   "explicacao": "R = QL/Qf: quanto menor o filtrado cedido, maior o poder de retenção."
+  },
+  {
+   "id": "fi-0055",
+   "dificuldade": 1,
+   "tema": "Fundamentos de filtração",
+   "enunciado": "O que é filtração, no contexto de perfuração?",
+   "tipo": "multipla",
+   "alternativas": [
+    "A subida do gás pelo anular",
+    "A perda do fluido inteiro para fraturas",
+    "A passagem de sólidos para a formação, sem formar reboco",
+    "A remoção de sólidos nas peneiras",
+    "A invasão da fase líquida do fluido na formação permeável, por causa do diferencial de pressão positivo (poço > formação), com depósito do reboco na parede"
+   ],
+   "correta": 4,
+   "explicacao": "O reboco é a camada de partículas sólidas úmidas depositada nas paredes do poço; a invasão da fase líquida seguida do depósito é a filtração."
+  },
+  {
+   "id": "fi-0056",
+   "dificuldade": 1,
+   "tema": "Fundamentos de filtração",
+   "enunciado": "Quais os dois parâmetros medidos rotineiramente para avaliar a filtração do fluido?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Densidade e pH",
+    "Volume de filtrado e espessura do reboco",
+    "Teor de areia e MBT",
+    "Temperatura e pressão do poço",
+    "Viscosidade e salinidade"
+   ],
+   "correta": 1,
+   "explicacao": "O ensaio mede o volume de filtrado em 30 min e a espessura do reboco (em 1/32\") depositado sobre o papel de filtro."
+  },
+  {
+   "id": "fi-0057",
+   "dificuldade": 1,
+   "tema": "Fundamentos de filtração",
+   "enunciado": "Em que condições a filtração é considerada 'estática'?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Fluido sem circulação, quando o reboco cresce continuamente a uma taxa decrescente e a taxa de filtração diminui com o tempo",
+    "Apenas em poço revestido",
+    "Fluido em circulação, com reboco de espessura constante",
+    "Fluido em qualquer condição, com taxa constante",
+    "Fluido com reboco que cresce a taxa exponencial"
+   ],
+   "correta": 0,
+   "explicacao": "Na filtração estática (ex.: perfilagem em poço aberto, parada) o reboco engrossa e a taxa cai com o tempo."
+  },
+  {
+   "id": "fi-0058",
+   "dificuldade": 1,
+   "tema": "Fundamentos de filtração",
+   "enunciado": "Em que condições a filtração é 'dinâmica' e qual o comportamento do reboco?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Apenas em poços de gás",
+    "Durante a circulação; a erosão do fluxo limita o crescimento e o reboco atinge espessura constante, com taxa de filtração tendendo a se manter constante",
+    "Sem circulação; o reboco cresce sem limite",
+    "Não ocorre formação de reboco",
+    "Durante a circulação; o reboco cresce indefinidamente"
+   ],
+   "correta": 1,
+   "explicacao": "Na dinâmica há equilíbrio entre deposição e erosão. A taxa de filtração dinâmica é maior que a estática."
+  },
+  {
+   "id": "fi-0059",
+   "dificuldade": 2,
+   "tema": "Fundamentos de filtração",
+   "enunciado": "Por que os ensaios API usam condições estáticas?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque a taxa dinâmica é menor",
+    "Porque o poço nunca circula",
+    "Porque a pressão é desprezível",
+    "Porque o reboco não se forma sob circulação",
+    "Porque são padronizados, simples e reprodutíveis, mesmo que a taxa dinâmica real seja maior que a estática"
+   ],
+   "correta": 4,
+   "explicacao": "A caracterização de filtração dos fluidos é feita sob condições estáticas padronizadas pela API (RP 13B)."
+  },
+  {
+   "id": "fi-0060",
+   "dificuldade": 1,
+   "tema": "Fundamentos de filtração",
+   "enunciado": "A taxa de filtração dinâmica é maior que a taxa de filtração estática.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "Na dinâmica o reboco é erodido e permanece fino; por isso a taxa não decai como na estática."
+  },
+  {
+   "id": "fi-0061",
+   "dificuldade": 1,
+   "tema": "Fundamentos de filtração",
+   "enunciado": "Quando o poço está sobrebalanceado, há invasão da fase líquida do fluido na formação permeável.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "O diferencial positivo (pressão do poço > pressão de poros) promove a filtração e a formação do reboco."
+  },
+  {
+   "id": "fi-0062",
+   "dificuldade": 2,
+   "tema": "Fundamentos de filtração",
+   "enunciado": "Em uma operação de perfilagem em poço aberto (condição estática), como se comportam o reboco e a taxa de filtração?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Não há formação de reboco",
+    "O reboco cresce a taxa decrescente e a taxa de filtração diminui com o tempo",
+    "O reboco decresce e a taxa aumenta",
+    "O reboco cresce exponencialmente e a taxa é constante",
+    "O reboco é limitado pela erosão e a taxa é constante"
+   ],
+   "correta": 1,
+   "explicacao": "Sem circulação não há erosão do reboco: ele cresce, mas cada vez mais devagar."
+  },
+  {
+   "id": "fi-0063",
+   "dificuldade": 2,
+   "tema": "Fundamentos de filtração",
+   "enunciado": "Numa perfuração com alta vazão, como se comportam o reboco e a filtração?",
+   "tipo": "multipla",
+   "alternativas": [
+    "O crescimento do reboco é limitado pela erosão do escoamento: atinge espessura constante e a taxa de filtração tende a ser constante",
+    "O reboco é impermeável e não deixa filtrar",
+    "Não há reboco e a filtração é nula",
+    "O reboco decresce e a taxa aumenta com o tempo",
+    "O reboco cresce continuamente com a taxa aumentando"
+   ],
+   "correta": 0,
+   "explicacao": "É a filtração dinâmica, em que a deposição se iguala à erosão."
+  },
+  {
+   "id": "fi-0064",
+   "dificuldade": 2,
+   "tema": "Poder de retenção",
+   "enunciado": "Como se define o poder de retenção de um fluido?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Diferença entre pressão do poço e da formação",
+    "Quantidade de barita retida na peneira",
+    "Relação entre sólidos e líquido na retorta",
+    "Relação entre o volume de fase dispersante por unidade de volume de fluido e o volume dessa fase cedido (filtrado) sob certas pressão, temperatura e tempo",
+    "Volume de reboco formado"
+   ],
+   "correta": 3,
+   "explicacao": "R = QL/Qf. Quanto menor o filtrado, maior o poder de retenção."
+  },
+  {
+   "id": "fi-0065",
+   "dificuldade": 1,
+   "tema": "Poder de retenção",
+   "enunciado": "O que indica um poder de retenção elevado?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Fluido muito denso",
+    "Fluido que cede pouco filtrado, com bom controle de filtração",
+    "Fluido com baixa viscosidade",
+    "Fluido que cede muito filtrado",
+    "Fluido sem sólidos"
+   ],
+   "correta": 1,
+   "explicacao": "R = QL/Qf: o denominador (filtrado) pequeno resulta em R alto."
+  },
+  {
+   "id": "fi-0066",
+   "dificuldade": 2,
+   "tema": "Equação da filtração estática",
+   "enunciado": "Qual é a equação fundamental da filtração estática axial?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Qf = K·A·μ/ΔP",
+    "Qf² = ΔP·μ·C/t",
+    "Qf² = K·(2·A²·ΔP/(μ·C))·t",
+    "Qf = 0,052·ρ·h",
+    "Qf = K·ΔP/μ"
+   ],
+   "correta": 2,
+   "explicacao": "Combina a lei de Darcy (q = k·A·ΔP/(μ·e)), a espessura do reboco e = C·Qf/A (reboco ∝ filtrado) e a integração em t."
+  },
+  {
+   "id": "fi-0067",
+   "dificuldade": 2,
+   "tema": "Equação da filtração estática",
+   "enunciado": "Quais as hipóteses da filtração estática axial com a lei de Darcy?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Fluido Newtoniano em poço horizontal",
+    "Reboco muito compressível e permeabilidade variável",
+    "Reboco incompressível (porosidade praticamente constante) e sem sedimentação natural; volume de reboco proporcional ao volume de filtrado",
+    "Fluxo radial com poço circulando",
+    "Reboco de espessura constante e filtração dinâmica"
+   ],
+   "correta": 2,
+   "explicacao": "Assim Qr = C·Qf e e = C·Qf/A, o que leva à relação entre Qf² e t."
+  },
+  {
+   "id": "fi-0068",
+   "dificuldade": 2,
+   "tema": "Equação da filtração estática",
+   "enunciado": "Segundo a equação fundamental, como o volume de filtrado varia com o tempo?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Proporcional à raiz quadrada do tempo",
+    "Exponencialmente",
+    "Com o quadrado do tempo",
+    "É constante",
+    "Linearmente com o tempo"
+   ],
+   "correta": 0,
+   "explicacao": "Qf² ∝ t → Qf ∝ √t. Por isso se estima Q30 a partir de Q7,5: Q30 = 2·Q7,5."
+  },
+  {
+   "id": "fi-0069",
+   "dificuldade": 2,
+   "tema": "Equação da filtração estática",
+   "enunciado": "Qual a expressão linear usada para a filtração estática, com o termo corretivo?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Qf = a·t + Q0",
+    "Qf = a·t²",
+    "Qf = a·ΔP",
+    "Qf = Q0/√t",
+    "Qf = a·√t + Q0, em que Q0 é o filtrado inicial (spurt loss) e a, o coeficiente de filtração"
+   ],
+   "correta": 4,
+   "explicacao": "O spurt loss reúne o volume que filtra nas etapas iniciais, antes de o reboco se formar."
+  },
+  {
+   "id": "fi-0070",
+   "dificuldade": 1,
+   "tema": "Equação da filtração estática",
+   "enunciado": "O que é o spurt loss (perda inicial)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "O filtrado HPHT",
+    "O volume total em 30 min",
+    "O volume de filtrado nos instantes iniciais, antes da formação do reboco efetivo",
+    "A perda de circulação total",
+    "O volume retido no reboco"
+   ],
+   "correta": 2,
+   "explicacao": "Q0 é o intercepto do gráfico Qf × √t."
+  },
+  {
+   "id": "fi-0071",
+   "dificuldade": 3,
+   "tema": "Equação da filtração estática",
+   "enunciado": "Quais as duas fases da filtração e seus estágios iniciais?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Fase do reboco e fase do filtrado",
+    "Fase inicial (surge loss e transition loss) e filtração propriamente dita (Qf linear em √t)",
+    "Fase laminar e turbulenta",
+    "Fase estática e dinâmica",
+    "Fase API e HPHT"
+   ],
+   "correta": 1,
+   "explicacao": "No surge loss há invasão de partículas no meio poroso; na transition loss o reboco se forma; depois o volume cresce linearmente com √t e o gradiente no reboco é constante."
+  },
+  {
+   "id": "fi-0072",
+   "dificuldade": 3,
+   "tema": "Equação da filtração estática",
+   "enunciado": "Como a pressão de filtração influencia o volume de filtrado?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Qf ∝ ΔP²",
+    "Qf independe de ΔP",
+    "Qf ∝ ΔP^3",
+    "Qf ∝ ΔP^x, com x ≤ 0,5 em reboco compressível (idealmente 0,5)",
+    "Qf diminui ao aumentar ΔP em qualquer caso"
+   ],
+   "correta": 3,
+   "explicacao": "No ideal, Qf ∝ √ΔP. Rebocos compressíveis têm permeabilidade que cai com a pressão, e o expoente x < 0,5 depende das partículas."
+  },
+  {
+   "id": "fi-0073",
+   "dificuldade": 2,
+   "tema": "Equação da filtração estática",
+   "enunciado": "Como a viscosidade da fase líquida afeta o volume de filtrado?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Qf ∝ μ",
+    "Qf independe da viscosidade",
+    "Qf é diretamente proporcional à viscosidade",
+    "Qf é inversamente proporcional à raiz quadrada da viscosidade",
+    "Qf ∝ μ²"
+   ],
+   "correta": 3,
+   "explicacao": "Qf ∝ 1/μ^0,5. Viscosidade menor, mais filtrado."
+  },
+  {
+   "id": "fi-0074",
+   "dificuldade": 2,
+   "tema": "Temperatura e filtração",
+   "enunciado": "Como o aumento da temperatura afeta o filtrado?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Sempre melhora o reboco",
+    "Aumenta a viscosidade e reduz o filtrado",
+    "Não afeta o filtrado",
+    "Dissolve as partículas minerais e reduz a viscosidade a zero",
+    "Reduz a viscosidade do filtrado (mais filtrado), pode flocular o fluido (reboco pior) e degradar aditivos térmicos"
+   ],
+   "correta": 4,
+   "explicacao": "T↑ → μ↓ → Qf↑. A floculação gera reboco de baixa qualidade e a degradação dos aditivos é crítica no HPHT."
+  },
+  {
+   "id": "fi-0075",
+   "dificuldade": 3,
+   "tema": "Temperatura e filtração",
+   "enunciado": "Assinale a afirmação INCORRETA sobre temperatura e filtrado:",
+   "tipo": "incorreta",
+   "alternativas": [
+    "Altas temperaturas dissolvem as partículas minerais sólidas e, por isso, o reboco fica melhor",
+    "O aumento da temperatura reduz a viscosidade do filtrado",
+    "A alta temperatura pode degradar os aditivos e aumentar o filtrado",
+    "Qf ∝ 1/√μ, logo menor viscosidade aumenta o filtrado",
+    "Altas temperaturas podem causar floculação e reduzir a qualidade do reboco"
+   ],
+   "correta": 0,
+   "explicacao": "A alta temperatura não dissolve as partículas minerais; o problema é a degradação térmica dos aditivos, a floculação e a queda de viscosidade."
+  },
+  {
+   "id": "fi-0076",
+   "dificuldade": 1,
+   "tema": "Reboco",
+   "enunciado": "Quais características um reboco efetivo deve ter?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Ser sempre acidificável e quebradiço",
+    "Ser espesso e permeável",
+    "Ser rígido e ter 2 cm de espessura",
+    "Ser o mais fino possível, ter boa plasticidade e baixa permeabilidade",
+    "Ser quebradiço e poroso"
+   ],
+   "correta": 3,
+   "explicacao": "Reboco fino e plástico reduz o risco de prisão por diferencial, diminui o dano e reduz a invasão."
+  },
+  {
+   "id": "fi-0077",
+   "dificuldade": 2,
+   "tema": "Reboco",
+   "enunciado": "Em que unidade se mede a espessura do reboco no campo e como se relaciona ao filtrado?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Em cm; independe do filtrado",
+    "Em psi; inversa ao filtrado",
+    "Em ppg; igual ao filtrado",
+    "1/32 de polegada; é proporcional ao volume de filtrado",
+    "Em cP; independe do filtrado"
+   ],
+   "correta": 3,
+   "explicacao": "Por isso só o volume de filtrado já permite avaliar a perda por filtração, mas a aparência do reboco (plasticidade) também importa."
+  },
+  {
+   "id": "fi-0078",
+   "dificuldade": 2,
+   "tema": "Reboco",
+   "enunciado": "Por que a bentonita forma rebocos de permeabilidade muito baixa?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Por ser solúvel em ácido",
+    "Por ser aniônica e reagir com a barita",
+    "Por ser esférica",
+    "Por ter densidade elevada",
+    "Por causa da forma planar das partículas, que se depositam paralelas e de forma normal ao fluxo"
+   ],
+   "correta": 4,
+   "explicacao": "As plaquetas se sobrepõem como telhas e criam um reboco plástico e pouco permeável."
+  },
+  {
+   "id": "fi-0079",
+   "dificuldade": 2,
+   "tema": "Reboco",
+   "enunciado": "Como os polímeros (amido, CMC, PAC) reduzem a permeabilidade do reboco?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Floculando as partículas",
+    "Aumentando o tamanho dos poros",
+    "Dissolvendo o reboco",
+    "Reduzindo a pressão do poço",
+    "Amido: pela capacidade de deformação e pequeno tamanho das moléculas; CMC e PAC: adsorvem-se nas partículas e obstruem parcialmente os poros"
+   ],
+   "correta": 4,
+   "explicacao": "Esses polímeros fecham os poros do reboco e reduzem o filtrado."
+  },
+  {
+   "id": "fi-0080",
+   "dificuldade": 2,
+   "tema": "Reboco",
+   "enunciado": "Qual a influência do grau de dispersão sobre o filtrado?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Quanto maior a dispersão, menor o filtrado e mais fino e menos permeável o reboco",
+    "Só vale para alta temperatura",
+    "Quanto maior a dispersão, maior o filtrado",
+    "Não há influência",
+    "Só vale para fluidos base óleo"
+   ],
+   "correta": 0,
+   "explicacao": "Kreboco(floculados) > Kreboco(dispersos). A floculação cria estrutura com maior permeabilidade."
+  },
+  {
+   "id": "fi-0081",
+   "dificuldade": 3,
+   "tema": "Reboco",
+   "enunciado": "Qual a relação entre permeabilidade de reboco de fluidos floculados e dispersos?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Os dispersos formam sempre rebocos espessos",
+    "São iguais",
+    "Dependem apenas da densidade",
+    "Kreboco floculados < Kreboco dispersos",
+    "Kreboco floculados > Kreboco dispersos"
+   ],
+   "correta": 4,
+   "explicacao": "A floculação (forças atrativas fortes) cria uma estrutura aberta e mais permeável."
+  },
+  {
+   "id": "fi-0082",
+   "dificuldade": 1,
+   "tema": "Ensaios API e HPHT",
+   "enunciado": "Quais as condições do ensaio de filtração API (baixa temperatura e baixa pressão)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "500 psi e alta temperatura",
+    "10 psi e 10 min",
+    "100 psi, temperatura ambiente, papel de filtro de 45 cm², volume coletado em 30 min (API RP 13B)",
+    "100 psi com 7,5 min apenas",
+    "1.000 psi, 150 °C"
+   ],
+   "correta": 2,
+   "explicacao": "O resultado é o volume em mL coletado em 30 minutos, além da espessura do reboco."
+  },
+  {
+   "id": "fi-0083",
+   "dificuldade": 1,
+   "tema": "Ensaios API e HPHT",
+   "enunciado": "Quais as condições típicas do ensaio HPHT?",
+   "tipo": "multipla",
+   "alternativas": [
+    "ΔP típico de 500 psi, alta temperatura, papel com metade da área do API e volume de 30 min multiplicado por 2",
+    "Apenas poços de gás",
+    "ΔP de 50 psi",
+    "100 psi, temperatura ambiente",
+    "Papel com o dobro da área, volume dividido por 2"
+   ],
+   "correta": 0,
+   "explicacao": "Como a área é a metade, o volume coletado em 30 min é multiplicado por 2 para comparar com o API."
+  },
+  {
+   "id": "fi-0084",
+   "dificuldade": 2,
+   "tema": "Ensaios API e HPHT",
+   "enunciado": "Por que no ensaio HPHT se multiplica por 2 o volume coletado?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque a área do filtro é metade da do filtro API",
+    "Porque o tempo é a metade",
+    "Porque a pressão é o dobro",
+    "Porque a temperatura dobra",
+    "Porque o fluido é mais viscoso"
+   ],
+   "correta": 0,
+   "explicacao": "Qf ∝ A: com metade da área, o volume é metade; multiplica-se por 2 para normalizar."
+  },
+  {
+   "id": "fi-0085",
+   "dificuldade": 3,
+   "tema": "Ensaios API e HPHT",
+   "enunciado": "Em que se diferencia o filtrado HPHT do filtrado API quanto às causas de aumento?",
+   "tipo": "multipla",
+   "alternativas": [
+    "No HPHT não há degradação",
+    "No API há degradação térmica",
+    "Nenhuma diferença",
+    "O HPHT sempre é menor que o API",
+    "No HPHT, a degradação térmica dos aditivos controladores e a queda de viscosidade elevam o filtrado"
+   ],
+   "correta": 4,
+   "explicacao": "É por isso que se faz o HPHT: avaliar a estabilidade térmica do sistema de controle de filtrado."
+  },
+  {
+   "id": "fi-0086",
+   "dificuldade": 1,
+   "tema": "Aditivos controladores de filtrado",
+   "enunciado": "Quais as duas classes de controladores de filtrado quanto à solubilidade?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Ácidos e básicos",
+    "Orgânicos e minerais apenas",
+    "Solúveis e insolúveis (em ácidos inorgânicos como HCl e HF)",
+    "Aniônicos e catiônicos",
+    "Densos e leves"
+   ],
+   "correta": 2,
+   "explicacao": "Insolúveis podem danificar permanentemente a formação produtora se o raio de invasão for grande; solúveis são removíveis por ácido ou pela própria produção."
+  },
+  {
+   "id": "fi-0087",
+   "dificuldade": 2,
+   "tema": "Aditivos controladores de filtrado",
+   "enunciado": "Por que se usam controladores de filtrado solúveis em fluidos drill-in?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque podem ser removidos por acidificação ou pela produção, sem dano permanente ao reservatório",
+    "Porque dispensam polímeros",
+    "Porque aumentam a viscosidade",
+    "Porque são mais baratos",
+    "Porque aumentam a densidade"
+   ],
+   "correta": 0,
+   "explicacao": "O dano por invasão de sólidos é eliminado pela dissolução do tampão (ex.: carbonato de cálcio) com ácido."
+  },
+  {
+   "id": "fi-0088",
+   "dificuldade": 1,
+   "tema": "Aditivos controladores de filtrado",
+   "enunciado": "Qual a função do lignossulfonato no controle de filtrado?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Emulsificante",
+    "Viscosificante",
+    "Dispersante: reduz a viscosidade e gera reboco de melhor qualidade",
+    "Densificante",
+    "Inibidor de corrosão"
+   ],
+   "correta": 2,
+   "explicacao": "É um dispersante e redutor de filtrado auxiliar."
+  },
+  {
+   "id": "fi-0089",
+   "dificuldade": 2,
+   "tema": "Aditivos controladores de filtrado",
+   "enunciado": "Qual a característica do amido (HPA) como redutor de filtrado?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Aumenta o filtrado",
+    "É insolúvel em ácido",
+    "Reduz a permeabilidade do reboco, não é afetado pela salinidade; sujeito a fermentação (exige bactericida) e degrada acima de ~250 °F",
+    "É sensível à salinidade, mas resiste a 400 °F",
+    "Não precisa de bactericida e resiste a 450 °F"
+   ],
+   "correta": 2,
+   "explicacao": "Por ser orgânico, sofre fermentação, e a degradação térmica ocorre para T > 250 °F."
+  },
+  {
+   "id": "fi-0090",
+   "dificuldade": 2,
+   "tema": "Aditivos controladores de filtrado",
+   "enunciado": "Qual o limite de temperatura (aproximado) do CMC e do PAC?",
+   "tipo": "multipla",
+   "alternativas": [
+    "CMC: 600 °F; PAC: 100 °F",
+    "Ambos acima de 600 °F",
+    "CMC: até ~300 °F; PAC: até ~400 °F",
+    "Ambos até 100 °F",
+    "CMC: 400 °F; PAC: 300 °F"
+   ],
+   "correta": 2,
+   "explicacao": "Acima desses valores ocorre degradação térmica e perda do controle de filtrado."
+  },
+  {
+   "id": "fi-0091",
+   "dificuldade": 1,
+   "tema": "Aditivos controladores de filtrado",
+   "enunciado": "Qual a função do PAC (poliacrilato)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Emulsificante",
+    "Defloculante e redutor de filtrado, usado em fluidos sem cálcio e com baixo teor de argila",
+    "Inibidor de H₂S",
+    "Densificante",
+    "Obturante"
+   ],
+   "correta": 1,
+   "explicacao": "O CMC reduz a permeabilidade do reboco e aumenta a viscosidade do filtrado."
+  },
+  {
+   "id": "fi-0092",
+   "dificuldade": 1,
+   "tema": "Aditivos controladores de filtrado",
+   "enunciado": "Qual a função do carbonato de cálcio em fluidos de perfuração e drill-in?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Inibidor de argila",
+    "Redutor de pH",
+    "Defloculante",
+    "Viscosificante",
+    "Obturante/agente de tamponamento (ponte) com distribuições granulométricas diferentes, removível por ácido"
+   ],
+   "correta": 4,
+   "explicacao": "Cria um reboco de baixa permeabilidade e pode ser dissolvido por HCl."
+  },
+  {
+   "id": "fi-0093",
+   "dificuldade": 2,
+   "tema": "Fluidos drill-in",
+   "enunciado": "Quais as características de um fluido drill-in?",
+   "tipo": "multipla",
+   "alternativas": [
+    "pH baixo (4–5) para dispersar polímeros",
+    "Uso exclusivo em zonas não produtoras",
+    "Minimizar dano à formação, baixo teor de sólidos, viscosificante (goma xantana), redutor de filtrado (HPA) e agentes obturantes removíveis (CaCO₃)",
+    "Alto teor de sólidos para facilitar o reboco",
+    "Dispersão com lignossulfonato"
+   ],
+   "correta": 2,
+   "explicacao": "São os fluidos usados na zona de reservatório; MgO tampona o pH em 9–10 e o NaCl adensa."
+  },
+  {
+   "id": "fi-0094",
+   "dificuldade": 1,
+   "tema": "Fluidos drill-in",
+   "enunciado": "Qual a função da goma xantana, do HPA e do MgO em um FPBA drill-in?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Xantana: obturante; HPA: inibidor; MgO: densificante",
+    "Xantana: antiespumante; HPA: biocida; MgO: viscosificante",
+    "Xantana: densificante; HPA: viscosificante; MgO: bactericida",
+    "Xantana: redutor de filtrado; HPA: dispersante; MgO: emulsificante",
+    "Xantana: viscosificante; HPA: redutor de filtrado; MgO: tampão de pH (9–10)"
+   ],
+   "correta": 4,
+   "explicacao": "O NaCl é o adensante; a triazina é o biocida; o antiespumante controla a espuma."
+  },
+  {
+   "id": "fi-0095",
+   "dificuldade": 3,
+   "tema": "Fluidos drill-in",
+   "enunciado": "Quais afirmativas sobre fluidos drill-in estão corretas? I. Alto teor de sólidos. II. Obturantes removíveis por acidificação (CaCO₃). III. pH 4–5 para dispersar polímeros. IV. Controladores poliméricos removíveis por acidificação (HPA).",
+   "tipo": "multipla",
+   "alternativas": [
+    "I, II e IV",
+    "I e II",
+    "III e IV",
+    "II e IV",
+    "I, II e III"
+   ],
+   "correta": 3,
+   "explicacao": "Drill-in tem baixo teor de sólidos e pH alcalino (9–10); II e IV estão corretas (CaCO₃ e HPA são removíveis)."
+  },
+  {
+   "id": "fi-0096",
+   "dificuldade": 1,
+   "tema": "Perda de circulação",
+   "enunciado": "Quais as classificações de perda de circulação por severidade?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Infiltração (1–10 bbl/h) e total, sem parcial",
+    "Apenas total",
+    "Leve, média e crítica, todas acima de 100 bbl/h",
+    "Perda por ECD e por pressão de poros",
+    "Infiltração (1–10 bbl/h), parcial (10–50 bbl/h) e total (sem retorno, queda do nível)"
+   ],
+   "correta": 4,
+   "explicacao": "Perda total significa ausência de retorno, com queda do nível estático."
+  },
+  {
+   "id": "fi-0097",
+   "dificuldade": 2,
+   "tema": "Perda de circulação",
+   "enunciado": "Que formações e situações estão associadas à perda de circulação?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Formações impermeáveis e pressão de poro alta",
+    "Formações não consolidadas, fraturas naturais e induzidas, cavernas (calcário) e reservatórios depletados",
+    "Evaporitos sempre",
+    "Folhelhos reativos apenas",
+    "Arenitos cimentados"
+   ],
+   "correta": 1,
+   "explicacao": "Fraturas induzidas ocorrem com peso excessivo, pressão de surge e fechamento do anular."
+  },
+  {
+   "id": "fi-0098",
+   "dificuldade": 2,
+   "tema": "Perda de circulação",
+   "enunciado": "Quais as principais causas operacionais de perda de circulação?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Peso do fluido abaixo da pressão de poros",
+    "Reservatórios com pressão de poros alta",
+    "Puxada de coluna em alta velocidade (swab)",
+    "Baixa vazão",
+    "ECD maior que a pressão de fratura, descida de coluna ou revestimento em alta velocidade (surge) e peso excessivo do fluido"
+   ],
+   "correta": 4,
+   "explicacao": "Surge eleva a pressão no fundo; swab a reduz (risco de kick). Peso abaixo da pressão de poros gera kick, não perda."
+  },
+  {
+   "id": "fi-0099",
+   "dificuldade": 2,
+   "tema": "Perda de circulação",
+   "enunciado": "Qual a abordagem mais importante em perda de circulação?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Usar apenas LCM",
+    "Aumentar a pressão da bomba",
+    "Prevenção: projeto correto (assentamento de sapatas), controle do peso/ECD e boas práticas operacionais",
+    "Aumentar o peso do fluido",
+    "Reduzir a vazão a zero"
+   ],
+   "correta": 2,
+   "explicacao": "É a prevenção (erro de projeto, peso excessivo ou ECD e falhas operacionais)."
+  },
+  {
+   "id": "fi-0100",
+   "dificuldade": 1,
+   "tema": "Perda de circulação",
+   "enunciado": "Como se combate a perda de circulação com LCM?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Com materiais selantes (carbonato em várias granulometrias, mica, cascas, fibras) com tamanho de partícula selecionado (1/64 a 1/2\")",
+    "Reduzindo a densidade para zero",
+    "Adicionando sal",
+    "Aumentando a vazão",
+    "Adicionando água"
+   ],
+   "correta": 0,
+   "explicacao": "A seleção correta do tamanho do LCM é essencial."
+  },
+  {
+   "id": "fi-0101",
+   "dificuldade": 2,
+   "tema": "Perda de circulação",
+   "enunciado": "Assinale a alternativa que NÃO é causa de perda de circulação:",
+   "tipo": "incorreta",
+   "alternativas": [
+    "Fraturas naturais em carbonatos",
+    "Peso do fluido abaixo da pressão de poros",
+    "Reservatórios depletados",
+    "ECD maior que a pressão de fratura",
+    "Formações de arenito não consolidado"
+   ],
+   "correta": 1,
+   "explicacao": "Peso abaixo da pressão de poros gera influxo (kick), não perda. Swab também causa kick."
+  },
+  {
+   "id": "fi-0102",
+   "dificuldade": 1,
+   "tema": "Perda de circulação",
+   "enunciado": "ECD maior que a pressão de fratura pode causar perda de circulação.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "Acima da pressão de fratura a formação se rompe e absorve fluido."
+  }
+ ],
+ "flashcards": [
+  {
+   "id": "fi-f001",
+   "frente": "Filtração",
+   "verso": "Invasão da fase líquida do fluido na formação permeável devido ao diferencial positivo (poço > formação), com depósito de reboco na parede."
+  },
+  {
+   "id": "fi-f002",
+   "frente": "Reboco",
+   "verso": "Camada de partículas sólidas úmidas depositada na parede do poço. Deve ser o mais fino possível, plástico e de baixa permeabilidade."
+  },
+  {
+   "id": "fi-f003",
+   "frente": "Parâmetros medidos na filtração",
+   "verso": "Volume de filtrado (mL em 30 min) e espessura do reboco (1/32\")."
+  },
+  {
+   "id": "fi-f004",
+   "frente": "Poder de retenção",
+   "verso": "R = QL/Qf: volume de fase dispersante por unidade de fluido / volume cedido como filtrado. Menor filtrado = maior retenção."
+  },
+  {
+   "id": "fi-f005",
+   "frente": "Filtração estática",
+   "verso": "Sem circulação: o reboco cresce a taxa decrescente e a taxa de filtração diminui com o tempo. É a condição do ensaio API."
+  },
+  {
+   "id": "fi-f006",
+   "frente": "Filtração dinâmica",
+   "verso": "Com circulação: a erosão limita o reboco a espessura constante e a taxa de filtração tende a ser constante (maior que a estática)."
+  },
+  {
+   "id": "fi-f007",
+   "frente": "Equação fundamental (estática axial)",
+   "verso": "Qf² = K·(2·A²·ΔP/(μ·C))·t. Qf ∝ √t, ∝ A, ∝ √ΔP (ideal) e ∝ 1/√μ."
+  },
+  {
+   "id": "fi-f008",
+   "frente": "Equação linear da filtração",
+   "verso": "Qf = a·√t + Q0. Q0 = spurt loss; a = coeficiente de filtração; reta no gráfico Qf × √t."
+  },
+  {
+   "id": "fi-f009",
+   "frente": "Estimativa de Q30",
+   "verso": "Sem spurt: Q30 = Q7,5 × 2 (√30/√7,5 = 2). Com Q5: Q30 = Q5 × √(30/5) = 2,45 × Q5."
+  },
+  {
+   "id": "fi-f010",
+   "frente": "Dois pontos → a e Q0",
+   "verso": "a = (Q2 − Q1)/(√t2 − √t1); Q0 = Q1 − a·√t1. Ex.: 4 mL (4 min) e 10 mL (30 min): a = 1,72; Q0 = 0,56; Q60 ≈ 13,9 mL."
+  },
+  {
+   "id": "fi-f011",
+   "frente": "Fases da filtração",
+   "verso": "Inicial (surge loss: invasão de partículas; transition loss: formação do reboco) e filtração propriamente dita (Qf linear em √t)."
+  },
+  {
+   "id": "fi-f012",
+   "frente": "Efeito da pressão",
+   "verso": "Qf ∝ ΔP^x; idealmente x = 0,5. Com reboco compressível, x < 0,5 (a permeabilidade cai com a pressão)."
+  },
+  {
+   "id": "fi-f013",
+   "frente": "Efeito da viscosidade",
+   "verso": "Qf ∝ 1/μ^0,5. Menor viscosidade = mais filtrado."
+  },
+  {
+   "id": "fi-f014",
+   "frente": "Efeito da temperatura",
+   "verso": "T↑ → μ↓ → Qf↑. Também causa floculação (reboco ruim) e degradação térmica de aditivos (crítico no HPHT)."
+  },
+  {
+   "id": "fi-f015",
+   "frente": "Permeabilidade do reboco",
+   "verso": "Bentonita: muito baixa (partículas planares). Amido: deformável e moléculas pequenas. CMC e PAC: adsorvem-se e obstruem os poros."
+  },
+  {
+   "id": "fi-f016",
+   "frente": "Dispersão e floculação",
+   "verso": "Mais dispersão = menos filtrado e reboco fino. Kreboco(floculado) > Kreboco(disperso)."
+  },
+  {
+   "id": "fi-f017",
+   "frente": "Ensaio API (BTBP)",
+   "verso": "100 psi, temperatura ambiente, papel de filtro de 45 cm², volume em 30 min (API RP 13B)."
+  },
+  {
+   "id": "fi-f018",
+   "frente": "Ensaio HPHT",
+   "verso": "ΔP típico de 500 psi, alta temperatura, filtro com metade da área do API: volume em 30 min × 2."
+  },
+  {
+   "id": "fi-f019",
+   "frente": "Controladores insolúveis",
+   "verso": "Pouco solúveis em ácidos (HCl, HF). Podem danificar permanentemente a formação se o raio de invasão for grande."
+  },
+  {
+   "id": "fi-f020",
+   "frente": "Controladores solúveis",
+   "verso": "Solúveis em ácido ou removidos na produção; usados em drill-in, sem dano permanente."
+  },
+  {
+   "id": "fi-f021",
+   "frente": "Lignossulfonato",
+   "verso": "Dispersante; reduz a viscosidade e melhora a qualidade do reboco."
+  },
+  {
+   "id": "fi-f022",
+   "frente": "Amido / HPA",
+   "verso": "Reduz a permeabilidade do reboco, tolera salinidade. Fermenta (bactericida) e degrada acima de ~250 °F."
+  },
+  {
+   "id": "fi-f023",
+   "frente": "CMC e PAC",
+   "verso": "CMC: reduz a permeabilidade do reboco e aumenta a viscosidade do filtrado; até ~300 °F. PAC: defloculante em fluidos sem cálcio e pouca argila; até ~400 °F."
+  },
+  {
+   "id": "fi-f024",
+   "frente": "Bentonita e CaCO₃",
+   "verso": "Bentonita: reboco plástico e de baixa permeabilidade. CaCO₃: obturante/tamponante com granulometrias distintas, removível por ácido."
+  },
+  {
+   "id": "fi-f025",
+   "frente": "Fluido drill-in",
+   "verso": "Para zonas produtoras: baixo teor de sólidos, xantana (viscosificante), HPA (filtrado), MgO (pH 9–10), CaCO₃ (obturante) e NaCl (adensante); removível por ácido."
+  },
+  {
+   "id": "fi-f026",
+   "frente": "Perda de circulação: severidade",
+   "verso": "Infiltração 1–10 bbl/h; parcial 10–50 bbl/h; total: sem retorno e queda do nível estático."
+  },
+  {
+   "id": "fi-f027",
+   "frente": "Causas de perda",
+   "verso": "Formações não consolidadas, fraturas naturais ou induzidas, cavernas (calcário), depletados, ECD > pressão de fratura, surge."
+  },
+  {
+   "id": "fi-f028",
+   "frente": "Combate à perda",
+   "verso": "Prevenir (projeto da sapata, peso e ECD). Usar LCM selante (CaCO₃, mica, cascas, fibras) com partículas de 1/64\" a 1/2\"."
+  }
+ ]
+}

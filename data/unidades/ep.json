@@ -144,7 +144,7 @@
   },
   {
    "id": "ep-0021",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Composição do petróleo",
    "enunciado": "Pela tabela de frações apresentada, o querosene corresponde aproximadamente a qual faixa de carbonos e de ponto de ebulição?",
    "tipo": "multipla",
@@ -160,7 +160,7 @@
   },
   {
    "id": "ep-0022",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Composição do petróleo",
    "enunciado": "Na tabela de frações do petróleo, qual alternativa está na ordem crescente de tamanho de molécula (número de carbonos)?",
    "tipo": "multipla",
@@ -320,7 +320,7 @@
   },
   {
    "id": "ep-0032",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Métodos exploratórios",
    "enunciado": "Na sísmica marítima, como se chamam os dispositivos que geram as ondas e os cabos com sensores puxados pelo navio?",
    "tipo": "multipla",
@@ -474,7 +474,7 @@
   },
   {
    "id": "ep-0045",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Acompanhamento geológico",
    "enunciado": "Do que depende o intervalo de coleta das amostras de calha (3, 6, 9 ou 18 m)?",
    "tipo": "multipla",
@@ -570,7 +570,7 @@
   },
   {
    "id": "ep-0051",
-   "dificuldade": 2,
+   "dificuldade": 1,
    "tema": "Acompanhamento geológico",
    "enunciado": "O que é a fluorescência observada no fluoroscópio?",
    "tipo": "multipla",
@@ -672,7 +672,7 @@
   },
   {
    "id": "ep-0057",
-   "dificuldade": 2,
+   "dificuldade": 1,
    "tema": "Geoquímica",
    "enunciado": "Qual é a ideia por trás do método da pirólise?",
    "tipo": "multipla",
@@ -720,7 +720,7 @@
   },
   {
    "id": "ep-0060",
-   "dificuldade": 2,
+   "dificuldade": 1,
    "tema": "Geoquímica",
    "enunciado": "O que a pirólise Rock-Eval mede diretamente, segundo o curso?",
    "tipo": "multipla",
@@ -800,7 +800,7 @@
   },
   {
    "id": "ep-0065",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Sondas e plataformas",
    "enunciado": "Qual unidade é estável o suficiente para trabalhar em mar e tempo mais severos que os navios, pode ser ancorada ou usar posicionamento dinâmico e precisa de compensador de movimentos?",
    "tipo": "multipla",
@@ -816,7 +816,7 @@
   },
   {
    "id": "ep-0066",
-   "dificuldade": 2,
+   "dificuldade": 1,
    "tema": "Sondas e plataformas",
    "enunciado": "Qual característica é própria do navio-sonda (NS)?",
    "tipo": "multipla",
@@ -848,7 +848,7 @@
   },
   {
    "id": "ep-0068",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Sondas e plataformas",
    "enunciado": "Assinale a alternativa INCORRETA sobre as unidades de perfuração:",
    "tipo": "incorreta",
@@ -896,7 +896,7 @@
   },
   {
    "id": "ep-0071",
-   "dificuldade": 2,
+   "dificuldade": 1,
    "tema": "Perfuração e completação",
    "enunciado": "Qual das operações abaixo faz parte da completação?",
    "tipo": "multipla",
@@ -960,7 +960,7 @@
   },
   {
    "id": "ep-0075",
-   "dificuldade": 2,
+   "dificuldade": 1,
    "tema": "Perfuração e completação",
    "enunciado": "Para que servem os poços direcionais?",
    "tipo": "multipla",
@@ -1088,7 +1088,7 @@
   },
   {
    "id": "ep-0083",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Elevação",
    "enunciado": "Quais são os regimes de fluxo vertical multifásico apresentados no curso, do menor para o maior teor de gás?",
    "tipo": "multipla",
@@ -1264,7 +1264,7 @@
   },
   {
    "id": "ep-0095",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Processamento primário",
    "enunciado": "No fluxograma do FPSO, por que o petróleo que chega dos poços (~13 °C) passa por aquecedores (~90 °C) antes do separador de produção?",
    "tipo": "multipla",
@@ -1376,7 +1376,7 @@
   },
   {
    "id": "ep-0102",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Processamento primário",
    "enunciado": "Segundo o fluxograma, o que acontece com a água tratada se o analisador indicar TOG maior que 15 ppm?",
    "tipo": "multipla",
@@ -1392,7 +1392,7 @@
   },
   {
    "id": "ep-0103",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Processamento primário",
    "enunciado": "No FPSO, as utilidades incluem gerador auxiliar, tratamento e distribuição de água, compressão de ar e produtos químicos para o óleo.",
    "tipo": "vf",
@@ -1405,7 +1405,7 @@
   },
   {
    "id": "ep-0104",
-   "dificuldade": 2,
+   "dificuldade": 1,
    "tema": "Processamento primário",
    "enunciado": "Como o óleo estocado no FPSO é normalmente exportado?",
    "tipo": "multipla",
@@ -1491,7 +1491,7 @@
   },
   {
    "id": "ep-0110",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Petroquímica",
    "enunciado": "Na cadeia petroquímica, o que é produzido na 1ª geração?",
    "tipo": "multipla",

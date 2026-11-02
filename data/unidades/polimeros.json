@@ -314,7 +314,7 @@
   },
   {
    "id": "pol-0021",
-   "dificuldade": 2,
+   "dificuldade": 1,
    "tema": "Propriedades térmicas",
    "enunciado": "Qual a diferença entre Tg e temperatura de fusão (Tm)?",
    "tipo": "multipla",
@@ -410,7 +410,7 @@
   },
   {
    "id": "pol-0027",
-   "dificuldade": 2,
+   "dificuldade": 1,
    "tema": "Conceitos",
    "enunciado": "Todo polímero é uma macromolécula, mas nem toda macromolécula é um polímero.",
    "tipo": "vf",
@@ -729,7 +729,7 @@
   },
   {
    "id": "pol-0047",
-   "dificuldade": 2,
+   "dificuldade": 1,
    "tema": "Solubilidade",
    "enunciado": "O que caracteriza um bom solvente para um polímero?",
    "tipo": "multipla",
@@ -1221,7 +1221,7 @@
   },
   {
    "id": "pol-0078",
-   "dificuldade": 2,
+   "dificuldade": 1,
    "tema": "Goma xantana",
    "enunciado": "A goma xantana é um polímero sintético derivado do petróleo.",
    "tipo": "vf",
@@ -1266,7 +1266,7 @@
   },
   {
    "id": "pol-0081",
-   "dificuldade": 2,
+   "dificuldade": 1,
    "tema": "CMC e derivados",
    "enunciado": "Como é obtida a carboximetilcelulose (CMC)?",
    "tipo": "multipla",
@@ -1474,7 +1474,7 @@
   },
   {
    "id": "pol-0094",
-   "dificuldade": 2,
+   "dificuldade": 1,
    "tema": "Estimulação",
    "enunciado": "Qual o papel dos polímeros em tratamentos ácidos?",
    "tipo": "multipla",
@@ -1538,7 +1538,7 @@
   },
   {
    "id": "pol-0098",
-   "dificuldade": 2,
+   "dificuldade": 1,
    "tema": "EOR",
    "enunciado": "Qual o objetivo da adição de polímeros à água de injeção em EOR?",
    "tipo": "multipla",
@@ -1666,7 +1666,7 @@
   },
   {
    "id": "pol-0106",
-   "dificuldade": 2,
+   "dificuldade": 1,
    "tema": "Sustentabilidade",
    "enunciado": "O que define um polímero biodegradável?",
    "tipo": "multipla",
@@ -1730,7 +1730,7 @@
   },
   {
    "id": "pol-0110",
-   "dificuldade": 2,
+   "dificuldade": 1,
    "tema": "Fluidos de perfuração",
    "enunciado": "A PHPA pode ser usada tanto como floculante quanto como inibidora de folhelhos.",
    "tipo": "vf",

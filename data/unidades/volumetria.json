@@ -1,0 +1,2241 @@
+{
+ "id": "volumetria",
+ "perguntas": [
+  {
+   "id": "vol-0001",
+   "dificuldade": 1,
+   "tema": "Unidades",
+   "enunciado": "Um tanque ativo contém 85 m³ de fluido. Quantos barris isso representa? (1 m³ = 6,2829 bbl)",
+   "tipo": "multipla",
+   "alternativas": [
+    "668 bbl",
+    "427 bbl",
+    "801 bbl",
+    "141 bbl",
+    "534 bbl"
+   ],
+   "correta": 4,
+   "explicacao": "Volume em bbl = m³ × 6,2829. 85 × 6,2829 ≈ 534 bbl. Dividir por 6,2829 ou multiplicar por 42 são enganos comuns."
+  },
+  {
+   "id": "vol-0002",
+   "dificuldade": 1,
+   "tema": "Unidades",
+   "enunciado": "Um tanque ativo contém 120 m³ de fluido. Quantos barris isso representa? (1 m³ = 6,2829 bbl)",
+   "tipo": "multipla",
+   "alternativas": [
+    "942 bbl",
+    "1.131 bbl",
+    "199 bbl",
+    "603 bbl",
+    "754 bbl"
+   ],
+   "correta": 4,
+   "explicacao": "Volume em bbl = m³ × 6,2829. 120 × 6,2829 ≈ 754 bbl. Dividir por 6,2829 ou multiplicar por 42 são enganos comuns."
+  },
+  {
+   "id": "vol-0003",
+   "dificuldade": 1,
+   "tema": "Unidades",
+   "enunciado": "Um tanque ativo contém 42 m³ de fluido. Quantos barris isso representa? (1 m³ = 6,2829 bbl)",
+   "tipo": "multipla",
+   "alternativas": [
+    "70 bbl",
+    "396 bbl",
+    "330 bbl",
+    "211 bbl",
+    "264 bbl"
+   ],
+   "correta": 4,
+   "explicacao": "Volume em bbl = m³ × 6,2829. 42 × 6,2829 ≈ 264 bbl. Dividir por 6,2829 ou multiplicar por 42 são enganos comuns."
+  },
+  {
+   "id": "vol-0004",
+   "dificuldade": 1,
+   "tema": "Tanques",
+   "enunciado": "Qual a capacidade máxima de um tanque retangular com C = 5 m, L = 3 m e H = 2,8 m? (1 m³ = 6,2829 bbl)",
+   "tipo": "multipla",
+   "alternativas": [
+    "68 bbl",
+    "211 bbl",
+    "330 bbl",
+    "396 bbl",
+    "264 bbl"
+   ],
+   "correta": 4,
+   "explicacao": "V = C × L × H × 6,2829 = 42,0 m³ × 6,2829 ≈ 264 bbl."
+  },
+  {
+   "id": "vol-0005",
+   "dificuldade": 1,
+   "tema": "Tanques",
+   "enunciado": "Qual a capacidade máxima de um tanque retangular com C = 4 m, L = 3 m e H = 2,5 m? (1 m³ = 6,2829 bbl)",
+   "tipo": "multipla",
+   "alternativas": [
+    "235 bbl",
+    "60 bbl",
+    "150 bbl",
+    "282 bbl",
+    "188 bbl"
+   ],
+   "correta": 4,
+   "explicacao": "V = C × L × H × 6,2829 = 30,0 m³ × 6,2829 ≈ 188 bbl."
+  },
+  {
+   "id": "vol-0006",
+   "dificuldade": 1,
+   "tema": "Tanques",
+   "enunciado": "Qual a capacidade máxima de um tanque retangular com C = 6 m, L = 3,5 m e H = 2,2 m? (1 m³ = 6,2829 bbl)",
+   "tipo": "multipla",
+   "alternativas": [
+    "290 bbl",
+    "232 bbl",
+    "74 bbl",
+    "435 bbl",
+    "362 bbl"
+   ],
+   "correta": 0,
+   "explicacao": "V = C × L × H × 6,2829 = 46,2 m³ × 6,2829 ≈ 290 bbl."
+  },
+  {
+   "id": "vol-0007",
+   "dificuldade": 1,
+   "tema": "Tanques",
+   "enunciado": "Qual a capacidade máxima de um tanque retangular com C = 8 m, L = 2,5 m e H = 2,0 m? (1 m³ = 6,2829 bbl)",
+   "tipo": "multipla",
+   "alternativas": [
+    "251 bbl",
+    "314 bbl",
+    "376 bbl",
+    "201 bbl",
+    "79 bbl"
+   ],
+   "correta": 0,
+   "explicacao": "V = C × L × H × 6,2829 = 40,0 m³ × 6,2829 ≈ 251 bbl."
+  },
+  {
+   "id": "vol-0008",
+   "dificuldade": 1,
+   "tema": "Tanques",
+   "enunciado": "Um tanque de 4 m × 3 m e 3,0 m de altura está com 170 cm de fluido. Quantos barris há no tanque? (1 m³ = 6,2829 bbl)",
+   "tipo": "multipla",
+   "alternativas": [
+    "141,0 bbl",
+    "115,4 bbl",
+    "128,2 bbl",
+    "226,2 bbl",
+    "160,2 bbl"
+   ],
+   "correta": 2,
+   "explicacao": "Capacidade por cm = 4×3×3,0×6,2829/300 = 0,7539 bbl/cm. Volume = 0,7539 × 170 ≈ 128,2 bbl."
+  },
+  {
+   "id": "vol-0009",
+   "dificuldade": 1,
+   "tema": "Tanques",
+   "enunciado": "Um tanque de 5 m × 3 m e 2,8 m de altura está com 120 cm de fluido. Quantos barris há no tanque? (1 m³ = 6,2829 bbl)",
+   "tipo": "multipla",
+   "alternativas": [
+    "113,1 bbl",
+    "124,4 bbl",
+    "263,9 bbl",
+    "141,4 bbl",
+    "101,8 bbl"
+   ],
+   "correta": 0,
+   "explicacao": "Capacidade por cm = 5×3×2,8×6,2829/280 = 0,9424 bbl/cm. Volume = 0,9424 × 120 ≈ 113,1 bbl."
+  },
+  {
+   "id": "vol-0010",
+   "dificuldade": 1,
+   "tema": "Tanques",
+   "enunciado": "Um tanque de 6 m × 3 m e 2,5 m de altura está com 90 cm de fluido. Quantos barris há no tanque? (1 m³ = 6,2829 bbl)",
+   "tipo": "multipla",
+   "alternativas": [
+    "127,2 bbl",
+    "282,7 bbl",
+    "101,8 bbl",
+    "112,0 bbl",
+    "91,6 bbl"
+   ],
+   "correta": 2,
+   "explicacao": "Capacidade por cm = 6×3×2,5×6,2829/250 = 1,1309 bbl/cm. Volume = 1,1309 × 90 ≈ 101,8 bbl."
+  },
+  {
+   "id": "vol-0011",
+   "dificuldade": 2,
+   "tema": "Tanques",
+   "enunciado": "O químico precisa saber o nível do tanque após bombear um tampão de 45 bbl. Capacidade do tanque: 1,5 bbl/pol; nível inicial: 40 pol. Qual o nível final?",
+   "tipo": "multipla",
+   "alternativas": [
+    "30 pol",
+    "8 pol",
+    "10 pol",
+    "12 pol",
+    "25 pol"
+   ],
+   "correta": 2,
+   "explicacao": "Queda de nível = 45 ÷ 1,5 = 30 pol. Nível final = 40 − 30 = 10 pol. O químico confere o balanço volumétrico de superfície antes e depois de cada operação."
+  },
+  {
+   "id": "vol-0012",
+   "dificuldade": 2,
+   "tema": "Tanques",
+   "enunciado": "O químico precisa saber o nível do tanque após bombear um tampão de 30 bbl. Capacidade do tanque: 1,2 bbl/pol; nível inicial: 36 pol. Qual o nível final?",
+   "tipo": "multipla",
+   "alternativas": [
+    "9 pol",
+    "24 pol",
+    "11 pol",
+    "14 pol",
+    "25 pol"
+   ],
+   "correta": 2,
+   "explicacao": "Queda de nível = 30 ÷ 1,2 = 25 pol. Nível final = 36 − 25 = 11 pol. O químico confere o balanço volumétrico de superfície antes e depois de cada operação."
+  },
+  {
+   "id": "vol-0013",
+   "dificuldade": 3,
+   "tema": "Tanques",
+   "enunciado": "O químico precisa saber o nível do tanque após bombear um tampão de 60 bbl. Capacidade do tanque: 2,0 bbl/pol; nível inicial: 48 pol. Qual o nível final?",
+   "tipo": "multipla",
+   "alternativas": [
+    "14 pol",
+    "22 pol",
+    "33 pol",
+    "18 pol",
+    "30 pol"
+   ],
+   "correta": 3,
+   "explicacao": "Queda de nível = 60 ÷ 2,0 = 30 pol. Nível final = 48 − 30 = 18 pol. O químico confere o balanço volumétrico de superfície antes e depois de cada operação."
+  },
+  {
+   "id": "vol-0014",
+   "dificuldade": 1,
+   "tema": "Capacidades",
+   "enunciado": "Qual a capacidade volumétrica interna de um drill pipe 5 in (ID 4,276 in)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,1912 bbl/m",
+    "0,0729 bbl/m",
+    "0,0178 bbl/m",
+    "0,0583 bbl/m",
+    "0,0524 bbl/m"
+   ],
+   "correta": 3,
+   "explicacao": "C = ID²/313,76 = 4,276²/313,76 ≈ 0,0583 bbl/m. Para o interior usa-se o diâmetro INTERNO."
+  },
+  {
+   "id": "vol-0015",
+   "dificuldade": 1,
+   "tema": "Capacidades",
+   "enunciado": "Qual a capacidade volumétrica interna de um drill pipe 4 1/2 in (ID 3,826 in)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,1531 bbl/m",
+    "0,0142 bbl/m",
+    "0,0467 bbl/m",
+    "0,0122 bbl/m",
+    "0,0420 bbl/m"
+   ],
+   "correta": 2,
+   "explicacao": "C = ID²/313,76 = 3,826²/313,76 ≈ 0,0467 bbl/m. Para o interior usa-se o diâmetro INTERNO."
+  },
+  {
+   "id": "vol-0016",
+   "dificuldade": 1,
+   "tema": "Capacidades",
+   "enunciado": "Qual a capacidade volumétrica interna de um revestimento 9 5/8 in (ID 8,921 in)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,2283 bbl/m",
+    "0,8322 bbl/m",
+    "0,3170 bbl/m",
+    "0,0773 bbl/m",
+    "0,2536 bbl/m"
+   ],
+   "correta": 4,
+   "explicacao": "C = ID²/313,76 = 8,921²/313,76 ≈ 0,2536 bbl/m. Para o interior usa-se o diâmetro INTERNO."
+  },
+  {
+   "id": "vol-0017",
+   "dificuldade": 1,
+   "tema": "Capacidades",
+   "enunciado": "Qual a capacidade volumétrica interna de um revestimento 7 in (ID 6,276 in)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,1569 bbl/m",
+    "0,0383 bbl/m",
+    "0,1130 bbl/m",
+    "0,4119 bbl/m",
+    "0,1255 bbl/m"
+   ],
+   "correta": 4,
+   "explicacao": "C = ID²/313,76 = 6,276²/313,76 ≈ 0,1255 bbl/m. Para o interior usa-se o diâmetro INTERNO."
+  },
+  {
+   "id": "vol-0018",
+   "dificuldade": 1,
+   "tema": "Capacidades",
+   "enunciado": "Qual a capacidade volumétrica interna de um revestimento 13 3/8 in (ID 12,515 in)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,6240 bbl/m",
+    "0,4493 bbl/m",
+    "1,6377 bbl/m",
+    "0,4992 bbl/m",
+    "0,1522 bbl/m"
+   ],
+   "correta": 3,
+   "explicacao": "C = ID²/313,76 = 12,515²/313,76 ≈ 0,4992 bbl/m. Para o interior usa-se o diâmetro INTERNO."
+  },
+  {
+   "id": "vol-0019",
+   "dificuldade": 1,
+   "tema": "Capacidades",
+   "enunciado": "Qual a capacidade de um poço aberto in gauge perfurado com broca de 12,25 in?",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,5261 bbl/m",
+    "0,4400 bbl/m",
+    "0,5979 bbl/m",
+    "0,4783 bbl/m",
+    "0,1458 bbl/m"
+   ],
+   "correta": 3,
+   "explicacao": "C = D²/313,76 = 12,25²/313,76 ≈ 0,4783 bbl/m."
+  },
+  {
+   "id": "vol-0020",
+   "dificuldade": 1,
+   "tema": "Capacidades",
+   "enunciado": "Qual a capacidade de um poço aberto in gauge perfurado com broca de 8,50 in?",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,0702 bbl/m",
+    "0,2040 bbl/m",
+    "0,2879 bbl/m",
+    "0,2533 bbl/m",
+    "0,2303 bbl/m"
+   ],
+   "correta": 4,
+   "explicacao": "C = D²/313,76 = 8,50²/313,76 ≈ 0,2303 bbl/m."
+  },
+  {
+   "id": "vol-0021",
+   "dificuldade": 1,
+   "tema": "Capacidades",
+   "enunciado": "Qual a capacidade de um poço aberto in gauge perfurado com broca de 17,50 in?",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,9211 bbl/m",
+    "0,9761 bbl/m",
+    "1,0737 bbl/m",
+    "0,2975 bbl/m",
+    "1,2201 bbl/m"
+   ],
+   "correta": 1,
+   "explicacao": "C = D²/313,76 = 17,50²/313,76 ≈ 0,9761 bbl/m."
+  },
+  {
+   "id": "vol-0022",
+   "dificuldade": 1,
+   "tema": "Capacidades",
+   "enunciado": "Qual a capacidade de um poço aberto in gauge perfurado com broca de 6,00 in?",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,0350 bbl/m",
+    "0,0964 bbl/m",
+    "0,1262 bbl/m",
+    "0,1147 bbl/m",
+    "0,1434 bbl/m"
+   ],
+   "correta": 3,
+   "explicacao": "C = D²/313,76 = 6,00²/313,76 ≈ 0,1147 bbl/m."
+  },
+  {
+   "id": "vol-0023",
+   "dificuldade": 1,
+   "tema": "Capacidades",
+   "enunciado": "Calcule a capacidade do anular entre revestimento de ID 8,921 in e DP de OD 5 in.",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,2536 bbl/m",
+    "0,3333 bbl/m",
+    "0,0490 bbl/m",
+    "0,2001 bbl/m",
+    "0,1740 bbl/m"
+   ],
+   "correta": 4,
+   "explicacao": "C = (Dext² − Dint²)/313,76 com Dext = ID do revestimento (ou do poço) e Dint = OD do tubo: (8,921² − 5,0²)/313,76 ≈ 0,1740 bbl/m."
+  },
+  {
+   "id": "vol-0024",
+   "dificuldade": 3,
+   "tema": "Capacidades",
+   "enunciado": "Calcule a capacidade do anular entre poço aberto de 8 1/2 in e comandos de OD 6 1/2 in.",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,0956 bbl/m",
+    "0,1195 bbl/m",
+    "0,3649 bbl/m",
+    "0,2303 bbl/m",
+    "0,1100 bbl/m"
+   ],
+   "correta": 0,
+   "explicacao": "C = (Dext² − Dint²)/313,76 com Dext = ID do revestimento (ou do poço) e Dint = OD do tubo: (8,500² − 6,5²)/313,76 ≈ 0,0956 bbl/m."
+  },
+  {
+   "id": "vol-0025",
+   "dificuldade": 2,
+   "tema": "Capacidades",
+   "enunciado": "Calcule a capacidade do anular entre revestimento de ID 12,515 in e DP de OD 5 in.",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,5789 bbl/m",
+    "0,1800 bbl/m",
+    "0,4992 bbl/m",
+    "0,4824 bbl/m",
+    "0,4195 bbl/m"
+   ],
+   "correta": 4,
+   "explicacao": "C = (Dext² − Dint²)/313,76 com Dext = ID do revestimento (ou do poço) e Dint = OD do tubo: (12,515² − 5,0²)/313,76 ≈ 0,4195 bbl/m."
+  },
+  {
+   "id": "vol-0026",
+   "dificuldade": 2,
+   "tema": "Capacidades",
+   "enunciado": "Calcule a capacidade do anular entre revestimento de ID 8,681 in e DP de OD 4 1/2 in.",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,3047 bbl/m",
+    "0,2402 bbl/m",
+    "0,2020 bbl/m",
+    "0,0557 bbl/m",
+    "0,1756 bbl/m"
+   ],
+   "correta": 4,
+   "explicacao": "C = (Dext² − Dint²)/313,76 com Dext = ID do revestimento (ou do poço) e Dint = OD do tubo: (8,681² − 4,5²)/313,76 ≈ 0,1756 bbl/m."
+  },
+  {
+   "id": "vol-0027",
+   "dificuldade": 2,
+   "tema": "Deslocamento",
+   "enunciado": "Qual a capacidade de deslocamento do aço de um comando (DC) 6 1/2 × 3 in (OD × ID)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,1060 bbl/m",
+    "0,1633 bbl/m",
+    "0,0287 bbl/m",
+    "0,1347 bbl/m",
+    "0,0390 bbl/m"
+   ],
+   "correta": 0,
+   "explicacao": "Deslocamento = (OD² − ID²)/313,76 = (6,5² − 3,000²)/313,76 ≈ 0,1060 bbl/m: volume de aço que desloca fluido quando a coluna desce."
+  },
+  {
+   "id": "vol-0028",
+   "dificuldade": 2,
+   "tema": "Deslocamento",
+   "enunciado": "Qual a capacidade de deslocamento do aço de um drill pipe 5 × 4,276 in (OD × ID)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,0583 bbl/m",
+    "0,0214 bbl/m",
+    "0,0267 bbl/m",
+    "0,0171 bbl/m",
+    "0,0797 bbl/m"
+   ],
+   "correta": 1,
+   "explicacao": "Deslocamento = (OD² − ID²)/313,76 = (5,0² − 4,276²)/313,76 ≈ 0,0214 bbl/m: volume de aço que desloca fluido quando a coluna desce."
+  },
+  {
+   "id": "vol-0029",
+   "dificuldade": 2,
+   "tema": "Deslocamento",
+   "enunciado": "Qual a capacidade de deslocamento do aço de um drill pipe 4 1/2 × 3,826 in (OD × ID)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,0467 bbl/m",
+    "0,0143 bbl/m",
+    "0,0645 bbl/m",
+    "0,0224 bbl/m",
+    "0,0179 bbl/m"
+   ],
+   "correta": 4,
+   "explicacao": "Deslocamento = (OD² − ID²)/313,76 = (4,5² − 3,826²)/313,76 ≈ 0,0179 bbl/m: volume de aço que desloca fluido quando a coluna desce."
+  },
+  {
+   "id": "vol-0030",
+   "dificuldade": 3,
+   "tema": "Capacidades",
+   "enunciado": "Uma coluna de 2.000 m tem 10 comandos de 9,144 m (ID 3,000 in) e o restante em drill pipe (ID 4,500 in). Qual o volume interno total da coluna?",
+   "tipo": "multipla",
+   "alternativas": [
+    "129,1 bbl",
+    "57,4 bbl",
+    "100,6 bbl",
+    "125,8 bbl",
+    "60,6 bbl"
+   ],
+   "correta": 3,
+   "explicacao": "VDC = 3,000²/313,76 × 91,44 ≈ 2,6 bbl; VDP = 4,500²/313,76 × 1.908,56 ≈ 123,2 bbl. Total ≈ 125,8 bbl. Cada trecho usa o seu diâmetro interno."
+  },
+  {
+   "id": "vol-0031",
+   "dificuldade": 3,
+   "tema": "Capacidades",
+   "enunciado": "Uma coluna de 3.000 m tem 12 comandos de 9,144 m (ID 2,812 in) e o restante em drill pipe (ID 4,276 in). Qual o volume interno total da coluna?",
+   "tipo": "multipla",
+   "alternativas": [
+    "137,0 bbl",
+    "75,6 bbl",
+    "171,2 bbl",
+    "174,8 bbl",
+    "79,3 bbl"
+   ],
+   "correta": 2,
+   "explicacao": "VDC = 2,812²/313,76 × 109,73 ≈ 2,8 bbl; VDP = 4,276²/313,76 × 2.890,27 ≈ 168,4 bbl. Total ≈ 171,2 bbl. Cada trecho usa o seu diâmetro interno."
+  },
+  {
+   "id": "vol-0032",
+   "dificuldade": 3,
+   "tema": "Washout",
+   "enunciado": "Um poço perfurado com broca de 12,25 in apresentou washout de 10% no perfil caliper (diâmetro real = 1,10 × diâmetro da broca). Qual a capacidade do poço?",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,5261 bbl/m",
+    "0,4783 bbl/m",
+    "0,6887 bbl/m",
+    "0,5787 bbl/m",
+    "0,5273 bbl/m"
+   ],
+   "correta": 3,
+   "explicacao": "O washout aumenta o DIÂMETRO: D = 12,25 × 1,10 = 13,475 in; C = 13,475²/313,76 ≈ 0,5787 bbl/m. Multiplicar a capacidade da broca por 1,10 subestima o efeito, pois o diâmetro entra ao quadrado."
+  },
+  {
+   "id": "vol-0033",
+   "dificuldade": 3,
+   "tema": "Washout",
+   "enunciado": "Um poço perfurado com broca de 8,50 in apresentou washout de 15% no perfil caliper (diâmetro real = 1,15 × diâmetro da broca). Qual a capacidade do poço?",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,2661 bbl/m",
+    "0,3045 bbl/m",
+    "0,2303 bbl/m",
+    "0,2648 bbl/m",
+    "0,3892 bbl/m"
+   ],
+   "correta": 1,
+   "explicacao": "O washout aumenta o DIÂMETRO: D = 8,50 × 1,15 = 9,775 in; C = 9,775²/313,76 ≈ 0,3045 bbl/m. Multiplicar a capacidade da broca por 1,15 subestima o efeito, pois o diâmetro entra ao quadrado."
+  },
+  {
+   "id": "vol-0034",
+   "dificuldade": 3,
+   "tema": "Washout",
+   "enunciado": "Um poço perfurado com broca de 17,50 in apresentou washout de 15% no perfil caliper (diâmetro real = 1,15 × diâmetro da broca). Qual a capacidade do poço?",
+   "tipo": "multipla",
+   "alternativas": [
+    "1,1225 bbl/m",
+    "0,9761 bbl/m",
+    "1,6495 bbl/m",
+    "1,1280 bbl/m",
+    "1,2908 bbl/m"
+   ],
+   "correta": 4,
+   "explicacao": "O washout aumenta o DIÂMETRO: D = 17,50 × 1,15 = 20,125 in; C = 20,125²/313,76 ≈ 1,2908 bbl/m. Multiplicar a capacidade da broca por 1,15 subestima o efeito, pois o diâmetro entra ao quadrado."
+  },
+  {
+   "id": "vol-0035",
+   "dificuldade": 2,
+   "tema": "Washout",
+   "enunciado": "Um poço perfurado com broca de 8,50 in apresentou washout de 5% no perfil caliper (diâmetro real = 1,05 × diâmetro da broca). Qual a capacidade do poço?",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,2419 bbl/m",
+    "0,2418 bbl/m",
+    "0,2539 bbl/m",
+    "0,2303 bbl/m",
+    "0,2786 bbl/m"
+   ],
+   "correta": 2,
+   "explicacao": "O washout aumenta o DIÂMETRO: D = 8,50 × 1,05 = 8,925 in; C = 8,925²/313,76 ≈ 0,2539 bbl/m. Multiplicar a capacidade da broca por 1,05 subestima o efeito, pois o diâmetro entra ao quadrado."
+  },
+  {
+   "id": "vol-0036",
+   "dificuldade": 2,
+   "tema": "Bombas",
+   "enunciado": "Capacidade de uma bomba triplex com camisa de 6,5 in, curso de 12 in e eficiência volumétrica de 97%, em bbl/stk:",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,0796 bbl/stk",
+    "0,1194 bbl/stk",
+    "0,1792 bbl/stk",
+    "0,1492 bbl/stk",
+    "0,0616 bbl/stk"
+   ],
+   "correta": 1,
+   "explicacao": "q = D² × L × Ep% / 411.765,7 = 6,5² × 12 × 97 / 411.765,7 ≈ 0,1194 bbl/stk (já considera os três cilindros)."
+  },
+  {
+   "id": "vol-0037",
+   "dificuldade": 2,
+   "tema": "Bombas",
+   "enunciado": "Capacidade de uma bomba triplex com camisa de 5,5 in, curso de 12 in e eficiência volumétrica de 93%, em bbl/stk:",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,0547 bbl/stk",
+    "0,0820 bbl/stk",
+    "0,0441 bbl/stk",
+    "0,1025 bbl/stk",
+    "0,1230 bbl/stk"
+   ],
+   "correta": 1,
+   "explicacao": "q = D² × L × Ep% / 411.765,7 = 5,5² × 12 × 93 / 411.765,7 ≈ 0,0820 bbl/stk (já considera os três cilindros)."
+  },
+  {
+   "id": "vol-0038",
+   "dificuldade": 2,
+   "tema": "Bombas",
+   "enunciado": "Capacidade de uma bomba triplex com camisa de 6,0 in, curso de 13 in e eficiência volumétrica de 100%, em bbl/stk:",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,1421 bbl/stk",
+    "0,0758 bbl/stk",
+    "0,1137 bbl/stk",
+    "0,1705 bbl/stk",
+    "0,0568 bbl/stk"
+   ],
+   "correta": 2,
+   "explicacao": "q = D² × L × Ep% / 411.765,7 = 6,0² × 13 × 100 / 411.765,7 ≈ 0,1137 bbl/stk (já considera os três cilindros)."
+  },
+  {
+   "id": "vol-0039",
+   "dificuldade": 2,
+   "tema": "Bombas",
+   "enunciado": "Capacidade de uma bomba triplex com camisa de 7,0 in, curso de 12 in e eficiência volumétrica de 95%, em bbl/stk:",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,0904 bbl/stk",
+    "0,1696 bbl/stk",
+    "0,2035 bbl/stk",
+    "0,1357 bbl/stk",
+    "0,0714 bbl/stk"
+   ],
+   "correta": 3,
+   "explicacao": "q = D² × L × Ep% / 411.765,7 = 7,0² × 12 × 95 / 411.765,7 ≈ 0,1357 bbl/stk (já considera os três cilindros)."
+  },
+  {
+   "id": "vol-0040",
+   "dificuldade": 2,
+   "tema": "Bombas",
+   "enunciado": "Calcule a capacidade da bomba triplex (camisa 5,5 in, curso 12 in, Ep = 93%) em galões por stroke.",
+   "tipo": "multipla",
+   "alternativas": [
+    "5,165 gal/stk",
+    "3,443 gal/stk",
+    "2,754 gal/stk",
+    "4,304 gal/stk",
+    "2,307 gal/stk"
+   ],
+   "correta": 1,
+   "explicacao": "q = D² × L × Ep% / 9.803,95 = 3,443 gal/stk (≈ 0,0820 bbl/stk ÷ ... × 42)."
+  },
+  {
+   "id": "vol-0041",
+   "dificuldade": 2,
+   "tema": "Bombas",
+   "enunciado": "Calcule a capacidade da bomba triplex (camisa 6,5 in, curso 12 in, Ep = 97%) em galões por stroke.",
+   "tipo": "multipla",
+   "alternativas": [
+    "4,013 gal/stk",
+    "5,016 gal/stk",
+    "7,524 gal/stk",
+    "6,270 gal/stk",
+    "3,361 gal/stk"
+   ],
+   "correta": 1,
+   "explicacao": "q = D² × L × Ep% / 9.803,95 = 5,016 gal/stk (≈ 0,1194 bbl/stk ÷ ... × 42)."
+  },
+  {
+   "id": "vol-0042",
+   "dificuldade": 2,
+   "tema": "Bombas",
+   "enunciado": "Uma bomba triplex (camisa 6,5 in; curso 12 in; Ep = 98%) opera a 80 SPM. Qual a vazão em gpm?",
+   "tipo": "multipla",
+   "alternativas": [
+    "579 gpm",
+    "414 gpm",
+    "135 gpm",
+    "506 gpm",
+    "405 gpm"
+   ],
+   "correta": 4,
+   "explicacao": "q = 0,1207 bbl/stk = 5,07 gal/stk; Q = 5,07 × 80 ≈ 405 gpm."
+  },
+  {
+   "id": "vol-0043",
+   "dificuldade": 2,
+   "tema": "Bombas",
+   "enunciado": "Uma bomba triplex (camisa 6,0 in; curso 12 in; Ep = 95%) opera a 100 SPM. Qual a vazão em gpm?",
+   "tipo": "multipla",
+   "alternativas": [
+    "524 gpm",
+    "419 gpm",
+    "598 gpm",
+    "140 gpm",
+    "441 gpm"
+   ],
+   "correta": 1,
+   "explicacao": "q = 0,0997 bbl/stk = 4,19 gal/stk; Q = 4,19 × 100 ≈ 419 gpm."
+  },
+  {
+   "id": "vol-0044",
+   "dificuldade": 2,
+   "tema": "Bombas",
+   "enunciado": "Uma bomba triplex (camisa 5,5 in; curso 12 in; Ep = 93%) opera a 120 SPM. Qual a vazão em gpm?",
+   "tipo": "multipla",
+   "alternativas": [
+    "138 gpm",
+    "590 gpm",
+    "516 gpm",
+    "413 gpm",
+    "444 gpm"
+   ],
+   "correta": 3,
+   "explicacao": "q = 0,0820 bbl/stk = 3,44 gal/stk; Q = 3,44 × 120 ≈ 413 gpm."
+  },
+  {
+   "id": "vol-0045",
+   "dificuldade": 1,
+   "tema": "Bombas",
+   "enunciado": "Uma bomba com capacidade de 0,0820 bbl/stk trabalha a 70 SPM. Qual a vazão em bbl/min?",
+   "tipo": "multipla",
+   "alternativas": [
+    "5,74 bbl/min",
+    "3,85 bbl/min",
+    "4,59 bbl/min",
+    "8,61 bbl/min",
+    "7,18 bbl/min"
+   ],
+   "correta": 0,
+   "explicacao": "Q = q × SPM = 0,0820 × 70 = 5,74 bbl/min (≈ 241 gpm)."
+  },
+  {
+   "id": "vol-0046",
+   "dificuldade": 1,
+   "tema": "Bombas",
+   "enunciado": "Uma bomba com capacidade de 0,1194 bbl/stk trabalha a 90 SPM. Qual a vazão em bbl/min?",
+   "tipo": "multipla",
+   "alternativas": [
+    "10,75 bbl/min",
+    "16,12 bbl/min",
+    "13,44 bbl/min",
+    "8,60 bbl/min",
+    "7,20 bbl/min"
+   ],
+   "correta": 0,
+   "explicacao": "Q = q × SPM = 0,1194 × 90 = 10,75 bbl/min (≈ 451 gpm)."
+  },
+  {
+   "id": "vol-0047",
+   "dificuldade": 3,
+   "tema": "Bombas",
+   "enunciado": "Teste de eficiência: bomba triplex com camisa de 6,0 in e curso de 13 in (100% teórico), 100 SPM durante 10 min; o volume realmente deslocado medido no tanque foi de 110 bbl. Qual a eficiência volumétrica?",
+   "tipo": "multipla",
+   "alternativas": [
+    "104,5 %",
+    "96,8 %",
+    "90,0 %",
+    "103,3 %",
+    "121,0 %"
+   ],
+   "correta": 1,
+   "explicacao": "Volume teórico = 0,1137 × 100 × 10 ≈ 113,7 bbl. Ep = 110/113,7 ≈ 96,8%. A eficiência fica abaixo de 100% por vazamento em válvulas/pistões e ar no fluido."
+  },
+  {
+   "id": "vol-0048",
+   "dificuldade": 3,
+   "tema": "Bombas",
+   "enunciado": "Teste de eficiência: bomba triplex com camisa de 6,5 in e curso de 12 in (100% teórico), 90 SPM durante 10 min; o volume realmente deslocado medido no tanque foi de 105 bbl. Qual a eficiência volumétrica?",
+   "tipo": "multipla",
+   "alternativas": [
+    "118,5 %",
+    "102,3 %",
+    "88,1 %",
+    "105,5 %",
+    "94,8 %"
+   ],
+   "correta": 4,
+   "explicacao": "Volume teórico = 0,1231 × 90 × 10 ≈ 110,8 bbl. Ep = 105/110,8 ≈ 94,8%. A eficiência fica abaixo de 100% por vazamento em válvulas/pistões e ar no fluido."
+  },
+  {
+   "id": "vol-0049",
+   "dificuldade": 3,
+   "tema": "Bombas",
+   "enunciado": "Teste de eficiência: bomba triplex com camisa de 5,5 in e curso de 12 in (100% teórico), 110 SPM durante 15 min; o volume realmente deslocado medido no tanque foi de 138 bbl. Qual a eficiência volumétrica?",
+   "tipo": "multipla",
+   "alternativas": [
+    "105,4 %",
+    "94,9 %",
+    "88,2 %",
+    "102,5 %",
+    "118,6 %"
+   ],
+   "correta": 1,
+   "explicacao": "Volume teórico = 0,0882 × 110 × 15 ≈ 145,5 bbl. Ep = 138/145,5 ≈ 94,9%. A eficiência fica abaixo de 100% por vazamento em válvulas/pistões e ar no fluido."
+  },
+  {
+   "id": "vol-0050",
+   "dificuldade": 1,
+   "tema": "Bombas",
+   "enunciado": "Quantos strokes são necessários para bombear 125,8 bbl (interior da coluna (surface to bit)) com bomba de 0,082 bbl/stk?",
+   "tipo": "multipla",
+   "alternativas": [
+    "1.227 stk",
+    "767 stk",
+    "1.918 stk",
+    "1.534 stk",
+    "2.455 stk"
+   ],
+   "correta": 3,
+   "explicacao": "N = V/q = 125,8/0,082 ≈ 1.534 strokes."
+  },
+  {
+   "id": "vol-0051",
+   "dificuldade": 1,
+   "tema": "Bombas",
+   "enunciado": "Quantos strokes são necessários para bombear 330,1 bbl (espaço anular (bottoms up)) com bomba de 0,082 bbl/stk?",
+   "tipo": "multipla",
+   "alternativas": [
+    "5.032 stk",
+    "3.221 stk",
+    "2.013 stk",
+    "6.441 stk",
+    "4.026 stk"
+   ],
+   "correta": 4,
+   "explicacao": "N = V/q = 330,1/0,082 ≈ 4.026 strokes."
+  },
+  {
+   "id": "vol-0052",
+   "dificuldade": 1,
+   "tema": "Bombas",
+   "enunciado": "Quantos strokes são necessários para bombear 217,0 bbl (interior da coluna) com bomba de 0,052 bbl/stk?",
+   "tipo": "multipla",
+   "alternativas": [
+    "5.216 stk",
+    "6.677 stk",
+    "4.173 stk",
+    "3.338 stk",
+    "2.087 stk"
+   ],
+   "correta": 2,
+   "explicacao": "N = V/q = 217,0/0,052 ≈ 4.173 strokes."
+  },
+  {
+   "id": "vol-0053",
+   "dificuldade": 1,
+   "tema": "Tempos",
+   "enunciado": "Volume de surface to bit (interior da coluna): 125,8 bbl; vazão de 5,74 bbl/min. Qual o tempo correspondente?",
+   "tipo": "multipla",
+   "alternativas": [
+    "44 min",
+    "12 min",
+    "28 min",
+    "11 min",
+    "22 min"
+   ],
+   "correta": 4,
+   "explicacao": "t = V/Q = 125,8/5,74 ≈ 22 min."
+  },
+  {
+   "id": "vol-0054",
+   "dificuldade": 1,
+   "tema": "Tempos",
+   "enunciado": "Volume de bottoms up (anular total): 330,1 bbl; vazão de 5,74 bbl/min. Qual o tempo correspondente?",
+   "tipo": "multipla",
+   "alternativas": [
+    "32 min",
+    "29 min",
+    "72 min",
+    "115 min",
+    "58 min"
+   ],
+   "correta": 4,
+   "explicacao": "t = V/Q = 330,1/5,74 ≈ 58 min."
+  },
+  {
+   "id": "vol-0055",
+   "dificuldade": 1,
+   "tema": "Tempos",
+   "enunciado": "Volume de surface to bit: 180,0 bbl; vazão de 10,00 bbl/min. Qual o tempo correspondente?",
+   "tipo": "multipla",
+   "alternativas": [
+    "9 min",
+    "22 min",
+    "36 min",
+    "18 min",
+    "30 min"
+   ],
+   "correta": 3,
+   "explicacao": "t = V/Q = 180,0/10,00 ≈ 18 min."
+  },
+  {
+   "id": "vol-0056",
+   "dificuldade": 1,
+   "tema": "Tempos",
+   "enunciado": "Volume de bottoms up: 420,0 bbl; vazão de 12,00 bbl/min. Qual o tempo correspondente?",
+   "tipo": "multipla",
+   "alternativas": [
+    "70 min",
+    "44 min",
+    "84 min",
+    "18 min",
+    "35 min"
+   ],
+   "correta": 4,
+   "explicacao": "t = V/Q = 420,0/12,00 ≈ 35 min."
+  },
+  {
+   "id": "vol-0057",
+   "dificuldade": 2,
+   "tema": "Velocidades",
+   "enunciado": "Qual a velocidade média do fluido no anular DP × poço aberto (C = 0,1506 bbl/m) com vazão de 5,74 bbl/min?",
+   "tipo": "multipla",
+   "alternativas": [
+    "26,7 m/min",
+    "38,1 m/min",
+    "11,6 m/min",
+    "30,5 m/min",
+    "47,6 m/min"
+   ],
+   "correta": 1,
+   "explicacao": "v = Q/C = 5,74/0,1506 ≈ 38,1 m/min. Menor capacidade (área) → maior velocidade para a mesma vazão."
+  },
+  {
+   "id": "vol-0058",
+   "dificuldade": 2,
+   "tema": "Velocidades",
+   "enunciado": "Qual a velocidade média do fluido no anular DP × revestimento (C = 0,1740 bbl/m) com vazão de 8,00 bbl/min?",
+   "tipo": "multipla",
+   "alternativas": [
+    "32,2 m/min",
+    "14,0 m/min",
+    "36,8 m/min",
+    "46,0 m/min",
+    "57,5 m/min"
+   ],
+   "correta": 3,
+   "explicacao": "v = Q/C = 8,00/0,1740 ≈ 46,0 m/min. Menor capacidade (área) → maior velocidade para a mesma vazão."
+  },
+  {
+   "id": "vol-0059",
+   "dificuldade": 2,
+   "tema": "Velocidades",
+   "enunciado": "Qual a velocidade média do fluido no anular DC × poço aberto (C = 0,0956 bbl/m) com vazão de 10,00 bbl/min?",
+   "tipo": "multipla",
+   "alternativas": [
+    "73,2 m/min",
+    "104,6 m/min",
+    "130,8 m/min",
+    "31,9 m/min",
+    "83,7 m/min"
+   ],
+   "correta": 1,
+   "explicacao": "v = Q/C = 10,00/0,0956 ≈ 104,6 m/min. Menor capacidade (área) → maior velocidade para a mesma vazão."
+  },
+  {
+   "id": "vol-0060",
+   "dificuldade": 3,
+   "tema": "Tempos",
+   "enunciado": "Calcule o tempo de bottoms up com vazão de 600 gpm: revestimento 9 5/8 in (ID 8,655 in) descido até 1.500 m e fase de 8 1/2 in com washout de 5% perfurada até 3.000 m, coluna só de DP 5 in × 4,276 in.",
+   "tipo": "multipla",
+   "alternativas": [
+    "52 min",
+    "33 min",
+    "35 min",
+    "28 min",
+    "44 min"
+   ],
+   "correta": 2,
+   "explicacao": "Anular revestido = 0,1591 × 1.500 ≈ 239 bbl; anular aberto = 0,1742 × 1.500 ≈ 261 bbl; total ≈ 500 bbl. Q = 600/42 = 14,29 bbl/min → ≈ 35 min."
+  },
+  {
+   "id": "vol-0061",
+   "dificuldade": 3,
+   "tema": "Tempos",
+   "enunciado": "Calcule o tempo de bottoms up com vazão de 800 gpm: revestimento 9 5/8 in (ID 8,655 in) descido até 2.000 m e fase de 8 1/2 in com washout de 10% perfurada até 3.000 m, coluna só de DP 5 in × 4,276 in.",
+   "tipo": "multipla",
+   "alternativas": [
+    "27 min",
+    "40 min",
+    "25 min",
+    "22 min",
+    "34 min"
+   ],
+   "correta": 0,
+   "explicacao": "Anular revestido = 0,1591 × 2.000 ≈ 318 bbl; anular aberto = 0,1989 × 1.000 ≈ 199 bbl; total ≈ 517 bbl. Q = 800/42 = 19,05 bbl/min → ≈ 27 min."
+  },
+  {
+   "id": "vol-0062",
+   "dificuldade": 3,
+   "tema": "Volume do poço",
+   "enunciado": "Calcule o volume total de fluido do poço (interior da coluna + anular) para completá-lo: último revestimento assentado a 3500 m com ID de 8,621 in; fase de 8,5 in perfurada até 5000 m (washout 5%); coluna apenas de DP 5 in × 4,276 in até o fundo.",
+   "tipo": "multipla",
+   "alternativas": [
+    "1.103 bbl",
+    "842 bbl",
+    "1.067 bbl",
+    "1.181 bbl",
+    "811 bbl"
+   ],
+   "correta": 0,
+   "explicacao": "Interior: 0,0583 × 5.000 ≈ 291 bbl; anular revestido: 0,1572 × 3.500 ≈ 550 bbl; anular aberto (D = 8,925 in): 0,1742 × 1.500 ≈ 261 bbl. Total ≈ 1.103 bbl."
+  },
+  {
+   "id": "vol-0063",
+   "dificuldade": 3,
+   "tema": "Volume do poço",
+   "enunciado": "Calcule o volume total de fluido do poço (interior da coluna + anular) para completá-lo: último revestimento assentado a 2800 m com ID de 8,681 in; fase de 8,5 in perfurada até 4200 m (washout 5%); coluna apenas de DP 5 in × 4,276 in até o fundo.",
+   "tipo": "multipla",
+   "alternativas": [
+    "938 bbl",
+    "1.011 bbl",
+    "905 bbl",
+    "694 bbl",
+    "693 bbl"
+   ],
+   "correta": 0,
+   "explicacao": "Interior: 0,0583 × 4.200 ≈ 245 bbl; anular revestido: 0,1605 × 2.800 ≈ 449 bbl; anular aberto (D = 8,925 in): 0,1742 × 1.400 ≈ 244 bbl. Total ≈ 938 bbl."
+  },
+  {
+   "id": "vol-0064",
+   "dificuldade": 3,
+   "tema": "Volume do poço",
+   "enunciado": "Poço offshore com lâmina d'água de 2.500 m. Revestimento de 9 5/8 in (ID 8,655 in) cimentado até 4.000 m e fase de 8 1/2 in perfurada até 5.900 m. Riser com ID 19,75 in; coluna só de DP 5 in. Desprezando a altura da mesa rotativa e washout, qual o volume do espaço anular total (riser + revestido + aberto)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "3.450 bbl",
+    "3.433 bbl",
+    "3.195 bbl",
+    "922 bbl",
+    "3.633 bbl"
+   ],
+   "correta": 1,
+   "explicacao": "Riser: 1,1635 × 2500 ≈ 2.909 bbl; revestido (1500 m): 0,1591 × 1500 ≈ 239 bbl; poço aberto (1900 m): 0,1506 × 1900 ≈ 286 bbl. Total ≈ 3.433 bbl. O riser responde pela maior parte do anular em água profunda."
+  },
+  {
+   "id": "vol-0065",
+   "dificuldade": 2,
+   "tema": "Bombas",
+   "enunciado": "Uma bomba entrega 4,912 gal/stk. Quantos SPM são necessários para uma vazão de 450 gpm?",
+   "tipo": "multipla",
+   "alternativas": [
+    "92 SPM",
+    "138 SPM",
+    "115 SPM",
+    "73 SPM",
+    "74 SPM"
+   ],
+   "correta": 0,
+   "explicacao": "SPM = Q/q = 450/4,912 ≈ 92 strokes/min."
+  },
+  {
+   "id": "vol-0066",
+   "dificuldade": 2,
+   "tema": "Bombas",
+   "enunciado": "Uma bomba entrega 4,912 gal/stk. Quantos SPM são necessários para uma vazão de 250 gpm?",
+   "tipo": "multipla",
+   "alternativas": [
+    "64 SPM",
+    "51 SPM",
+    "76 SPM",
+    "41 SPM",
+    "34 SPM"
+   ],
+   "correta": 1,
+   "explicacao": "SPM = Q/q = 250/4,912 ≈ 51 strokes/min."
+  },
+  {
+   "id": "vol-0067",
+   "dificuldade": 2,
+   "tema": "Bombas",
+   "enunciado": "Uma bomba entrega 2,190 gal/stk. Quantos SPM são necessários para uma vazão de 300 gpm?",
+   "tipo": "multipla",
+   "alternativas": [
+    "206 SPM",
+    "137 SPM",
+    "171 SPM",
+    "92 SPM",
+    "110 SPM"
+   ],
+   "correta": 1,
+   "explicacao": "SPM = Q/q = 300/2,190 ≈ 137 strokes/min."
+  },
+  {
+   "id": "vol-0068",
+   "dificuldade": 3,
+   "tema": "Posicionamento de tampão",
+   "enunciado": "Para cobrir o BHA com um tampão liberador de coluna em poço aberto de 8 1/2 in com washout de 5%: DC 6 in (91,44 m) e HW 5 in (137,16 m). Qual o volume de tampão para cobrir o BHA (sem o volume morto)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "31,2 bbl",
+    "36,6 bbl",
+    "58,0 bbl",
+    "39,8 bbl",
+    "47,6 bbl"
+   ],
+   "correta": 1,
+   "explicacao": "DC × poço: 0,1391 × 91,44 ≈ 12,7 bbl; HW × poço: 0,1742 × 137,16 ≈ 23,9 bbl. Total ≈ 36,6 bbl; com 10 bbl de volume morto fabricam-se ≈ 46,6 bbl."
+  },
+  {
+   "id": "vol-0069",
+   "dificuldade": 3,
+   "tema": "Diluição",
+   "enunciado": "Para reduzir 2.000 bbl de fluido de 10,5 ppg para 9,0 ppg usando fluido novo de 8,8 ppg, qual o volume necessário?",
+   "tipo": "multipla",
+   "alternativas": [
+    "7.500 bbl",
+    "12.000 bbl",
+    "18.750 bbl",
+    "15.000 bbl",
+    "22.500 bbl"
+   ],
+   "correta": 3,
+   "explicacao": "Balanço de massa: V2 = V1 (Df − D1)/(D2 − Df) = 2.000 × (9,0 − 10,5)/(8,8 − 9,0) = 15.000 bbl."
+  },
+  {
+   "id": "vol-0070",
+   "dificuldade": 3,
+   "tema": "Diluição",
+   "enunciado": "Para reduzir 2.000 bbl de fluido de 10,5 ppg para 9,0 ppg usando parafina de 6,5 ppg, qual o volume necessário?",
+   "tipo": "multipla",
+   "alternativas": [
+    "1.200 bbl",
+    "1.800 bbl",
+    "3.333 bbl",
+    "600 bbl",
+    "750 bbl"
+   ],
+   "correta": 0,
+   "explicacao": "Balanço de massa: V2 = V1 (Df − D1)/(D2 − Df) = 2.000 × (9,0 − 10,5)/(6,5 − 9,0) = 1.200 bbl."
+  },
+  {
+   "id": "vol-0071",
+   "dificuldade": 3,
+   "tema": "Diluição",
+   "enunciado": "Para reduzir 1.000 bbl de fluido de 11,0 ppg para 10,0 ppg usando fluido novo de 8,5 ppg, qual o volume necessário?",
+   "tipo": "multipla",
+   "alternativas": [
+    "667 bbl",
+    "400 bbl",
+    "333 bbl",
+    "1.500 bbl",
+    "1.000 bbl"
+   ],
+   "correta": 0,
+   "explicacao": "Balanço de massa: V2 = V1 (Df − D1)/(D2 − Df) = 1.000 × (10,0 − 11,0)/(8,5 − 10,0) = 667 bbl."
+  },
+  {
+   "id": "vol-0072",
+   "dificuldade": 3,
+   "tema": "Diluição",
+   "enunciado": "São necessários 1.500 bbl finais de fluido com 9,5 ppg, misturando fluido existente de 10,0 ppg com base leve de 6,5 ppg. Qual o volume da base leve?",
+   "tipo": "multipla",
+   "alternativas": [
+    "268 bbl",
+    "300 bbl",
+    "250 bbl",
+    "214 bbl",
+    "171 bbl"
+   ],
+   "correta": 3,
+   "explicacao": "V1 + Vp = Vf e D1·V1 + Dp·Vp = Df·Vf ⇒ Vp = Vf (D1 − Df)/(D1 − Dp) = 1.500 × 0,5/3,5 ≈ 214 bbl."
+  },
+  {
+   "id": "vol-0073",
+   "dificuldade": 3,
+   "tema": "Diluição",
+   "enunciado": "São necessários 1.000 bbl finais de fluido com 11,0 ppg, misturando fluido existente de 12,0 ppg com base leve de 8,5 ppg. Qual o volume da base leve?",
+   "tipo": "multipla",
+   "alternativas": [
+    "714 bbl",
+    "286 bbl",
+    "400 bbl",
+    "358 bbl",
+    "229 bbl"
+   ],
+   "correta": 1,
+   "explicacao": "V1 + Vp = Vf e D1·V1 + Dp·Vp = Df·Vf ⇒ Vp = Vf (D1 − Df)/(D1 − Dp) = 1.000 × 1,0/3,5 ≈ 286 bbl."
+  },
+  {
+   "id": "vol-0074",
+   "dificuldade": 3,
+   "tema": "Adensamento",
+   "enunciado": "Calcule a massa de barita (4,2 g/mL ≡ 35,08 ppg ≡ 1.471,76 lb/bbl) para elevar 50 bbl de fluido de 9,5 para 11,5 ppg.",
+   "tipo": "multipla",
+   "alternativas": [
+    "7.802 lb",
+    "5.754 lb",
+    "6.242 lb",
+    "12.798 lb",
+    "4.993 lb"
+   ],
+   "correta": 2,
+   "explicacao": "Mb = 1.471,76 × V × (Df − Di)/(Db − Df) = 1.471,76 × 50 × 2,0/(35,08 − 11,5) ≈ 6.242 lb. O denominador usa o peso FINAL."
+  },
+  {
+   "id": "vol-0075",
+   "dificuldade": 3,
+   "tema": "Adensamento",
+   "enunciado": "Calcule a massa de barita (4,2 g/mL ≡ 35,08 ppg ≡ 1.471,76 lb/bbl) para elevar 200 bbl de fluido de 10,0 para 12,0 ppg.",
+   "tipo": "multipla",
+   "alternativas": [
+    "31.884 lb",
+    "20.406 lb",
+    "23.473 lb",
+    "25.507 lb",
+    "49.059 lb"
+   ],
+   "correta": 3,
+   "explicacao": "Mb = 1.471,76 × V × (Df − Di)/(Db − Df) = 1.471,76 × 200 × 2,0/(35,08 − 12,0) ≈ 25.507 lb. O denominador usa o peso FINAL."
+  },
+  {
+   "id": "vol-0076",
+   "dificuldade": 3,
+   "tema": "Adensamento",
+   "enunciado": "Calcule a massa de barita (4,2 g/mL ≡ 35,08 ppg ≡ 1.471,76 lb/bbl) para elevar 80 bbl de fluido de 13,0 para 14,0 ppg.",
+   "tipo": "multipla",
+   "alternativas": [
+    "6.981 lb",
+    "8.410 lb",
+    "5.585 lb",
+    "4.468 lb",
+    "5.332 lb"
+   ],
+   "correta": 2,
+   "explicacao": "Mb = 1.471,76 × V × (Df − Di)/(Db − Df) = 1.471,76 × 80 × 1,0/(35,08 − 14,0) ≈ 5.585 lb. O denominador usa o peso FINAL."
+  },
+  {
+   "id": "vol-0077",
+   "dificuldade": 3,
+   "tema": "Adensamento",
+   "enunciado": "Calcule a massa de barita (4,2 g/mL ≡ 35,08 ppg ≡ 1.471,76 lb/bbl) para elevar 120 bbl de fluido de 11,0 para 13,0 ppg.",
+   "tipo": "multipla",
+   "alternativas": [
+    "15.997 lb",
+    "27.171 lb",
+    "14.669 lb",
+    "12.798 lb",
+    "19.996 lb"
+   ],
+   "correta": 0,
+   "explicacao": "Mb = 1.471,76 × V × (Df − Di)/(Db − Df) = 1.471,76 × 120 × 2,0/(35,08 − 13,0) ≈ 15.997 lb. O denominador usa o peso FINAL."
+  },
+  {
+   "id": "vol-0078",
+   "dificuldade": 3,
+   "tema": "Adensamento",
+   "enunciado": "Quantos sacos de 25 kg de barita (1 saco = 55,125 lb) são necessários para elevar 100 bbl de 12 para 14 ppg?",
+   "tipo": "multipla",
+   "alternativas": [
+    "231 sacos",
+    "559 sacos",
+    "127 sacos",
+    "405 sacos",
+    "253 sacos"
+   ],
+   "correta": 4,
+   "explicacao": "Mb = 1.471,76 × 100 × 2/(35,08 − 14) ≈ 13.964 lb ≈ 6.333 kg ≈ 253 sacos de 25 kg."
+  },
+  {
+   "id": "vol-0079",
+   "dificuldade": 2,
+   "tema": "Adensamento",
+   "enunciado": "Qual o volume de barita (4,2 g/mL) adicionado a 100 bbl de fluido para elevar de 12 para 14 ppg?",
+   "tipo": "multipla",
+   "alternativas": [
+    "18,98 bbl",
+    "9,49 bbl",
+    "26,04 bbl",
+    "14,29 bbl",
+    "8,67 bbl"
+   ],
+   "correta": 1,
+   "explicacao": "Vb = Vi (Df − Di)/(Db − Df) = 100 × 2/(35,08 − 14) ≈ 9,49 bbl; o volume final ≈ 109,5 bbl."
+  },
+  {
+   "id": "vol-0080",
+   "dificuldade": 3,
+   "tema": "Adensamento",
+   "enunciado": "Para elevar 100 bbl de 12 para 14 ppg com carbonato de cálcio (2,6 g/mL ≡ 21,68 ppg ≡ 910,7 lb/bbl), qual a massa necessária?",
+   "tipo": "multipla",
+   "alternativas": [
+    "16.601 lb",
+    "8.401 lb",
+    "13.964 lb",
+    "23.716 lb",
+    "18.816 lb"
+   ],
+   "correta": 3,
+   "explicacao": "Mc = 910,7 × 100 × 2/(21,68 − 14) ≈ 23.716 lb (≈ 430 sacos), contra ≈ 13.964 lb de barita. O carbonato exige mais massa e volume (26,0 bbl contra 9,5 bbl) para o mesmo ganho de peso."
+  },
+  {
+   "id": "vol-0081",
+   "dificuldade": 1,
+   "tema": "Unidades",
+   "enunciado": "Um fluido de 12,0 ppg equivale a quantos g/mL? (1 g/mL = 8,345 ppg)",
+   "tipo": "multipla",
+   "alternativas": [
+    "1,797 g/mL",
+    "1,428 g/mL",
+    "1,438 g/mL",
+    "1,510 g/mL",
+    "1,150 g/mL"
+   ],
+   "correta": 2,
+   "explicacao": "ρ = 12,0/8,345 ≈ 1,438 g/mL."
+  },
+  {
+   "id": "vol-0082",
+   "dificuldade": 1,
+   "tema": "Unidades",
+   "enunciado": "Um fluido de 14,0 ppg equivale a quantos g/mL? (1 g/mL = 8,345 ppg)",
+   "tipo": "multipla",
+   "alternativas": [
+    "1,666 g/mL",
+    "2,098 g/mL",
+    "1,762 g/mL",
+    "1,678 g/mL",
+    "1,342 g/mL"
+   ],
+   "correta": 3,
+   "explicacao": "ρ = 14,0/8,345 ≈ 1,678 g/mL."
+  },
+  {
+   "id": "vol-0083",
+   "dificuldade": 1,
+   "tema": "Unidades",
+   "enunciado": "Um fluido de 10,5 ppg equivale a quantos g/mL? (1 g/mL = 8,345 ppg)",
+   "tipo": "multipla",
+   "alternativas": [
+    "1,249 g/mL",
+    "1,258 g/mL",
+    "1,573 g/mL",
+    "1,321 g/mL",
+    "1,006 g/mL"
+   ],
+   "correta": 1,
+   "explicacao": "ρ = 10,5/8,345 ≈ 1,258 g/mL."
+  },
+  {
+   "id": "vol-0084",
+   "dificuldade": 2,
+   "tema": "Manobra",
+   "enunciado": "Qual o volume de aço (deslocamento) de 3.600 m de DP 5 in × 4,276 in? (volume a repor se a coluna sair seca)",
+   "tipo": "multipla",
+   "alternativas": [
+    "286,8 bbl",
+    "209,8 bbl",
+    "77,1 bbl",
+    "154,1 bbl",
+    "96,4 bbl"
+   ],
+   "correta": 2,
+   "explicacao": "Cdesl = (5² − 4,276²)/313,76 ≈ 0,0214 bbl/m; V = 0,0214 × 3.600 ≈ 77,1 bbl."
+  },
+  {
+   "id": "vol-0085",
+   "dificuldade": 3,
+   "tema": "Manobra",
+   "enunciado": "Após retirar 3.600 m de DP (deslocamento de 77,1 bbl) sem completar o poço, com sapata a 300 m (ID do revestimento 8,61 in) e poço aberto de 8,5 in abaixo, qual a profundidade do nível estático do fluido?",
+   "tipo": "multipla",
+   "alternativas": [
+    "300 m",
+    "335 m",
+    "327 m",
+    "326 m",
+    "354 m"
+   ],
+   "correta": 2,
+   "explicacao": "Volume perdido = Crev × 300 + COH × x ⇒ 77,1 = 0,236 × 300 + 0,230 x ⇒ x ≈ 26,8 m. Nível ≈ 300 + 26,8 ≈ 327 m."
+  },
+  {
+   "id": "vol-0086",
+   "dificuldade": 2,
+   "tema": "Manobra",
+   "enunciado": "O nível de um fluido de 12,0 ppg cai 326,7 m por falta de enchimento na manobra. Qual a perda de pressão hidrostática aproximada? (psi = 0,17 × ppg × m)",
+   "tipo": "multipla",
+   "alternativas": [
+    "832 psi",
+    "2.187 psi",
+    "666 psi",
+    "204 psi",
+    "333 psi"
+   ],
+   "correta": 2,
+   "explicacao": "ΔP = 0,17 × MW × H = 0,17 × 12,0 × 326,7 ≈ 666 psi. (A constante 0,052 só vale com H em ft.)"
+  },
+  {
+   "id": "vol-0087",
+   "dificuldade": 2,
+   "tema": "Manobra",
+   "enunciado": "O nível de um fluido de 10,5 ppg cai 150,0 m por falta de enchimento na manobra. Qual a perda de pressão hidrostática aproximada? (psi = 0,17 × ppg × m)",
+   "tipo": "multipla",
+   "alternativas": [
+    "878 psi",
+    "268 psi",
+    "82 psi",
+    "134 psi",
+    "335 psi"
+   ],
+   "correta": 1,
+   "explicacao": "ΔP = 0,17 × MW × H = 0,17 × 10,5 × 150,0 ≈ 268 psi. (A constante 0,052 só vale com H em ft.)"
+  },
+  {
+   "id": "vol-0088",
+   "dificuldade": 2,
+   "tema": "Manobra",
+   "enunciado": "O nível de um fluido de 13,0 ppg cai 400,0 m por falta de enchimento na manobra. Qual a perda de pressão hidrostática aproximada? (psi = 0,17 × ppg × m)",
+   "tipo": "multipla",
+   "alternativas": [
+    "2.900 psi",
+    "270 psi",
+    "884 psi",
+    "1.105 psi",
+    "442 psi"
+   ],
+   "correta": 2,
+   "explicacao": "ΔP = 0,17 × MW × H = 0,17 × 13,0 × 400,0 ≈ 884 psi. (A constante 0,052 só vale com H em ft.)"
+  },
+  {
+   "id": "vol-0089",
+   "dificuldade": 3,
+   "tema": "Projeto de volume",
+   "enunciado": "Projeto de fase: volume de superfície 400 bbl, volume do revestimento anterior 190 bbl, poço aberto 649 bbl e perda média de 0,65 bbl/m em 1.120 m. Qual o volume total requerido?",
+   "tipo": "multipla",
+   "alternativas": [
+    "1.567 bbl",
+    "1.239 bbl",
+    "1.777 bbl",
+    "1.967 bbl",
+    "805 bbl"
+   ],
+   "correta": 3,
+   "explicacao": "Volume requerido = superfície + revestimento + poço aberto + perdas = 400 + 190 + 649 + 728 ≈ 1.967 bbl."
+  },
+  {
+   "id": "vol-0090",
+   "dificuldade": 3,
+   "tema": "Projeto de volume",
+   "enunciado": "Projeto de fase: volume de superfície 400 bbl, volume do revestimento anterior 361 bbl, poço aberto 431 bbl e perda média de 0,50 bbl/m em 1.700 m. Qual o volume total requerido?",
+   "tipo": "multipla",
+   "alternativas": [
+    "1.642 bbl",
+    "1.681 bbl",
+    "1.192 bbl",
+    "596 bbl",
+    "2.042 bbl"
+   ],
+   "correta": 4,
+   "explicacao": "Volume requerido = superfície + revestimento + poço aberto + perdas = 400 + 361 + 431 + 850 ≈ 2.042 bbl."
+  },
+  {
+   "id": "vol-0091",
+   "dificuldade": 3,
+   "tema": "Projeto de volume",
+   "enunciado": "Em uma fase de 12 1/4 in com 1.120 m, washout de 10% e perda média de 0,65 bbl/m, qual a soma do volume de poço aberto (com washout) e do volume perdido?",
+   "tipo": "multipla",
+   "alternativas": [
+    "1.376 bbl",
+    "1.264 bbl",
+    "1.317 bbl",
+    "648 bbl",
+    "1.623 bbl"
+   ],
+   "correta": 0,
+   "explicacao": "Poço aberto: D = 13,475 in → 0,5787 × 1.120 ≈ 648 bbl; perdas = 1.120 × 0,65 = 728 bbl. Soma ≈ 1.376 bbl."
+  },
+  {
+   "id": "vol-0092",
+   "dificuldade": 3,
+   "tema": "Troca de fluido",
+   "enunciado": "Troca de WBM por SBM em fase de 12 1/4 in: 380 m de coluna (DP 5 × 4,276 in) e anular de 380 m (revestimento ID 12,515 in × DP 5 in) a deslocar, mais 500 bbl de SBM nos tanques para fechar o circuito. Qual o volume de SBM requerido (sem tampão)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "272 bbl",
+    "682 bbl",
+    "182 bbl",
+    "522 bbl",
+    "659 bbl"
+   ],
+   "correta": 1,
+   "explicacao": "Interior ≈ 22 bbl; anular ≈ 159 bbl; tanques = 500 bbl. Total ≈ 682 bbl."
+  },
+  {
+   "id": "vol-0093",
+   "dificuldade": 3,
+   "tema": "Offshore",
+   "enunciado": "Riser com ID 19 1/4 in contendo DP de 4 1/2 in ao longo de 2.250 m (lâmina d'água). Qual o volume anular do riser?",
+   "tipo": "multipla",
+   "alternativas": [
+    "2.657 bbl",
+    "2.478 bbl",
+    "2.552 bbl",
+    "2.512 bbl",
+    "2.723 bbl"
+   ],
+   "correta": 3,
+   "explicacao": "C = (19,25² − 4,5²)/313,76 ≈ 1,116 bbl/m; V ≈ 2.512 bbl. O anular do riser é o maior volume do circuito em água profunda."
+  },
+  {
+   "id": "vol-0094",
+   "dificuldade": 3,
+   "tema": "Offshore",
+   "enunciado": "Com anular do riser de 2.520 bbl e vazão de 1.250 gpm no riser (3 bombas de 300 gpm + booster de 350 gpm), qual o tempo para o fluido percorrer o anular do riser?",
+   "tipo": "multipla",
+   "alternativas": [
+    "118 min",
+    "302 min",
+    "127 min",
+    "106 min",
+    "85 min"
+   ],
+   "correta": 4,
+   "explicacao": "t = 2.520 bbl × 42 gal/bbl ÷ 1.250 gpm ≈ 85 min. A booster line soma sua vazão ao riser."
+  },
+  {
+   "id": "vol-0095",
+   "dificuldade": 1,
+   "tema": "Volumetria",
+   "enunciado": "O volume total de fluido circulante em um poço é a soma de:",
+   "tipo": "multipla",
+   "alternativas": [
+    "interior da coluna + volume de aço (deslocamento)",
+    "volume do poço aberto + volume de cascalho gerado",
+    "apenas o volume dos tanques ativos",
+    "interior da coluna + espaços anulares + volume de superfície (tanques)",
+    "apenas o interior da coluna e o anular em poço aberto"
+   ],
+   "correta": 3,
+   "explicacao": "O circuito é fechado: o fluido ocupa o interior da coluna (DP, HW, DC, ferramentas), os anulares (coluna × poço aberto, × revestimento, × riser) e a superfície (tanques ativos e decantadores)."
+  },
+  {
+   "id": "vol-0096",
+   "dificuldade": 1,
+   "tema": "Volumetria",
+   "enunciado": "Em um espaço anular, o que representa o diâmetro externo (Dext) na fórmula de capacidade?",
+   "tipo": "multipla",
+   "alternativas": [
+    "O diâmetro interno do revestimento ou o diâmetro do poço aberto",
+    "O diâmetro da broca em qualquer situação",
+    "O diâmetro externo do revestimento",
+    "O diâmetro interno do tubo de perfuração",
+    "O diâmetro externo do tubo de perfuração"
+   ],
+   "correta": 0,
+   "explicacao": "No anular, Dext é a parede externa do espaço (ID do revestimento ou diâmetro do poço) e Dint é o OD do tubo por dentro. Trocar os dois ou usar o OD do revestimento é erro frequente."
+  },
+  {
+   "id": "vol-0097",
+   "dificuldade": 1,
+   "tema": "Volumetria",
+   "enunciado": "Assinale a INCORRETA sobre elementos da coluna de perfuração:",
+   "tipo": "incorreta",
+   "alternativas": [
+    "O BHA reúne comandos, HWDP, estabilizadores e ferramentas de fundo",
+    "Os comandos (DC) são leves e flexíveis e ficam no topo da coluna",
+    "Motor de fundo e MWD podem compor o BHA",
+    "Os comandos pesados (HW) fazem a transição entre DC e DP",
+    "DC, DP e HW têm diâmetros internos diferentes, por isso cada trecho tem sua capacidade"
+   ],
+   "correta": 1,
+   "explicacao": "Os comandos (drill collars) são tubos rígidos e pesados na base da coluna, que dão peso sobre a broca. O topo é de drill pipe; entre ambos fica o HWDP."
+  },
+  {
+   "id": "vol-0098",
+   "dificuldade": 1,
+   "tema": "Washout",
+   "enunciado": "Washout (arrombamento) significa que o diâmetro real do poço é:",
+   "tipo": "multipla",
+   "alternativas": [
+    "igual ao diâmetro da broca",
+    "menor que o diâmetro da broca",
+    "maior que o diâmetro da broca",
+    "igual ao diâmetro do revestimento",
+    "maior que o diâmetro externo do revestimento"
+   ],
+   "correta": 2,
+   "explicacao": "Washout: DOH > Dbroca. Já o fechamento do poço (inchamento, fluência) ocorre quando DOH < Dbroca. O poço ideal é in gauge (DOH = Dbroca)."
+  },
+  {
+   "id": "vol-0099",
+   "dificuldade": 1,
+   "tema": "Washout",
+   "enunciado": "Fechamento do poço (DOH < Dbroca) é comum em:",
+   "tipo": "multipla",
+   "alternativas": [
+    "folhelhos reativos que incham e evaporitos que fluem",
+    "qualquer rocha, igualmente",
+    "arenitos inconsolidados",
+    "calcários fraturados",
+    "arenitos limpos de alta permeabilidade"
+   ],
+   "correta": 0,
+   "explicacao": "Argilas hidratáveis e sais plásticos reduzem o diâmetro do poço. Arenitos pouco consolidados e sais solúveis tendem ao washout."
+  },
+  {
+   "id": "vol-0100",
+   "dificuldade": 2,
+   "tema": "Washout",
+   "enunciado": "Como o diâmetro real do poço pode ser determinado na prática?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Pela vazão da bomba e pelo SPM",
+    "Pelo peso sobre a broca",
+    "Apenas pelo diâmetro nominal da broca",
+    "Pela densidade do fluido na saída do poço",
+    "Estimado por deslocamento de traçador (diâmetro médio) ou medido por perfil caliper (diâmetro em cada profundidade)"
+   ],
+   "correta": 4,
+   "explicacao": "O traçador fornece um diâmetro médio indireto; o caliper (corrida de perfilagem) mede o diâmetro ao longo do poço. Com ele corrige-se a capacidade e o tempo de bottoms up."
+  },
+  {
+   "id": "vol-0101",
+   "dificuldade": 2,
+   "tema": "Washout",
+   "enunciado": "Qual o efeito de um washout severo sobre a limpeza do poço?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Aumenta a velocidade anular e melhora a limpeza",
+    "Reduz a velocidade anular na zona alargada e favorece o acúmulo de cascalho",
+    "Elimina a necessidade de tampão viscoso",
+    "Aumenta o torque, mas não afeta a limpeza",
+    "Não altera a velocidade anular, pois a vazão é constante"
+   ],
+   "correta": 1,
+   "explicacao": "Com área maior, a mesma vazão gera menor velocidade (v = Q/área). O cascalho se acumula e o tempo de bottoms up aumenta."
+  },
+  {
+   "id": "vol-0102",
+   "dificuldade": 1,
+   "tema": "Velocidade",
+   "enunciado": "Para uma mesma vazão, o que ocorre com a velocidade do fluido quando a área da seção diminui?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Depende só da densidade",
+    "Diminui",
+    "Aumenta",
+    "Permanece constante",
+    "Zera"
+   ],
+   "correta": 2,
+   "explicacao": "Pela continuidade (Q1 = Q2), v = Q/A. Por isso a velocidade é maior no interior dos comandos (ID menor) e menor no anular de maior diâmetro."
+  },
+  {
+   "id": "vol-0103",
+   "dificuldade": 2,
+   "tema": "Tempos",
+   "enunciado": "Qual a diferença entre 'surface to bit' e 'bottoms up'?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Surface to bit é o tempo do fluido da superfície à broca (volume interno); bottoms up é o tempo da broca à superfície pelo anular",
+    "Surface to bit mede o tempo de manobra; bottoms up, o de circulação nos tanques",
+    "Os dois usam o volume total do poço",
+    "Surface to bit usa o volume anular e bottoms up o volume interno",
+    "São sinônimos"
+   ],
+   "correta": 0,
+   "explicacao": "Tsurf-to-bit = Vcoluna/Q; Tbottoms-up = Vanular/Q. Este último define o atraso para amostras de calha e gases chegarem à superfície."
+  },
+  {
+   "id": "vol-0104",
+   "dificuldade": 2,
+   "tema": "Tampões",
+   "enunciado": "Qual a recomendação sobre ligar a booster line durante o deslocamento de um tampão viscoso no riser?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Ligá-la antes e desligá-la quando o tampão chegar à broca",
+    "A booster nunca deve ser usada com tampão viscoso",
+    "Ligá-la só depois que o tampão passar pelo ponto de injeção da booster, para não diluí-lo",
+    "Ligá-la apenas com o tampão ainda no interior da coluna",
+    "Mantê-la ligada desde o início para reduzir o tempo"
+   ],
+   "correta": 2,
+   "explicacao": "Se a booster for ligada antes, injeta fluido no riser e dilui o tampão, reduzindo viscosidade e capacidade de carreamento. Só após ultrapassar a linha (ex.: lâmina d'água) ela contribui."
+  },
+  {
+   "id": "vol-0105",
+   "dificuldade": 2,
+   "tema": "Tampões",
+   "enunciado": "Por que não se deve iniciar a retirada da coluna logo ao atingir a profundidade final, sem circular?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque o fluido perde densidade ao parar as bombas",
+    "Porque o riser deve ser lavado primeiro",
+    "Porque a broca ainda está fria",
+    "Porque a manobra só pode ocorrer à noite",
+    "O anular está carregado de cascalho, que decantaria sobre a broca ao parar as bombas, com risco de prisão"
+   ],
+   "correta": 4,
+   "explicacao": "Circular fundo e deslocar tampão viscoso faz parte das boas práticas de limpeza; o tempo gasto é operacional, não tempo perdido."
+  },
+  {
+   "id": "vol-0106",
+   "dificuldade": 1,
+   "tema": "Manobra",
+   "enunciado": "Qual o objetivo de completar o poço com fluido durante a retirada da coluna?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Reduzir o filtrado",
+    "Aumentar a densidade do fluido",
+    "Resfriar a broca",
+    "Evitar o desgaste das peneiras",
+    "Compensar o volume de aço retirado e manter a pressão hidrostática sobre as formações"
+   ],
+   "correta": 4,
+   "explicacao": "Ao retirar a coluna, o nível cai pelo volume de aço (e fluido interno). Sem enchimento, perde-se hidrostática (ΔP ≈ 0,17 × MW × H em psi, com H em m), com risco de influxo e instabilidade."
+  },
+  {
+   "id": "vol-0107",
+   "dificuldade": 2,
+   "tema": "Perdas de fluido",
+   "enunciado": "Assinale a INCORRETA sobre perdas de fluido na superfície:",
+   "tipo": "incorreta",
+   "alternativas": [
+    "Umectação (fluido aderido) dos cascalhos descartados",
+    "Limpeza de tanques e descartes",
+    "Perda de fluido para a formação é uma perda de superfície",
+    "Evaporação nos tanques",
+    "Perdas nas peneiras, mud cleaner, secador e centrífuga"
+   ],
+   "correta": 2,
+   "explicacao": "Perda para a formação é perda de SUBSUPERFÍCIE. As de superfície incluem evaporação, fluido aderido ao cascalho, equipamentos de controle de sólidos, limpeza de tanque e descarte."
+  },
+  {
+   "id": "vol-0108",
+   "dificuldade": 2,
+   "tema": "Perdas de fluido",
+   "enunciado": "A classificação das perdas de subsuperfície em ordem crescente de gravidade é:",
+   "tipo": "multipla",
+   "alternativas": [
+    "perda parcial, perda total, infiltração, perda leve",
+    "perda leve, infiltração, perda total, perda parcial",
+    "infiltração (seepage), perda leve, perda parcial, perda total",
+    "perda total, perda parcial, perda leve, infiltração",
+    "infiltração, perda parcial, perda leve, perda total"
+   ],
+   "correta": 2,
+   "explicacao": "Infiltração e perda leve são mínimas; na parcial há retorno reduzido; na total não há retorno. A severidade orienta o uso de obturantes e a previsão de volume."
+  },
+  {
+   "id": "vol-0109",
+   "dificuldade": 2,
+   "tema": "Perdas de fluido",
+   "enunciado": "Qual das situações abaixo representa ADIÇÃO de volume ao sistema na subsuperfície?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Evaporação",
+    "Influxo de água ou hidrocarbonetos da formação",
+    "Descarte de tanques",
+    "Perda para a formação",
+    "Umectação do cascalho"
+   ],
+   "correta": 1,
+   "explicacao": "Influxo aumenta o volume nos tanques sem adição de produtos. Ganho de volume não explicado é indicativo de kick e exige ação imediata."
+  },
+  {
+   "id": "vol-0110",
+   "dificuldade": 3,
+   "tema": "Projeto de volume",
+   "enunciado": "No projeto do volume requerido de fluido para uma fase, quais parcelas entram?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Volume de superfície e volume de aço",
+    "Volume de superfície, volume perdido estimado, volume de revestimento e volume de poço aberto (com washout)",
+    "Volume de cimento e de pasta espaçadora",
+    "Somente o volume de poço aberto",
+    "Volume dos tanques e densidade final"
+   ],
+   "correta": 1,
+   "explicacao": "O volume de superfície depende do layout da sonda; as perdas vêm de correlações de poços vizinhos (bbl/m); o poço aberto usa D = Dbroca × (1 + washout)."
+  },
+  {
+   "id": "vol-0111",
+   "dificuldade": 3,
+   "tema": "Projeto de volume",
+   "enunciado": "Como se estima o volume perdido (bbl/m) para a próxima fase em um novo poço?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Pela densidade do fluido de perfuração",
+    "Pelo peso sobre a broca",
+    "Pela temperatura de fundo",
+    "Pela correlação com poços vizinhos: soma das perdas ÷ metros perfurados",
+    "Pelo diâmetro da broca"
+   ],
+   "correta": 3,
+   "explicacao": "Perda específica (bbl/m) = soma das perdas ÷ metros perfurados, obtida de poços de correlação, e multiplicada pela extensão da fase."
+  },
+  {
+   "id": "vol-0112",
+   "dificuldade": 3,
+   "tema": "Diluição",
+   "enunciado": "Para reduzir a densidade com fluido novo apenas 0,2 ppg mais leve que o alvo, o volume necessário é impraticável. Qual a estratégia mais adequada?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Adicionar barita",
+    "Usar base mais leve (ex.: parafina), diluir só parte do volume, descartar decantadores ou preparar mistura mais pesada",
+    "Adicionar bentonita",
+    "Aumentar a vazão",
+    "Diluir tudo com água do mar"
+   ],
+   "correta": 1,
+   "explicacao": "V2 = V1 (Df − D1)/(D2 − Df) explode quando D2 ≈ Df. Alternativas práticas: base muito mais leve, substituir fluido, descartar volume dos decantadores ou diluir apenas parte."
+  },
+  {
+   "id": "vol-0113",
+   "dificuldade": 2,
+   "tema": "Adensamento",
+   "enunciado": "Em relação à barita (4,2 g/mL), adensar com carbonato de cálcio (2,6 g/mL) o mesmo volume para o mesmo peso exige:",
+   "tipo": "multipla",
+   "alternativas": [
+    "menor massa e menor volume",
+    "maior massa, porém menor volume",
+    "a mesma massa e o mesmo volume",
+    "maior massa e maior volume de adensante",
+    "menor massa, porém maior volume"
+   ],
+   "correta": 3,
+   "explicacao": "Quanto menor a densidade do adensante, mais massa e volume são necessários para o mesmo ganho de peso (ex.: 100 bbl, 12 → 14 ppg: ≈ 14.000 lb de barita contra ≈ 23.700 lb de carbonato)."
+  },
+  {
+   "id": "vol-0114",
+   "dificuldade": 1,
+   "tema": "Unidades",
+   "enunciado": "Qual a unidade usada para concentração de aditivos e para peso do fluido no campo?",
+   "tipo": "multipla",
+   "alternativas": [
+    "kg/m³ para ambos",
+    "ppg para concentração e ppb para peso",
+    "mg/L e psi",
+    "ppb (lb/bbl) para concentração e ppg (lb/gal) para peso",
+    "g/L para ambos"
+   ],
+   "correta": 3,
+   "explicacao": "Concentração em ppb (pounds per barrel = lb/bbl); peso (massa específica) em ppg (pounds per gallon = lb/gal)."
+  },
+  {
+   "id": "vol-0115",
+   "dificuldade": 1,
+   "tema": "Unidades",
+   "enunciado": "Qual a equivalência volumétrica usada na indústria?",
+   "tipo": "multipla",
+   "alternativas": [
+    "1 m³ = 1.000 bbl",
+    "1 bbl = 100 L",
+    "1 bbl = 42 L e 1 m³ = 6,29 gal",
+    "1 bbl = 159 galões e 1 m³ = 42 bbl",
+    "1 bbl = 42 galões e 1 m³ ≈ 6,29 bbl"
+   ],
+   "correta": 4,
+   "explicacao": "1 bbl = 42 gal ≈ 158,987 L; 1 m³ ≈ 6,29 bbl; 1 kg ≈ 2,2045 lb; 1 in = 0,0254 m; 1 ft = 0,3048 m."
+  },
+  {
+   "id": "vol-0116",
+   "dificuldade": 2,
+   "tema": "Bombas",
+   "enunciado": "A eficiência volumétrica de uma bomba de lama (Ep) é calculada comparando:",
+   "tipo": "multipla",
+   "alternativas": [
+    "a pressão de saída com a pressão de entrada",
+    "o diâmetro da camisa com o curso",
+    "a densidade do fluido com a vazão",
+    "o volume realmente deslocado com o volume teórico (100%) para o mesmo número de strokes",
+    "o número de strokes com o tempo"
+   ],
+   "correta": 3,
+   "explicacao": "Ep = Vreal/Vteórico. Medida em tanques calibrados (ex.: 110 bbl reais de 113 teóricos → ≈ 97%). Perdas em válvulas, pistões e ar reduzem Ep."
+  },
+  {
+   "id": "vol-0117",
+   "dificuldade": 2,
+   "tema": "Bombas",
+   "enunciado": "Por que a vazão (gpm) deve ser calculada com a eficiência real e não 100% ao se estimar tempos e strokes?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque o volume real por stroke é menor que o teórico, e usar 100% subestima os tempos de bombeio",
+    "Porque a densidade muda com a eficiência",
+    "Porque o contador de strokes mede volume",
+    "Porque a eficiência não afeta a vazão",
+    "Porque a eficiência só altera a pressão"
+   ],
+   "correta": 0,
+   "explicacao": "O contador de strokes registra ciclos, não volume. Se Ep < 100%, o volume bombeado é menor; usar 100% antecipa a chegada do tampão e do fundo-acima."
+  },
+  {
+   "id": "vol-0118",
+   "dificuldade": 3,
+   "tema": "Posicionamento de tampão",
+   "enunciado": "Em um caso de coluna presa por diferencial de pressão (filtrado alto, reboco espesso, peso 1 ppg acima do previsto, arenitos porosos), qual a ação adotada no estudo da aula?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Aplicar tampão liberador de coluna cobrindo o BHA, sem reduzir o peso devido ao risco de instabilidade mecânica",
+    "Reduzir imediatamente o peso do fluido em 1 ppg",
+    "Aumentar o peso para equilibrar a pressão",
+    "Circular o riser com água",
+    "Parar a circulação e aguardar"
+   ],
+   "correta": 0,
+   "explicacao": "A redução de peso foi descartada por risco de instabilidade mecânica. O tampão liberador atua desagregando o reboco; cobre-se HW + DC e adiciona-se um volume morto (ex.: 10 bbl) ao volume fabricado."
+  },
+  {
+   "id": "vol-0119",
+   "dificuldade": 3,
+   "tema": "Posicionamento de tampão",
+   "enunciado": "Sobre o programa de tampão liberador de coluna, analise:",
+   "tipo": "combinacao",
+   "afirmativas": [
+    "I. O volume injetado cobre apenas HW + DC no poço aberto, usando o diâmetro corrigido pelo washout.",
+    "II. O volume fabricado inclui um volume morto adicional.",
+    "III. O volume de deslocamento é o das linhas de superfície mais interior da coluna (DP, HW e DC)."
+   ],
+   "alternativas": [
+    "Apenas II",
+    "Apenas I e II",
+    "Apenas I e III",
+    "Apenas II e III",
+    "I, II e III"
+   ],
+   "correta": 4,
+   "explicacao": "I, II e III estão corretas: o tampão cobre o BHA no anular aberto; fabrica-se mais (volume morto); desloca-se com as linhas + interior da coluna para posicionar o tampão no ponto desejado."
+  },
+  {
+   "id": "vol-0120",
+   "dificuldade": 3,
+   "tema": "Troca de fluido",
+   "enunciado": "Qual a boa prática ao trocar WBM por SBM antes de cortar cimento e perfurar a fase seguinte?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Descartar o SBM e usar somente água",
+    "Deslocar sem tampão e sem circular",
+    "Bombear tampão de SBM viscoso (~30 bbl), deslocar o WBM, fechar o circuito e circular até homogeneizar",
+    "Iniciar a perfuração sem homogeneizar",
+    "Misturar WBM e SBM nos tanques ativos"
+   ],
+   "correta": 2,
+   "explicacao": "O tampão separa os fluidos e reduz contaminação; após deslocar, fecha-se o circuito (são necessários cerca de 500 bbl de SBM nos tanques) e circula-se até a homogeneização."
+  },
+  {
+   "id": "vol-0121",
+   "dificuldade": 1,
+   "tema": "Capacidades",
+   "enunciado": "A capacidade de um tubo em bbl/m, com o diâmetro interno em polegadas, é dada por D²/313,76.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "Equação de campo: V(bbl) = H(m) × D²(in²)/313,76; a capacidade em bbl/m é D²/313,76 (≈ 0,00319 × D²)."
+  },
+  {
+   "id": "vol-0122",
+   "dificuldade": 2,
+   "tema": "Capacidades",
+   "enunciado": "O volume de deslocamento do aço de um tubo é calculado com (OD² − ID²)/313,76.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "É a área da seção de aço (anel) convertida em bbl/m; usada para completar o poço na manobra."
+  },
+  {
+   "id": "vol-0123",
+   "dificuldade": 2,
+   "tema": "Washout",
+   "enunciado": "Um washout de 10% aumenta a capacidade do poço em exatamente 10%.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 1,
+   "explicacao": "O diâmetro aumenta 10%, mas a capacidade depende do quadrado do diâmetro: (1,1)² = 1,21, ou seja, cerca de 21% a mais."
+  },
+  {
+   "id": "vol-0124",
+   "dificuldade": 2,
+   "tema": "Velocidades",
+   "enunciado": "A velocidade anular é maior no anular de menor capacidade (menor área) para a mesma vazão.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "v = Q/C. O anular comandos × poço (C menor) tem velocidade maior que o anular DP × poço."
+  },
+  {
+   "id": "vol-0125",
+   "dificuldade": 1,
+   "tema": "Tanques",
+   "enunciado": "A capacidade de um tanque retangular em bbl é C × L × H (em metros) × 6,29.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "Volume em m³ × 6,29 = bbl."
+  },
+  {
+   "id": "vol-0126",
+   "dificuldade": 3,
+   "tema": "Manobra",
+   "enunciado": "Ao retirar a coluna sem completar o poço, a queda de nível depende apenas do volume de aço retirado, e não do diâmetro do poço na zona do nível.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 1,
+   "explicacao": "A altura da queda depende do volume perdido e da capacidade da seção onde o nível está (revestimento ou poço aberto). A mesma perda causa queda maior em seção de menor capacidade."
+  },
+  {
+   "id": "vol-0127",
+   "dificuldade": 2,
+   "tema": "Tampões",
+   "enunciado": "O tempo de deslocamento de um tampão desde a superfície até a broca usa o volume interno da coluna e a vazão de deslocamento.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "O volume deslocado é o interior da coluna (e linhas de superfície, quando incluídas); dividido pela vazão fornece o tempo."
+  },
+  {
+   "id": "vol-0128",
+   "dificuldade": 2,
+   "tema": "Bombas",
+   "enunciado": "Sobre bombas triplex de lama, analise:",
+   "tipo": "combinacao",
+   "afirmativas": [
+    "I. A capacidade por stroke depende do quadrado do diâmetro da camisa e do curso.",
+    "II. A vazão é o produto da capacidade por stroke pelo SPM.",
+    "III. A eficiência volumétrica não influencia a vazão efetiva."
+   ],
+   "alternativas": [
+    "Apenas II",
+    "Apenas III",
+    "Apenas I e II",
+    "Apenas I e III",
+    "I, II e III"
+   ],
+   "correta": 2,
+   "explicacao": "I e II corretas. III é falsa: a eficiência entra diretamente no volume por stroke (q = D²·L·Ep/411.765,7)."
+  },
+  {
+   "id": "vol-0129",
+   "dificuldade": 3,
+   "tema": "Diluição",
+   "enunciado": "Sobre ajuste de densidade por balanço de massa, analise:",
+   "tipo": "combinacao",
+   "afirmativas": [
+    "I. Na diluição, Vfinal = V1 + V2 e Df·Vf = D1·V1 + D2·V2.",
+    "II. Quanto menor a densidade do fluido de diluição, menor o volume necessário.",
+    "III. No adensamento com barita, o volume final do fluido é igual ao volume inicial."
+   ],
+   "alternativas": [
+    "Apenas I",
+    "Apenas II",
+    "Apenas I e II",
+    "Apenas I e III",
+    "Apenas II e III"
+   ],
+   "correta": 2,
+   "explicacao": "I e II corretas. III é falsa: adicionar barita aumenta o volume final (Vf = Vi + Vb)."
+  },
+  {
+   "id": "vol-0130",
+   "dificuldade": 3,
+   "tema": "Offshore",
+   "enunciado": "Em uma operação offshore com riser, analise:",
+   "tipo": "combinacao",
+   "afirmativas": [
+    "I. O anular do riser costuma ser o maior volume do circuito em água profunda.",
+    "II. A booster line injeta fluido na base do riser para aumentar a velocidade de retorno.",
+    "III. A booster line deve estar sempre ligada durante todo o deslocamento de um tampão viscoso."
+   ],
+   "alternativas": [
+    "Apenas I",
+    "Apenas II",
+    "Apenas III",
+    "Apenas I e II",
+    "Apenas II e III"
+   ],
+   "correta": 3,
+   "explicacao": "I e II corretas. III é falsa: ligar a booster antes de o tampão passar pelo ponto de injeção dilui o tampão e reduz sua capacidade de carreamento."
+  }
+ ],
+ "flashcards": [
+  {
+   "id": "vol-f001",
+   "frente": "Capacidade de tubo (bbl/m)",
+   "verso": "C = D²/313,76 (D = ID em in). Fator 1/313,76 ≈ 0,00319. Volume = C × H(m)."
+  },
+  {
+   "id": "vol-f002",
+   "frente": "Capacidade de anular (bbl/m)",
+   "verso": "C = (Dext² − Dint²)/313,76. Dext = ID do revestimento ou diâmetro do poço; Dint = OD do tubo."
+  },
+  {
+   "id": "vol-f003",
+   "frente": "Capacidade em bbl/ft",
+   "verso": "Dividir por 1029,4 em vez de 313,76: C(bbl/ft) = D²/1029,4."
+  },
+  {
+   "id": "vol-f004",
+   "frente": "Deslocamento de aço",
+   "verso": "Cd = (OD² − ID²)/313,76 bbl/m. Volume a repor na manobra de coluna seca."
+  },
+  {
+   "id": "vol-f005",
+   "frente": "Volume de tanque retangular",
+   "verso": "V(bbl) = C × L × H (m) × 6,29 (ou 6,2829). Capacidade por cm = V/H(cm)."
+  },
+  {
+   "id": "vol-f006",
+   "frente": "Volume no tanque pelo nível",
+   "verso": "Vfluido = nível (cm) × capacidade (bbl/cm). Queda de nível = volume bombeado ÷ capacidade."
+  },
+  {
+   "id": "vol-f007",
+   "frente": "Washout × fechamento",
+   "verso": "Washout: Dpoço > Dbroca. Fechamento: Dpoço < Dbroca. Poço ideal: in gauge. Diâmetro real medido por caliper ou estimado por traçador."
+  },
+  {
+   "id": "vol-f008",
+   "frente": "Capacidade com washout",
+   "verso": "Corrigir o DIÂMETRO: D = Dbroca × (1 + w). C = D²/313,76. Washout de 10% → +21% de capacidade (1,1²)."
+  },
+  {
+   "id": "vol-f009",
+   "frente": "Capacidade da bomba triplex (bbl/stk)",
+   "verso": "q = D² × L × Ep% / 411.765,7 (D e L em in, Ep em %). Em gal/stk: divisor 9.803,95."
+  },
+  {
+   "id": "vol-f010",
+   "frente": "Vazão da bomba",
+   "verso": "Q = q × SPM (bbl/min ou gpm). gpm = bbl/min × 42."
+  },
+  {
+   "id": "vol-f011",
+   "frente": "Eficiência da bomba",
+   "verso": "Ep = Vreal/Vteórico (teste em tanque calibrado). Contador de strokes registra ciclos, não volume."
+  },
+  {
+   "id": "vol-f012",
+   "frente": "Velocidade de escoamento",
+   "verso": "v = Q/C (m/min, Q em bbl/min e C em bbl/m). Menor área → maior velocidade."
+  },
+  {
+   "id": "vol-f013",
+   "frente": "Surface to bit",
+   "verso": "t = Vcoluna (bbl) / Q (bbl/min). Strokes = Vcoluna / q."
+  },
+  {
+   "id": "vol-f014",
+   "frente": "Bottoms up",
+   "verso": "t = Vanular total / Q. Define o atraso de calha e gases. Strokes = Vanular / q."
+  },
+  {
+   "id": "vol-f015",
+   "frente": "SPM a partir de gpm",
+   "verso": "SPM = Q(gpm) / q(gal/stk). Exemplo: 450 gpm ÷ 4,912 gal/stk ≈ 92 SPM."
+  },
+  {
+   "id": "vol-f016",
+   "frente": "Balanço de massa na diluição",
+   "verso": "V2 = V1 (Df − D1)/(D2 − Df). Vf = V1 + V2. Se D2 ≈ Df o volume explode: usar base mais leve ou diluir parte."
+  },
+  {
+   "id": "vol-f017",
+   "frente": "Adensamento com barita (4,2 g/mL)",
+   "verso": "Mb(lb) = 1.471,76 × Vi × (Df − Di)/(35,08 − Df). Vb = Vi (Df − Di)/(35,08 − Df). 1 saco = 55,125 lb (25 kg)."
+  },
+  {
+   "id": "vol-f018",
+   "frente": "Adensamento com CaCO3 (2,6 g/mL)",
+   "verso": "Mc(lb) = 910,7 × Vi × (Df − Di)/(21,68 − Df). Exige mais massa e volume que a barita."
+  },
+  {
+   "id": "vol-f019",
+   "frente": "Densidades de adensantes",
+   "verso": "Barita 4,2 g/mL = 35,08 ppg = 1.471,76 ppb. Carbonato 2,6 g/mL = 21,68 ppg = 910,7 ppb."
+  },
+  {
+   "id": "vol-f020",
+   "frente": "Volume de poço completo",
+   "verso": "Interior da coluna + anular (revestido + aberto + riser). Cada trecho com sua capacidade e extensão."
+  },
+  {
+   "id": "vol-f021",
+   "frente": "Hidrostática por falta de enchimento",
+   "verso": "ΔP(psi) = 0,17 × MW(ppg) × H(m). Com H em ft, usar 0,052."
+  },
+  {
+   "id": "vol-f022",
+   "frente": "Nível estático após retirar coluna",
+   "verso": "Igualar o volume de aço perdido à soma Crev·Hrev + COH·x e achar a profundidade do nível."
+  },
+  {
+   "id": "vol-f023",
+   "frente": "Projeto de volume da fase",
+   "verso": "Volume = superfície + revestimento anterior + poço aberto (com washout) + perdas (bbl/m × extensão)."
+  },
+  {
+   "id": "vol-f024",
+   "frente": "Perdas de superfície",
+   "verso": "Evaporação, umectação do cascalho, peneiras, mud cleaner, secador, centrífuga, limpeza de tanques, descarte."
+  },
+  {
+   "id": "vol-f025",
+   "frente": "Perdas de subsuperfície",
+   "verso": "Infiltração, perda leve, perda parcial, perda total. Adição de volume: influxo de água ou hidrocarbonetos."
+  },
+  {
+   "id": "vol-f026",
+   "frente": "Booster line e tampão viscoso",
+   "verso": "Só ligar após o tampão passar o ponto de injeção da booster; antes disso dilui o tampão e perde viscosidade."
+  },
+  {
+   "id": "vol-f027",
+   "frente": "Por que circular antes de manobrar",
+   "verso": "Cascalho no anular decanta sobre a broca ao parar as bombas, com risco de prisão. Tampão viscoso faz parte das boas práticas."
+  },
+  {
+   "id": "vol-f028",
+   "frente": "Tampão liberador de coluna",
+   "verso": "Cobre HW + DC no poço aberto (diâmetro corrigido pelo washout), mais volume morto (ex.: 10 bbl). Desloca-se com linhas + interior da coluna."
+  },
+  {
+   "id": "vol-f029",
+   "frente": "Troca WBM → SBM",
+   "verso": "Tampão de SBM viscoso (~30 bbl), deslocar o WBM, fechar o circuito (≈ 500 bbl nos tanques), circular até homogeneizar e cortar cimento."
+  },
+  {
+   "id": "vol-f030",
+   "frente": "Prisão por diferencial",
+   "verso": "Filtrado alto, reboco espesso, peso acima do projeto e arenitos porosos. Tampão liberador; reduzir peso pode causar instabilidade mecânica."
+  },
+  {
+   "id": "vol-f031",
+   "frente": "Unidades de campo",
+   "verso": "bbl = 42 gal = 158,987 L; 1 m³ ≈ 6,29 bbl; 1 kg = 2,2045 lb; 1 in = 0,0254 m; 1 ft = 0,3048 m; ppg = lb/gal; ppb = lb/bbl."
+  }
+ ]
+}

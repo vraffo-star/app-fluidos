@@ -1,0 +1,4253 @@
+{
+ "id": "reologia",
+ "perguntas": [
+  {
+   "id": "re-0001",
+   "dificuldade": 1,
+   "tema": "Reologia: leituras Fann",
+   "enunciado": "Um fluido apresenta as leituras do viscosímetro Fann: L600 = 74, L300 = 51, L6 = 15, L3 = 13. Qual a viscosidade plástica (VP), em cP?",
+   "tipo": "multipla",
+   "alternativas": [
+    "29 cP",
+    "51 cP",
+    "23 cP",
+    "28 cP",
+    "18 cP"
+   ],
+   "correta": 2,
+   "explicacao": "VP = L600 − L300 = 74 − 51 = 23 cP."
+  },
+  {
+   "id": "re-0002",
+   "dificuldade": 2,
+   "tema": "Reologia: leituras Fann",
+   "enunciado": "Com as leituras Fann: L600 = 74, L300 = 51, L6 = 15, L3 = 13, qual o limite de escoamento (YP/LE), em lbf/100 ft²?",
+   "tipo": "multipla",
+   "alternativas": [
+    "23 lbf/100ft²",
+    "28 lbf/100ft²",
+    "56 lbf/100ft²",
+    "48 lbf/100ft²",
+    "74 lbf/100ft²"
+   ],
+   "correta": 1,
+   "explicacao": "VP = 74 − 51 = 23. LE = L300 − VP = 51 − 23 = 28 lbf/100 ft²."
+  },
+  {
+   "id": "re-0003",
+   "dificuldade": 2,
+   "tema": "Reologia: leituras Fann",
+   "enunciado": "Um fluido apresenta as leituras: L600 = 74, L300 = 51, L6 = 15, L3 = 13. Qual o LSYP (yield stress a baixa taxa de cisalhamento), em cP, segundo a expressão do curso?",
+   "tipo": "multipla",
+   "alternativas": [
+    "15 cP",
+    "24 cP",
+    "28 cP",
+    "17 cP",
+    "11 cP"
+   ],
+   "correta": 4,
+   "explicacao": "LSYP = 2 × L3 − L6 = 2 × 13 − 15 = 11."
+  },
+  {
+   "id": "re-0004",
+   "dificuldade": 2,
+   "tema": "Reologia: leituras Fann",
+   "enunciado": "Para L600 = 74 e L300 = 51, qual o índice de comportamento (n) do modelo da potência para o interior da coluna (API RP 13D)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,323",
+    "0,698",
+    "0,537",
+    "0,937",
+    "0,319"
+   ],
+   "correta": 2,
+   "explicacao": "n = 3,32 · log(L600/L300) = 3,32 · log(74/51) = 0,537."
+  },
+  {
+   "id": "re-0005",
+   "dificuldade": 3,
+   "tema": "Reologia: leituras Fann",
+   "enunciado": "Para L600 = 74 e L300 = 51, calcule o índice de consistência K (dina·s^n/cm²) no interior da coluna, usando n = 3,32 log(L600/L300) e K = 5,11·L600/1022^n.",
+   "tipo": "multipla",
+   "alternativas": [
+    "6,32",
+    "9,17",
+    "12,84",
+    "11,46",
+    "13,30"
+   ],
+   "correta": 1,
+   "explicacao": "n = 0,5367; K = 5,11 · 74 / 1022^0,5367 = 9,17."
+  },
+  {
+   "id": "re-0006",
+   "dificuldade": 2,
+   "tema": "Reologia: leituras Fann",
+   "enunciado": "Um fluido apresenta as leituras do viscosímetro Fann: L600 = 56, L300 = 34, L100 = 17, L6 = 6, L3 = 5. Qual a viscosidade plástica (VP), em cP?",
+   "tipo": "multipla",
+   "alternativas": [
+    "34 cP",
+    "27 cP",
+    "22 cP",
+    "28 cP",
+    "12 cP"
+   ],
+   "correta": 2,
+   "explicacao": "VP = L600 − L300 = 56 − 34 = 22 cP."
+  },
+  {
+   "id": "re-0007",
+   "dificuldade": 1,
+   "tema": "Reologia: leituras Fann",
+   "enunciado": "Com as leituras Fann: L600 = 56, L300 = 34, L100 = 17, L6 = 6, L3 = 5, qual o limite de escoamento (YP/LE), em lbf/100 ft²?",
+   "tipo": "multipla",
+   "alternativas": [
+    "22 lbf/100ft²",
+    "15 lbf/100ft²",
+    "24 lbf/100ft²",
+    "39 lbf/100ft²",
+    "12 lbf/100ft²"
+   ],
+   "correta": 4,
+   "explicacao": "VP = 56 − 34 = 22. LE = L300 − VP = 34 − 22 = 12 lbf/100 ft²."
+  },
+  {
+   "id": "re-0008",
+   "dificuldade": 2,
+   "tema": "Reologia: leituras Fann",
+   "enunciado": "Um fluido apresenta as leituras: L600 = 56, L300 = 34, L100 = 17, L6 = 6, L3 = 5. Qual o LSYP (yield stress a baixa taxa de cisalhamento), em cP, segundo a expressão do curso?",
+   "tipo": "multipla",
+   "alternativas": [
+    "4 cP",
+    "9 cP",
+    "11 cP",
+    "6 cP",
+    "7 cP"
+   ],
+   "correta": 0,
+   "explicacao": "LSYP = 2 × L3 − L6 = 2 × 5 − 6 = 4."
+  },
+  {
+   "id": "re-0009",
+   "dificuldade": 1,
+   "tema": "Reologia: leituras Fann",
+   "enunciado": "Um fluido apresenta as leituras do viscosímetro Fann: L600 = 90, L300 = 58, L100 = 32, L6 = 14, L3 = 12. Qual a viscosidade plástica (VP), em cP?",
+   "tipo": "multipla",
+   "alternativas": [
+    "37 cP",
+    "58 cP",
+    "26 cP",
+    "40 cP",
+    "32 cP"
+   ],
+   "correta": 4,
+   "explicacao": "VP = L600 − L300 = 90 − 58 = 32 cP."
+  },
+  {
+   "id": "re-0010",
+   "dificuldade": 2,
+   "tema": "Reologia: leituras Fann",
+   "enunciado": "Com as leituras Fann: L600 = 90, L300 = 58, L100 = 32, L6 = 14, L3 = 12, qual o limite de escoamento (YP/LE), em lbf/100 ft²?",
+   "tipo": "multipla",
+   "alternativas": [
+    "90 lbf/100ft²",
+    "32 lbf/100ft²",
+    "26 lbf/100ft²",
+    "61 lbf/100ft²",
+    "52 lbf/100ft²"
+   ],
+   "correta": 2,
+   "explicacao": "VP = 90 − 58 = 32. LE = L300 − VP = 58 − 32 = 26 lbf/100 ft²."
+  },
+  {
+   "id": "re-0011",
+   "dificuldade": 2,
+   "tema": "Reologia: leituras Fann",
+   "enunciado": "Um fluido apresenta as leituras: L600 = 90, L300 = 58, L100 = 32, L6 = 14, L3 = 12. Qual o LSYP (yield stress a baixa taxa de cisalhamento), em cP, segundo a expressão do curso?",
+   "tipo": "multipla",
+   "alternativas": [
+    "10 cP",
+    "16 cP",
+    "14 cP",
+    "22 cP",
+    "26 cP"
+   ],
+   "correta": 0,
+   "explicacao": "LSYP = 2 × L3 − L6 = 2 × 12 − 14 = 10."
+  },
+  {
+   "id": "re-0012",
+   "dificuldade": 2,
+   "tema": "Reologia: leituras Fann",
+   "enunciado": "Para L600 = 90 e L300 = 58, qual o índice de comportamento (n) do modelo da potência para o interior da coluna (API RP 13D)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,824",
+    "1,034",
+    "0,382",
+    "0,634",
+    "0,376"
+   ],
+   "correta": 3,
+   "explicacao": "n = 3,32 · log(L600/L300) = 3,32 · log(90/58) = 0,634."
+  },
+  {
+   "id": "re-0013",
+   "dificuldade": 3,
+   "tema": "Reologia: leituras Fann",
+   "enunciado": "Para L600 = 90 e L300 = 58, calcule o índice de consistência K (dina·s^n/cm²) no interior da coluna, usando n = 3,32 log(L600/L300) e K = 5,11·L600/1022^n.",
+   "tipo": "multipla",
+   "alternativas": [
+    "7,99",
+    "7,12",
+    "5,70",
+    "3,68",
+    "8,85"
+   ],
+   "correta": 2,
+   "explicacao": "n = 0,6335; K = 5,11 · 90 / 1022^0,6335 = 5,70."
+  },
+  {
+   "id": "re-0014",
+   "dificuldade": 2,
+   "tema": "Reologia: leituras Fann",
+   "enunciado": "Um fluido apresenta as leituras do viscosímetro Fann: L600 = 40, L300 = 24, L100 = 11, L6 = 4, L3 = 3. Qual a viscosidade plástica (VP), em cP?",
+   "tipo": "multipla",
+   "alternativas": [
+    "24 cP",
+    "8 cP",
+    "64 cP",
+    "21 cP",
+    "16 cP"
+   ],
+   "correta": 4,
+   "explicacao": "VP = L600 − L300 = 40 − 24 = 16 cP."
+  },
+  {
+   "id": "re-0015",
+   "dificuldade": 1,
+   "tema": "Reologia: leituras Fann",
+   "enunciado": "Com as leituras Fann: L600 = 40, L300 = 24, L100 = 11, L6 = 4, L3 = 3, qual o limite de escoamento (YP/LE), em lbf/100 ft²?",
+   "tipo": "multipla",
+   "alternativas": [
+    "16 lbf/100ft²",
+    "8 lbf/100ft²",
+    "28 lbf/100ft²",
+    "6 lbf/100ft²",
+    "10 lbf/100ft²"
+   ],
+   "correta": 1,
+   "explicacao": "VP = 40 − 24 = 16. LE = L300 − VP = 24 − 16 = 8 lbf/100 ft²."
+  },
+  {
+   "id": "re-0016",
+   "dificuldade": 2,
+   "tema": "Reologia: leituras Fann",
+   "enunciado": "Um fluido apresenta as leituras: L600 = 40, L300 = 24, L100 = 11, L6 = 4, L3 = 3. Qual o LSYP (yield stress a baixa taxa de cisalhamento), em cP, segundo a expressão do curso?",
+   "tipo": "multipla",
+   "alternativas": [
+    "2 cP",
+    "7 cP",
+    "5 cP",
+    "3 cP",
+    "4 cP"
+   ],
+   "correta": 0,
+   "explicacao": "LSYP = 2 × L3 − L6 = 2 × 3 − 4 = 2."
+  },
+  {
+   "id": "re-0017",
+   "dificuldade": 1,
+   "tema": "Reologia: leituras Fann",
+   "enunciado": "Um fluido apresenta as leituras do viscosímetro Fann: L600 = 120, L300 = 78, L100 = 42, L6 = 18, L3 = 16. Qual a viscosidade plástica (VP), em cP?",
+   "tipo": "multipla",
+   "alternativas": [
+    "36 cP",
+    "42 cP",
+    "47 cP",
+    "52 cP",
+    "78 cP"
+   ],
+   "correta": 1,
+   "explicacao": "VP = L600 − L300 = 120 − 78 = 42 cP."
+  },
+  {
+   "id": "re-0018",
+   "dificuldade": 2,
+   "tema": "Reologia: leituras Fann",
+   "enunciado": "Com as leituras Fann: L600 = 120, L300 = 78, L100 = 42, L6 = 18, L3 = 16, qual o limite de escoamento (YP/LE), em lbf/100 ft²?",
+   "tipo": "multipla",
+   "alternativas": [
+    "81 lbf/100ft²",
+    "120 lbf/100ft²",
+    "72 lbf/100ft²",
+    "42 lbf/100ft²",
+    "36 lbf/100ft²"
+   ],
+   "correta": 4,
+   "explicacao": "VP = 120 − 78 = 42. LE = L300 − VP = 78 − 42 = 36 lbf/100 ft²."
+  },
+  {
+   "id": "re-0019",
+   "dificuldade": 2,
+   "tema": "Reologia: leituras Fann",
+   "enunciado": "Um fluido apresenta as leituras: L600 = 120, L300 = 78, L100 = 42, L6 = 18, L3 = 16. Qual o LSYP (yield stress a baixa taxa de cisalhamento), em cP, segundo a expressão do curso?",
+   "tipo": "multipla",
+   "alternativas": [
+    "34 cP",
+    "18 cP",
+    "30 cP",
+    "20 cP",
+    "14 cP"
+   ],
+   "correta": 4,
+   "explicacao": "LSYP = 2 × L3 − L6 = 2 × 16 − 18 = 14."
+  },
+  {
+   "id": "re-0020",
+   "dificuldade": 2,
+   "tema": "Reologia: leituras Fann",
+   "enunciado": "Para L600 = 120 e L300 = 78, qual o índice de comportamento (n) do modelo da potência para o interior da coluna (API RP 13D)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "1,021",
+    "0,807",
+    "0,621",
+    "0,374",
+    "0,369"
+   ],
+   "correta": 2,
+   "explicacao": "n = 3,32 · log(L600/L300) = 3,32 · log(120/78) = 0,621."
+  },
+  {
+   "id": "re-0021",
+   "dificuldade": 3,
+   "tema": "Reologia: leituras Fann",
+   "enunciado": "Para L600 = 120 e L300 = 78, calcule o índice de consistência K (dina·s^n/cm²) no interior da coluna, usando n = 3,32 log(L600/L300) e K = 5,11·L600/1022^n.",
+   "tipo": "multipla",
+   "alternativas": [
+    "12,74",
+    "5,39",
+    "8,29",
+    "10,36",
+    "11,60"
+   ],
+   "correta": 2,
+   "explicacao": "n = 0,6211; K = 5,11 · 120 / 1022^0,6211 = 8,29."
+  },
+  {
+   "id": "re-0022",
+   "dificuldade": 2,
+   "tema": "Reologia: leituras Fann",
+   "enunciado": "Um fluido apresenta as leituras do viscosímetro Fann: L600 = 48, L300 = 30, L100 = 15, L6 = 7, L3 = 6. Qual a viscosidade plástica (VP), em cP?",
+   "tipo": "multipla",
+   "alternativas": [
+    "18 cP",
+    "22 cP",
+    "12 cP",
+    "30 cP",
+    "23 cP"
+   ],
+   "correta": 0,
+   "explicacao": "VP = L600 − L300 = 48 − 30 = 18 cP."
+  },
+  {
+   "id": "re-0023",
+   "dificuldade": 1,
+   "tema": "Reologia: leituras Fann",
+   "enunciado": "Com as leituras Fann: L600 = 48, L300 = 30, L100 = 15, L6 = 7, L3 = 6, qual o limite de escoamento (YP/LE), em lbf/100 ft²?",
+   "tipo": "multipla",
+   "alternativas": [
+    "24 lbf/100ft²",
+    "33 lbf/100ft²",
+    "48 lbf/100ft²",
+    "18 lbf/100ft²",
+    "12 lbf/100ft²"
+   ],
+   "correta": 4,
+   "explicacao": "VP = 48 − 30 = 18. LE = L300 − VP = 30 − 18 = 12 lbf/100 ft²."
+  },
+  {
+   "id": "re-0024",
+   "dificuldade": 2,
+   "tema": "Reologia: leituras Fann",
+   "enunciado": "Um fluido apresenta as leituras: L600 = 48, L300 = 30, L100 = 15, L6 = 7, L3 = 6. Qual o LSYP (yield stress a baixa taxa de cisalhamento), em cP, segundo a expressão do curso?",
+   "tipo": "multipla",
+   "alternativas": [
+    "8 cP",
+    "11 cP",
+    "5 cP",
+    "7 cP",
+    "13 cP"
+   ],
+   "correta": 2,
+   "explicacao": "LSYP = 2 × L3 − L6 = 2 × 6 − 7 = 5."
+  },
+  {
+   "id": "re-0025",
+   "dificuldade": 2,
+   "tema": "Reologia: leituras Fann",
+   "enunciado": "Para L600 = 48 e L300 = 30, qual o índice de comportamento (n) do modelo da potência para o interior da coluna (API RP 13D)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,678",
+    "0,881",
+    "1,078",
+    "0,408",
+    "0,402"
+   ],
+   "correta": 0,
+   "explicacao": "n = 3,32 · log(L600/L300) = 3,32 · log(48/30) = 0,678."
+  },
+  {
+   "id": "re-0026",
+   "dificuldade": 3,
+   "tema": "Reologia: leituras Fann",
+   "enunciado": "Para L600 = 48 e L300 = 30, calcule o índice de consistência K (dina·s^n/cm²) no interior da coluna, usando n = 3,32 log(L600/L300) e K = 5,11·L600/1022^n.",
+   "tipo": "multipla",
+   "alternativas": [
+    "2,24",
+    "2,80",
+    "1,40",
+    "3,58",
+    "3,14"
+   ],
+   "correta": 0,
+   "explicacao": "n = 0,6777; K = 5,11 · 48 / 1022^0,6777 = 2,24."
+  },
+  {
+   "id": "re-0027",
+   "dificuldade": 1,
+   "tema": "Reologia: leituras Fann",
+   "enunciado": "Um fluido apresenta as leituras do viscosímetro Fann: L600 = 70, L300 = 42, L100 = 21, L6 = 8, L3 = 7. Qual a viscosidade plástica (VP), em cP?",
+   "tipo": "multipla",
+   "alternativas": [
+    "28 cP",
+    "14 cP",
+    "42 cP",
+    "33 cP",
+    "112 cP"
+   ],
+   "correta": 0,
+   "explicacao": "VP = L600 − L300 = 70 − 42 = 28 cP."
+  },
+  {
+   "id": "re-0028",
+   "dificuldade": 2,
+   "tema": "Reologia: leituras Fann",
+   "enunciado": "Com as leituras Fann: L600 = 70, L300 = 42, L100 = 21, L6 = 8, L3 = 7, qual o limite de escoamento (YP/LE), em lbf/100 ft²?",
+   "tipo": "multipla",
+   "alternativas": [
+    "49 lbf/100ft²",
+    "11 lbf/100ft²",
+    "28 lbf/100ft²",
+    "18 lbf/100ft²",
+    "14 lbf/100ft²"
+   ],
+   "correta": 4,
+   "explicacao": "VP = 70 − 42 = 28. LE = L300 − VP = 42 − 28 = 14 lbf/100 ft²."
+  },
+  {
+   "id": "re-0029",
+   "dificuldade": 2,
+   "tema": "Reologia: leituras Fann",
+   "enunciado": "Um fluido apresenta as leituras: L600 = 70, L300 = 42, L100 = 21, L6 = 8, L3 = 7. Qual o LSYP (yield stress a baixa taxa de cisalhamento), em cP, segundo a expressão do curso?",
+   "tipo": "multipla",
+   "alternativas": [
+    "15 cP",
+    "6 cP",
+    "13 cP",
+    "9 cP",
+    "8 cP"
+   ],
+   "correta": 1,
+   "explicacao": "LSYP = 2 × L3 − L6 = 2 × 7 − 8 = 6."
+  },
+  {
+   "id": "re-0030",
+   "dificuldade": 2,
+   "tema": "Reologia: leituras Fann",
+   "enunciado": "Para L600 = 70 e L300 = 42, qual o índice de comportamento (n) do modelo da potência para o interior da coluna (API RP 13D)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,737",
+    "0,957",
+    "1,137",
+    "0,444",
+    "0,437"
+   ],
+   "correta": 0,
+   "explicacao": "n = 3,32 · log(L600/L300) = 3,32 · log(70/42) = 0,737."
+  },
+  {
+   "id": "re-0031",
+   "dificuldade": 3,
+   "tema": "Reologia: leituras Fann",
+   "enunciado": "Para L600 = 70 e L300 = 42, calcule o índice de consistência K (dina·s^n/cm²) no interior da coluna, usando n = 3,32 log(L600/L300) e K = 5,11·L600/1022^n.",
+   "tipo": "multipla",
+   "alternativas": [
+    "2,17",
+    "3,04",
+    "1,30",
+    "2,71",
+    "3,62"
+   ],
+   "correta": 0,
+   "explicacao": "n = 0,7365; K = 5,11 · 70 / 1022^0,7365 = 2,17."
+  },
+  {
+   "id": "re-0032",
+   "dificuldade": 2,
+   "tema": "Reologia: leituras Fann",
+   "enunciado": "Um fluido apresenta as leituras do viscosímetro Fann: L600 = 43, L300 = 28, L100 = 12, L6 = 8, L3 = 7. Qual a viscosidade plástica (VP), em cP?",
+   "tipo": "multipla",
+   "alternativas": [
+    "28 cP",
+    "19 cP",
+    "13 cP",
+    "20 cP",
+    "15 cP"
+   ],
+   "correta": 4,
+   "explicacao": "VP = L600 − L300 = 43 − 28 = 15 cP."
+  },
+  {
+   "id": "re-0033",
+   "dificuldade": 1,
+   "tema": "Reologia: leituras Fann",
+   "enunciado": "Com as leituras Fann: L600 = 43, L300 = 28, L100 = 12, L6 = 8, L3 = 7, qual o limite de escoamento (YP/LE), em lbf/100 ft²?",
+   "tipo": "multipla",
+   "alternativas": [
+    "26 lbf/100ft²",
+    "15 lbf/100ft²",
+    "43 lbf/100ft²",
+    "13 lbf/100ft²",
+    "29 lbf/100ft²"
+   ],
+   "correta": 3,
+   "explicacao": "VP = 43 − 28 = 15. LE = L300 − VP = 28 − 15 = 13 lbf/100 ft²."
+  },
+  {
+   "id": "re-0034",
+   "dificuldade": 2,
+   "tema": "Reologia: leituras Fann",
+   "enunciado": "Um fluido apresenta as leituras: L600 = 43, L300 = 28, L100 = 12, L6 = 8, L3 = 7. Qual o LSYP (yield stress a baixa taxa de cisalhamento), em cP, segundo a expressão do curso?",
+   "tipo": "multipla",
+   "alternativas": [
+    "9 cP",
+    "6 cP",
+    "13 cP",
+    "8 cP",
+    "15 cP"
+   ],
+   "correta": 1,
+   "explicacao": "LSYP = 2 × L3 − L6 = 2 × 7 − 8 = 6."
+  },
+  {
+   "id": "re-0035",
+   "dificuldade": 1,
+   "tema": "Reologia: leituras Fann",
+   "enunciado": "Um fluido apresenta as leituras do viscosímetro Fann: L600 = 65, L300 = 39, L100 = 20, L3 = 3. Qual a viscosidade plástica (VP), em cP?",
+   "tipo": "multipla",
+   "alternativas": [
+    "39 cP",
+    "31 cP",
+    "26 cP",
+    "104 cP",
+    "13 cP"
+   ],
+   "correta": 2,
+   "explicacao": "VP = L600 − L300 = 65 − 39 = 26 cP."
+  },
+  {
+   "id": "re-0036",
+   "dificuldade": 2,
+   "tema": "Reologia: leituras Fann",
+   "enunciado": "Com as leituras Fann: L600 = 65, L300 = 39, L100 = 20, L3 = 3, qual o limite de escoamento (YP/LE), em lbf/100 ft²?",
+   "tipo": "multipla",
+   "alternativas": [
+    "46 lbf/100ft²",
+    "16 lbf/100ft²",
+    "13 lbf/100ft²",
+    "10 lbf/100ft²",
+    "26 lbf/100ft²"
+   ],
+   "correta": 2,
+   "explicacao": "VP = 65 − 39 = 26. LE = L300 − VP = 39 − 26 = 13 lbf/100 ft²."
+  },
+  {
+   "id": "re-0037",
+   "dificuldade": 2,
+   "tema": "Reologia: leituras Fann",
+   "enunciado": "Um fluido apresenta as leituras do viscosímetro Fann: L600 = 100, L300 = 64, L100 = 35, L6 = 12, L3 = 10. Qual a viscosidade plástica (VP), em cP?",
+   "tipo": "multipla",
+   "alternativas": [
+    "64 cP",
+    "41 cP",
+    "36 cP",
+    "28 cP",
+    "45 cP"
+   ],
+   "correta": 2,
+   "explicacao": "VP = L600 − L300 = 100 − 64 = 36 cP."
+  },
+  {
+   "id": "re-0038",
+   "dificuldade": 1,
+   "tema": "Reologia: leituras Fann",
+   "enunciado": "Com as leituras Fann: L600 = 100, L300 = 64, L100 = 35, L6 = 12, L3 = 10, qual o limite de escoamento (YP/LE), em lbf/100 ft²?",
+   "tipo": "multipla",
+   "alternativas": [
+    "100 lbf/100ft²",
+    "28 lbf/100ft²",
+    "56 lbf/100ft²",
+    "36 lbf/100ft²",
+    "68 lbf/100ft²"
+   ],
+   "correta": 1,
+   "explicacao": "VP = 100 − 64 = 36. LE = L300 − VP = 64 − 36 = 28 lbf/100 ft²."
+  },
+  {
+   "id": "re-0039",
+   "dificuldade": 2,
+   "tema": "Reologia: leituras Fann",
+   "enunciado": "Um fluido apresenta as leituras: L600 = 100, L300 = 64, L100 = 35, L6 = 12, L3 = 10. Qual o LSYP (yield stress a baixa taxa de cisalhamento), em cP, segundo a expressão do curso?",
+   "tipo": "multipla",
+   "alternativas": [
+    "14 cP",
+    "12 cP",
+    "8 cP",
+    "18 cP",
+    "22 cP"
+   ],
+   "correta": 2,
+   "explicacao": "LSYP = 2 × L3 − L6 = 2 × 10 − 12 = 8."
+  },
+  {
+   "id": "re-0040",
+   "dificuldade": 2,
+   "tema": "Reologia: leituras Fann",
+   "enunciado": "Para L600 = 100 e L300 = 64, qual o índice de comportamento (n) do modelo da potência para o interior da coluna (API RP 13D)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,388",
+    "0,382",
+    "1,043",
+    "0,643",
+    "0,837"
+   ],
+   "correta": 3,
+   "explicacao": "n = 3,32 · log(L600/L300) = 3,32 · log(100/64) = 0,643."
+  },
+  {
+   "id": "re-0041",
+   "dificuldade": 3,
+   "tema": "Reologia: leituras Fann",
+   "enunciado": "Para L600 = 100 e L300 = 64, calcule o índice de consistência K (dina·s^n/cm²) no interior da coluna, usando n = 3,32 log(L600/L300) e K = 5,11·L600/1022^n.",
+   "tipo": "multipla",
+   "alternativas": [
+    "8,28",
+    "3,79",
+    "7,39",
+    "9,24",
+    "5,91"
+   ],
+   "correta": 4,
+   "explicacao": "n = 0,6435; K = 5,11 · 100 / 1022^0,6435 = 5,91."
+  },
+  {
+   "id": "re-0042",
+   "dificuldade": 1,
+   "tema": "Reologia: leituras Fann",
+   "enunciado": "Um fluido apresenta as leituras do viscosímetro Fann: L600 = 36, L300 = 22, L100 = 11, L6 = 5, L3 = 4. Qual a viscosidade plástica (VP), em cP?",
+   "tipo": "multipla",
+   "alternativas": [
+    "18 cP",
+    "8 cP",
+    "14 cP",
+    "19 cP",
+    "22 cP"
+   ],
+   "correta": 2,
+   "explicacao": "VP = L600 − L300 = 36 − 22 = 14 cP."
+  },
+  {
+   "id": "re-0043",
+   "dificuldade": 2,
+   "tema": "Reologia: leituras Fann",
+   "enunciado": "Com as leituras Fann: L600 = 36, L300 = 22, L100 = 11, L6 = 5, L3 = 4, qual o limite de escoamento (YP/LE), em lbf/100 ft²?",
+   "tipo": "multipla",
+   "alternativas": [
+    "14 lbf/100ft²",
+    "16 lbf/100ft²",
+    "10 lbf/100ft²",
+    "8 lbf/100ft²",
+    "25 lbf/100ft²"
+   ],
+   "correta": 3,
+   "explicacao": "VP = 36 − 22 = 14. LE = L300 − VP = 22 − 14 = 8 lbf/100 ft²."
+  },
+  {
+   "id": "re-0044",
+   "dificuldade": 2,
+   "tema": "Reologia: leituras Fann",
+   "enunciado": "Para L600 = 36 e L300 = 22, qual o índice de comportamento (n) do modelo da potência para o interior da coluna (API RP 13D)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,422",
+    "0,428",
+    "0,710",
+    "0,923",
+    "1,110"
+   ],
+   "correta": 2,
+   "explicacao": "n = 3,32 · log(L600/L300) = 3,32 · log(36/22) = 0,710."
+  },
+  {
+   "id": "re-0045",
+   "dificuldade": 3,
+   "tema": "Reologia: leituras Fann",
+   "enunciado": "Para L600 = 36 e L300 = 22, calcule o índice de consistência K (dina·s^n/cm²) no interior da coluna, usando n = 3,32 log(L600/L300) e K = 5,11·L600/1022^n.",
+   "tipo": "multipla",
+   "alternativas": [
+    "1,34",
+    "2,20",
+    "0,82",
+    "1,68",
+    "1,88"
+   ],
+   "correta": 0,
+   "explicacao": "n = 0,7101; K = 5,11 · 36 / 1022^0,7101 = 1,34."
+  },
+  {
+   "id": "re-0046",
+   "dificuldade": 2,
+   "tema": "Reologia: leituras Fann",
+   "enunciado": "Um fluido apresenta as leituras do viscosímetro Fann: L600 = 84, L300 = 52, L100 = 28, L6 = 10, L3 = 8. Qual a viscosidade plástica (VP), em cP?",
+   "tipo": "multipla",
+   "alternativas": [
+    "20 cP",
+    "32 cP",
+    "52 cP",
+    "40 cP",
+    "37 cP"
+   ],
+   "correta": 1,
+   "explicacao": "VP = L600 − L300 = 84 − 52 = 32 cP."
+  },
+  {
+   "id": "re-0047",
+   "dificuldade": 1,
+   "tema": "Reologia: leituras Fann",
+   "enunciado": "Com as leituras Fann: L600 = 84, L300 = 52, L100 = 28, L6 = 10, L3 = 8, qual o limite de escoamento (YP/LE), em lbf/100 ft²?",
+   "tipo": "multipla",
+   "alternativas": [
+    "20 lbf/100ft²",
+    "25 lbf/100ft²",
+    "58 lbf/100ft²",
+    "40 lbf/100ft²",
+    "32 lbf/100ft²"
+   ],
+   "correta": 0,
+   "explicacao": "VP = 84 − 52 = 32. LE = L300 − VP = 52 − 32 = 20 lbf/100 ft²."
+  },
+  {
+   "id": "re-0048",
+   "dificuldade": 2,
+   "tema": "Reologia: leituras Fann",
+   "enunciado": "Para L600 = 84 e L300 = 52, qual o índice de comportamento (n) do modelo da potência para o interior da coluna (API RP 13D)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "1,091",
+    "0,411",
+    "0,417",
+    "0,899",
+    "0,691"
+   ],
+   "correta": 4,
+   "explicacao": "n = 3,32 · log(L600/L300) = 3,32 · log(84/52) = 0,691."
+  },
+  {
+   "id": "re-0049",
+   "dificuldade": 3,
+   "tema": "Reologia: leituras Fann",
+   "enunciado": "Para L600 = 84 e L300 = 52, calcule o índice de consistência K (dina·s^n/cm²) no interior da coluna, usando n = 3,32 log(L600/L300) e K = 5,11·L600/1022^n.",
+   "tipo": "multipla",
+   "alternativas": [
+    "3,56",
+    "4,99",
+    "5,75",
+    "2,21",
+    "4,45"
+   ],
+   "correta": 0,
+   "explicacao": "n = 0,6915; K = 5,11 · 84 / 1022^0,6915 = 3,56."
+  },
+  {
+   "id": "re-0050",
+   "dificuldade": 2,
+   "tema": "Reologia: leituras Fann",
+   "enunciado": "Para o ANULAR, com L100 = 20 e L3 = 3, qual o valor de n (API RP 13D, n = 0,657 log(L100/L3))?",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,541",
+    "0,737",
+    "0,676",
+    "1,083",
+    "0,731"
+   ],
+   "correta": 0,
+   "explicacao": "n = 0,657 · log(20/3) = 0,541. No anular usam-se as leituras de 3 e 100 rpm."
+  },
+  {
+   "id": "re-0051",
+   "dificuldade": 3,
+   "tema": "Reologia: leituras Fann",
+   "enunciado": "Para o ANULAR, com L100 = 20 e L3 = 3, qual o K (dina·s^n/cm²), com K = 5,11·L100/170,2^n e n = 0,657 log(L100/L3)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "2,40",
+    "7,92",
+    "9,50",
+    "3,49",
+    "6,34"
+   ],
+   "correta": 4,
+   "explicacao": "n = 0,5413; K = 5,11 · 20/170,2^0,5413 = 6,34."
+  },
+  {
+   "id": "re-0052",
+   "dificuldade": 2,
+   "tema": "Reologia: leituras Fann",
+   "enunciado": "Para o ANULAR, com L100 = 17 e L3 = 5, qual o valor de n (API RP 13D, n = 0,657 log(L100/L3))?",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,436",
+    "0,471",
+    "0,719",
+    "0,698",
+    "0,349"
+   ],
+   "correta": 4,
+   "explicacao": "n = 0,657 · log(17/5) = 0,349. No anular usam-se as leituras de 3 e 100 rpm."
+  },
+  {
+   "id": "re-0053",
+   "dificuldade": 3,
+   "tema": "Reologia: leituras Fann",
+   "enunciado": "Para o ANULAR, com L100 = 17 e L3 = 5, qual o K (dina·s^n/cm²), com K = 5,11·L100/170,2^n e n = 0,657 log(L100/L3)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "9,84",
+    "7,73",
+    "21,67",
+    "18,06",
+    "14,45"
+   ],
+   "correta": 4,
+   "explicacao": "n = 0,3492; K = 5,11 · 17/170,2^0,3492 = 14,45."
+  },
+  {
+   "id": "re-0054",
+   "dificuldade": 2,
+   "tema": "Reologia: leituras Fann",
+   "enunciado": "Para o ANULAR, com L100 = 32 e L3 = 12, qual o valor de n (API RP 13D, n = 0,657 log(L100/L3))?",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,634",
+    "0,378",
+    "0,280",
+    "0,350",
+    "0,560"
+   ],
+   "correta": 2,
+   "explicacao": "n = 0,657 · log(32/12) = 0,280. No anular usam-se as leituras de 3 e 100 rpm."
+  },
+  {
+   "id": "re-0055",
+   "dificuldade": 3,
+   "tema": "Reologia: leituras Fann",
+   "enunciado": "Para o ANULAR, com L100 = 32 e L3 = 12, qual o K (dina·s^n/cm²), com K = 5,11·L100/170,2^n e n = 0,657 log(L100/L3)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "48,54",
+    "23,51",
+    "28,55",
+    "38,83",
+    "58,25"
+   ],
+   "correta": 3,
+   "explicacao": "n = 0,2799; K = 5,11 · 32/170,2^0,2799 = 38,83."
+  },
+  {
+   "id": "re-0056",
+   "dificuldade": 2,
+   "tema": "Reologia: leituras Fann",
+   "enunciado": "Para o ANULAR, com L100 = 15 e L3 = 6, qual o valor de n (API RP 13D, n = 0,657 log(L100/L3))?",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,326",
+    "0,261",
+    "0,353",
+    "0,523",
+    "0,678"
+   ],
+   "correta": 1,
+   "explicacao": "n = 0,657 · log(15/6) = 0,261. No anular usam-se as leituras de 3 e 100 rpm."
+  },
+  {
+   "id": "re-0057",
+   "dificuldade": 3,
+   "tema": "Reologia: leituras Fann",
+   "enunciado": "Para o ANULAR, com L100 = 15 e L3 = 6, qual o K (dina·s^n/cm²), com K = 5,11·L100/170,2^n e n = 0,657 log(L100/L3)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "25,01",
+    "15,01",
+    "20,01",
+    "12,52",
+    "30,01"
+   ],
+   "correta": 2,
+   "explicacao": "n = 0,2614; K = 5,11 · 15/170,2^0,2614 = 20,01."
+  },
+  {
+   "id": "re-0058",
+   "dificuldade": 2,
+   "tema": "Reologia: leituras Fann",
+   "enunciado": "Para o ANULAR, com L100 = 35 e L3 = 10, qual o valor de n (API RP 13D, n = 0,657 log(L100/L3))?",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,446",
+    "0,483",
+    "0,357",
+    "0,643",
+    "0,715"
+   ],
+   "correta": 2,
+   "explicacao": "n = 0,657 · log(35/10) = 0,357. No anular usam-se as leituras de 3 e 100 rpm."
+  },
+  {
+   "id": "re-0059",
+   "dificuldade": 3,
+   "tema": "Reologia: leituras Fann",
+   "enunciado": "Para o ANULAR, com L100 = 35 e L3 = 10, qual o K (dina·s^n/cm²), com K = 5,11·L100/170,2^n e n = 0,657 log(L100/L3)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "28,51",
+    "15,02",
+    "42,77",
+    "35,64",
+    "19,25"
+   ],
+   "correta": 0,
+   "explicacao": "n = 0,3575; K = 5,11 · 35/170,2^0,3575 = 28,51."
+  },
+  {
+   "id": "re-0060",
+   "dificuldade": 2,
+   "tema": "Reologia: leituras Fann",
+   "enunciado": "Para o ANULAR, com L100 = 11 e L3 = 4, qual o valor de n (API RP 13D, n = 0,657 log(L100/L3))?",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,361",
+    "0,577",
+    "0,710",
+    "0,390",
+    "0,289"
+   ],
+   "correta": 4,
+   "explicacao": "n = 0,657 · log(11/4) = 0,289. No anular usam-se as leituras de 3 e 100 rpm."
+  },
+  {
+   "id": "re-0061",
+   "dificuldade": 3,
+   "tema": "Reologia: leituras Fann",
+   "enunciado": "Para o ANULAR, com L100 = 11 e L3 = 4, qual o K (dina·s^n/cm²), com K = 5,11·L100/170,2^n e n = 0,657 log(L100/L3)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "9,29",
+    "19,14",
+    "7,61",
+    "15,95",
+    "12,76"
+   ],
+   "correta": 4,
+   "explicacao": "n = 0,2886; K = 5,11 · 11/170,2^0,2886 = 12,76."
+  },
+  {
+   "id": "re-0062",
+   "dificuldade": 3,
+   "tema": "Reologia: leituras Fann",
+   "enunciado": "Durante a análise reológica de um fluido em viscosímetro de campo obteve-se L600 = 33, L300 = 30, L200 = 28, L100 = 24, L6 = 15 e L3 = 14. Considerando o modelo da potência e a norma API 13D, qual o n para o interior da coluna?",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,3095",
+    "0,1374",
+    "0,2223",
+    "0,1717",
+    "0,3789"
+   ],
+   "correta": 1,
+   "explicacao": "n = 3,32 · log(33/30) = 0,1375. Para o interior da coluna usam-se L600 e L300 (RP 13D)."
+  },
+  {
+   "id": "re-0063",
+   "dificuldade": 2,
+   "tema": "Reologia: leituras Fann",
+   "enunciado": "Qual o limite de escoamento de um fluido com L600 = 43, L300 = 28, L200 = 19, L100 = 12, L6 = 8 e L3 = 7?",
+   "tipo": "multipla",
+   "alternativas": [
+    "16 lbf/100ft²",
+    "15 lbf/100ft²",
+    "13 lbf/100ft²",
+    "17 lbf/100ft²",
+    "14 lbf/100ft²"
+   ],
+   "correta": 2,
+   "explicacao": "VP = 43 − 28 = 15. LE = L300 − VP = 28 − 15 = 13."
+  },
+  {
+   "id": "re-0064",
+   "dificuldade": 2,
+   "tema": "Hidráulica: perda de carga",
+   "enunciado": "Poço com fluido de 12,5 ppg, vazão de 280 gpm, coluna de 4,5\" OD × 3,78\" ID (11.400 ft), comandos de 6,5\" OD × 2,5\" ID (600 ft), poço de 8,5\". Leituras: L600 = 65, L300 = 39, L100 = 20, L3 = 3. Qual a velocidade média do fluido no INTERIOR da coluna de perfuração, em ft/s (V = 0,408·Q/D²)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "5,64 ft/s",
+    "8,00 ft/s",
+    "11,99 ft/s",
+    "30,22 ft/s",
+    "10,00 ft/s"
+   ],
+   "correta": 1,
+   "explicacao": "V = 0,408 · 280 / 3,78² = 8,00 ft/s. O diâmetro entra ao quadrado."
+  },
+  {
+   "id": "re-0065",
+   "dificuldade": 3,
+   "tema": "Hidráulica: perda de carga",
+   "enunciado": "Poço com fluido de 12,5 ppg, vazão de 280 gpm, coluna de 4,5\" OD × 3,78\" ID (11.400 ft), comandos de 6,5\" OD × 2,5\" ID (600 ft), poço de 8,5\". Leituras: L600 = 65, L300 = 39, L100 = 20, L3 = 3. Qual a viscosidade efetiva no interior da coluna, em cP?",
+   "tipo": "multipla",
+   "alternativas": [
+    "66,2 cP",
+    "201,7 cP",
+    "53,0 cP",
+    "37,1 cP",
+    "74,2 cP"
+   ],
+   "correta": 2,
+   "explicacao": "n = 0,737, K = 2,017, V = 8,00 ft/s. μep = 100·K·(96V/D)^(n−1)·((3n+1)/(4n))^n = 53,0 cP."
+  },
+  {
+   "id": "re-0066",
+   "dificuldade": 3,
+   "tema": "Hidráulica: perda de carga",
+   "enunciado": "Poço com fluido de 12,5 ppg, vazão de 280 gpm, coluna de 4,5\" OD × 3,78\" ID (11.400 ft), comandos de 6,5\" OD × 2,5\" ID (600 ft), poço de 8,5\". Leituras: L600 = 65, L300 = 39, L100 = 20, L3 = 3. Qual o número de Reynolds no interior da coluna (NRe = 928·D·V·ρ/μef)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "8.932",
+    "13.232",
+    "6.616",
+    "4.631",
+    "8.270"
+   ],
+   "correta": 2,
+   "explicacao": "NRe = 928 · 3,78 · 8,00 · 12,5 / 53,0 = 6.616. Como NRe > 2.100, o regime é turbulento."
+  },
+  {
+   "id": "re-0067",
+   "dificuldade": 2,
+   "tema": "Hidráulica: perda de carga",
+   "enunciado": "No poço com fluido de 12,5 ppg, vazão de 280 gpm, coluna de 4,5\" OD × 3,78\" ID (11.400 ft), comandos de 6,5\" OD × 2,5\" ID (600 ft), poço de 8,5\" (Leituras: L600 = 65, L300 = 39, L100 = 20, L3 = 3.), o regime de escoamento no interior da coluna é:",
+   "tipo": "multipla",
+   "alternativas": [
+    "turbulento",
+    "laminar",
+    "de plug",
+    "transicional, com NRe igual a 2.100 exatos",
+    "não pode ser classificado sem a temperatura"
+   ],
+   "correta": 0,
+   "explicacao": "NRe ≈ 6.616. Acima de 2.100 o fluxo é turbulento; abaixo, laminar."
+  },
+  {
+   "id": "re-0068",
+   "dificuldade": 3,
+   "tema": "Hidráulica: perda de carga",
+   "enunciado": "Poço com fluido de 12,5 ppg, vazão de 280 gpm, coluna de 4,5\" OD × 3,78\" ID (11.400 ft), comandos de 6,5\" OD × 2,5\" ID (600 ft), poço de 8,5\". Leituras: L600 = 65, L300 = 39, L100 = 20, L3 = 3. Qual a perda de carga no interior do tubo de perfuração (psi)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "932 psi",
+    "831 psi",
+    "1.331 psi",
+    "665 psi",
+    "466 psi"
+   ],
+   "correta": 3,
+   "explicacao": "Fator de atrito f = 0,00713; dP/dL = f·V²·ρ/(25,81·D) = 0,05837 psi/ft; × 11.400 ft = 665 psi."
+  },
+  {
+   "id": "re-0069",
+   "dificuldade": 2,
+   "tema": "Hidráulica: perda de carga",
+   "enunciado": "Poço com fluido de 12,5 ppg, 280 gpm e jatos de 11, 11 e 12 (1/32\"). Qual a perda de carga na broca, em psi?",
+   "tipo": "multipla",
+   "alternativas": [
+    "513 psi",
+    "1.847 psi",
+    "2.565 psi",
+    "1.026 psi",
+    "1.282 psi"
+   ],
+   "correta": 3,
+   "explicacao": "ΔP = 156·ρ·Q²/(ΣD²)² = 156 · 12,5 · 280² / 386² = 1.026 psi."
+  },
+  {
+   "id": "re-0070",
+   "dificuldade": 3,
+   "tema": "Hidráulica: perda de carga",
+   "enunciado": "Poço com fluido de 12,5 ppg, vazão de 280 gpm, coluna de 4,5\" OD × 3,78\" ID (11.400 ft), comandos de 6,5\" OD × 2,5\" ID (600 ft), poço de 8,5\". Leituras: L600 = 65, L300 = 39, L100 = 20, L3 = 3. Qual o n do ANULAR (n = 0,657·log(L100/L3))?",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,676",
+    "0,325",
+    "0,737",
+    "0,812",
+    "0,541"
+   ],
+   "correta": 4,
+   "explicacao": "n = 0,657 · log(20/3) = 0,541."
+  },
+  {
+   "id": "re-0071",
+   "dificuldade": 3,
+   "tema": "Hidráulica: perda de carga",
+   "enunciado": "Poço com fluido de 12,5 ppg, vazão de 280 gpm, coluna de 4,5\" OD × 3,78\" ID (11.400 ft), comandos de 6,5\" OD × 2,5\" ID (600 ft), poço de 8,5\". Leituras: L600 = 65, L300 = 39, L100 = 20, L3 = 3. Qual a velocidade média no anular coluna/poço, em ft/s (V = 0,408·Q/(D2²−D1²))?",
+   "tipo": "multipla",
+   "alternativas": [
+    "1,76 ft/s",
+    "2,75 ft/s",
+    "3,30 ft/s",
+    "1,32 ft/s",
+    "2,20 ft/s"
+   ],
+   "correta": 4,
+   "explicacao": "V = 0,408 · 280 / (8,5² − 4,5²) = 2,20 ft/s."
+  },
+  {
+   "id": "re-0072",
+   "dificuldade": 3,
+   "tema": "Hidráulica: perda de carga",
+   "enunciado": "Poço com fluido de 12,5 ppg, vazão de 280 gpm, coluna de 4,5\" OD × 3,78\" ID (11.400 ft), comandos de 6,5\" OD × 2,5\" ID (600 ft), poço de 8,5\". Leituras: L600 = 65, L300 = 39, L100 = 20, L3 = 3. Qual o número de Reynolds no anular coluna de perfuração/poço?",
+   "tipo": "multipla",
+   "alternativas": [
+    "731",
+    "2.297",
+    "1.305",
+    "1.462",
+    "1.044"
+   ],
+   "correta": 4,
+   "explicacao": "NRe = 928·(D2−D1)·V·ρ/μef = 1.044. Regime laminar."
+  },
+  {
+   "id": "re-0073",
+   "dificuldade": 3,
+   "tema": "Hidráulica: perda de carga",
+   "enunciado": "Poço com fluido de 12,5 ppg, vazão de 280 gpm, coluna de 4,5\" OD × 3,78\" ID (11.400 ft), comandos de 6,5\" OD × 2,5\" ID (600 ft), poço de 8,5\". Leituras: L600 = 65, L300 = 39, L100 = 20, L3 = 3. Qual a perda de carga no anular coluna/poço (psi)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "337 psi",
+    "230 psi",
+    "191 psi",
+    "92 psi",
+    "153 psi"
+   ],
+   "correta": 4,
+   "explicacao": "NRe = 1.044; f = 0,02299; dP/dL = 0,01343 psi/ft × 11.400 ft = 153 psi."
+  },
+  {
+   "id": "re-0074",
+   "dificuldade": 3,
+   "tema": "Hidráulica: perda de carga",
+   "enunciado": "Poço com fluido de 12,5 ppg, vazão de 280 gpm, coluna de 4,5\" OD × 3,78\" ID (11.400 ft), comandos de 6,5\" OD × 2,5\" ID (600 ft), poço de 8,5\", jatos de 11, 11 e 12 (1/32\"). Leituras: L600 = 65, L300 = 39, L100 = 20, L3 = 3. Qual a pressão de bombeio, em psi (soma de DP + DC + broca + anulares), com hidrostática equilibrada entre coluna e anular?",
+   "tipo": "multipla",
+   "alternativas": [
+    "2.103 psi",
+    "1.077 psi",
+    "1.472 psi",
+    "1.918 psi",
+    "2.944 psi"
+   ],
+   "correta": 0,
+   "explicacao": "Ppump = DP 665 + DC 227 + broca 1.026 + anular 185 = 2.103 psi."
+  },
+  {
+   "id": "re-0075",
+   "dificuldade": 3,
+   "tema": "Hidráulica: perda de carga",
+   "enunciado": "Poço com fluido de 12,5 ppg, vazão de 280 gpm, coluna de 4,5\" OD × 3,78\" ID (11.400 ft), comandos de 6,5\" OD × 2,5\" ID (600 ft), poço de 8,5\", TVD = 12.000 ft. Leituras: L600 = 65, L300 = 39, L100 = 20, L3 = 3. A perda de carga total no anular é 185 psi. Qual a ECD no fundo (ppg), usando 0,052?",
+   "tipo": "multipla",
+   "alternativas": [
+    "12,10 ppg",
+    "13,90 ppg",
+    "11,50 ppg",
+    "12,80 ppg",
+    "13,40 ppg"
+   ],
+   "correta": 3,
+   "explicacao": "BHP = 0,052·12,5·12000 + 185 = 7.985 psi; ECD = BHP/(0,052·TVD) = 12,80 ppg."
+  },
+  {
+   "id": "re-0076",
+   "dificuldade": 2,
+   "tema": "Hidráulica: perda de carga",
+   "enunciado": "Poço com fluido de 10,0 ppg, vazão de 350 gpm, coluna de 5,0\" OD × 4,276\" ID (7.800 ft), comandos de 6,75\" OD × 2,8125\" ID (450 ft), poço de 8,5\". Leituras: L600 = 56, L300 = 34, L100 = 17, L3 = 5. Qual a velocidade média do fluido no INTERIOR da coluna de perfuração, em ft/s (V = 0,408·Q/D²)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "6,25 ft/s",
+    "5,71 ft/s",
+    "9,76 ft/s",
+    "11,72 ft/s",
+    "7,81 ft/s"
+   ],
+   "correta": 4,
+   "explicacao": "V = 0,408 · 350 / 4,276² = 7,81 ft/s. O diâmetro entra ao quadrado."
+  },
+  {
+   "id": "re-0077",
+   "dificuldade": 3,
+   "tema": "Hidráulica: perda de carga",
+   "enunciado": "Poço com fluido de 10,0 ppg, vazão de 350 gpm, coluna de 5,0\" OD × 4,276\" ID (7.800 ft), comandos de 6,75\" OD × 2,8125\" ID (450 ft), poço de 8,5\". Leituras: L600 = 56, L300 = 34, L100 = 17, L3 = 5. Qual a viscosidade efetiva no interior da coluna, em cP?",
+   "tipo": "multipla",
+   "alternativas": [
+    "68,7 cP",
+    "61,4 cP",
+    "195,6 cP",
+    "49,1 cP",
+    "34,4 cP"
+   ],
+   "correta": 3,
+   "explicacao": "n = 0,719, K = 1,956, V = 7,81 ft/s. μep = 100·K·(96V/D)^(n−1)·((3n+1)/(4n))^n = 49,1 cP."
+  },
+  {
+   "id": "re-0078",
+   "dificuldade": 3,
+   "tema": "Hidráulica: perda de carga",
+   "enunciado": "Poço com fluido de 10,0 ppg, vazão de 350 gpm, coluna de 5,0\" OD × 4,276\" ID (7.800 ft), comandos de 6,75\" OD × 2,8125\" ID (450 ft), poço de 8,5\". Leituras: L600 = 56, L300 = 34, L100 = 17, L3 = 5. Qual o número de Reynolds no interior da coluna (NRe = 928·D·V·ρ/μef)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "12.627",
+    "7.891",
+    "6.313",
+    "8.523",
+    "4.419"
+   ],
+   "correta": 2,
+   "explicacao": "NRe = 928 · 4,276 · 7,81 · 10,0 / 49,1 = 6.313. Como NRe > 2.100, o regime é turbulento."
+  },
+  {
+   "id": "re-0079",
+   "dificuldade": 2,
+   "tema": "Hidráulica: perda de carga",
+   "enunciado": "No poço com fluido de 10,0 ppg, vazão de 350 gpm, coluna de 5,0\" OD × 4,276\" ID (7.800 ft), comandos de 6,75\" OD × 2,8125\" ID (450 ft), poço de 8,5\" (Leituras: L600 = 56, L300 = 34, L100 = 17, L3 = 5.), o regime de escoamento no interior da coluna é:",
+   "tipo": "multipla",
+   "alternativas": [
+    "turbulento",
+    "laminar",
+    "de plug",
+    "não pode ser classificado sem a temperatura",
+    "transicional, com NRe igual a 2.100 exatos"
+   ],
+   "correta": 0,
+   "explicacao": "NRe ≈ 6.313. Acima de 2.100 o fluxo é turbulento; abaixo, laminar."
+  },
+  {
+   "id": "re-0080",
+   "dificuldade": 3,
+   "tema": "Hidráulica: perda de carga",
+   "enunciado": "Poço com fluido de 10,0 ppg, vazão de 350 gpm, coluna de 5,0\" OD × 4,276\" ID (7.800 ft), comandos de 6,75\" OD × 2,8125\" ID (450 ft), poço de 8,5\". Leituras: L600 = 56, L300 = 34, L100 = 17, L3 = 5. Qual a perda de carga no interior do tubo de perfuração (psi)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "214 psi",
+    "306 psi",
+    "429 psi",
+    "613 psi",
+    "382 psi"
+   ],
+   "correta": 1,
+   "explicacao": "Fator de atrito f = 0,00711; dP/dL = f·V²·ρ/(25,81·D) = 0,03928 psi/ft; × 7.800 ft = 306 psi."
+  },
+  {
+   "id": "re-0081",
+   "dificuldade": 2,
+   "tema": "Hidráulica: perda de carga",
+   "enunciado": "Poço com fluido de 10,0 ppg e vazão de 350 gpm. A broca tem 3 jatos de 12/32\". Qual a perda de carga na broca (ΔP = 156·ρ·Q²/(ΣD²)²), em psi?",
+   "tipo": "multipla",
+   "alternativas": [
+    "2.560 psi",
+    "1.024 psi",
+    "1.843 psi",
+    "1.280 psi",
+    "512 psi"
+   ],
+   "correta": 1,
+   "explicacao": "ΣD² = 3 × 12² = 432. ΔP = 156 · 10,0 · 350² / 432² = 1.024 psi."
+  },
+  {
+   "id": "re-0082",
+   "dificuldade": 3,
+   "tema": "Hidráulica: perda de carga",
+   "enunciado": "Poço com fluido de 10,0 ppg, vazão de 350 gpm, coluna de 5,0\" OD × 4,276\" ID (7.800 ft), comandos de 6,75\" OD × 2,8125\" ID (450 ft), poço de 8,5\". Leituras: L600 = 56, L300 = 34, L100 = 17, L3 = 5. Qual o n do ANULAR (n = 0,657·log(L100/L3))?",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,719",
+    "0,210",
+    "0,349",
+    "0,524",
+    "0,436"
+   ],
+   "correta": 2,
+   "explicacao": "n = 0,657 · log(17/5) = 0,349."
+  },
+  {
+   "id": "re-0083",
+   "dificuldade": 3,
+   "tema": "Hidráulica: perda de carga",
+   "enunciado": "Poço com fluido de 10,0 ppg, vazão de 350 gpm, coluna de 5,0\" OD × 4,276\" ID (7.800 ft), comandos de 6,75\" OD × 2,8125\" ID (450 ft), poço de 8,5\". Leituras: L600 = 56, L300 = 34, L100 = 17, L3 = 5. Qual a velocidade média no anular coluna/poço, em ft/s (V = 0,408·Q/(D2²−D1²))?",
+   "tipo": "multipla",
+   "alternativas": [
+    "2,42 ft/s",
+    "4,53 ft/s",
+    "1,81 ft/s",
+    "3,77 ft/s",
+    "3,02 ft/s"
+   ],
+   "correta": 4,
+   "explicacao": "V = 0,408 · 350 / (8,5² − 5,0²) = 3,02 ft/s."
+  },
+  {
+   "id": "re-0084",
+   "dificuldade": 3,
+   "tema": "Hidráulica: perda de carga",
+   "enunciado": "Poço com fluido de 10,0 ppg, vazão de 350 gpm, coluna de 5,0\" OD × 4,276\" ID (7.800 ft), comandos de 6,75\" OD × 2,8125\" ID (450 ft), poço de 8,5\". Leituras: L600 = 56, L300 = 34, L100 = 17, L3 = 5. Qual o número de Reynolds no anular coluna de perfuração/poço?",
+   "tipo": "multipla",
+   "alternativas": [
+    "1.655",
+    "1.854",
+    "927",
+    "2.914",
+    "1.324"
+   ],
+   "correta": 4,
+   "explicacao": "NRe = 928·(D2−D1)·V·ρ/μef = 1.324. Regime laminar."
+  },
+  {
+   "id": "re-0085",
+   "dificuldade": 3,
+   "tema": "Hidráulica: perda de carga",
+   "enunciado": "Poço com fluido de 10,0 ppg, vazão de 350 gpm, coluna de 5,0\" OD × 4,276\" ID (7.800 ft), comandos de 6,75\" OD × 2,8125\" ID (450 ft), poço de 8,5\". Leituras: L600 = 56, L300 = 34, L100 = 17, L3 = 5. Qual a perda de carga no anular coluna/poço (psi)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "143 psi",
+    "314 psi",
+    "86 psi",
+    "179 psi",
+    "214 psi"
+   ],
+   "correta": 0,
+   "explicacao": "NRe = 1.324; f = 0,01812; dP/dL = 0,01832 psi/ft × 7.800 ft = 143 psi."
+  },
+  {
+   "id": "re-0086",
+   "dificuldade": 3,
+   "tema": "Hidráulica: perda de carga",
+   "enunciado": "Poço com fluido de 10,0 ppg, vazão de 350 gpm, coluna de 5,0\" OD × 4,276\" ID (7.800 ft), comandos de 6,75\" OD × 2,8125\" ID (450 ft), poço de 8,5\", jatos de 12, 12 e 12 (1/32\"). Leituras: L600 = 56, L300 = 34, L100 = 17, L3 = 5. Qual a pressão de bombeio, em psi (soma de DP + DC + broca + anulares), com hidrostática equilibrada entre coluna e anular?",
+   "tipo": "multipla",
+   "alternativas": [
+    "1.447 psi",
+    "2.249 psi",
+    "1.606 psi",
+    "582 psi",
+    "1.124 psi"
+   ],
+   "correta": 2,
+   "explicacao": "Ppump = DP 306 + DC 117 + broca 1.024 + anular 159 = 1.606 psi."
+  },
+  {
+   "id": "re-0087",
+   "dificuldade": 3,
+   "tema": "Hidráulica: perda de carga",
+   "enunciado": "Poço com fluido de 10,0 ppg, vazão de 350 gpm, coluna de 5,0\" OD × 4,276\" ID (7.800 ft), comandos de 6,75\" OD × 2,8125\" ID (450 ft), poço de 8,5\", TVD = 8.250 ft. Leituras: L600 = 56, L300 = 34, L100 = 17, L3 = 5. A perda de carga total no anular é 159 psi. Qual a ECD no fundo (ppg), usando 0,052?",
+   "tipo": "multipla",
+   "alternativas": [
+    "10,37 ppg",
+    "10,97 ppg",
+    "9,07 ppg",
+    "9,67 ppg",
+    "11,47 ppg"
+   ],
+   "correta": 0,
+   "explicacao": "BHP = 0,052·10,0·8250 + 159 = 4.449 psi; ECD = BHP/(0,052·TVD) = 10,37 ppg."
+  },
+  {
+   "id": "re-0088",
+   "dificuldade": 2,
+   "tema": "Hidráulica: perda de carga",
+   "enunciado": "Poço com fluido de 9,2 ppg, vazão de 500 gpm, coluna de 5,5\" OD × 4,778\" ID (4.200 ft), comandos de 8,0\" OD × 3,0\" ID (600 ft), poço de 12,25\". Leituras: L600 = 90, L300 = 58, L100 = 32, L3 = 12. Qual a velocidade média do fluido no INTERIOR da coluna de perfuração, em ft/s (V = 0,408·Q/D²)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "11,17 ft/s",
+    "7,15 ft/s",
+    "6,74 ft/s",
+    "13,40 ft/s",
+    "8,94 ft/s"
+   ],
+   "correta": 4,
+   "explicacao": "V = 0,408 · 500 / 4,778² = 8,94 ft/s. O diâmetro entra ao quadrado."
+  },
+  {
+   "id": "re-0089",
+   "dificuldade": 3,
+   "tema": "Hidráulica: perda de carga",
+   "enunciado": "Poço com fluido de 9,2 ppg, vazão de 500 gpm, coluna de 5,5\" OD × 4,778\" ID (4.200 ft), comandos de 8,0\" OD × 3,0\" ID (600 ft), poço de 12,25\". Leituras: L600 = 90, L300 = 58, L100 = 32, L3 = 12. Qual a viscosidade efetiva no interior da coluna, em cP?",
+   "tipo": "multipla",
+   "alternativas": [
+    "129,8 cP",
+    "115,9 cP",
+    "64,9 cP",
+    "92,7 cP",
+    "74,2 cP"
+   ],
+   "correta": 3,
+   "explicacao": "n = 0,634, K = 5,704, V = 8,94 ft/s. μep = 100·K·(96V/D)^(n−1)·((3n+1)/(4n))^n = 92,7 cP."
+  },
+  {
+   "id": "re-0090",
+   "dificuldade": 3,
+   "tema": "Hidráulica: perda de carga",
+   "enunciado": "Poço com fluido de 9,2 ppg, vazão de 500 gpm, coluna de 5,5\" OD × 4,778\" ID (4.200 ft), comandos de 8,0\" OD × 3,0\" ID (600 ft), poço de 12,25\". Leituras: L600 = 90, L300 = 58, L100 = 32, L3 = 12. Qual o número de Reynolds no interior da coluna (NRe = 928·D·V·ρ/μef)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "3.931",
+    "2.752",
+    "7.863",
+    "4.914",
+    "5.307"
+   ],
+   "correta": 0,
+   "explicacao": "NRe = 928 · 4,778 · 8,94 · 9,2 / 92,7 = 3.931. Como NRe > 2.100, o regime é turbulento."
+  },
+  {
+   "id": "re-0091",
+   "dificuldade": 2,
+   "tema": "Hidráulica: perda de carga",
+   "enunciado": "No poço com fluido de 9,2 ppg, vazão de 500 gpm, coluna de 5,5\" OD × 4,778\" ID (4.200 ft), comandos de 8,0\" OD × 3,0\" ID (600 ft), poço de 12,25\" (Leituras: L600 = 90, L300 = 58, L100 = 32, L3 = 12.), o regime de escoamento no interior da coluna é:",
+   "tipo": "multipla",
+   "alternativas": [
+    "turbulento",
+    "laminar",
+    "não pode ser classificado sem a temperatura",
+    "transicional, com NRe igual a 2.100 exatos",
+    "de plug"
+   ],
+   "correta": 0,
+   "explicacao": "NRe ≈ 3.931. Acima de 2.100 o fluxo é turbulento; abaixo, laminar."
+  },
+  {
+   "id": "re-0092",
+   "dificuldade": 3,
+   "tema": "Hidráulica: perda de carga",
+   "enunciado": "Poço com fluido de 9,2 ppg, vazão de 500 gpm, coluna de 5,5\" OD × 4,778\" ID (4.200 ft), comandos de 8,0\" OD × 3,0\" ID (600 ft), poço de 12,25\". Leituras: L600 = 90, L300 = 58, L100 = 32, L3 = 12. Qual a perda de carga no interior do tubo de perfuração (psi)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "261 psi",
+    "187 psi",
+    "373 psi",
+    "131 psi",
+    "234 psi"
+   ],
+   "correta": 1,
+   "explicacao": "Fator de atrito f = 0,00746; dP/dL = f·V²·ρ/(25,81·D) = 0,04442 psi/ft; × 4.200 ft = 187 psi."
+  },
+  {
+   "id": "re-0093",
+   "dificuldade": 2,
+   "tema": "Hidráulica: perda de carga",
+   "enunciado": "Poço com fluido de 9,2 ppg e vazão de 500 gpm. A broca tem 3 jatos de 14/32\". Qual a perda de carga na broca (ΔP = 156·ρ·Q²/(ΣD²)²), em psi?",
+   "tipo": "multipla",
+   "alternativas": [
+    "519 psi",
+    "2.594 psi",
+    "1.868 psi",
+    "1.038 psi",
+    "1.298 psi"
+   ],
+   "correta": 3,
+   "explicacao": "ΣD² = 3 × 14² = 588. ΔP = 156 · 9,2 · 500² / 588² = 1.038 psi."
+  },
+  {
+   "id": "re-0094",
+   "dificuldade": 3,
+   "tema": "Hidráulica: perda de carga",
+   "enunciado": "Poço com fluido de 9,2 ppg, vazão de 500 gpm, coluna de 5,5\" OD × 4,778\" ID (4.200 ft), comandos de 8,0\" OD × 3,0\" ID (600 ft), poço de 12,25\". Leituras: L600 = 90, L300 = 58, L100 = 32, L3 = 12. Qual o n do ANULAR (n = 0,657·log(L100/L3))?",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,280",
+    "0,634",
+    "0,168",
+    "0,350",
+    "0,420"
+   ],
+   "correta": 0,
+   "explicacao": "n = 0,657 · log(32/12) = 0,280."
+  },
+  {
+   "id": "re-0095",
+   "dificuldade": 3,
+   "tema": "Hidráulica: perda de carga",
+   "enunciado": "Poço com fluido de 9,2 ppg, vazão de 500 gpm, coluna de 5,5\" OD × 4,778\" ID (4.200 ft), comandos de 8,0\" OD × 3,0\" ID (600 ft), poço de 12,25\". Leituras: L600 = 90, L300 = 58, L100 = 32, L3 = 12. Qual a velocidade média no anular coluna/poço, em ft/s (V = 0,408·Q/(D2²−D1²))?",
+   "tipo": "multipla",
+   "alternativas": [
+    "2,55 ft/s",
+    "1,02 ft/s",
+    "1,36 ft/s",
+    "2,12 ft/s",
+    "1,70 ft/s"
+   ],
+   "correta": 4,
+   "explicacao": "V = 0,408 · 500 / (12,25² − 5,5²) = 1,70 ft/s."
+  },
+  {
+   "id": "re-0096",
+   "dificuldade": 3,
+   "tema": "Hidráulica: perda de carga",
+   "enunciado": "Poço com fluido de 9,2 ppg, vazão de 500 gpm, coluna de 5,5\" OD × 4,778\" ID (4.200 ft), comandos de 8,0\" OD × 3,0\" ID (600 ft), poço de 12,25\". Leituras: L600 = 90, L300 = 58, L100 = 32, L3 = 12. Qual o número de Reynolds no anular coluna de perfuração/poço?",
+   "tipo": "multipla",
+   "alternativas": [
+    "395",
+    "198",
+    "352",
+    "621",
+    "282"
+   ],
+   "correta": 4,
+   "explicacao": "NRe = 928·(D2−D1)·V·ρ/μef = 282. Regime laminar."
+  },
+  {
+   "id": "re-0097",
+   "dificuldade": 3,
+   "tema": "Hidráulica: perda de carga",
+   "enunciado": "Poço com fluido de 9,2 ppg, vazão de 500 gpm, coluna de 5,5\" OD × 4,778\" ID (4.200 ft), comandos de 8,0\" OD × 3,0\" ID (600 ft), poço de 12,25\". Leituras: L600 = 90, L300 = 58, L100 = 32, L3 = 12. Qual a perda de carga no anular coluna/poço (psi)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "55 psi",
+    "82 psi",
+    "120 psi",
+    "33 psi",
+    "69 psi"
+   ],
+   "correta": 0,
+   "explicacao": "NRe = 282; f = 0,08499; dP/dL = 0,01301 psi/ft × 4.200 ft = 55 psi."
+  },
+  {
+   "id": "re-0098",
+   "dificuldade": 3,
+   "tema": "Hidráulica: perda de carga",
+   "enunciado": "Poço com fluido de 9,2 ppg, vazão de 500 gpm, coluna de 5,5\" OD × 4,778\" ID (4.200 ft), comandos de 8,0\" OD × 3,0\" ID (600 ft), poço de 12,25\", jatos de 14, 14 e 14 (1/32\"). Leituras: L600 = 90, L300 = 58, L100 = 32, L3 = 12. Qual a pressão de bombeio, em psi (soma de DP + DC + broca + anulares), com hidrostática equilibrada entre coluna e anular?",
+   "tipo": "multipla",
+   "alternativas": [
+    "465 psi",
+    "1.432 psi",
+    "1.052 psi",
+    "1.503 psi",
+    "2.104 psi"
+   ],
+   "correta": 3,
+   "explicacao": "Ppump = DP 187 + DC 208 + broca 1.038 + anular 70 = 1.503 psi."
+  },
+  {
+   "id": "re-0099",
+   "dificuldade": 3,
+   "tema": "Hidráulica: perda de carga",
+   "enunciado": "Poço com fluido de 9,2 ppg, vazão de 500 gpm, coluna de 5,5\" OD × 4,778\" ID (4.200 ft), comandos de 8,0\" OD × 3,0\" ID (600 ft), poço de 12,25\", TVD = 4.800 ft. Leituras: L600 = 90, L300 = 58, L100 = 32, L3 = 12. A perda de carga total no anular é 70 psi. Qual a ECD no fundo (ppg), usando 0,052?",
+   "tipo": "multipla",
+   "alternativas": [
+    "10,58 ppg",
+    "8,78 ppg",
+    "8,18 ppg",
+    "10,08 ppg",
+    "9,48 ppg"
+   ],
+   "correta": 4,
+   "explicacao": "BHP = 0,052·9,2·4800 + 70 = 2.366 psi; ECD = BHP/(0,052·TVD) = 9,48 ppg."
+  },
+  {
+   "id": "re-0100",
+   "dificuldade": 2,
+   "tema": "Hidráulica: perda de carga",
+   "enunciado": "Poço com fluido de 14,0 ppg, vazão de 220 gpm, coluna de 3,5\" OD × 2,764\" ID (9.400 ft), comandos de 4,75\" OD × 2,25\" ID (300 ft), poço de 6,0\". Leituras: L600 = 120, L300 = 78, L100 = 42, L3 = 16. Qual a velocidade média do fluido no INTERIOR da coluna de perfuração, em ft/s (V = 0,408·Q/D²)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "7,33 ft/s",
+    "11,75 ft/s",
+    "32,47 ft/s",
+    "17,62 ft/s",
+    "14,69 ft/s"
+   ],
+   "correta": 1,
+   "explicacao": "V = 0,408 · 220 / 2,764² = 11,75 ft/s. O diâmetro entra ao quadrado."
+  },
+  {
+   "id": "re-0101",
+   "dificuldade": 3,
+   "tema": "Hidráulica: perda de carga",
+   "enunciado": "Poço com fluido de 14,0 ppg, vazão de 220 gpm, coluna de 3,5\" OD × 2,764\" ID (9.400 ft), comandos de 4,75\" OD × 2,25\" ID (300 ft), poço de 6,0\". Leituras: L600 = 120, L300 = 78, L100 = 42, L3 = 16. Qual a viscosidade efetiva no interior da coluna, em cP?",
+   "tipo": "multipla",
+   "alternativas": [
+    "65,0 cP",
+    "129,9 cP",
+    "74,2 cP",
+    "92,8 cP",
+    "116,0 cP"
+   ],
+   "correta": 3,
+   "explicacao": "n = 0,621, K = 8,286, V = 11,75 ft/s. μep = 100·K·(96V/D)^(n−1)·((3n+1)/(4n))^n = 92,8 cP."
+  },
+  {
+   "id": "re-0102",
+   "dificuldade": 3,
+   "tema": "Hidráulica: perda de carga",
+   "enunciado": "Poço com fluido de 14,0 ppg, vazão de 220 gpm, coluna de 3,5\" OD × 2,764\" ID (9.400 ft), comandos de 4,75\" OD × 2,25\" ID (300 ft), poço de 6,0\". Leituras: L600 = 120, L300 = 78, L100 = 42, L3 = 16. Qual o número de Reynolds no interior da coluna (NRe = 928·D·V·ρ/μef)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "4.547",
+    "3.183",
+    "5.684",
+    "6.138",
+    "9.094"
+   ],
+   "correta": 0,
+   "explicacao": "NRe = 928 · 2,764 · 11,75 · 14,0 / 92,8 = 4.547. Como NRe > 2.100, o regime é turbulento."
+  },
+  {
+   "id": "re-0103",
+   "dificuldade": 2,
+   "tema": "Hidráulica: perda de carga",
+   "enunciado": "No poço com fluido de 14,0 ppg, vazão de 220 gpm, coluna de 3,5\" OD × 2,764\" ID (9.400 ft), comandos de 4,75\" OD × 2,25\" ID (300 ft), poço de 6,0\" (Leituras: L600 = 120, L300 = 78, L100 = 42, L3 = 16.), o regime de escoamento no interior da coluna é:",
+   "tipo": "multipla",
+   "alternativas": [
+    "laminar",
+    "turbulento",
+    "não pode ser classificado sem a temperatura",
+    "de plug",
+    "transicional, com NRe igual a 2.100 exatos"
+   ],
+   "correta": 1,
+   "explicacao": "NRe ≈ 4.547. Acima de 2.100 o fluxo é turbulento; abaixo, laminar."
+  },
+  {
+   "id": "re-0104",
+   "dificuldade": 3,
+   "tema": "Hidráulica: perda de carga",
+   "enunciado": "Poço com fluido de 14,0 ppg, vazão de 220 gpm, coluna de 3,5\" OD × 2,764\" ID (9.400 ft), comandos de 4,75\" OD × 2,25\" ID (300 ft), poço de 6,0\". Leituras: L600 = 120, L300 = 78, L100 = 42, L3 = 16. Qual a perda de carga no interior do tubo de perfuração (psi)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "1.800 psi",
+    "3.601 psi",
+    "2.250 psi",
+    "2.521 psi",
+    "1.260 psi"
+   ],
+   "correta": 0,
+   "explicacao": "Fator de atrito f = 0,00707; dP/dL = f·V²·ρ/(25,81·D) = 0,19154 psi/ft; × 9.400 ft = 1.800 psi."
+  },
+  {
+   "id": "re-0105",
+   "dificuldade": 2,
+   "tema": "Hidráulica: perda de carga",
+   "enunciado": "Poço com fluido de 14,0 ppg e vazão de 220 gpm. A broca tem 3 jatos de 10/32\". Qual a perda de carga na broca (ΔP = 156·ρ·Q²/(ΣD²)²), em psi?",
+   "tipo": "multipla",
+   "alternativas": [
+    "2.936 psi",
+    "2.114 psi",
+    "1.469 psi",
+    "587 psi",
+    "1.175 psi"
+   ],
+   "correta": 4,
+   "explicacao": "ΣD² = 3 × 10² = 300. ΔP = 156 · 14,0 · 220² / 300² = 1.175 psi."
+  },
+  {
+   "id": "re-0106",
+   "dificuldade": 3,
+   "tema": "Hidráulica: perda de carga",
+   "enunciado": "Poço com fluido de 14,0 ppg, vazão de 220 gpm, coluna de 3,5\" OD × 2,764\" ID (9.400 ft), comandos de 4,75\" OD × 2,25\" ID (300 ft), poço de 6,0\". Leituras: L600 = 120, L300 = 78, L100 = 42, L3 = 16. Qual o n do ANULAR (n = 0,657·log(L100/L3))?",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,413",
+    "0,621",
+    "0,165",
+    "0,275",
+    "0,344"
+   ],
+   "correta": 3,
+   "explicacao": "n = 0,657 · log(42/16) = 0,275."
+  },
+  {
+   "id": "re-0107",
+   "dificuldade": 3,
+   "tema": "Hidráulica: perda de carga",
+   "enunciado": "Poço com fluido de 14,0 ppg, vazão de 220 gpm, coluna de 3,5\" OD × 2,764\" ID (9.400 ft), comandos de 4,75\" OD × 2,25\" ID (300 ft), poço de 6,0\". Leituras: L600 = 120, L300 = 78, L100 = 42, L3 = 16. Qual a velocidade média no anular coluna/poço, em ft/s (V = 0,408·Q/(D2²−D1²))?",
+   "tipo": "multipla",
+   "alternativas": [
+    "2,27 ft/s",
+    "4,72 ft/s",
+    "3,78 ft/s",
+    "5,67 ft/s",
+    "3,02 ft/s"
+   ],
+   "correta": 2,
+   "explicacao": "V = 0,408 · 220 / (6,0² − 3,5²) = 3,78 ft/s."
+  },
+  {
+   "id": "re-0108",
+   "dificuldade": 3,
+   "tema": "Hidráulica: perda de carga",
+   "enunciado": "Poço com fluido de 14,0 ppg, vazão de 220 gpm, coluna de 3,5\" OD × 2,764\" ID (9.400 ft), comandos de 4,75\" OD × 2,25\" ID (300 ft), poço de 6,0\". Leituras: L600 = 120, L300 = 78, L100 = 42, L3 = 16. Qual o número de Reynolds no anular coluna de perfuração/poço?",
+   "tipo": "multipla",
+   "alternativas": [
+    "685",
+    "2.152",
+    "978",
+    "1.222",
+    "1.370"
+   ],
+   "correta": 2,
+   "explicacao": "NRe = 928·(D2−D1)·V·ρ/μef = 978. Regime laminar."
+  },
+  {
+   "id": "re-0109",
+   "dificuldade": 3,
+   "tema": "Hidráulica: perda de carga",
+   "enunciado": "Poço com fluido de 14,0 ppg, vazão de 220 gpm, coluna de 3,5\" OD × 2,764\" ID (9.400 ft), comandos de 4,75\" OD × 2,25\" ID (300 ft), poço de 6,0\". Leituras: L600 = 120, L300 = 78, L100 = 42, L3 = 16. Qual a perda de carga no anular coluna/poço (psi)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "894 psi",
+    "1.572 psi",
+    "715 psi",
+    "429 psi",
+    "1.072 psi"
+   ],
+   "correta": 2,
+   "explicacao": "NRe = 978; f = 0,02453; dP/dL = 0,07603 psi/ft × 9.400 ft = 715 psi."
+  },
+  {
+   "id": "re-0110",
+   "dificuldade": 3,
+   "tema": "Hidráulica: perda de carga",
+   "enunciado": "Poço com fluido de 14,0 ppg, vazão de 220 gpm, coluna de 3,5\" OD × 2,764\" ID (9.400 ft), comandos de 4,75\" OD × 2,25\" ID (300 ft), poço de 6,0\", jatos de 10, 10 e 10 (1/32\"). Leituras: L600 = 120, L300 = 78, L100 = 42, L3 = 16. Qual a pressão de bombeio, em psi (soma de DP + DC + broca + anulares), com hidrostática equilibrada entre coluna e anular?",
+   "tipo": "multipla",
+   "alternativas": [
+    "5.408 psi",
+    "2.688 psi",
+    "3.863 psi",
+    "2.704 psi",
+    "3.117 psi"
+   ],
+   "correta": 2,
+   "explicacao": "Ppump = DP 1.800 + DC 142 + broca 1.175 + anular 746 = 3.863 psi."
+  },
+  {
+   "id": "re-0111",
+   "dificuldade": 3,
+   "tema": "Hidráulica: perda de carga",
+   "enunciado": "Poço com fluido de 14,0 ppg, vazão de 220 gpm, coluna de 3,5\" OD × 2,764\" ID (9.400 ft), comandos de 4,75\" OD × 2,25\" ID (300 ft), poço de 6,0\", TVD = 9.700 ft. Leituras: L600 = 120, L300 = 78, L100 = 42, L3 = 16. A perda de carga total no anular é 746 psi. Qual a ECD no fundo (ppg), usando 0,052?",
+   "tipo": "multipla",
+   "alternativas": [
+    "14,00 ppg",
+    "15,48 ppg",
+    "14,18 ppg",
+    "14,78 ppg",
+    "16,58 ppg"
+   ],
+   "correta": 1,
+   "explicacao": "BHP = 0,052·14,0·9700 + 746 = 7.807 psi; ECD = BHP/(0,052·TVD) = 15,48 ppg."
+  },
+  {
+   "id": "re-0112",
+   "dificuldade": 2,
+   "tema": "Hidráulica: perda de carga",
+   "enunciado": "Poço com fluido de 11,0 ppg, vazão de 400 gpm, coluna de 5,0\" OD × 4,276\" ID (5.800 ft), comandos de 6,5\" OD × 2,8\" ID (500 ft), poço de 8,5\". Leituras: L600 = 48, L300 = 30, L100 = 15, L3 = 6. Qual a velocidade média do fluido no INTERIOR da coluna de perfuração, em ft/s (V = 0,408·Q/D²)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "13,39 ft/s",
+    "6,53 ft/s",
+    "7,14 ft/s",
+    "11,16 ft/s",
+    "8,93 ft/s"
+   ],
+   "correta": 4,
+   "explicacao": "V = 0,408 · 400 / 4,276² = 8,93 ft/s. O diâmetro entra ao quadrado."
+  },
+  {
+   "id": "re-0113",
+   "dificuldade": 3,
+   "tema": "Hidráulica: perda de carga",
+   "enunciado": "Poço com fluido de 11,0 ppg, vazão de 400 gpm, coluna de 5,0\" OD × 4,276\" ID (5.800 ft), comandos de 6,5\" OD × 2,8\" ID (500 ft), poço de 8,5\". Leituras: L600 = 48, L300 = 30, L100 = 15, L3 = 6. Qual a viscosidade efetiva no interior da coluna, em cP?",
+   "tipo": "multipla",
+   "alternativas": [
+    "43,8 cP",
+    "35,0 cP",
+    "30,7 cP",
+    "54,8 cP",
+    "61,3 cP"
+   ],
+   "correta": 0,
+   "explicacao": "n = 0,678, K = 2,240, V = 8,93 ft/s. μep = 100·K·(96V/D)^(n−1)·((3n+1)/(4n))^n = 43,8 cP."
+  },
+  {
+   "id": "re-0114",
+   "dificuldade": 3,
+   "tema": "Hidráulica: perda de carga",
+   "enunciado": "Poço com fluido de 11,0 ppg, vazão de 400 gpm, coluna de 5,0\" OD × 4,276\" ID (5.800 ft), comandos de 6,5\" OD × 2,8\" ID (500 ft), poço de 8,5\". Leituras: L600 = 48, L300 = 30, L100 = 15, L3 = 6. Qual o número de Reynolds no interior da coluna (NRe = 928·D·V·ρ/μef)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "8.898",
+    "12.012",
+    "17.795",
+    "11.122",
+    "6.228"
+   ],
+   "correta": 0,
+   "explicacao": "NRe = 928 · 4,276 · 8,93 · 11,0 / 43,8 = 8.898. Como NRe > 2.100, o regime é turbulento."
+  },
+  {
+   "id": "re-0115",
+   "dificuldade": 2,
+   "tema": "Hidráulica: perda de carga",
+   "enunciado": "No poço com fluido de 11,0 ppg, vazão de 400 gpm, coluna de 5,0\" OD × 4,276\" ID (5.800 ft), comandos de 6,5\" OD × 2,8\" ID (500 ft), poço de 8,5\" (Leituras: L600 = 48, L300 = 30, L100 = 15, L3 = 6.), o regime de escoamento no interior da coluna é:",
+   "tipo": "multipla",
+   "alternativas": [
+    "transicional, com NRe igual a 2.100 exatos",
+    "turbulento",
+    "laminar",
+    "de plug",
+    "não pode ser classificado sem a temperatura"
+   ],
+   "correta": 1,
+   "explicacao": "NRe ≈ 8.898. Acima de 2.100 o fluxo é turbulento; abaixo, laminar."
+  },
+  {
+   "id": "re-0116",
+   "dificuldade": 3,
+   "tema": "Hidráulica: perda de carga",
+   "enunciado": "Poço com fluido de 11,0 ppg, vazão de 400 gpm, coluna de 5,0\" OD × 4,276\" ID (5.800 ft), comandos de 6,5\" OD × 2,8\" ID (500 ft), poço de 8,5\". Leituras: L600 = 48, L300 = 30, L100 = 15, L3 = 6. Qual a perda de carga no interior do tubo de perfuração (psi)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "200 psi",
+    "573 psi",
+    "401 psi",
+    "286 psi",
+    "358 psi"
+   ],
+   "correta": 3,
+   "explicacao": "Fator de atrito f = 0,00622; dP/dL = f·V²·ρ/(25,81·D) = 0,04938 psi/ft; × 5.800 ft = 286 psi."
+  },
+  {
+   "id": "re-0117",
+   "dificuldade": 2,
+   "tema": "Hidráulica: perda de carga",
+   "enunciado": "Poço com fluido de 11,0 ppg e vazão de 400 gpm. A broca tem 3 jatos de 13/32\". Qual a perda de carga na broca (ΔP = 156·ρ·Q²/(ΣD²)²), em psi?",
+   "tipo": "multipla",
+   "alternativas": [
+    "1.923 psi",
+    "534 psi",
+    "1.068 psi",
+    "1.335 psi",
+    "2.670 psi"
+   ],
+   "correta": 2,
+   "explicacao": "ΣD² = 3 × 13² = 507. ΔP = 156 · 11,0 · 400² / 507² = 1.068 psi."
+  },
+  {
+   "id": "re-0118",
+   "dificuldade": 3,
+   "tema": "Hidráulica: perda de carga",
+   "enunciado": "Poço com fluido de 11,0 ppg, vazão de 400 gpm, coluna de 5,0\" OD × 4,276\" ID (5.800 ft), comandos de 6,5\" OD × 2,8\" ID (500 ft), poço de 8,5\". Leituras: L600 = 48, L300 = 30, L100 = 15, L3 = 6. Qual o n do ANULAR (n = 0,657·log(L100/L3))?",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,392",
+    "0,678",
+    "0,157",
+    "0,261",
+    "0,326"
+   ],
+   "correta": 3,
+   "explicacao": "n = 0,657 · log(15/6) = 0,261."
+  },
+  {
+   "id": "re-0119",
+   "dificuldade": 3,
+   "tema": "Hidráulica: perda de carga",
+   "enunciado": "Poço com fluido de 11,0 ppg, vazão de 400 gpm, coluna de 5,0\" OD × 4,276\" ID (5.800 ft), comandos de 6,5\" OD × 2,8\" ID (500 ft), poço de 8,5\". Leituras: L600 = 48, L300 = 30, L100 = 15, L3 = 6. Qual a velocidade média no anular coluna/poço, em ft/s (V = 0,408·Q/(D2²−D1²))?",
+   "tipo": "multipla",
+   "alternativas": [
+    "3,45 ft/s",
+    "5,18 ft/s",
+    "2,07 ft/s",
+    "4,31 ft/s",
+    "2,76 ft/s"
+   ],
+   "correta": 0,
+   "explicacao": "V = 0,408 · 400 / (8,5² − 5,0²) = 3,45 ft/s."
+  },
+  {
+   "id": "re-0120",
+   "dificuldade": 3,
+   "tema": "Hidráulica: perda de carga",
+   "enunciado": "Poço com fluido de 11,0 ppg, vazão de 400 gpm, coluna de 5,0\" OD × 4,276\" ID (5.800 ft), comandos de 6,5\" OD × 2,8\" ID (500 ft), poço de 8,5\". Leituras: L600 = 48, L300 = 30, L100 = 15, L3 = 6. Qual o número de Reynolds no anular coluna de perfuração/poço?",
+   "tipo": "multipla",
+   "alternativas": [
+    "4.436",
+    "2.520",
+    "2.823",
+    "2.016",
+    "1.411"
+   ],
+   "correta": 3,
+   "explicacao": "NRe = 928·(D2−D1)·V·ρ/μef = 2.016. Regime laminar."
+  },
+  {
+   "id": "re-0121",
+   "dificuldade": 3,
+   "tema": "Hidráulica: perda de carga",
+   "enunciado": "Poço com fluido de 11,0 ppg, vazão de 400 gpm, coluna de 5,0\" OD × 4,276\" ID (5.800 ft), comandos de 6,5\" OD × 2,8\" ID (500 ft), poço de 8,5\". Leituras: L600 = 48, L300 = 30, L100 = 15, L3 = 6. Qual a perda de carga no anular coluna/poço (psi)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "150 psi",
+    "221 psi",
+    "125 psi",
+    "100 psi",
+    "60 psi"
+   ],
+   "correta": 3,
+   "explicacao": "NRe = 2.016; f = 0,01190; dP/dL = 0,01729 psi/ft × 5.800 ft = 100 psi."
+  },
+  {
+   "id": "re-0122",
+   "dificuldade": 3,
+   "tema": "Hidráulica: perda de carga",
+   "enunciado": "Poço com fluido de 11,0 ppg, vazão de 400 gpm, coluna de 5,0\" OD × 4,276\" ID (5.800 ft), comandos de 6,5\" OD × 2,8\" ID (500 ft), poço de 8,5\", jatos de 13, 13 e 13 (1/32\"). Leituras: L600 = 48, L300 = 30, L100 = 15, L3 = 6. Qual a pressão de bombeio, em psi (soma de DP + DC + broca + anulares), com hidrostática equilibrada entre coluna e anular?",
+   "tipo": "multipla",
+   "alternativas": [
+    "1.632 psi",
+    "563 psi",
+    "1.518 psi",
+    "1.142 psi",
+    "2.284 psi"
+   ],
+   "correta": 0,
+   "explicacao": "Ppump = DP 286 + DC 163 + broca 1.068 + anular 114 = 1.632 psi."
+  },
+  {
+   "id": "re-0123",
+   "dificuldade": 3,
+   "tema": "Hidráulica: perda de carga",
+   "enunciado": "Poço com fluido de 11,0 ppg, vazão de 400 gpm, coluna de 5,0\" OD × 4,276\" ID (5.800 ft), comandos de 6,5\" OD × 2,8\" ID (500 ft), poço de 8,5\", TVD = 6.300 ft. Leituras: L600 = 48, L300 = 30, L100 = 15, L3 = 6. A perda de carga total no anular é 114 psi. Qual a ECD no fundo (ppg), usando 0,052?",
+   "tipo": "multipla",
+   "alternativas": [
+    "11,95 ppg",
+    "10,05 ppg",
+    "10,65 ppg",
+    "12,45 ppg",
+    "11,35 ppg"
+   ],
+   "correta": 4,
+   "explicacao": "BHP = 0,052·11,0·6300 + 114 = 3.717 psi; ECD = BHP/(0,052·TVD) = 11,35 ppg."
+  },
+  {
+   "id": "re-0124",
+   "dificuldade": 1,
+   "tema": "Reologia: conceitos",
+   "enunciado": "O que representa a viscosidade plástica (VP) de um fluido de perfuração?",
+   "tipo": "multipla",
+   "alternativas": [
+    "A densidade do fluido",
+    "A resistência do gel após 10 minutos em repouso",
+    "A tensão necessária para iniciar o escoamento",
+    "A resistência ao escoamento causada pelo atrito entre sólidos, entre sólidos e líquido e a viscosidade da fase líquida",
+    "A taxa de filtração"
+   ],
+   "correta": 3,
+   "explicacao": "A VP (L600 − L300) reflete o teor e o tamanho dos sólidos e a viscosidade da fase líquida. Já o limite de escoamento é a tensão para iniciar o movimento."
+  },
+  {
+   "id": "re-0125",
+   "dificuldade": 1,
+   "tema": "Reologia: conceitos",
+   "enunciado": "Que parâmetro indica a tensão mínima necessária para iniciar o escoamento do fluido?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Viscosidade plástica",
+    "Índice de comportamento (n)",
+    "Limite de escoamento (LE ou YP)",
+    "Reynolds crítico",
+    "Perda de carga"
+   ],
+   "correta": 2,
+   "explicacao": "LE = L300 − VP. Quanto maior, mais difícil iniciar o escoamento e melhor a suspensão de sólidos em baixa vazão."
+  },
+  {
+   "id": "re-0126",
+   "dificuldade": 1,
+   "tema": "Reologia: conceitos",
+   "enunciado": "Como se calcula a viscosidade plástica a partir das leituras do viscosímetro?",
+   "tipo": "multipla",
+   "alternativas": [
+    "VP = L300 − VP",
+    "VP = 2·L3 − L6",
+    "VP = L600 − L300",
+    "VP = L300 − L600",
+    "VP = L600 + L300"
+   ],
+   "correta": 2,
+   "explicacao": "A VP é a diferença entre as leituras de 600 e 300 rpm. O limite de escoamento é L300 − VP."
+  },
+  {
+   "id": "re-0127",
+   "dificuldade": 1,
+   "tema": "Reologia: conceitos",
+   "enunciado": "Como se calcula o limite de escoamento (YP) com as leituras Fann?",
+   "tipo": "multipla",
+   "alternativas": [
+    "YP = L600 − L300",
+    "YP = L300 − VP",
+    "YP = L100 − L3",
+    "YP = 2·L3 − L6",
+    "YP = L600 + L300"
+   ],
+   "correta": 1,
+   "explicacao": "A leitura em 300 rpm inclui a VP; subtrai-se para obter a parcela estática (LE)."
+  },
+  {
+   "id": "re-0128",
+   "dificuldade": 1,
+   "tema": "Reologia: conceitos",
+   "enunciado": "O que são os géis (força gel) de um fluido?",
+   "tipo": "multipla",
+   "alternativas": [
+    "A resistência do fluido ao movimento após repouso, medida como a leitura máxima em 3 rpm após 10 s, 10 min e 30 min",
+    "O volume de filtrado em 30 min",
+    "A viscosidade plástica a quente",
+    "A leitura a 600 rpm",
+    "A densidade após repouso"
+   ],
+   "correta": 0,
+   "explicacao": "Os géis (10 s/10 min/30 min) medem a progressividade e a resistência à quebra, importantes para suspender cascalhos e barita com as bombas paradas."
+  },
+  {
+   "id": "re-0129",
+   "dificuldade": 1,
+   "tema": "Reologia: conceitos",
+   "enunciado": "Qual é a importância da força gel quando as bombas são desligadas?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Aumentar a velocidade anular",
+    "Aumentar a taxa de penetração",
+    "Reduzir a densidade",
+    "Reduzir o ECD durante a circulação",
+    "Manter os cascalhos e a barita em suspensão, evitando decantação, prisão de coluna e perda de hidrostática"
+   ],
+   "correta": 4,
+   "explicacao": "Sem circulação não há cisalhamento; a estrutura de gel mantém os sólidos suspensos. Ela deve ser quebrada com facilidade na retomada, para não gerar pressões altas."
+  },
+  {
+   "id": "re-0130",
+   "dificuldade": 1,
+   "tema": "Reologia: conceitos",
+   "enunciado": "Por que a força gel é especialmente crítica em poços direcionais e horizontais?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque a densidade é menor",
+    "Porque não há bombas",
+    "Porque o poço é mais profundo",
+    "Porque a pressão de poros é maior",
+    "Porque a distância de decantação dos sólidos até a parede inferior é curta"
+   ],
+   "correta": 4,
+   "explicacao": "Em poços inclinados os sólidos decantam poucos milímetros e formam leito, o que eleva torque e arraste e pode causar pack-off."
+  },
+  {
+   "id": "re-0131",
+   "dificuldade": 1,
+   "tema": "Reologia: conceitos",
+   "enunciado": "O que é o LSYP e como é calculado?",
+   "tipo": "multipla",
+   "alternativas": [
+    "LSYP = L300 − VP",
+    "LSYP = L100 − L3",
+    "LSYP = L3 + L6",
+    "LSYP = L600 − L300",
+    "Yield stress a baixa taxa de cisalhamento: LSYP = 2 × L3 − L6"
+   ],
+   "correta": 4,
+   "explicacao": "O LSYP é um indicador de limpeza e de suspensão, com base nas leituras mais baixas do viscosímetro."
+  },
+  {
+   "id": "re-0132",
+   "dificuldade": 2,
+   "tema": "Reologia: conceitos",
+   "enunciado": "Quais as seis velocidades do viscosímetro Fann e as quatro recomendadas pela API RP 13D?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Seis: 10, 20, 50, 100, 200, 500; RP 13D usa 50",
+    "Seis: 1, 2, 3, 4, 5 e 6; RP 13D usa 1 e 6",
+    "Seis: 3, 6, 100, 200, 300 e 600 rpm; RP 13D usa 3, 100, 300 e 600 rpm",
+    "Quatro: 3, 6, 300 e 600; RP 13D usa todas",
+    "Seis: 3, 6, 100, 200, 300 e 600; RP 13D usa 6 e 200"
+   ],
+   "correta": 2,
+   "explicacao": "As leituras de 3 e 100 rpm servem aos cálculos de queda de pressão no anular (baixas taxas); as de 300 e 600 rpm, ao interior da coluna (altas taxas)."
+  },
+  {
+   "id": "re-0133",
+   "dificuldade": 1,
+   "tema": "Reologia: conceitos",
+   "enunciado": "Qual a relação entre a velocidade do viscosímetro e a taxa de cisalhamento (s⁻¹)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Taxa = rpm / 1,703",
+    "Taxa de cisalhamento = rpm × 1,703",
+    "Taxa = rpm × 17,03",
+    "Taxa = rpm + 1,703",
+    "Taxa = rpm²"
+   ],
+   "correta": 1,
+   "explicacao": "Assim: 3 rpm ≈ 5,11 s⁻¹; 100 rpm ≈ 170,3 s⁻¹; 300 rpm ≈ 511 s⁻¹; 600 rpm ≈ 1.022 s⁻¹."
+  },
+  {
+   "id": "re-0134",
+   "dificuldade": 1,
+   "tema": "Reologia: conceitos",
+   "enunciado": "Qual a taxa de cisalhamento correspondente a 600 rpm no Fann?",
+   "tipo": "multipla",
+   "alternativas": [
+    "≈ 170,3 s⁻¹",
+    "≈ 1.022 s⁻¹",
+    "≈ 10.220 s⁻¹",
+    "≈ 5,11 s⁻¹",
+    "≈ 511 s⁻¹"
+   ],
+   "correta": 1,
+   "explicacao": "Taxa = rpm × 1,703. 600 × 1,703 = 1.022 s⁻¹."
+  },
+  {
+   "id": "re-0135",
+   "dificuldade": 1,
+   "tema": "Reologia: conceitos",
+   "enunciado": "Fluido de perfuração típico apresenta n:",
+   "tipo": "multipla",
+   "alternativas": [
+    "n = 0 sempre",
+    "n > 1, dilatante",
+    "n = 1, Newtoniano",
+    "n negativo",
+    "n < 1, característico de fluido pseudoplástico"
+   ],
+   "correta": 4,
+   "explicacao": "Fluidos de perfuração são pseudoplásticos (shear thinning): a viscosidade diminui com o aumento da taxa de cisalhamento."
+  },
+  {
+   "id": "re-0136",
+   "dificuldade": 1,
+   "tema": "Reologia: conceitos",
+   "enunciado": "Um fluido com n = 1 é classificado como:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Dilatante",
+    "Pseudoplástico",
+    "Newtoniano",
+    "Tixotrópico",
+    "Plástico de Bingham"
+   ],
+   "correta": 2,
+   "explicacao": "Com n = 1 a viscosidade é constante: a tensão é proporcional à taxa de cisalhamento."
+  },
+  {
+   "id": "re-0137",
+   "dificuldade": 2,
+   "tema": "Reologia: conceitos",
+   "enunciado": "Um fluido com n > 1 é:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Newtoniano",
+    "Típico de fluidos de perfuração",
+    "Ideal para limpeza do poço",
+    "Dilatante (a viscosidade aumenta com a taxa de cisalhamento)",
+    "Pseudoplástico"
+   ],
+   "correta": 3,
+   "explicacao": "Fluidos de perfuração normalmente têm n < 1. O fluido dilatante é raro e indesejável por elevar as pressões de bombeio em altas vazões."
+  },
+  {
+   "id": "re-0138",
+   "dificuldade": 1,
+   "tema": "Reologia: conceitos",
+   "enunciado": "Quais modelos reológicos são usados para descrever fluidos de perfuração?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Stokes, Darcy e Fick",
+    "Langmuir, BET e Freundlich",
+    "Arrhenius, Eyring e Fourier",
+    "Reynolds, Froude e Mach",
+    "Bingham, Lei da Potência (Power Law) e Herschel-Bulkley"
+   ],
+   "correta": 4,
+   "explicacao": "Bingham usa VP e LE; a potência usa n e K; Herschel-Bulkley combina limite de escoamento com n e K e representa melhor o fluido."
+  },
+  {
+   "id": "re-0139",
+   "dificuldade": 1,
+   "tema": "Reologia: conceitos",
+   "enunciado": "Qual a principal diferença do modelo de Herschel-Bulkley em relação ao da Lei da Potência?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Despreza a viscosidade",
+    "Usa apenas a densidade",
+    "Só vale para fluidos Newtonianos",
+    "Não usa o índice de consistência",
+    "Inclui um limite de escoamento (tensão inicial) além de n e K"
+   ],
+   "correta": 4,
+   "explicacao": "Herschel-Bulkley: τ = τ0 + K·γⁿ. Descreve melhor a região de baixas taxas de cisalhamento, relevante no anular."
+  },
+  {
+   "id": "re-0140",
+   "dificuldade": 2,
+   "tema": "Reologia: conceitos",
+   "enunciado": "Quais leituras do Fann se usam para calcular n e K do INTERIOR da coluna e do ANULAR (API RP 13D)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Interior: 600 e 300 rpm; anular: 100 e 3 rpm",
+    "Interior e anular: 600 e 300 rpm",
+    "Interior: 200 e 100 rpm; anular: 6 e 3 rpm",
+    "Interior: 100 e 3 rpm; anular: 600 e 300 rpm",
+    "Interior e anular: 6 e 3 rpm"
+   ],
+   "correta": 0,
+   "explicacao": "No interior da tubulação a taxa de cisalhamento é alta (usam-se 300/600 rpm). No anular é baixa (usam-se 3/100 rpm)."
+  },
+  {
+   "id": "re-0141",
+   "dificuldade": 1,
+   "tema": "Reologia: conceitos",
+   "enunciado": "Quais as constantes de n do interior e do anular?",
+   "tipo": "multipla",
+   "alternativas": [
+    "np = L600 − L300 e na = L100 − L3",
+    "np = 3,32·log(L600/L300) e na = 0,657·log(L100/L3)",
+    "np = L600/L300 e na = L100/L3",
+    "np = 3,32·log(L300/L600) e na = 0,657·log(L3/L100)",
+    "np = 0,657·log(L600/L300) e na = 3,32·log(L100/L3)"
+   ],
+   "correta": 1,
+   "explicacao": "São as expressões da API RP 13D. Ao trocar as constantes, os valores de n saem incoerentes."
+  },
+  {
+   "id": "re-0142",
+   "dificuldade": 1,
+   "tema": "Reologia: conceitos",
+   "enunciado": "Qual a unidade usual do índice de consistência K na planilha da API?",
+   "tipo": "multipla",
+   "alternativas": [
+    "cP",
+    "psi",
+    "dina·sⁿ/cm²",
+    "ppg",
+    "lbf/100 ft²"
+   ],
+   "correta": 2,
+   "explicacao": "K = 5,11·L600/1022ⁿ (interior) ou 5,11·L100/170,2ⁿ (anular), em dina·sⁿ/cm²."
+  },
+  {
+   "id": "re-0143",
+   "dificuldade": 1,
+   "tema": "Reologia: conceitos",
+   "enunciado": "Se n diminui (mais pseudoplástico) com K constante, a viscosidade efetiva em alta taxa de cisalhamento tende a:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Aumentar com a taxa",
+    "Tornar-se negativa",
+    "Diminuir mais com o aumento da taxa",
+    "Tornar-se infinita",
+    "Ficar igual"
+   ],
+   "correta": 2,
+   "explicacao": "Quanto menor n, maior a queda da viscosidade com o cisalhamento (shear thinning)."
+  },
+  {
+   "id": "re-0144",
+   "dificuldade": 1,
+   "tema": "Reologia: conceitos",
+   "enunciado": "A viscosidade de um fluido pseudoplástico diminui com o aumento da taxa de cisalhamento.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "É o comportamento 'shear thinning' típico dos fluidos de perfuração."
+  },
+  {
+   "id": "re-0145",
+   "dificuldade": 2,
+   "tema": "Reologia: conceitos",
+   "enunciado": "Um fluido de perfuração com n > 1 é o mais adequado para a hidráulica da broca.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 1,
+   "explicacao": "Fluidos de perfuração são pseudoplásticos (n < 1). Um fluido dilatante seria ruim: a viscosidade subiria com a vazão."
+  },
+  {
+   "id": "re-0146",
+   "dificuldade": 1,
+   "tema": "Regimes de escoamento",
+   "enunciado": "Quais são os regimes ou tipos de fluxo de interesse em hidráulica de perfuração?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Isotérmico e adiabático",
+    "Laminar, transicional, turbulento e de plug",
+    "Apenas Newtoniano e dilatante",
+    "Apenas turbulento",
+    "Apenas laminar e plug"
+   ],
+   "correta": 1,
+   "explicacao": "O fluxo de plug é o núcleo rígido de fluidos com limite de escoamento em baixíssima vazão; o transicional fica entre o laminar e o turbulento."
+  },
+  {
+   "id": "re-0147",
+   "dificuldade": 1,
+   "tema": "Regimes de escoamento",
+   "enunciado": "Acima de qual número de Reynolds o fluxo é tratado como turbulento nas planilhas do curso?",
+   "tipo": "multipla",
+   "alternativas": [
+    "2.100",
+    "21.000",
+    "210",
+    "21",
+    "2"
+   ],
+   "correta": 0,
+   "explicacao": "Para NRe < 2.100 usa-se f = 16/NRe (interior) ou 24/NRe (anular); acima, usa-se f = a/NRe^b."
+  },
+  {
+   "id": "re-0148",
+   "dificuldade": 1,
+   "tema": "Regimes de escoamento",
+   "enunciado": "O que acontece com o número de Reynolds ao aumentar a viscosidade efetiva?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Torna-se negativo",
+    "Aumenta",
+    "Depende só do diâmetro",
+    "Diminui",
+    "Fica igual"
+   ],
+   "correta": 3,
+   "explicacao": "NRe = 928·D·V·ρ/μef. O NRe é inversamente proporcional à viscosidade."
+  },
+  {
+   "id": "re-0149",
+   "dificuldade": 1,
+   "tema": "Regimes de escoamento",
+   "enunciado": "Qual afirmação sobre NRe é CORRETA?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Aumentar a densidade, a velocidade ou o diâmetro aumenta NRe",
+    "Aumentar a viscosidade aumenta NRe",
+    "Aumentar a densidade diminui NRe",
+    "Aumentar a velocidade diminui NRe",
+    "NRe não depende da densidade"
+   ],
+   "correta": 0,
+   "explicacao": "NRe é proporcional a ρ, V e D, e inversamente proporcional a μ."
+  },
+  {
+   "id": "re-0150",
+   "dificuldade": 2,
+   "tema": "Regimes de escoamento",
+   "enunciado": "Assinale a INCORRETA sobre número de Reynolds:",
+   "tipo": "incorreta",
+   "alternativas": [
+    "O aumento da viscosidade diminui o NRe",
+    "NRe maior que 2.100 indica fluxo turbulento",
+    "Na perfuração busca-se trabalhar em regime turbulento para garantir a limpeza do poço",
+    "O aumento da velocidade aumenta o NRe",
+    "O aumento da densidade aumenta o NRe"
+   ],
+   "correta": 2,
+   "explicacao": "No anular busca-se o regime laminar (com reologia otimizada), pois o turbulento erode o poço e aumenta a ECD. É a questão clássica da prova."
+  },
+  {
+   "id": "re-0151",
+   "dificuldade": 1,
+   "tema": "Regimes de escoamento",
+   "enunciado": "Por que se prefere regime LAMINAR no anular durante a perfuração?",
+   "tipo": "multipla",
+   "alternativas": [
+    "O laminar reduz a limpeza a zero",
+    "O laminar torna o fluido Newtoniano",
+    "O laminar elimina a perda de carga",
+    "O turbulento pode erodir o poço (alargamento) e elevar a ECD",
+    "O turbulento reduz a pressão de bombeio a zero"
+   ],
+   "correta": 3,
+   "explicacao": "O fluxo turbulento remove bem os cascalhos (perfil plano), mas causa erosão em formações pouco consolidadas e eleva a ECD; por isso se otimiza a reologia para operar em laminar."
+  },
+  {
+   "id": "re-0152",
+   "dificuldade": 1,
+   "tema": "Regimes de escoamento",
+   "enunciado": "O que caracteriza o fluxo turbulento?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Altas velocidades, perfil de velocidade mais plano, regido pelas forças inerciais e pouco influenciado pela reologia",
+    "Dependência forte da reologia",
+    "Baixas velocidades e perfil parabólico",
+    "Ausência de perda de carga",
+    "Velocidade nula na parede e no centro"
+   ],
+   "correta": 0,
+   "explicacao": "No turbulento a inércia domina. O laminar é regido pela reologia e tem perfil parabólico."
+  },
+  {
+   "id": "re-0153",
+   "dificuldade": 1,
+   "tema": "Regimes de escoamento",
+   "enunciado": "O que caracteriza o fluxo laminar?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Baixas velocidades, perfil parabólico e forte dependência das propriedades reológicas",
+    "Não há perda de carga",
+    "Perfil plano",
+    "Domínio das forças inerciais",
+    "Ocorre sempre acima de NRe = 2.100"
+   ],
+   "correta": 0,
+   "explicacao": "As camadas deslizam e a pressão depende da reologia do fluido; por isso VP, LE e géis são tão importantes."
+  },
+  {
+   "id": "re-0154",
+   "dificuldade": 3,
+   "tema": "Regimes de escoamento",
+   "enunciado": "Onde, em um poço típico, costuma ocorrer escoamento turbulento e onde laminar?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Laminar no interior e turbulento no anular",
+    "Turbulento no interior da coluna e laminar no anular",
+    "Laminar nos jatos da broca",
+    "Laminar em todo o sistema",
+    "Turbulento no anular entre comandos e poço"
+   ],
+   "correta": 1,
+   "explicacao": "A velocidade dentro da coluna é alta, resultando em NRe elevado. No anular a velocidade é baixa e prevalece o laminar, embora possa ser turbulento em alta vazão ou baixa viscosidade."
+  },
+  {
+   "id": "re-0155",
+   "dificuldade": 3,
+   "tema": "Regimes de escoamento",
+   "enunciado": "Qual a condição para o fluxo no anular tornar-se turbulento?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Alta viscosidade e baixa vazão",
+    "Densidade zero",
+    "Rotação nula",
+    "Poço vertical apenas",
+    "Baixa viscosidade e/ou alta vazão, elevando NRe acima de 2.100"
+   ],
+   "correta": 4,
+   "explicacao": "Há uma vazão crítica de circulação: a vazão mínima em que o NRe do anular atinge 2.100. Ex.: no exemplo do curso, ~452 gpm."
+  },
+  {
+   "id": "re-0156",
+   "dificuldade": 3,
+   "tema": "Regimes de escoamento",
+   "enunciado": "Qual a utilidade de calcular a vazão crítica de circulação?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Estimar o volume dos tanques",
+    "Definir o tipo de broca",
+    "Calcular a densidade do fluido",
+    "Saber a partir de qual vazão o anular passa a regime turbulento (erosão/ECD) ou, abaixo dela, permanece laminar",
+    "Calcular a profundidade do poço"
+   ],
+   "correta": 3,
+   "explicacao": "Ela delimita os regimes e orienta a vazão para limpar o poço sem erodir as paredes."
+  },
+  {
+   "id": "re-0157",
+   "dificuldade": 1,
+   "tema": "Regimes de escoamento",
+   "enunciado": "O fluxo de plug ocorre em vazões muito baixas, quando o núcleo do fluido se desloca como bloco rígido.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "Ocorre em fluidos com limite de escoamento e vazão muito pequena; na prática não é o regime principal do poço."
+  },
+  {
+   "id": "re-0158",
+   "dificuldade": 1,
+   "tema": "Limpeza do poço",
+   "enunciado": "Quais os pilares da limpeza de poço?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Apenas a broca",
+    "Densidade, cor e pH",
+    "Apenas a densidade",
+    "Temperatura, tempo e sal",
+    "Vazão, rotação da coluna e reologia"
+   ],
+   "correta": 4,
+   "explicacao": "Vazão e rotação aumentam o carreamento e a reologia deve ser otimizada para o regime laminar."
+  },
+  {
+   "id": "re-0159",
+   "dificuldade": 1,
+   "tema": "Limpeza do poço",
+   "enunciado": "Quanto maior a vazão, maior o potencial de limpeza do poço, respeitando os limites de erosão e perda.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "A velocidade anular é o principal mecanismo de transporte dos cascalhos. Excesso de vazão pode arrombar o poço ou induzir perdas."
+  },
+  {
+   "id": "re-0160",
+   "dificuldade": 1,
+   "tema": "Limpeza do poço",
+   "enunciado": "Quanto maior a vazão, menor o potencial de limpeza do poço.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 1,
+   "explicacao": "É o oposto: vazão maior eleva a velocidade anular e o carreamento."
+  },
+  {
+   "id": "re-0161",
+   "dificuldade": 1,
+   "tema": "Limpeza do poço",
+   "enunciado": "Qual o efeito da rotação da coluna na limpeza?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Só vale para poço vertical",
+    "Não há efeito",
+    "Só vale com fluido base óleo",
+    "Quanto maior a rotação, melhor a limpeza, pois quebra o leito de cascalhos e reduz a decantação",
+    "Quanto maior a rotação, pior a limpeza"
+   ],
+   "correta": 3,
+   "explicacao": "A rotação cisalha o fluido, mobiliza o leito (cutting bed) e ajuda a fluidizar o cascalho."
+  },
+  {
+   "id": "re-0162",
+   "dificuldade": 1,
+   "tema": "Limpeza do poço",
+   "enunciado": "Qual modo de perfuração é crítico para a limpeza em poços direcionais?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Perfuração com broca nova",
+    "Perfuração em modo 'sliding' (deslizando, sem rotação da coluna)",
+    "Circulação com alta vazão",
+    "Perfuração com rotação alta",
+    "Perfuração com rotary steerable em alta rpm"
+   ],
+   "correta": 1,
+   "explicacao": "No sliding a limpeza é mínima e se formam leitos de cascalho. Deve ser mantido ao mínimo."
+  },
+  {
+   "id": "re-0163",
+   "dificuldade": 2,
+   "tema": "Limpeza do poço",
+   "enunciado": "Em qual faixa de inclinação a limpeza do poço é mais difícil, com cascalhos acumulando e podendo deslizar em 'avalanche'?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Entre aproximadamente 45° e 55°",
+    "Poços verticais",
+    "80° a 90° apenas",
+    "0° a 10°",
+    "10° a 20°"
+   ],
+   "correta": 0,
+   "explicacao": "Em 45–55° os cascalhos acumulam e escorregam quando a bomba é desligada. Acima de 55° formam-se dunas ou aglomerados."
+  },
+  {
+   "id": "re-0164",
+   "dificuldade": 2,
+   "tema": "Limpeza do poço",
+   "enunciado": "Assinale a INCORRETA sobre limpeza do poço:",
+   "tipo": "incorreta",
+   "alternativas": [
+    "Maior vazão melhora o carreamento",
+    "A reologia deve ser otimizada",
+    "O poço vertical é sempre o mais difícil de limpar",
+    "A rotação melhora a limpeza",
+    "Em poços muito inclinados formam-se leitos de cascalho"
+   ],
+   "correta": 2,
+   "explicacao": "Poços inclinados (45–55°) são mais difíceis. O vertical é o mais favorável para limpeza."
+  },
+  {
+   "id": "re-0165",
+   "dificuldade": 1,
+   "tema": "Limpeza do poço",
+   "enunciado": "Que ação torna a limpeza do poço MENOS eficiente?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Aumentar a taxa de penetração (ROP) sem aumentar a vazão",
+    "Aumentar a rotação",
+    "Aumentar a vazão",
+    "Fazer tampão de varredura",
+    "Otimizar a reologia"
+   ],
+   "correta": 0,
+   "explicacao": "Mais ROP gera mais cascalho. Se a vazão não acompanha, a concentração de cascalhos no anular aumenta."
+  },
+  {
+   "id": "re-0166",
+   "dificuldade": 1,
+   "tema": "Limpeza do poço",
+   "enunciado": "Qual é o efeito de aumentar a concentração de cascalhos no anular?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Aumenta a densidade efetiva (ECD) e o risco de perda e de prisão",
+    "Reduz o torque",
+    "Reduz a ECD",
+    "Diminui a pressão de bombeio",
+    "Aumenta a ROP"
+   ],
+   "correta": 0,
+   "explicacao": "Cascalhos no anular elevam a densidade e a perda de carga. A limpeza inadequada pode causar prisão por pack-off."
+  },
+  {
+   "id": "re-0167",
+   "dificuldade": 1,
+   "tema": "Limpeza do poço",
+   "enunciado": "Quais os indícios de limpeza inadequada?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Retorno de cascalho acima do teórico",
+    "ECD reduzida",
+    "Densidade do fluido constante e arraste nulo",
+    "Aumento de pressão, torque e ECD, retorno de cascalho menor que o teórico e fluxo nas conexões",
+    "Redução do torque e da pressão"
+   ],
+   "correta": 3,
+   "explicacao": "O acúmulo de sólidos aumenta pressão, torque, arraste e ECD; o volume de cascalho recuperado fica abaixo do teórico."
+  },
+  {
+   "id": "re-0168",
+   "dificuldade": 1,
+   "tema": "Limpeza do poço",
+   "enunciado": "Qual causa de prisão de coluna está associada a limpeza deficiente?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Pack-off (empacotamento)",
+    "Kick de gás",
+    "Corrosão",
+    "Dente de cão",
+    "Fratura de formação"
+   ],
+   "correta": 0,
+   "explicacao": "Em poços inclinados, até 80% das prisões vêm de limpeza inadequada; em verticais, ~35%."
+  },
+  {
+   "id": "re-0169",
+   "dificuldade": 3,
+   "tema": "Limpeza do poço",
+   "enunciado": "Qual a relação da velocidade de sedimentação (lei de Stokes) com as variáveis?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Diminui com a diferença de densidade",
+    "Independe do diâmetro",
+    "Cresce com a viscosidade",
+    "Cresce com o quadrado do diâmetro da partícula e com a diferença de densidade, e diminui com a viscosidade",
+    "Diminui com o diâmetro"
+   ],
+   "correta": 3,
+   "explicacao": "Vs = g·D²·(ρs − ρf)/(18·μ). Valida em regime laminar e partículas esféricas; no poço, serve como referência qualitativa."
+  },
+  {
+   "id": "re-0170",
+   "dificuldade": 3,
+   "tema": "Limpeza do poço",
+   "enunciado": "Quais fatores limitam a aplicação direta da lei de Stokes ao poço?",
+   "tipo": "multipla",
+   "alternativas": [
+    "A densidade do cascalho ser zero",
+    "Regime turbulento, partículas irregulares, fluido não Newtoniano e geometria complexa do anular",
+    "Apenas a temperatura de superfície",
+    "Nenhum, ela vale integralmente",
+    "Apenas a pressão"
+   ],
+   "correta": 1,
+   "explicacao": "A lei de Stokes vale para esferas isoladas e fluidos Newtonianos; no poço usa-se como tendência."
+  },
+  {
+   "id": "re-0171",
+   "dificuldade": 1,
+   "tema": "Limpeza do poço",
+   "enunciado": "Qual a fórmula da velocidade anular (ft/min) com Q em gpm e diâmetros em polegadas?",
+   "tipo": "multipla",
+   "alternativas": [
+    "AV = 24,5·Q·(D² − d²)",
+    "AV = 24,5·Q/(D² − d²)",
+    "AV = Q/(D + d)",
+    "AV = 0,408·Q/D²",
+    "AV = 156·ρ·Q²"
+   ],
+   "correta": 1,
+   "explicacao": "D é o diâmetro do poço (ou revestimento) e d é o diâmetro externo da coluna. A velocidade anular é o principal mecanismo de carreamento."
+  },
+  {
+   "id": "re-0172",
+   "dificuldade": 1,
+   "tema": "Limpeza do poço",
+   "enunciado": "Quais fatores operacionais limitam a vazão utilizável?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Densidade do cascalho apenas",
+    "Erosão do poço, perda de circulação, ferramentas de fundo (motor/MWD/LWD), capacidade das bombas e camisas",
+    "Cor do fluido",
+    "Nenhum limite",
+    "Preço do fluido"
+   ],
+   "correta": 1,
+   "explicacao": "A vazão ótima equilibra limpeza e riscos de erosão e perda de circulação."
+  },
+  {
+   "id": "re-0173",
+   "dificuldade": 1,
+   "tema": "Limpeza do poço",
+   "enunciado": "Qual o procedimento para monitorar a eficiência de limpeza pelo retorno de cascalhos?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Comparar o volume real recuperado nas peneiras com o volume teórico perfurado",
+    "Medir apenas o pH",
+    "Medir a salinidade",
+    "Ignorar o retorno",
+    "Medir apenas o filtrado"
+   ],
+   "correta": 0,
+   "explicacao": "Retorno de cascalho menor que o teórico indica acúmulo no poço. O formato dos cascalhos também indica instabilidade (cavings)."
+  },
+  {
+   "id": "re-0174",
+   "dificuldade": 1,
+   "tema": "Limpeza do poço",
+   "enunciado": "Quanto maior o diferencial de densidade entre o cascalho e o fluido, mais difícil é o transporte.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "Maior Δρ → maior velocidade de sedimentação (Stokes), exigindo mais vazão ou reologia."
+  },
+  {
+   "id": "re-0175",
+   "dificuldade": 1,
+   "tema": "Perda de carga e pressão de bombeio",
+   "enunciado": "A pressão de bombeio (standpipe) é igual a:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Soma das perdas de carga do sistema (coluna, comandos, broca e anulares) mais a diferença hidrostática, se existir",
+    "Apenas a perda na broca",
+    "Apenas a hidrostática",
+    "A pressão de fratura",
+    "A pressão de poros"
+   ],
+   "correta": 0,
+   "explicacao": "Ppump = ΔPdp + ΔPdc + ΔPbroca + ΔPanulares (+ ΔPhid)."
+  },
+  {
+   "id": "re-0176",
+   "dificuldade": 1,
+   "tema": "Perda de carga e pressão de bombeio",
+   "enunciado": "O que ocorre com a perda de carga na coluna ao dobrar a vazão (regime turbulento)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Aumenta cerca de 3,6 a 4 vezes (≈ Q²)",
+    "Aumenta 10 vezes",
+    "Dobra",
+    "Reduz à metade",
+    "Fica igual"
+   ],
+   "correta": 0,
+   "explicacao": "No exemplo do curso, a 400 gpm → 67 psi; a 800 gpm → 244 psi (≈ 3,6×). Em turbulento, ΔP ∝ Q^1,75 a Q²."
+  },
+  {
+   "id": "re-0177",
+   "dificuldade": 1,
+   "tema": "Perda de carga e pressão de bombeio",
+   "enunciado": "O que ocorre com a perda de carga ao dobrar o comprimento da coluna?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Dobra",
+    "Reduz à metade",
+    "Fica igual",
+    "Quadruplica",
+    "Reduz a um quarto"
+   ],
+   "correta": 0,
+   "explicacao": "ΔP é proporcional ao comprimento: 1.000 ft → 67 psi; 2.000 ft → 134 psi."
+  },
+  {
+   "id": "re-0178",
+   "dificuldade": 1,
+   "tema": "Perda de carga e pressão de bombeio",
+   "enunciado": "O que acontece com a perda de carga ao reduzir o diâmetro interno da coluna (mesma vazão)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Diminui",
+    "Não muda",
+    "Só muda a ECD",
+    "Aumenta bastante, pois a velocidade sobe",
+    "Fica zero"
+   ],
+   "correta": 3,
+   "explicacao": "No exemplo: 5\" → 38 psi; 4½\" → 67 psi (1.000 ft, 400 gpm)."
+  },
+  {
+   "id": "re-0179",
+   "dificuldade": 2,
+   "tema": "Perda de carga e pressão de bombeio",
+   "enunciado": "O que acontece com a perda de carga ao aumentar o peso do fluido em 20% (10 para 12 ppg)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Aumenta aproximadamente 20%",
+    "Dobra",
+    "Cai a zero",
+    "Não muda",
+    "Cai 20%"
+   ],
+   "correta": 0,
+   "explicacao": "Em turbulento ΔP ∝ ρ: 67 → 80 psi no exemplo."
+  },
+  {
+   "id": "re-0180",
+   "dificuldade": 2,
+   "tema": "Perda de carga e pressão de bombeio",
+   "enunciado": "Qual o efeito de aumentar a viscosidade plástica (15 → 50 cP) na perda de carga?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Triplica",
+    "Zera",
+    "Não tem efeito algum",
+    "Aumenta, mas bem menos que proporcionalmente (125 → 148 psi no exemplo)",
+    "Reduz"
+   ],
+   "correta": 3,
+   "explicacao": "Em turbulento a influência da viscosidade é pequena; em laminar é maior."
+  },
+  {
+   "id": "re-0181",
+   "dificuldade": 1,
+   "tema": "Perda de carga e pressão de bombeio",
+   "enunciado": "Quais variações podem explicar o aumento da pressão do standpipe durante a perfuração?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Aumento do diâmetro dos jatos",
+    "Aumento de vazão, redução da área de fluxo, aumento de comprimento, maior peso ou maior viscosidade",
+    "Redução da densidade",
+    "Redução da vazão",
+    "Redução do comprimento"
+   ],
+   "correta": 1,
+   "explicacao": "Todas as variações de pressão devem ser registradas e reportadas."
+  },
+  {
+   "id": "re-0182",
+   "dificuldade": 1,
+   "tema": "Perda de carga e pressão de bombeio",
+   "enunciado": "Qual a fórmula da perda de carga nos jatos da broca?",
+   "tipo": "multipla",
+   "alternativas": [
+    "ΔP = f·V²·ρ/(25,81·D)",
+    "ΔP = 0,052·ρ·h",
+    "ΔP = 156·ρ·Q²/(DN1² + DN2² + DN3²)²",
+    "ΔP = 0,408·Q/D²",
+    "ΔP = 24/NRe"
+   ],
+   "correta": 2,
+   "explicacao": "ρ em ppg, Q em gpm, diâmetros dos jatos em 1/32\". A perda é proporcional a Q² e inversa à quarta potência dos diâmetros."
+  },
+  {
+   "id": "re-0183",
+   "dificuldade": 3,
+   "tema": "Perda de carga e pressão de bombeio",
+   "enunciado": "Trocando 3 jatos de 12/32\" por 3 jatos de 14/32\", mantendo vazão e densidade, a perda de carga na broca:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Cai para ≈ 54% do valor inicial",
+    "Dobra",
+    "Cai à metade exata",
+    "Fica igual",
+    "Cai para ≈ 10%"
+   ],
+   "correta": 0,
+   "explicacao": "(ΣD²)² vai de (3×144)² = 186.624 para (3×196)² = 345.744. Razão = 186.624/345.744 ≈ 0,54."
+  },
+  {
+   "id": "re-0184",
+   "dificuldade": 3,
+   "tema": "Perda de carga e pressão de bombeio",
+   "enunciado": "Qual a distribuição típica da perda de carga num poço profundo?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Maior parte no anular",
+    "Perda nula na coluna",
+    "Maior parte em coluna e broca; anular com menor parcela",
+    "Tudo na broca",
+    "Tudo nos comandos"
+   ],
+   "correta": 2,
+   "explicacao": "No exemplo: DP 665, DC 227, broca 1.026 e anular 185 psi (total 2.103 psi). Mas em poços de pequeno diâmetro o anular pode ser grande."
+  },
+  {
+   "id": "re-0185",
+   "dificuldade": 3,
+   "tema": "Perda de carga e pressão de bombeio",
+   "enunciado": "Quais as pressões utilizadas na equação ΔPpump?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Somente Pcoluna",
+    "Peso do fluido × profundidade",
+    "Somente hidrostática",
+    "Pcoluna + Pcomandos + Pbroca + Pcomandos/poço + Pcoluna/poço + ΔPhid",
+    "Pfratura + Pporos"
+   ],
+   "correta": 3,
+   "explicacao": "A bomba precisa vencer as perdas por atrito e a diferença hidrostática entre anular e coluna."
+  },
+  {
+   "id": "re-0186",
+   "dificuldade": 1,
+   "tema": "Hidrostática, ECD e ESD",
+   "enunciado": "Qual a fórmula da pressão hidrostática (psi) com ρ em ppg e TVD em metros?",
+   "tipo": "multipla",
+   "alternativas": [
+    "PH = 0,1704 × ρ × TVD(m)",
+    "PH = 0,052 × ρ / TVD(ft)",
+    "PH = 0,1704 × ρ / TVD",
+    "PH = 0,052 × ρ × TVD(m)",
+    "PH = ρ × TVD"
+   ],
+   "correta": 0,
+   "explicacao": "Com TVD em ft usa-se 0,052. A constante 0,1704 ≈ 0,052 × 3,281."
+  },
+  {
+   "id": "re-0187",
+   "dificuldade": 1,
+   "tema": "Hidrostática, ECD e ESD",
+   "enunciado": "Qual a definição de ECD?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Densidade do fluido em repouso",
+    "Pressão de fratura",
+    "Pressão hidrostática num ponto somada à perda de carga do anular desse ponto até a superfície, expressa em densidade (ppg)",
+    "Densidade do fluido na superfície",
+    "Densidade do cascalho"
+   ],
+   "correta": 2,
+   "explicacao": "ECD = Mw + ΔPanular/(0,1704 × TVD(m)). Calcula-se normalmente na zona mais frágil."
+  },
+  {
+   "id": "re-0188",
+   "dificuldade": 1,
+   "tema": "Hidrostática, ECD e ESD",
+   "enunciado": "Qual a definição de ESD?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Densidade com sólidos apenas",
+    "Densidade da formação",
+    "Densidade do fluido em circulação",
+    "Densidade do cascalho",
+    "Densidade equivalente estática: a densidade que dá a pressão medida num ponto com o fluido parado"
+   ],
+   "correta": 4,
+   "explicacao": "ESD = P(psi)/(0,1704 × TVD(m)). Depende da temperatura (expansão térmica) e da compressibilidade do fluido."
+  },
+  {
+   "id": "re-0189",
+   "dificuldade": 1,
+   "tema": "Hidrostática, ECD e ESD",
+   "enunciado": "Temperatura e compressibilidade podem influenciar o ESD do fluido.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "A temperatura dilata o fluido e a pressão o comprime, alterando a densidade efetiva em fundo."
+  },
+  {
+   "id": "re-0190",
+   "dificuldade": 1,
+   "tema": "Hidrostática, ECD e ESD",
+   "enunciado": "Quais fatores aumentam a perda de carga do anular e, consequentemente, a ECD?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Redução da viscosidade",
+    "Redução do ROP",
+    "Redução da vazão",
+    "Viscosidade, vazão, anular estreito, ROP, concentração de cascalhos, rotação, excentricidade e profundidade",
+    "Aumento do diâmetro do poço"
+   ],
+   "correta": 3,
+   "explicacao": "Quanto maior a perda de carga no anular, maior a ECD, o que pode fraturar a formação em janela estreita."
+  },
+  {
+   "id": "re-0191",
+   "dificuldade": 1,
+   "tema": "Hidrostática, ECD e ESD",
+   "enunciado": "Quais as consequências de uma ECD acima da pressão de fratura?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Perda de circulação e dano à formação",
+    "Redução do torque",
+    "Aumento do ROP",
+    "Kick",
+    "Ganho de volume"
+   ],
+   "correta": 0,
+   "explicacao": "Acima da pressão de fratura a formação absorve fluido. ECD abaixo da pressão de poros permite influxo."
+  },
+  {
+   "id": "re-0192",
+   "dificuldade": 3,
+   "tema": "Hidrostática, ECD e ESD",
+   "enunciado": "Antes de perfurar, um APWD indicava 10,60 ppg com fluido de 10,5 ppg. Qual a provável causa da diferença?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Erro do sensor, sempre",
+    "Gás no anular",
+    "Compressibilidade e temperatura do fluido",
+    "Kick",
+    "Excesso de cascalhos"
+   ],
+   "correta": 2,
+   "explicacao": "Com o anular limpo (sem sólidos), a diferença é a compressibilidade/expansão térmica. Com sólidos, a densidade bulk sobe ainda mais."
+  },
+  {
+   "id": "re-0193",
+   "dificuldade": 3,
+   "tema": "Hidrostática, ECD e ESD",
+   "enunciado": "Por que a pressão no fundo pode ser maior com bombas desligadas se o anular está carregado de cascalhos?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque a perda de carga cresce",
+    "Porque a densidade diminui",
+    "Porque a temperatura cai a zero",
+    "Porque o gás se expande",
+    "Porque o fluido do anular fica mais denso e a hidrostática do anular é maior que a da coluna (efeito de tubo em U)"
+   ],
+   "correta": 4,
+   "explicacao": "A diferença ΔPhid = PH anular − PH coluna deve ser somada à pressão de bombeio."
+  },
+  {
+   "id": "re-0194",
+   "dificuldade": 3,
+   "tema": "Perda de carga e pressão de bombeio",
+   "enunciado": "Quando o anular tem elevado teor de sólidos, sua hidrostática supera a da coluna e surge um ΔPhid = PH anular − PH coluna, que deve ser somado à pressão de bombeio. Perdas de carga (psi): ΔPDP = 500, ΔPHW = 145, ΔPDC = 175, ΔPbroca = 1698, ΔPOH×DC = 95, ΔPOH×HW = 85, ΔPOH×DP = 245, ΔPCSG×DP = 364. Poço vertical de 3.500 m, fluido entrando a 10,2 ppg e retornando com média de 10,4 ppg por limpeza insuficiente. Qual a nova pressão de bombeio, em psi?",
+   "tipo": "multipla",
+   "alternativas": [
+    "3.426 psi",
+    "3.188 psi",
+    "5.139 psi",
+    "4.282 psi",
+    "2.741 psi"
+   ],
+   "correta": 0,
+   "explicacao": "ΔPhid = 0,1704·(10,4 − 10,2)·3.500 = 119 psi. Soma das perdas = 3.307 psi. Pbomba = 3.307 + 119 = 3.426 psi."
+  },
+  {
+   "id": "re-0195",
+   "dificuldade": 3,
+   "tema": "Perda de carga e pressão de bombeio",
+   "enunciado": "Quando o anular tem elevado teor de sólidos, sua hidrostática supera a da coluna e surge um ΔPhid = PH anular − PH coluna, que deve ser somado à pressão de bombeio. Perdas de carga (psi): ΔPDP = 420, ΔPHW = 110, ΔPDC = 160, ΔPbroca = 1400, ΔPOH×DC = 90, ΔPOH×HW = 70, ΔPOH×DP = 200, ΔPCSG×DP = 300. Poço vertical de 3.000 m, fluido entrando a 9,0 ppg e retornando com média de 9,3 ppg por limpeza insuficiente. Qual a nova pressão de bombeio, em psi?",
+   "tipo": "multipla",
+   "alternativas": [
+    "2.903 psi",
+    "3.057 psi",
+    "3.629 psi",
+    "2.750 psi",
+    "2.597 psi"
+   ],
+   "correta": 0,
+   "explicacao": "ΔPhid = 0,1704·(9,3 − 9,0)·3.000 = 153 psi. Soma das perdas = 2.750 psi. Pbomba = 2.750 + 153 = 2.903 psi."
+  },
+  {
+   "id": "re-0196",
+   "dificuldade": 3,
+   "tema": "Perda de carga e pressão de bombeio",
+   "enunciado": "Quando o anular tem elevado teor de sólidos, sua hidrostática supera a da coluna e surge um ΔPhid = PH anular − PH coluna, que deve ser somado à pressão de bombeio. Perdas de carga (psi): ΔPDP = 600, ΔPHW = 150, ΔPDC = 200, ΔPbroca = 1500, ΔPOH×DC = 100, ΔPOH×HW = 90, ΔPOH×DP = 250, ΔPCSG×DP = 310. Poço vertical de 2.800 m, fluido entrando a 11,5 ppg e retornando com média de 11,9 ppg por limpeza insuficiente. Qual a nova pressão de bombeio, em psi?",
+   "tipo": "multipla",
+   "alternativas": [
+    "4.239 psi",
+    "3.009 psi",
+    "3.200 psi",
+    "3.391 psi",
+    "3.582 psi"
+   ],
+   "correta": 3,
+   "explicacao": "ΔPhid = 0,1704·(11,9 − 11,5)·2.800 = 191 psi. Soma das perdas = 3.200 psi. Pbomba = 3.200 + 191 = 3.391 psi."
+  },
+  {
+   "id": "re-0197",
+   "dificuldade": 3,
+   "tema": "Perda de carga e pressão de bombeio",
+   "enunciado": "Quando o anular tem elevado teor de sólidos, sua hidrostática supera a da coluna e surge um ΔPhid = PH anular − PH coluna, que deve ser somado à pressão de bombeio. Perdas de carga (psi): ΔPDP = 550, ΔPHW = 130, ΔPDC = 180, ΔPbroca = 1650, ΔPOH×DC = 110, ΔPOH×HW = 95, ΔPOH×DP = 260, ΔPCSG×DP = 330. Poço vertical de 4.000 m, fluido entrando a 9,8 ppg e retornando com média de 10,1 ppg por limpeza insuficiente. Qual a nova pressão de bombeio, em psi?",
+   "tipo": "multipla",
+   "alternativas": [
+    "3.367 psi",
+    "3.714 psi",
+    "3.305 psi",
+    "3.101 psi",
+    "3.509 psi"
+   ],
+   "correta": 4,
+   "explicacao": "ΔPhid = 0,1704·(10,1 − 9,8)·4.000 = 204 psi. Soma das perdas = 3.305 psi. Pbomba = 3.305 + 204 = 3.509 psi."
+  },
+  {
+   "id": "re-0198",
+   "dificuldade": 3,
+   "tema": "Perda de carga e pressão de bombeio",
+   "enunciado": "Quando o anular tem elevado teor de sólidos, sua hidrostática supera a da coluna e surge um ΔPhid = PH anular − PH coluna, que deve ser somado à pressão de bombeio. Perdas de carga (psi): ΔPDP = 300, ΔPHW = 100, ΔPDC = 140, ΔPbroca = 1200, ΔPOH×DC = 80, ΔPOH×HW = 60, ΔPOH×DP = 150, ΔPCSG×DP = 220. Poço vertical de 2.500 m, fluido entrando a 10,0 ppg e retornando com média de 10,5 ppg por limpeza insuficiente. Qual a nova pressão de bombeio, em psi?",
+   "tipo": "multipla",
+   "alternativas": [
+    "2.250 psi",
+    "2.463 psi",
+    "2.676 psi",
+    "2.037 psi",
+    "2.315 psi"
+   ],
+   "correta": 1,
+   "explicacao": "ΔPhid = 0,1704·(10,5 − 10,0)·2.500 = 213 psi. Soma das perdas = 2.250 psi. Pbomba = 2.250 + 213 = 2.463 psi."
+  },
+  {
+   "id": "re-0199",
+   "dificuldade": 2,
+   "tema": "Hidrostática, ECD e ESD",
+   "enunciado": "O poço vertical tem 3.500 m, fluido de 10,2 ppg na coluna e densidade média de 10,4 ppg no anular por excesso de cascalhos. Qual o ΔPhid (psi) a ser somado à pressão de bombeio?",
+   "tipo": "multipla",
+   "alternativas": [
+    "119 psi",
+    "239 psi",
+    "149 psi",
+    "95 psi",
+    "36 psi"
+   ],
+   "correta": 0,
+   "explicacao": "ΔPhid = 0,1704 × (10,4 − 10,2) × 3.500 = 119 psi."
+  },
+  {
+   "id": "re-0200",
+   "dificuldade": 2,
+   "tema": "Hidrostática, ECD e ESD",
+   "enunciado": "O poço vertical tem 3.000 m, fluido de 9,0 ppg na coluna e densidade média de 9,3 ppg no anular por excesso de cascalhos. Qual o ΔPhid (psi) a ser somado à pressão de bombeio?",
+   "tipo": "multipla",
+   "alternativas": [
+    "307 psi",
+    "153 psi",
+    "122 psi",
+    "191 psi",
+    "47 psi"
+   ],
+   "correta": 1,
+   "explicacao": "ΔPhid = 0,1704 × (9,3 − 9,0) × 3.000 = 153 psi."
+  },
+  {
+   "id": "re-0201",
+   "dificuldade": 2,
+   "tema": "Hidrostática, ECD e ESD",
+   "enunciado": "O poço vertical tem 2.800 m, fluido de 11,5 ppg na coluna e densidade média de 11,9 ppg no anular por excesso de cascalhos. Qual o ΔPhid (psi) a ser somado à pressão de bombeio?",
+   "tipo": "multipla",
+   "alternativas": [
+    "153 psi",
+    "58 psi",
+    "382 psi",
+    "239 psi",
+    "191 psi"
+   ],
+   "correta": 4,
+   "explicacao": "ΔPhid = 0,1704 × (11,9 − 11,5) × 2.800 = 191 psi."
+  },
+  {
+   "id": "re-0202",
+   "dificuldade": 2,
+   "tema": "Hidrostática, ECD e ESD",
+   "enunciado": "O poço vertical tem 4.000 m, fluido de 9,8 ppg na coluna e densidade média de 10,1 ppg no anular por excesso de cascalhos. Qual o ΔPhid (psi) a ser somado à pressão de bombeio?",
+   "tipo": "multipla",
+   "alternativas": [
+    "409 psi",
+    "62 psi",
+    "204 psi",
+    "255 psi",
+    "163 psi"
+   ],
+   "correta": 2,
+   "explicacao": "ΔPhid = 0,1704 × (10,1 − 9,8) × 4.000 = 204 psi."
+  },
+  {
+   "id": "re-0203",
+   "dificuldade": 2,
+   "tema": "Hidrostática, ECD e ESD",
+   "enunciado": "Poço vertical com revestimento até 2.000 m (fluido de 8,0 ppg) e poço aberto até 3.000 m (fluido de 12,5 ppg). Qual a pressão hidrostática total no fundo (psi)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "4.089,6 psi",
+    "4.856,4 psi",
+    "6.390,0 psi",
+    "4.311,1 psi",
+    "2.726,4 psi"
+   ],
+   "correta": 1,
+   "explicacao": "PH = 0,1704·8,0·2.000 + 0,1704·12,5·1.000 = 2.726,4 + 2.130,0 = 4.856,4 psi."
+  },
+  {
+   "id": "re-0204",
+   "dificuldade": 2,
+   "tema": "Hidrostática, ECD e ESD",
+   "enunciado": "Poço vertical com revestimento até 2.000 m (fluido de 8,0 ppg) e poço aberto até 3.000 m (fluido de 12,5 ppg). Qual a densidade equivalente no fundo (ppg)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "9,50 ppg",
+    "8,00 ppg",
+    "10,10 ppg",
+    "10,25 ppg",
+    "12,50 ppg"
+   ],
+   "correta": 0,
+   "explicacao": "PH total = 4.856,4 psi. ρeq = PH/(0,1704·3.000) = 9,50 ppg. Não é a média simples."
+  },
+  {
+   "id": "re-0205",
+   "dificuldade": 2,
+   "tema": "Hidrostática, ECD e ESD",
+   "enunciado": "Poço vertical com revestimento até 1.500 m (fluido de 9,0 ppg) e poço aberto até 3.000 m (fluido de 11,0 ppg). Qual a pressão hidrostática total no fundo (psi)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "5.623,2 psi",
+    "4.651,9 psi",
+    "2.300,4 psi",
+    "4.600,8 psi",
+    "5.112,0 psi"
+   ],
+   "correta": 4,
+   "explicacao": "PH = 0,1704·9,0·1.500 + 0,1704·11,0·1.500 = 2.300,4 + 2.811,6 = 5.112,0 psi."
+  },
+  {
+   "id": "re-0206",
+   "dificuldade": 2,
+   "tema": "Hidrostática, ECD e ESD",
+   "enunciado": "Poço vertical com revestimento até 1.500 m (fluido de 9,0 ppg) e poço aberto até 3.000 m (fluido de 11,0 ppg). Qual a densidade equivalente no fundo (ppg)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "11,00 ppg",
+    "10,60 ppg",
+    "9,00 ppg",
+    "10,00 ppg",
+    "12,50 ppg"
+   ],
+   "correta": 3,
+   "explicacao": "PH total = 5.112,0 psi. ρeq = PH/(0,1704·3.000) = 10,00 ppg. Não é a média simples."
+  },
+  {
+   "id": "re-0207",
+   "dificuldade": 2,
+   "tema": "Hidrostática, ECD e ESD",
+   "enunciado": "Poço vertical com revestimento até 1.800 m (fluido de 8,6 ppg) e poço aberto até 2.500 m (fluido de 13,0 ppg). Qual a pressão hidrostática total no fundo (psi)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "4.188,4 psi",
+    "3.663,6 psi",
+    "3.660,9 psi",
+    "5.538,0 psi",
+    "2.637,8 psi"
+   ],
+   "correta": 0,
+   "explicacao": "PH = 0,1704·8,6·1.800 + 0,1704·13,0·700 = 2.637,8 + 1.550,6 = 4.188,4 psi."
+  },
+  {
+   "id": "re-0208",
+   "dificuldade": 2,
+   "tema": "Hidrostática, ECD e ESD",
+   "enunciado": "Poço vertical com revestimento até 1.800 m (fluido de 8,6 ppg) e poço aberto até 2.500 m (fluido de 13,0 ppg). Qual a densidade equivalente no fundo (ppg)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "10,43 ppg",
+    "10,80 ppg",
+    "8,60 ppg",
+    "9,83 ppg",
+    "13,00 ppg"
+   ],
+   "correta": 3,
+   "explicacao": "PH total = 4.188,4 psi. ρeq = PH/(0,1704·2.500) = 9,83 ppg. Não é a média simples."
+  },
+  {
+   "id": "re-0209",
+   "dificuldade": 2,
+   "tema": "Hidrostática, ECD e ESD",
+   "enunciado": "Poço vertical com revestimento até 2.500 m (fluido de 9,5 ppg) e poço aberto até 3.100 m (fluido de 12,0 ppg). Qual a pressão hidrostática total no fundo (psi)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "4.464,5 psi",
+    "6.338,9 psi",
+    "5.273,9 psi",
+    "5.018,3 psi",
+    "4.047,0 psi"
+   ],
+   "correta": 2,
+   "explicacao": "PH = 0,1704·9,5·2.500 + 0,1704·12,0·600 = 4.047,0 + 1.226,9 = 5.273,9 psi."
+  },
+  {
+   "id": "re-0210",
+   "dificuldade": 2,
+   "tema": "Hidrostática, ECD e ESD",
+   "enunciado": "Poço vertical com revestimento até 2.500 m (fluido de 9,5 ppg) e poço aberto até 3.100 m (fluido de 12,0 ppg). Qual a densidade equivalente no fundo (ppg)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "12,00 ppg",
+    "10,58 ppg",
+    "9,98 ppg",
+    "10,75 ppg",
+    "9,50 ppg"
+   ],
+   "correta": 2,
+   "explicacao": "PH total = 5.273,9 psi. ρeq = PH/(0,1704·3.100) = 9,98 ppg. Não é a média simples."
+  },
+  {
+   "id": "re-0211",
+   "dificuldade": 1,
+   "tema": "Perda de carga e pressão de bombeio",
+   "enunciado": "Poço vertical com 3.000 m, sapata a 2.000 m, fluido de 10,5 ppg. Perdas: coluna 500 psi, broca 700 psi, anular poço aberto 150 psi e anular revestido 200 psi. Qual a pressão de bombeio, em psi?",
+   "tipo": "multipla",
+   "alternativas": [
+    "1.550 psi",
+    "1.050 psi",
+    "1.938 psi",
+    "850 psi",
+    "1.200 psi"
+   ],
+   "correta": 0,
+   "explicacao": "Pbomba = soma das perdas = 500 + 700 + 150 + 200 = 1550 psi."
+  },
+  {
+   "id": "re-0212",
+   "dificuldade": 2,
+   "tema": "Hidrostática, ECD e ESD",
+   "enunciado": "Poço vertical com 3.000 m, sapata a 2.000 m, fluido de 10,5 ppg. Perdas: coluna 500 psi, broca 700 psi, anular poço aberto 150 psi e anular revestido 200 psi. Qual a pressão no fundo em circulação, em psi (PH + perda de carga do anular = 350 psi)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "5.017,6 psi",
+    "6.492,6 psi",
+    "5.717,6 psi",
+    "5.367,6 psi",
+    "6.917,6 psi"
+   ],
+   "correta": 2,
+   "explicacao": "PH = 0,1704·10,5·3.000 = 5.367,6 psi; PF = PH + ΔPanular = 5.367,6 + 350 = 5.717,6 psi."
+  },
+  {
+   "id": "re-0213",
+   "dificuldade": 2,
+   "tema": "Hidrostática, ECD e ESD",
+   "enunciado": "Poço vertical com 3.000 m, sapata a 2.000 m, fluido de 10,5 ppg. Perdas: coluna 500 psi, broca 700 psi, anular poço aberto 150 psi e anular revestido 200 psi. Qual a ECD no fundo (ppg), sabendo que a perda de carga total do anular é 350 psi?",
+   "tipo": "multipla",
+   "alternativas": [
+    "11,78 ppg",
+    "10,20 ppg",
+    "11,18 ppg",
+    "10,50 ppg",
+    "13,97 ppg"
+   ],
+   "correta": 2,
+   "explicacao": "ECD = (PH + ΔPanular)/(0,1704·TVD) = 5.717,6/511,2 = 11,18 ppg."
+  },
+  {
+   "id": "re-0214",
+   "dificuldade": 3,
+   "tema": "Hidrostática, ECD e ESD",
+   "enunciado": "Poço vertical, sapata a 2.000 m, fluido de 10,5 ppg, perda de carga entre a sapata e a superfície de 200 psi. Qual a ECD na sapata (ppg)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "13,86 ppg",
+    "11,09 ppg",
+    "11,54 ppg",
+    "10,10 ppg",
+    "10,50 ppg"
+   ],
+   "correta": 1,
+   "explicacao": "Psapata = 0,1704·10,5·2.000 + 200 = 3.778,4 psi; ECD = 3.778,4/(0,1704·2.000) = 11,09 ppg."
+  },
+  {
+   "id": "re-0215",
+   "dificuldade": 1,
+   "tema": "Perda de carga e pressão de bombeio",
+   "enunciado": "Poço vertical com 3.200 m, sapata a 2.200 m, fluido de 11,0 ppg. Perdas: coluna 480 psi, broca 650 psi, anular poço aberto 140 psi e anular revestido 180 psi. Qual a pressão de bombeio, em psi?",
+   "tipo": "multipla",
+   "alternativas": [
+    "970 psi",
+    "1.450 psi",
+    "1.130 psi",
+    "800 psi",
+    "1.812 psi"
+   ],
+   "correta": 1,
+   "explicacao": "Pbomba = soma das perdas = 480 + 650 + 140 + 180 = 1450 psi."
+  },
+  {
+   "id": "re-0216",
+   "dificuldade": 2,
+   "tema": "Hidrostática, ECD e ESD",
+   "enunciado": "Poço vertical com 3.200 m, sapata a 2.200 m, fluido de 11,0 ppg. Perdas: coluna 480 psi, broca 650 psi, anular poço aberto 140 psi e anular revestido 180 psi. Qual a pressão no fundo em circulação, em psi (PH + perda de carga do anular = 320 psi)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "7.043,1 psi",
+    "5.678,1 psi",
+    "6.318,1 psi",
+    "7.448,1 psi",
+    "5.998,1 psi"
+   ],
+   "correta": 2,
+   "explicacao": "PH = 0,1704·11,0·3.200 = 5.998,1 psi; PF = PH + ΔPanular = 5.998,1 + 320 = 6.318,1 psi."
+  },
+  {
+   "id": "re-0217",
+   "dificuldade": 2,
+   "tema": "Hidrostática, ECD e ESD",
+   "enunciado": "Poço vertical com 3.200 m, sapata a 2.200 m, fluido de 11,0 ppg. Perdas: coluna 480 psi, broca 650 psi, anular poço aberto 140 psi e anular revestido 180 psi. Qual a ECD no fundo (ppg), sabendo que a perda de carga total do anular é 320 psi?",
+   "tipo": "multipla",
+   "alternativas": [
+    "10,70 ppg",
+    "12,19 ppg",
+    "11,59 ppg",
+    "14,49 ppg",
+    "11,00 ppg"
+   ],
+   "correta": 2,
+   "explicacao": "ECD = (PH + ΔPanular)/(0,1704·TVD) = 6.318,1/545,3 = 11,59 ppg."
+  },
+  {
+   "id": "re-0218",
+   "dificuldade": 3,
+   "tema": "Hidrostática, ECD e ESD",
+   "enunciado": "Poço vertical, sapata a 2.200 m, fluido de 11,0 ppg, perda de carga entre a sapata e a superfície de 180 psi. Qual a ECD na sapata (ppg)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "9,18 ppg",
+    "14,35 ppg",
+    "11,48 ppg",
+    "11,00 ppg",
+    "10,60 ppg"
+   ],
+   "correta": 2,
+   "explicacao": "Psapata = 0,1704·11,0·2.200 + 180 = 4.303,7 psi; ECD = 4.303,7/(0,1704·2.200) = 11,48 ppg."
+  },
+  {
+   "id": "re-0219",
+   "dificuldade": 1,
+   "tema": "Perda de carga e pressão de bombeio",
+   "enunciado": "Poço vertical com 2.800 m, sapata a 1.800 m, fluido de 9,5 ppg. Perdas: coluna 420 psi, broca 600 psi, anular poço aberto 120 psi e anular revestido 170 psi. Qual a pressão de bombeio, em psi?",
+   "tipo": "multipla",
+   "alternativas": [
+    "710 psi",
+    "1.310 psi",
+    "1.020 psi",
+    "1.638 psi",
+    "890 psi"
+   ],
+   "correta": 1,
+   "explicacao": "Pbomba = soma das perdas = 420 + 600 + 120 + 170 = 1310 psi."
+  },
+  {
+   "id": "re-0220",
+   "dificuldade": 2,
+   "tema": "Hidrostática, ECD e ESD",
+   "enunciado": "Poço vertical com 2.800 m, sapata a 1.800 m, fluido de 9,5 ppg. Perdas: coluna 420 psi, broca 600 psi, anular poço aberto 120 psi e anular revestido 170 psi. Qual a pressão no fundo em circulação, em psi (PH + perda de carga do anular = 290 psi)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "5.477,6 psi",
+    "4.822,6 psi",
+    "4.532,6 psi",
+    "5.842,6 psi",
+    "4.242,6 psi"
+   ],
+   "correta": 1,
+   "explicacao": "PH = 0,1704·9,5·2.800 = 4.532,6 psi; PF = PH + ΔPanular = 4.532,6 + 290 = 4.822,6 psi."
+  },
+  {
+   "id": "re-0221",
+   "dificuldade": 2,
+   "tema": "Hidrostática, ECD e ESD",
+   "enunciado": "Poço vertical com 2.800 m, sapata a 1.800 m, fluido de 9,5 ppg. Perdas: coluna 420 psi, broca 600 psi, anular poço aberto 120 psi e anular revestido 170 psi. Qual a ECD no fundo (ppg), sabendo que a perda de carga total do anular é 290 psi?",
+   "tipo": "multipla",
+   "alternativas": [
+    "9,20 ppg",
+    "10,71 ppg",
+    "9,50 ppg",
+    "12,64 ppg",
+    "10,11 ppg"
+   ],
+   "correta": 4,
+   "explicacao": "ECD = (PH + ΔPanular)/(0,1704·TVD) = 4.822,6/477,1 = 10,11 ppg."
+  },
+  {
+   "id": "re-0222",
+   "dificuldade": 3,
+   "tema": "Hidrostática, ECD e ESD",
+   "enunciado": "Poço vertical, sapata a 1.800 m, fluido de 9,5 ppg, perda de carga entre a sapata e a superfície de 170 psi. Qual a ECD na sapata (ppg)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "10,05 ppg",
+    "9,50 ppg",
+    "10,50 ppg",
+    "9,10 ppg",
+    "12,56 ppg"
+   ],
+   "correta": 0,
+   "explicacao": "Psapata = 0,1704·9,5·1.800 + 170 = 3.083,8 psi; ECD = 3.083,8/(0,1704·1.800) = 10,05 ppg."
+  },
+  {
+   "id": "re-0223",
+   "dificuldade": 1,
+   "tema": "Perda de carga e pressão de bombeio",
+   "enunciado": "Poço vertical com 3.500 m, sapata a 2.400 m, fluido de 12,0 ppg. Perdas: coluna 600 psi, broca 800 psi, anular poço aberto 200 psi e anular revestido 260 psi. Qual a pressão de bombeio, em psi?",
+   "tipo": "multipla",
+   "alternativas": [
+    "1.260 psi",
+    "1.400 psi",
+    "1.060 psi",
+    "2.325 psi",
+    "1.860 psi"
+   ],
+   "correta": 4,
+   "explicacao": "Pbomba = soma das perdas = 600 + 800 + 200 + 260 = 1860 psi."
+  },
+  {
+   "id": "re-0224",
+   "dificuldade": 2,
+   "tema": "Hidrostática, ECD e ESD",
+   "enunciado": "Poço vertical com 3.500 m, sapata a 2.400 m, fluido de 12,0 ppg. Perdas: coluna 600 psi, broca 800 psi, anular poço aberto 200 psi e anular revestido 260 psi. Qual a pressão no fundo em circulação, em psi (PH + perda de carga do anular = 460 psi)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "6.696,8 psi",
+    "7.156,8 psi",
+    "9.016,8 psi",
+    "7.616,8 psi",
+    "8.546,8 psi"
+   ],
+   "correta": 3,
+   "explicacao": "PH = 0,1704·12,0·3.500 = 7.156,8 psi; PF = PH + ΔPanular = 7.156,8 + 460 = 7.616,8 psi."
+  },
+  {
+   "id": "re-0225",
+   "dificuldade": 2,
+   "tema": "Hidrostática, ECD e ESD",
+   "enunciado": "Poço vertical com 3.500 m, sapata a 2.400 m, fluido de 12,0 ppg. Perdas: coluna 600 psi, broca 800 psi, anular poço aberto 200 psi e anular revestido 260 psi. Qual a ECD no fundo (ppg), sabendo que a perda de carga total do anular é 460 psi?",
+   "tipo": "multipla",
+   "alternativas": [
+    "12,00 ppg",
+    "12,77 ppg",
+    "15,96 ppg",
+    "11,70 ppg",
+    "13,37 ppg"
+   ],
+   "correta": 1,
+   "explicacao": "ECD = (PH + ΔPanular)/(0,1704·TVD) = 7.616,8/596,4 = 12,77 ppg."
+  },
+  {
+   "id": "re-0226",
+   "dificuldade": 3,
+   "tema": "Hidrostática, ECD e ESD",
+   "enunciado": "Poço vertical, sapata a 2.400 m, fluido de 12,0 ppg, perda de carga entre a sapata e a superfície de 260 psi. Qual a ECD na sapata (ppg)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "12,00 ppg",
+    "15,80 ppg",
+    "12,64 ppg",
+    "11,60 ppg",
+    "10,11 ppg"
+   ],
+   "correta": 2,
+   "explicacao": "Psapata = 0,1704·12,0·2.400 + 260 = 5.167,5 psi; ECD = 5.167,5/(0,1704·2.400) = 12,64 ppg."
+  },
+  {
+   "id": "re-0227",
+   "dificuldade": 2,
+   "tema": "Hidrostática, ECD e ESD",
+   "enunciado": "Durante uma parada, com fluido de 10,5 ppg estático, o APWD indicou 5.450 psi a 3.000 m TVD. Qual o ESD (ppg)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "34,94 ppg",
+    "11,16 ppg",
+    "10,66 ppg",
+    "8,53 ppg",
+    "13,32 ppg"
+   ],
+   "correta": 2,
+   "explicacao": "ESD = 5.450/(0,1704 × 3.000) = 10,66 ppg, 0,16 ppg acima do peso do fluido: sólidos no anular e/ou compressibilidade."
+  },
+  {
+   "id": "re-0228",
+   "dificuldade": 2,
+   "tema": "Hidrostática, ECD e ESD",
+   "enunciado": "Durante uma parada, com fluido de 11,0 ppg estático, o APWD indicou 6.120 psi a 3.200 m TVD. Qual o ESD (ppg)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "11,72 ppg",
+    "14,03 ppg",
+    "36,78 ppg",
+    "11,22 ppg",
+    "8,98 ppg"
+   ],
+   "correta": 3,
+   "explicacao": "ESD = 6.120/(0,1704 × 3.200) = 11,22 ppg, 0,22 ppg acima do peso do fluido: sólidos no anular e/ou compressibilidade."
+  },
+  {
+   "id": "re-0229",
+   "dificuldade": 2,
+   "tema": "Hidrostática, ECD e ESD",
+   "enunciado": "Durante uma parada, com fluido de 10,0 ppg estático, o APWD indicou 4.780 psi a 2.800 m TVD. Qual o ESD (ppg)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "32,83 ppg",
+    "10,52 ppg",
+    "12,52 ppg",
+    "9,62 ppg",
+    "10,02 ppg"
+   ],
+   "correta": 4,
+   "explicacao": "ESD = 4.780/(0,1704 × 2.800) = 10,02 ppg, 0,02 ppg acima do peso do fluido: sólidos no anular e/ou compressibilidade."
+  },
+  {
+   "id": "re-0230",
+   "dificuldade": 2,
+   "tema": "Hidrostática, ECD e ESD",
+   "enunciado": "Durante uma parada, com fluido de 11,8 ppg estático, o APWD indicou 7.050 psi a 3.500 m TVD. Qual o ESD (ppg)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "9,46 ppg",
+    "11,82 ppg",
+    "38,74 ppg",
+    "12,32 ppg",
+    "14,78 ppg"
+   ],
+   "correta": 1,
+   "explicacao": "ESD = 7.050/(0,1704 × 3.500) = 11,82 ppg, 0,02 ppg acima do peso do fluido: sólidos no anular e/ou compressibilidade."
+  },
+  {
+   "id": "re-0231",
+   "dificuldade": 2,
+   "tema": "Limpeza do poço",
+   "enunciado": "Qual a velocidade anular (ft/min) com vazão de 300 gpm, poço de 8,5\" e coluna de 5,0\" OD (AV = 24,5·Q/(D² − d²))?",
+   "tipo": "multipla",
+   "alternativas": [
+    "233 ft/min",
+    "125 ft/min",
+    "195 ft/min",
+    "156 ft/min",
+    "101 ft/min"
+   ],
+   "correta": 3,
+   "explicacao": "AV = 24,5 × 300 / (8,5² − 5,0²) = 156 ft/min."
+  },
+  {
+   "id": "re-0232",
+   "dificuldade": 2,
+   "tema": "Limpeza do poço",
+   "enunciado": "Qual a velocidade anular (ft/min) com vazão de 400 gpm, poço de 12,25\" e coluna de 5,5\" OD (AV = 24,5·Q/(D² − d²))?",
+   "tipo": "multipla",
+   "alternativas": [
+    "66 ft/min",
+    "102 ft/min",
+    "53 ft/min",
+    "82 ft/min",
+    "123 ft/min"
+   ],
+   "correta": 3,
+   "explicacao": "AV = 24,5 × 400 / (12,25² − 5,5²) = 82 ft/min."
+  },
+  {
+   "id": "re-0233",
+   "dificuldade": 2,
+   "tema": "Limpeza do poço",
+   "enunciado": "Qual a velocidade anular (ft/min) com vazão de 250 gpm, poço de 8,5\" e coluna de 4,5\" OD (AV = 24,5·Q/(D² − d²))?",
+   "tipo": "multipla",
+   "alternativas": [
+    "177 ft/min",
+    "148 ft/min",
+    "77 ft/min",
+    "118 ft/min",
+    "94 ft/min"
+   ],
+   "correta": 3,
+   "explicacao": "AV = 24,5 × 250 / (8,5² − 4,5²) = 118 ft/min."
+  },
+  {
+   "id": "re-0234",
+   "dificuldade": 2,
+   "tema": "Limpeza do poço",
+   "enunciado": "Qual a velocidade anular (ft/min) com vazão de 450 gpm, poço de 12,25\" e coluna de 5,0\" OD (AV = 24,5·Q/(D² − d²))?",
+   "tipo": "multipla",
+   "alternativas": [
+    "110 ft/min",
+    "70 ft/min",
+    "88 ft/min",
+    "132 ft/min",
+    "57 ft/min"
+   ],
+   "correta": 2,
+   "explicacao": "AV = 24,5 × 450 / (12,25² − 5,0²) = 88 ft/min."
+  },
+  {
+   "id": "re-0235",
+   "dificuldade": 2,
+   "tema": "Limpeza do poço",
+   "enunciado": "Qual a velocidade anular (ft/min) com vazão de 200 gpm, poço de 6,0\" e coluna de 3,5\" OD (AV = 24,5·Q/(D² − d²))?",
+   "tipo": "multipla",
+   "alternativas": [
+    "258 ft/min",
+    "309 ft/min",
+    "134 ft/min",
+    "206 ft/min",
+    "165 ft/min"
+   ],
+   "correta": 3,
+   "explicacao": "AV = 24,5 × 200 / (6,0² − 3,5²) = 206 ft/min."
+  },
+  {
+   "id": "re-0236",
+   "dificuldade": 2,
+   "tema": "Limpeza do poço",
+   "enunciado": "Qual a velocidade anular (ft/min) com vazão de 350 gpm, poço de 8,5\" e coluna de 5,0\" OD (AV = 24,5·Q/(D² − d²))?",
+   "tipo": "multipla",
+   "alternativas": [
+    "181 ft/min",
+    "118 ft/min",
+    "226 ft/min",
+    "145 ft/min",
+    "272 ft/min"
+   ],
+   "correta": 0,
+   "explicacao": "AV = 24,5 × 350 / (8,5² − 5,0²) = 181 ft/min."
+  },
+  {
+   "id": "re-0237",
+   "dificuldade": 3,
+   "tema": "Limpeza do poço",
+   "enunciado": "Qual o volume anular (bbl) entre poço de 8,5\" e coluna de 5,0\" OD em 1.000 m de extensão (V = 0,003187·(D² − d²)·L, com L em m)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "45,9 bbl",
+    "225,9 bbl",
+    "494,1 bbl",
+    "150,6 bbl",
+    "188,2 bbl"
+   ],
+   "correta": 3,
+   "explicacao": "V = 0,003187 × (8,5² − 5,0²) × 1.000 = 150,6 bbl."
+  },
+  {
+   "id": "re-0238",
+   "dificuldade": 3,
+   "tema": "Limpeza do poço",
+   "enunciado": "Qual o volume anular (bbl) entre poço de 12,25\" e coluna de 5,5\" OD em 800 m de extensão (V = 0,003187·(D² − d²)·L, com L em m)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "305,5 bbl",
+    "1.002,3 bbl",
+    "93,1 bbl",
+    "381,9 bbl",
+    "458,2 bbl"
+   ],
+   "correta": 0,
+   "explicacao": "V = 0,003187 × (12,25² − 5,5²) × 800 = 305,5 bbl."
+  },
+  {
+   "id": "re-0239",
+   "dificuldade": 3,
+   "tema": "Limpeza do poço",
+   "enunciado": "Qual o volume anular (bbl) entre poço de 8,5\" e coluna de 4,5\" OD em 2.500 m de extensão (V = 0,003187·(D² − d²)·L, com L em m)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "414,3 bbl",
+    "517,9 bbl",
+    "621,5 bbl",
+    "1.359,4 bbl",
+    "126,3 bbl"
+   ],
+   "correta": 0,
+   "explicacao": "V = 0,003187 × (8,5² − 4,5²) × 2.500 = 414,3 bbl."
+  },
+  {
+   "id": "re-0240",
+   "dificuldade": 3,
+   "tema": "Limpeza do poço",
+   "enunciado": "Qual o volume anular (bbl) entre poço de 6,0\" e coluna de 3,5\" OD em 1.500 m de extensão (V = 0,003187·(D² − d²)·L, com L em m)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "170,3 bbl",
+    "372,5 bbl",
+    "113,5 bbl",
+    "34,6 bbl",
+    "141,9 bbl"
+   ],
+   "correta": 2,
+   "explicacao": "V = 0,003187 × (6,0² − 3,5²) × 1.500 = 113,5 bbl."
+  },
+  {
+   "id": "re-0241",
+   "dificuldade": 3,
+   "tema": "Perda de carga e pressão de bombeio",
+   "enunciado": "Num poço, a 400 gpm a perda de carga na coluna é 67 psi e a 800 gpm é 244 psi. A relação aproximada é:",
+   "tipo": "multipla",
+   "alternativas": [
+    "ΔP cresce linearmente com Q",
+    "ΔP independe da vazão",
+    "ΔP cresce ≈ Q^1,86 (um pouco menos que o quadrado)",
+    "ΔP cresce com Q⁴",
+    "ΔP cai com a vazão"
+   ],
+   "correta": 2,
+   "explicacao": "244/67 = 3,64 para razão de vazão 2: 2^x = 3,64 → x ≈ 1,86. Em regime turbulento o expoente fica entre 1,75 e 2."
+  },
+  {
+   "id": "re-0242",
+   "dificuldade": 3,
+   "tema": "Perda de carga e pressão de bombeio",
+   "enunciado": "Em um poço, a perda de carga no interior da coluna é 300 psi a 350 gpm. Admitindo ΔP ∝ Q^1,8, qual será a perda a 450 gpm (psi)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "577 psi",
+    "472 psi",
+    "386 psi",
+    "590 psi",
+    "376 psi"
+   ],
+   "correta": 1,
+   "explicacao": "ΔP2 = 300 × (450/350)^1,8 = 472 psi."
+  },
+  {
+   "id": "re-0243",
+   "dificuldade": 2,
+   "tema": "Regimes de escoamento",
+   "enunciado": "Sobre o número de Reynolds, considere:",
+   "tipo": "combinacao",
+   "afirmativas": [
+    "I. Aumentar a densidade do fluido aumenta NRe.",
+    "II. Aumentar a viscosidade efetiva aumenta NRe.",
+    "III. Aumentar a velocidade aumenta NRe."
+   ],
+   "alternativas": [
+    "Apenas I",
+    "Apenas II",
+    "Apenas III",
+    "Apenas I e II",
+    "Apenas I e III"
+   ],
+   "correta": 4,
+   "explicacao": "II é falsa: NRe é inversamente proporcional à viscosidade efetiva. I e III estão corretas."
+  },
+  {
+   "id": "re-0244",
+   "dificuldade": 3,
+   "tema": "Reologia: conceitos",
+   "enunciado": "Sobre fluidos de perfuração, considere:",
+   "tipo": "combinacao",
+   "afirmativas": [
+    "I. Normalmente apresentam n < 1.",
+    "II. São tipicamente pseudoplásticos.",
+    "III. São tipicamente dilatantes, com n > 1."
+   ],
+   "alternativas": [
+    "Apenas I",
+    "Apenas III",
+    "Apenas I e II",
+    "Apenas II e III",
+    "I, II e III"
+   ],
+   "correta": 2,
+   "explicacao": "III é falsa: fluidos de perfuração são pseudoplásticos (n < 1)."
+  },
+  {
+   "id": "re-0245",
+   "dificuldade": 3,
+   "tema": "Limpeza do poço",
+   "enunciado": "Sobre limpeza de poço, considere:",
+   "tipo": "combinacao",
+   "afirmativas": [
+    "I. Quanto maior a rotação da coluna, melhor a limpeza.",
+    "II. O poço vertical é sempre o mais difícil de limpar.",
+    "III. Em sliding a limpeza é mínima e se formam leitos."
+   ],
+   "alternativas": [
+    "Apenas II",
+    "Apenas III",
+    "Apenas I e III",
+    "Apenas II e III",
+    "I, II e III"
+   ],
+   "correta": 2,
+   "explicacao": "II é falsa: em 45–55° a limpeza é mais difícil. I e III estão corretas."
+  },
+  {
+   "id": "re-0246",
+   "dificuldade": 2,
+   "tema": "Perda de carga e pressão de bombeio",
+   "enunciado": "Sobre perda de carga, considere:",
+   "tipo": "combinacao",
+   "afirmativas": [
+    "I. Dobrar o comprimento da coluna dobra a perda de carga.",
+    "II. Reduzir o diâmetro interno da coluna aumenta a perda de carga.",
+    "III. Dobrar a vazão reduz a perda de carga."
+   ],
+   "alternativas": [
+    "Apenas I",
+    "Apenas II",
+    "Apenas I e II",
+    "Apenas I e III",
+    "Apenas II e III"
+   ],
+   "correta": 2,
+   "explicacao": "III é falsa: dobrar a vazão multiplica a perda por ≈ 3,6 a 4."
+  },
+  {
+   "id": "re-0247",
+   "dificuldade": 3,
+   "tema": "Reologia: leituras Fann",
+   "enunciado": "Sobre a API RP 13D, considere:",
+   "tipo": "combinacao",
+   "afirmativas": [
+    "I. As leituras de 3 e 100 rpm são usadas nos cálculos do anular.",
+    "II. As leituras de 300 e 600 rpm são usadas nos cálculos do interior da coluna.",
+    "III. As seis leituras são sempre usadas no cálculo de n e K."
+   ],
+   "alternativas": [
+    "Apenas I",
+    "Apenas II",
+    "Apenas I e II",
+    "Apenas I e III",
+    "I, II e III"
+   ],
+   "correta": 2,
+   "explicacao": "III é falsa: a RP 13D usa quatro leituras (3, 100, 300 e 600 rpm)."
+  },
+  {
+   "id": "re-0248",
+   "dificuldade": 3,
+   "tema": "Hidrostática, ECD e ESD",
+   "enunciado": "Sobre ECD e ESD, considere:",
+   "tipo": "combinacao",
+   "afirmativas": [
+    "I. A ECD inclui a perda de carga do anular.",
+    "II. O ESD depende da temperatura e da compressibilidade do fluido.",
+    "III. Aumentar a vazão reduz a ECD."
+   ],
+   "alternativas": [
+    "Apenas I",
+    "Apenas II",
+    "Apenas I e II",
+    "Apenas I e III",
+    "Apenas II e III"
+   ],
+   "correta": 2,
+   "explicacao": "III é falsa: mais vazão aumenta a perda de carga no anular e, portanto, a ECD."
+  },
+  {
+   "id": "re-0249",
+   "dificuldade": 2,
+   "tema": "Reologia: conceitos",
+   "enunciado": "Sobre os parâmetros reológicos, considere:",
+   "tipo": "combinacao",
+   "afirmativas": [
+    "I. VP = L600 − L300.",
+    "II. YP = L300 − VP.",
+    "III. LSYP = 2·L3 − L6."
+   ],
+   "alternativas": [
+    "Apenas I",
+    "Apenas III",
+    "Apenas I e II",
+    "Apenas II e III",
+    "I, II e III"
+   ],
+   "correta": 4,
+   "explicacao": "As três expressões estão corretas, segundo as fórmulas do curso."
+  },
+  {
+   "id": "re-0250",
+   "dificuldade": 3,
+   "tema": "Regimes de escoamento",
+   "enunciado": "Sobre regimes de escoamento, considere:",
+   "tipo": "combinacao",
+   "afirmativas": [
+    "I. O fluxo turbulento remove bem cascalhos, mas pode causar erosão do poço.",
+    "II. O fluxo laminar depende fortemente da reologia.",
+    "III. No anular se busca o regime laminar com reologia otimizada."
+   ],
+   "alternativas": [
+    "Apenas I",
+    "Apenas II",
+    "Apenas I e II",
+    "Apenas I e III",
+    "I, II e III"
+   ],
+   "correta": 4,
+   "explicacao": "Todas corretas: turbulento (inércia, erosão e ECD); laminar (reologia); a limpeza se otimiza em laminar."
+  },
+  {
+   "id": "re-0251",
+   "dificuldade": 3,
+   "tema": "Hidrostática, ECD e ESD",
+   "enunciado": "Assinale a INCORRETA sobre ECD:",
+   "tipo": "incorreta",
+   "alternativas": [
+    "A ECD acima da pressão de fratura pode causar perda de circulação",
+    "A ECD soma à densidade a perda de carga do anular",
+    "A ECD diminui quando aumentam a vazão e a viscosidade",
+    "Cascalhos no anular elevam a ECD",
+    "A ECD é calculada normalmente na zona mais frágil"
+   ],
+   "correta": 2,
+   "explicacao": "Mais vazão e mais viscosidade aumentam a perda de carga no anular e, por isso, a ECD."
+  },
+  {
+   "id": "re-0252",
+   "dificuldade": 2,
+   "tema": "Perda de carga e pressão de bombeio",
+   "enunciado": "Assinale a INCORRETA:",
+   "tipo": "incorreta",
+   "alternativas": [
+    "Dobrar o comprimento da coluna reduz a perda de carga à metade",
+    "A perda de carga aumenta com a viscosidade",
+    "A perda de carga aumenta ao reduzir o diâmetro interno",
+    "A perda de carga aumenta com a vazão",
+    "A perda de carga aumenta com o peso do fluido"
+   ],
+   "correta": 0,
+   "explicacao": "A perda de carga é proporcional ao comprimento: dobra, não diminui."
+  }
+ ],
+ "flashcards": [
+  {
+   "id": "re-f001",
+   "frente": "VP (viscosidade plástica)",
+   "verso": "VP = L600 − L300 (cP). Reflete atrito entre sólidos, sólidos-líquido e a viscosidade da fase líquida. Sobe com mais sólidos."
+  },
+  {
+   "id": "re-f002",
+   "frente": "LE / YP (limite de escoamento)",
+   "verso": "YP = L300 − VP (lbf/100 ft²). Tensão para iniciar o escoamento; ajuda a suspender e carrear cascalhos em baixa vazão."
+  },
+  {
+   "id": "re-f003",
+   "frente": "Géis (10 s / 10 min / 30 min)",
+   "verso": "Leitura máxima a 3 rpm após repouso de 10 s, 10 min e 30 min. Medem a progressividade e a força para quebrar o gel; mantêm sólidos em suspensão com as bombas paradas."
+  },
+  {
+   "id": "re-f004",
+   "frente": "LSYP",
+   "verso": "LSYP = 2 × L3 − L6 (cP). Yield stress a baixa taxa de cisalhamento, indicador de limpeza e suspensão."
+  },
+  {
+   "id": "re-f005",
+   "frente": "Taxa de cisalhamento do Fann",
+   "verso": "γ (s⁻¹) = rpm × 1,703: 3 rpm = 5,11; 100 rpm = 170,3; 300 rpm = 511; 600 rpm = 1.022 s⁻¹."
+  },
+  {
+   "id": "re-f006",
+   "frente": "API RP 13D",
+   "verso": "Usa 4 das 6 leituras: 3, 100, 300 e 600 rpm. 3 e 100 → anular (baixa taxa). 300 e 600 → interior da coluna (alta taxa)."
+  },
+  {
+   "id": "re-f007",
+   "frente": "n e K do interior da coluna",
+   "verso": "np = 3,32·log(L600/L300); Kp = 5,11·L600/1022^np (dina·sⁿ/cm²)."
+  },
+  {
+   "id": "re-f008",
+   "frente": "n e K do anular",
+   "verso": "na = 0,657·log(L100/L3); Ka = 5,11·L100/170,2^na (dina·sⁿ/cm²)."
+  },
+  {
+   "id": "re-f009",
+   "frente": "Significado de n",
+   "verso": "n < 1 pseudoplástico (fluidos de perfuração); n = 1 Newtoniano; n > 1 dilatante. Quanto menor n, mais shear thinning."
+  },
+  {
+   "id": "re-f010",
+   "frente": "Modelos reológicos",
+   "verso": "Bingham (VP e LE), Lei da Potência (n e K) e Herschel-Bulkley (τ0 + K·γⁿ)."
+  },
+  {
+   "id": "re-f011",
+   "frente": "Fluxo laminar",
+   "verso": "Baixa velocidade, perfil parabólico, depende da reologia. É o regime buscado no anular para limpar sem erodir."
+  },
+  {
+   "id": "re-f012",
+   "frente": "Fluxo turbulento",
+   "verso": "Alta velocidade, perfil plano, regido pela inércia. Remove bem o cascalho, mas erode o poço e eleva a ECD."
+  },
+  {
+   "id": "re-f013",
+   "frente": "Fluxo de plug",
+   "verso": "Núcleo do fluido avançando como bloco rígido, em vazão muito baixa e com fluido de limite de escoamento."
+  },
+  {
+   "id": "re-f014",
+   "frente": "Número de Reynolds",
+   "verso": "NRe = 928·D·V·ρ/μef (D em pol, V em ft/s, ρ em ppg, μ em cP). Aumenta com D, V e ρ; diminui com μ. NRe > 2.100: turbulento."
+  },
+  {
+   "id": "re-f015",
+   "frente": "Velocidade média no interior",
+   "verso": "V (ft/s) = 0,408·Q/D² (Q em gpm, D em pol)."
+  },
+  {
+   "id": "re-f016",
+   "frente": "Velocidade média no anular",
+   "verso": "V (ft/s) = 0,408·Q/(D2² − D1²). Em ft/min: AV = 24,5·Q/(D² − d²)."
+  },
+  {
+   "id": "re-f017",
+   "frente": "Viscosidade efetiva (interior)",
+   "verso": "μep = 100·Kp·(96·Vp/D)^(np−1)·((3np+1)/(4np))^np (cP)."
+  },
+  {
+   "id": "re-f018",
+   "frente": "Viscosidade efetiva (anular)",
+   "verso": "μea = 100·Ka·(144·Va/(D2−D1))^(na−1)·((2na+1)/(3na))^na (cP)."
+  },
+  {
+   "id": "re-f019",
+   "frente": "Fator de atrito",
+   "verso": "NRe < 2.100: interior f = 16/NRe; anular f = 24/NRe. NRe > 2.100 (interior): f = a/NRe^b, a = (log n + 3,93)/50 e b = (1,75 − log n)/7."
+  },
+  {
+   "id": "re-f020",
+   "frente": "Gradiente de perda de carga",
+   "verso": "dP/dL = f·V²·ρ/(25,81·D) (interior) e f·V²·ρ/(25,81·(D2−D1)) (anular), em psi/ft. ΔP = gradiente × comprimento."
+  },
+  {
+   "id": "re-f021",
+   "frente": "Perda de carga na broca",
+   "verso": "ΔPbroca = 156·ρ·Q²/(DN1² + DN2² + DN3²)² (ρ em ppg, Q em gpm, jatos em 1/32\")."
+  },
+  {
+   "id": "re-f022",
+   "frente": "Pressão de bombeio",
+   "verso": "Ppump = ΔPdp + ΔPdc + ΔPbroca + ΔPdc/anular + ΔPdp/anular (+ ΔPhid). Soma das perdas de carga."
+  },
+  {
+   "id": "re-f023",
+   "frente": "Exemplo-chave do curso",
+   "verso": "Q = 280 gpm, 12,5 ppg, 12.000 ft: DP 665 + DC 227 + broca 1.026 + anular 185 = 2.103 psi. BHP = 185 + 7.800 = 7.985 psi."
+  },
+  {
+   "id": "re-f024",
+   "frente": "Efeito da vazão na perda de carga",
+   "verso": "Dobrar a vazão multiplica a perda por ≈ 3,6 a 4 (400 → 800 gpm: 67 → 244 psi)."
+  },
+  {
+   "id": "re-f025",
+   "frente": "Efeito do comprimento e do peso",
+   "verso": "ΔP é proporcional ao comprimento (×2 → ×2) e ao peso do fluido em turbulento (+20% ρ → +20% ΔP)."
+  },
+  {
+   "id": "re-f026",
+   "frente": "Efeito do diâmetro e da viscosidade",
+   "verso": "Diâmetro menor → perda muito maior (5\" 38 psi; 4½\" 67 psi). VP de 15 → 50 cP eleva 125 → 148 psi."
+  },
+  {
+   "id": "re-f027",
+   "frente": "Vazão crítica",
+   "verso": "Vazão em que NRe do anular atinge 2.100 (no exemplo ≈ 452 gpm). Acima dela o anular fica turbulento."
+  },
+  {
+   "id": "re-f028",
+   "frente": "Pilares da limpeza",
+   "verso": "Vazão (maior melhor, até o limite de erosão e perda), rotação (maior melhor) e reologia (laminar otimizada)."
+  },
+  {
+   "id": "re-f029",
+   "frente": "Rotação e sliding",
+   "verso": "A rotação quebra o leito de cascalho. Em sliding (sem rotação) a limpeza é mínima e formam-se leitos."
+  },
+  {
+   "id": "re-f030",
+   "frente": "Inclinação e limpeza",
+   "verso": "45–55°: cascalhos acumulam e podem deslizar em avalanche. 55–90°: dunas. Vertical é o mais fácil."
+  },
+  {
+   "id": "re-f031",
+   "frente": "Lei de Stokes",
+   "verso": "Vs = g·D²·(ρs − ρf)/(18·μ). Cresce com D² e com Δρ, cai com μ. Referência qualitativa no poço."
+  },
+  {
+   "id": "re-f032",
+   "frente": "Indícios de limpeza inadequada",
+   "verso": "Aumento de pressão, torque, arraste e ECD; flowback nas conexões; retorno de cascalho abaixo do teórico."
+  },
+  {
+   "id": "re-f033",
+   "frente": "Prisão por pack-off",
+   "verso": "Até 35% das prisões em poços verticais e até 80% em alta inclinação decorrem de limpeza inadequada."
+  },
+  {
+   "id": "re-f034",
+   "frente": "Volume anular",
+   "verso": "V (bbl) = 0,003187·(D² − d²)·L (L em m)."
+  },
+  {
+   "id": "re-f035",
+   "frente": "Hidrostática",
+   "verso": "PH (psi) = 0,1704·ρ(ppg)·TVD(m) = 0,052·ρ·TVD(ft). Depende de TVD, não de MD."
+  },
+  {
+   "id": "re-f036",
+   "frente": "ECD",
+   "verso": "ECD = ρ + ΔPanular/(0,1704·TVD m). Calcular para a zona mais frágil. Sobe com viscosidade, vazão, cascalhos, anular estreito."
+  },
+  {
+   "id": "re-f037",
+   "frente": "ESD",
+   "verso": "ESD = P(psi)/(0,1704·TVD m), com fluido parado. Depende da temperatura (expansão) e da compressibilidade."
+  },
+  {
+   "id": "re-f038",
+   "frente": "Efeito de tubo em U",
+   "verso": "Anular com muitos sólidos: ΔPhid = PH anular − PH coluna, somado à pressão de bombeio. Ex.: 3.500 m, 10,2 → 10,4 ppg: 119 psi."
+  },
+  {
+   "id": "re-f039",
+   "frente": "Pressão no fundo em circulação",
+   "verso": "BHP = PH + ΔPanular (perda de carga anular acumulada até a superfície)."
+  }
+ ]
+}

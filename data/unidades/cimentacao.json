@@ -1,0 +1,2694 @@
+{
+ "id": "cimentacao",
+ "perguntas": [
+  {
+   "id": "ci-0001",
+   "dificuldade": 2,
+   "tema": "Cimentação: volumes e sacos",
+   "enunciado": "Cimentação primária: sapata do revestimento de 7\" a 4.600 ft, colar flutuante a 4.510 ft, sapata anterior (9⅝\") a 2.670 ft, topo da pasta leve a 1.000 ft, topo da pasta pesada a 4.000 ft, excesso de 50% no poço aberto. Capacidades: anular rev/rev = 0,14377 ft³/ft; anular poço aberto/rev = 0,1268 ft³/ft; interior do revestimento = 0,2025 ft³/ft. Qual o volume de pasta leve (ft³)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "354,2 ft³",
+    "253,0 ft³",
+    "641,0 ft³",
+    "493,1 ft³",
+    "408,7 ft³"
+   ],
+   "correta": 3,
+   "explicacao": "Entre rev e rev: (2.670 − 1.000) × 0,14377 = 240,10 ft³. No poço aberto: (4.000 − 2.670) × 0,1268 × 1,50 = 252,97 ft³. Total = 493,06 ft³ (excesso só no poço aberto)."
+  },
+  {
+   "id": "ci-0002",
+   "dificuldade": 2,
+   "tema": "Cimentação: volumes e sacos",
+   "enunciado": "Cimentação primária: sapata do revestimento de 7\" a 4.600 ft, colar flutuante a 4.510 ft, sapata anterior (9⅝\") a 2.670 ft, topo da pasta leve a 1.000 ft, topo da pasta pesada a 4.000 ft, excesso de 50% no poço aberto. Capacidades: anular rev/rev = 0,14377 ft³/ft; anular poço aberto/rev = 0,1268 ft³/ft; interior do revestimento = 0,2025 ft³/ft. Qual o volume de pasta pesada (ft³), incluindo o shoe track?",
+   "tipo": "multipla",
+   "alternativas": [
+    "165,4 ft³",
+    "114,1 ft³",
+    "172,0 ft³",
+    "94,3 ft³",
+    "132,3 ft³"
+   ],
+   "correta": 4,
+   "explicacao": "Poço aberto: (4.600 − 4.000) × 0,1268 × 1,50 = 114,12 ft³. Shoe track: (4.600 − 4.510) × 0,2025 = 18,23 ft³. Total = 132,34 ft³."
+  },
+  {
+   "id": "ci-0003",
+   "dificuldade": 2,
+   "tema": "Cimentação: volumes e sacos",
+   "enunciado": "Cimentação primária: sapata do revestimento de 7\" a 4.600 ft, colar flutuante a 4.510 ft, sapata anterior (9⅝\") a 2.670 ft, topo da pasta leve a 1.000 ft, topo da pasta pesada a 4.000 ft, excesso de 50% no poço aberto. Capacidades: anular rev/rev = 0,14377 ft³/ft; anular poço aberto/rev = 0,1268 ft³/ft; interior do revestimento = 0,2025 ft³/ft. Qual o volume de deslocamento (bbl), de superfície até o colar flutuante (1 bbl = 5,6146 ft³)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "130,2 bbl",
+    "126,6 bbl",
+    "162,7 bbl",
+    "203,4 bbl",
+    "211,5 bbl"
+   ],
+   "correta": 2,
+   "explicacao": "Deslocamento = 4.510 ft × 0,2025 = 913,3 ft³ → ÷ 5,6146 = 162,7 bbl. O rat hole não entra no cálculo."
+  },
+  {
+   "id": "ci-0004",
+   "dificuldade": 2,
+   "tema": "Cimentação: volumes e sacos",
+   "enunciado": "Pasta leve de 493,1 ft³ com rendimento de 1,655 ft³/sk. Quantos sacos de cimento são necessários?",
+   "tipo": "multipla",
+   "alternativas": [
+    "816 sacos",
+    "223 sacos",
+    "298 sacos",
+    "387 sacos",
+    "429 sacos"
+   ],
+   "correta": 2,
+   "explicacao": "Sacos = volume/rendimento = 493,1/1,655 = 298 sacos."
+  },
+  {
+   "id": "ci-0005",
+   "dificuldade": 2,
+   "tema": "Cimentação: volumes e sacos",
+   "enunciado": "Pasta pesada de 132,3 ft³ com rendimento de 1,15 ft³/sk. Quantos sacos são necessários?",
+   "tipo": "multipla",
+   "alternativas": [
+    "80 sacos",
+    "152 sacos",
+    "115 sacos",
+    "86 sacos",
+    "150 sacos"
+   ],
+   "correta": 2,
+   "explicacao": "Sacos = 132,3/1,15 = 115 sacos."
+  },
+  {
+   "id": "ci-0006",
+   "dificuldade": 2,
+   "tema": "Cimentação: volumes e sacos",
+   "enunciado": "São necessários 298 sacos de pasta leve (8,56 gal/sk de água). Qual o volume de água, em bbl (42 gal = 1 bbl)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "60,7 bbl",
+    "79,0 bbl",
+    "42,5 bbl",
+    "48,6 bbl",
+    "75,9 bbl"
+   ],
+   "correta": 0,
+   "explicacao": "298 × 8,56 = 2.551 gal ÷ 42 = 60,7 bbl."
+  },
+  {
+   "id": "ci-0007",
+   "dificuldade": 3,
+   "tema": "Cimentação: volumes e sacos",
+   "enunciado": "Pasta leve de 298 sacos com 2% BWOC de aditivo sólido (saco de 94 lb). Qual a massa de aditivo (lb)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "560 lb",
+    "448 lb",
+    "1.008 lb",
+    "840 lb",
+    "700 lb"
+   ],
+   "correta": 0,
+   "explicacao": "BWOC = % sobre a massa de cimento: 0,02 × 94 lb/sk × 298 sk = 560 lb."
+  },
+  {
+   "id": "ci-0008",
+   "dificuldade": 2,
+   "tema": "Cimentação: volumes e sacos",
+   "enunciado": "Pasta pesada de 115 sacos com 0,2 gal/sk de dispersante líquido. Qual o volume de aditivo (gal)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "18,4 gal",
+    "34,5 gal",
+    "23,0 gal",
+    "28,8 gal",
+    "15,4 gal"
+   ],
+   "correta": 2,
+   "explicacao": "Aditivo líquido é em gal/sk: 0,2 × 115 = 23,0 gal."
+  },
+  {
+   "id": "ci-0009",
+   "dificuldade": 2,
+   "tema": "Cimentação: volumes e sacos",
+   "enunciado": "Cimentação primária: sapata do revestimento de 7\" a 5.200 ft, colar flutuante a 5.110 ft, sapata anterior (9⅝\") a 3.000 ft, topo da pasta leve a 800 ft, topo da pasta pesada a 4.500 ft, excesso de 40% no poço aberto. Capacidades: anular rev/rev = 0,14377 ft³/ft; anular poço aberto/rev = 0,1268 ft³/ft; interior do revestimento = 0,2025 ft³/ft. Qual o volume de pasta leve (ft³)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "757,3 ft³",
+    "582,6 ft³",
+    "266,3 ft³",
+    "440,6 ft³",
+    "506,5 ft³"
+   ],
+   "correta": 1,
+   "explicacao": "Entre rev e rev: (3.000 − 800) × 0,14377 = 316,29 ft³. No poço aberto: (4.500 − 3.000) × 0,1268 × 1,40 = 266,28 ft³. Total = 582,57 ft³ (excesso só no poço aberto)."
+  },
+  {
+   "id": "ci-0010",
+   "dificuldade": 2,
+   "tema": "Cimentação: volumes e sacos",
+   "enunciado": "Cimentação primária: sapata do revestimento de 7\" a 5.200 ft, colar flutuante a 5.110 ft, sapata anterior (9⅝\") a 3.000 ft, topo da pasta leve a 800 ft, topo da pasta pesada a 4.500 ft, excesso de 40% no poço aberto. Capacidades: anular rev/rev = 0,14377 ft³/ft; anular poço aberto/rev = 0,1268 ft³/ft; interior do revestimento = 0,2025 ft³/ft. Qual o volume de pasta pesada (ft³), incluindo o shoe track?",
+   "tipo": "multipla",
+   "alternativas": [
+    "142,5 ft³",
+    "107,0 ft³",
+    "124,3 ft³",
+    "178,1 ft³",
+    "185,2 ft³"
+   ],
+   "correta": 0,
+   "explicacao": "Poço aberto: (5.200 − 4.500) × 0,1268 × 1,40 = 124,26 ft³. Shoe track: (5.200 − 5.110) × 0,2025 = 18,23 ft³. Total = 142,49 ft³."
+  },
+  {
+   "id": "ci-0011",
+   "dificuldade": 2,
+   "tema": "Cimentação: volumes e sacos",
+   "enunciado": "Cimentação primária: sapata do revestimento de 7\" a 5.200 ft, colar flutuante a 5.110 ft, sapata anterior (9⅝\") a 3.000 ft, topo da pasta leve a 800 ft, topo da pasta pesada a 4.500 ft, excesso de 40% no poço aberto. Capacidades: anular rev/rev = 0,14377 ft³/ft; anular poço aberto/rev = 0,1268 ft³/ft; interior do revestimento = 0,2025 ft³/ft. Qual o volume de deslocamento (bbl), de superfície até o colar flutuante (1 bbl = 5,6146 ft³)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "155,4 bbl",
+    "147,4 bbl",
+    "230,4 bbl",
+    "239,6 bbl",
+    "184,3 bbl"
+   ],
+   "correta": 4,
+   "explicacao": "Deslocamento = 5.110 ft × 0,2025 = 1.034,8 ft³ → ÷ 5,6146 = 184,3 bbl. O rat hole não entra no cálculo."
+  },
+  {
+   "id": "ci-0012",
+   "dificuldade": 2,
+   "tema": "Cimentação: volumes e sacos",
+   "enunciado": "Pasta leve de 582,6 ft³ com rendimento de 1,655 ft³/sk. Quantos sacos de cimento são necessários?",
+   "tipo": "multipla",
+   "alternativas": [
+    "964 sacos",
+    "458 sacos",
+    "507 sacos",
+    "264 sacos",
+    "352 sacos"
+   ],
+   "correta": 4,
+   "explicacao": "Sacos = volume/rendimento = 582,6/1,655 = 352 sacos."
+  },
+  {
+   "id": "ci-0013",
+   "dificuldade": 2,
+   "tema": "Cimentação: volumes e sacos",
+   "enunciado": "Pasta pesada de 142,5 ft³ com rendimento de 1,15 ft³/sk. Quantos sacos são necessários?",
+   "tipo": "multipla",
+   "alternativas": [
+    "124 sacos",
+    "164 sacos",
+    "161 sacos",
+    "93 sacos",
+    "86 sacos"
+   ],
+   "correta": 0,
+   "explicacao": "Sacos = 142,5/1,15 = 124 sacos."
+  },
+  {
+   "id": "ci-0014",
+   "dificuldade": 2,
+   "tema": "Cimentação: volumes e sacos",
+   "enunciado": "São necessários 352 sacos de pasta leve (8,56 gal/sk de água). Qual o volume de água, em bbl (42 gal = 1 bbl)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "89,6 bbl",
+    "50,2 bbl",
+    "71,7 bbl",
+    "93,3 bbl",
+    "57,4 bbl"
+   ],
+   "correta": 2,
+   "explicacao": "352 × 8,56 = 3.013 gal ÷ 42 = 71,7 bbl."
+  },
+  {
+   "id": "ci-0015",
+   "dificuldade": 3,
+   "tema": "Cimentação: volumes e sacos",
+   "enunciado": "Pasta leve de 352 sacos com 2% BWOC de aditivo sólido (saco de 94 lb). Qual a massa de aditivo (lb)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "1.191 lb",
+    "662 lb",
+    "530 lb",
+    "993 lb",
+    "828 lb"
+   ],
+   "correta": 1,
+   "explicacao": "BWOC = % sobre a massa de cimento: 0,02 × 94 lb/sk × 352 sk = 662 lb."
+  },
+  {
+   "id": "ci-0016",
+   "dificuldade": 2,
+   "tema": "Cimentação: volumes e sacos",
+   "enunciado": "Pasta pesada de 124 sacos com 0,2 gal/sk de dispersante líquido. Qual o volume de aditivo (gal)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "19,8 gal",
+    "24,8 gal",
+    "16,6 gal",
+    "31,0 gal",
+    "37,2 gal"
+   ],
+   "correta": 1,
+   "explicacao": "Aditivo líquido é em gal/sk: 0,2 × 124 = 24,8 gal."
+  },
+  {
+   "id": "ci-0017",
+   "dificuldade": 2,
+   "tema": "Cimentação: volumes e sacos",
+   "enunciado": "Cimentação primária: sapata do revestimento de 7\" a 6.000 ft, colar flutuante a 5.900 ft, sapata anterior (9⅝\") a 3.500 ft, topo da pasta leve a 1.500 ft, topo da pasta pesada a 5.200 ft, excesso de 30% no poço aberto. Capacidades: anular rev/rev = 0,14377 ft³/ft; anular poço aberto/rev = 0,1268 ft³/ft; interior do revestimento = 0,2025 ft³/ft. Qual o volume de pasta leve (ft³)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "280,2 ft³",
+    "738,1 ft³",
+    "503,1 ft³",
+    "419,4 ft³",
+    "567,8 ft³"
+   ],
+   "correta": 4,
+   "explicacao": "Entre rev e rev: (3.500 − 1.500) × 0,14377 = 287,54 ft³. No poço aberto: (5.200 − 3.500) × 0,1268 × 1,30 = 280,23 ft³. Total = 567,77 ft³ (excesso só no poço aberto)."
+  },
+  {
+   "id": "ci-0018",
+   "dificuldade": 2,
+   "tema": "Cimentação: volumes e sacos",
+   "enunciado": "Cimentação primária: sapata do revestimento de 7\" a 6.000 ft, colar flutuante a 5.900 ft, sapata anterior (9⅝\") a 3.500 ft, topo da pasta leve a 1.500 ft, topo da pasta pesada a 5.200 ft, excesso de 30% no poço aberto. Capacidades: anular rev/rev = 0,14377 ft³/ft; anular poço aberto/rev = 0,1268 ft³/ft; interior do revestimento = 0,2025 ft³/ft. Qual o volume de pasta pesada (ft³), incluindo o shoe track?",
+   "tipo": "multipla",
+   "alternativas": [
+    "197,8 ft³",
+    "152,1 ft³",
+    "121,7 ft³",
+    "190,1 ft³",
+    "131,9 ft³"
+   ],
+   "correta": 1,
+   "explicacao": "Poço aberto: (6.000 − 5.200) × 0,1268 × 1,30 = 131,87 ft³. Shoe track: (6.000 − 5.900) × 0,2025 = 20,25 ft³. Total = 152,12 ft³."
+  },
+  {
+   "id": "ci-0019",
+   "dificuldade": 3,
+   "tema": "Cimentação: volumes e sacos",
+   "enunciado": "Cimentação primária: sapata do revestimento de 7\" a 6.000 ft, colar flutuante a 5.900 ft, sapata anterior (9⅝\") a 3.500 ft, topo da pasta leve a 1.500 ft, topo da pasta pesada a 5.200 ft, excesso de 30% no poço aberto. Capacidades: anular rev/rev = 0,14377 ft³/ft; anular poço aberto/rev = 0,1268 ft³/ft; interior do revestimento = 0,2025 ft³/ft. Qual o volume de deslocamento (bbl), de superfície até o colar flutuante (1 bbl = 5,6146 ft³)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "170,2 bbl",
+    "212,8 bbl",
+    "276,6 bbl",
+    "158,7 bbl",
+    "266,0 bbl"
+   ],
+   "correta": 1,
+   "explicacao": "Deslocamento = 5.900 ft × 0,2025 = 1.194,8 ft³ → ÷ 5,6146 = 212,8 bbl. O rat hole não entra no cálculo."
+  },
+  {
+   "id": "ci-0020",
+   "dificuldade": 2,
+   "tema": "Cimentação: volumes e sacos",
+   "enunciado": "Pasta leve de 567,8 ft³ com rendimento de 1,655 ft³/sk. Quantos sacos de cimento são necessários?",
+   "tipo": "multipla",
+   "alternativas": [
+    "494 sacos",
+    "257 sacos",
+    "940 sacos",
+    "343 sacos",
+    "446 sacos"
+   ],
+   "correta": 3,
+   "explicacao": "Sacos = volume/rendimento = 567,8/1,655 = 343 sacos."
+  },
+  {
+   "id": "ci-0021",
+   "dificuldade": 2,
+   "tema": "Cimentação: volumes e sacos",
+   "enunciado": "Pasta pesada de 152,1 ft³ com rendimento de 1,15 ft³/sk. Quantos sacos são necessários?",
+   "tipo": "multipla",
+   "alternativas": [
+    "92 sacos",
+    "132 sacos",
+    "99 sacos",
+    "172 sacos",
+    "175 sacos"
+   ],
+   "correta": 1,
+   "explicacao": "Sacos = 152,1/1,15 = 132 sacos."
+  },
+  {
+   "id": "ci-0022",
+   "dificuldade": 2,
+   "tema": "Cimentação: volumes e sacos",
+   "enunciado": "São necessários 343 sacos de pasta leve (8,56 gal/sk de água). Qual o volume de água, em bbl (42 gal = 1 bbl)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "48,9 bbl",
+    "87,4 bbl",
+    "55,9 bbl",
+    "69,9 bbl",
+    "90,9 bbl"
+   ],
+   "correta": 3,
+   "explicacao": "343 × 8,56 = 2.936 gal ÷ 42 = 69,9 bbl."
+  },
+  {
+   "id": "ci-0023",
+   "dificuldade": 3,
+   "tema": "Cimentação: volumes e sacos",
+   "enunciado": "Pasta leve de 343 sacos com 2% BWOC de aditivo sólido (saco de 94 lb). Qual a massa de aditivo (lb)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "1.161 lb",
+    "968 lb",
+    "806 lb",
+    "516 lb",
+    "645 lb"
+   ],
+   "correta": 4,
+   "explicacao": "BWOC = % sobre a massa de cimento: 0,02 × 94 lb/sk × 343 sk = 645 lb."
+  },
+  {
+   "id": "ci-0024",
+   "dificuldade": 2,
+   "tema": "Cimentação: volumes e sacos",
+   "enunciado": "Pasta pesada de 132 sacos com 0,2 gal/sk de dispersante líquido. Qual o volume de aditivo (gal)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "26,4 gal",
+    "39,6 gal",
+    "21,1 gal",
+    "33,0 gal",
+    "17,7 gal"
+   ],
+   "correta": 0,
+   "explicacao": "Aditivo líquido é em gal/sk: 0,2 × 132 = 26,4 gal."
+  },
+  {
+   "id": "ci-0025",
+   "dificuldade": 2,
+   "tema": "Cimentação: volumes e sacos",
+   "enunciado": "Cimentação primária: sapata do revestimento de 7\" a 3.800 ft, colar flutuante a 3.715 ft, sapata anterior (9⅝\") a 2.000 ft, topo da pasta leve a 0 ft, topo da pasta pesada a 3.300 ft, excesso de 60% no poço aberto. Capacidades: anular rev/rev = 0,14377 ft³/ft; anular poço aberto/rev = 0,1268 ft³/ft; interior do revestimento = 0,2025 ft³/ft. Qual o volume de pasta leve (ft³)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "263,7 ft³",
+    "452,4 ft³",
+    "716,7 ft³",
+    "551,3 ft³",
+    "389,0 ft³"
+   ],
+   "correta": 3,
+   "explicacao": "Entre rev e rev: (2.000 − 0) × 0,14377 = 287,54 ft³. No poço aberto: (3.300 − 2.000) × 0,1268 × 1,60 = 263,74 ft³. Total = 551,28 ft³ (excesso só no poço aberto)."
+  },
+  {
+   "id": "ci-0026",
+   "dificuldade": 2,
+   "tema": "Cimentação: volumes e sacos",
+   "enunciado": "Cimentação primária: sapata do revestimento de 7\" a 3.800 ft, colar flutuante a 3.715 ft, sapata anterior (9⅝\") a 2.000 ft, topo da pasta leve a 0 ft, topo da pasta pesada a 3.300 ft, excesso de 60% no poço aberto. Capacidades: anular rev/rev = 0,14377 ft³/ft; anular poço aberto/rev = 0,1268 ft³/ft; interior do revestimento = 0,2025 ft³/ft. Qual o volume de pasta pesada (ft³), incluindo o shoe track?",
+   "tipo": "multipla",
+   "alternativas": [
+    "80,6 ft³",
+    "154,2 ft³",
+    "118,7 ft³",
+    "148,4 ft³",
+    "101,4 ft³"
+   ],
+   "correta": 2,
+   "explicacao": "Poço aberto: (3.800 − 3.300) × 0,1268 × 1,60 = 101,44 ft³. Shoe track: (3.800 − 3.715) × 0,2025 = 17,21 ft³. Total = 118,65 ft³."
+  },
+  {
+   "id": "ci-0027",
+   "dificuldade": 2,
+   "tema": "Cimentação: volumes e sacos",
+   "enunciado": "Cimentação primária: sapata do revestimento de 7\" a 3.800 ft, colar flutuante a 3.715 ft, sapata anterior (9⅝\") a 2.000 ft, topo da pasta leve a 0 ft, topo da pasta pesada a 3.300 ft, excesso de 60% no poço aberto. Capacidades: anular rev/rev = 0,14377 ft³/ft; anular poço aberto/rev = 0,1268 ft³/ft; interior do revestimento = 0,2025 ft³/ft. Qual o volume de deslocamento (bbl), de superfície até o colar flutuante (1 bbl = 5,6146 ft³)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "174,2 bbl",
+    "167,5 bbl",
+    "134,0 bbl",
+    "107,2 bbl",
+    "201,0 bbl"
+   ],
+   "correta": 2,
+   "explicacao": "Deslocamento = 3.715 ft × 0,2025 = 752,3 ft³ → ÷ 5,6146 = 134,0 bbl. O rat hole não entra no cálculo."
+  },
+  {
+   "id": "ci-0028",
+   "dificuldade": 2,
+   "tema": "Cimentação: volumes e sacos",
+   "enunciado": "Pasta leve de 551,3 ft³ com rendimento de 1,655 ft³/sk. Quantos sacos de cimento são necessários?",
+   "tipo": "multipla",
+   "alternativas": [
+    "479 sacos",
+    "433 sacos",
+    "250 sacos",
+    "333 sacos",
+    "912 sacos"
+   ],
+   "correta": 3,
+   "explicacao": "Sacos = volume/rendimento = 551,3/1,655 = 333 sacos."
+  },
+  {
+   "id": "ci-0029",
+   "dificuldade": 2,
+   "tema": "Cimentação: volumes e sacos",
+   "enunciado": "Pasta pesada de 118,7 ft³ com rendimento de 1,15 ft³/sk. Quantos sacos são necessários?",
+   "tipo": "multipla",
+   "alternativas": [
+    "103 sacos",
+    "77 sacos",
+    "72 sacos",
+    "134 sacos",
+    "136 sacos"
+   ],
+   "correta": 0,
+   "explicacao": "Sacos = 118,7/1,15 = 103 sacos."
+  },
+  {
+   "id": "ci-0030",
+   "dificuldade": 2,
+   "tema": "Cimentação: volumes e sacos",
+   "enunciado": "São necessários 333 sacos de pasta leve (8,56 gal/sk de água). Qual o volume de água, em bbl (42 gal = 1 bbl)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "88,2 bbl",
+    "67,9 bbl",
+    "47,5 bbl",
+    "54,3 bbl",
+    "84,9 bbl"
+   ],
+   "correta": 1,
+   "explicacao": "333 × 8,56 = 2.850 gal ÷ 42 = 67,9 bbl."
+  },
+  {
+   "id": "ci-0031",
+   "dificuldade": 3,
+   "tema": "Cimentação: volumes e sacos",
+   "enunciado": "Pasta leve de 333 sacos com 2% BWOC de aditivo sólido (saco de 94 lb). Qual a massa de aditivo (lb)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "626 lb",
+    "1.127 lb",
+    "782 lb",
+    "939 lb",
+    "501 lb"
+   ],
+   "correta": 0,
+   "explicacao": "BWOC = % sobre a massa de cimento: 0,02 × 94 lb/sk × 333 sk = 626 lb."
+  },
+  {
+   "id": "ci-0032",
+   "dificuldade": 2,
+   "tema": "Cimentação: volumes e sacos",
+   "enunciado": "Pasta pesada de 103 sacos com 0,2 gal/sk de dispersante líquido. Qual o volume de aditivo (gal)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "13,8 gal",
+    "20,6 gal",
+    "30,9 gal",
+    "16,5 gal",
+    "25,8 gal"
+   ],
+   "correta": 1,
+   "explicacao": "Aditivo líquido é em gal/sk: 0,2 × 103 = 20,6 gal."
+  },
+  {
+   "id": "ci-0033",
+   "dificuldade": 2,
+   "tema": "Cimentação: volumes e sacos",
+   "enunciado": "Cimentação primária: sapata do revestimento de 7\" a 7.000 ft, colar flutuante a 6.910 ft, sapata anterior (9⅝\") a 4.000 ft, topo da pasta leve a 2.000 ft, topo da pasta pesada a 6.200 ft, excesso de 25% no poço aberto. Capacidades: anular rev/rev = 0,14377 ft³/ft; anular poço aberto/rev = 0,1268 ft³/ft; interior do revestimento = 0,2025 ft³/ft. Qual o volume de pasta leve (ft³)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "827,1 ft³",
+    "414,3 ft³",
+    "348,7 ft³",
+    "566,5 ft³",
+    "636,2 ft³"
+   ],
+   "correta": 4,
+   "explicacao": "Entre rev e rev: (4.000 − 2.000) × 0,14377 = 287,54 ft³. No poço aberto: (6.200 − 4.000) × 0,1268 × 1,25 = 348,70 ft³. Total = 636,24 ft³ (excesso só no poço aberto)."
+  },
+  {
+   "id": "ci-0034",
+   "dificuldade": 2,
+   "tema": "Cimentação: volumes e sacos",
+   "enunciado": "Cimentação primária: sapata do revestimento de 7\" a 7.000 ft, colar flutuante a 6.910 ft, sapata anterior (9⅝\") a 4.000 ft, topo da pasta leve a 2.000 ft, topo da pasta pesada a 6.200 ft, excesso de 25% no poço aberto. Capacidades: anular rev/rev = 0,14377 ft³/ft; anular poço aberto/rev = 0,1268 ft³/ft; interior do revestimento = 0,2025 ft³/ft. Qual o volume de pasta pesada (ft³), incluindo o shoe track?",
+   "tipo": "multipla",
+   "alternativas": [
+    "126,8 ft³",
+    "145,0 ft³",
+    "119,7 ft³",
+    "188,5 ft³",
+    "181,2 ft³"
+   ],
+   "correta": 1,
+   "explicacao": "Poço aberto: (7.000 − 6.200) × 0,1268 × 1,25 = 126,80 ft³. Shoe track: (7.000 − 6.910) × 0,2025 = 18,23 ft³. Total = 145,03 ft³."
+  },
+  {
+   "id": "ci-0035",
+   "dificuldade": 3,
+   "tema": "Cimentação: volumes e sacos",
+   "enunciado": "Cimentação primária: sapata do revestimento de 7\" a 7.000 ft, colar flutuante a 6.910 ft, sapata anterior (9⅝\") a 4.000 ft, topo da pasta leve a 2.000 ft, topo da pasta pesada a 6.200 ft, excesso de 25% no poço aberto. Capacidades: anular rev/rev = 0,14377 ft³/ft; anular poço aberto/rev = 0,1268 ft³/ft; interior do revestimento = 0,2025 ft³/ft. Qual o volume de deslocamento (bbl), de superfície até o colar flutuante (1 bbl = 5,6146 ft³)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "199,4 bbl",
+    "324,0 bbl",
+    "177,1 bbl",
+    "249,2 bbl",
+    "311,5 bbl"
+   ],
+   "correta": 3,
+   "explicacao": "Deslocamento = 6.910 ft × 0,2025 = 1.399,3 ft³ → ÷ 5,6146 = 249,2 bbl. O rat hole não entra no cálculo."
+  },
+  {
+   "id": "ci-0036",
+   "dificuldade": 2,
+   "tema": "Cimentação: volumes e sacos",
+   "enunciado": "Pasta leve de 636,2 ft³ com rendimento de 1,655 ft³/sk. Quantos sacos de cimento são necessários?",
+   "tipo": "multipla",
+   "alternativas": [
+    "288 sacos",
+    "1.053 sacos",
+    "553 sacos",
+    "500 sacos",
+    "384 sacos"
+   ],
+   "correta": 4,
+   "explicacao": "Sacos = volume/rendimento = 636,2/1,655 = 384 sacos."
+  },
+  {
+   "id": "ci-0037",
+   "dificuldade": 2,
+   "tema": "Cimentação: volumes e sacos",
+   "enunciado": "Pasta pesada de 145,0 ft³ com rendimento de 1,15 ft³/sk. Quantos sacos são necessários?",
+   "tipo": "multipla",
+   "alternativas": [
+    "95 sacos",
+    "164 sacos",
+    "88 sacos",
+    "167 sacos",
+    "126 sacos"
+   ],
+   "correta": 4,
+   "explicacao": "Sacos = 145,0/1,15 = 126 sacos."
+  },
+  {
+   "id": "ci-0038",
+   "dificuldade": 2,
+   "tema": "Cimentação: volumes e sacos",
+   "enunciado": "Cimentação primária: sapata do revestimento de 7\" a 5.500 ft, colar flutuante a 5.412 ft, sapata anterior (9⅝\") a 3.200 ft, topo da pasta leve a 1.200 ft, topo da pasta pesada a 4.800 ft, excesso de 35% no poço aberto. Capacidades: anular rev/rev = 0,14377 ft³/ft; anular poço aberto/rev = 0,1268 ft³/ft; interior do revestimento = 0,2025 ft³/ft. Qual o volume de pasta leve (ft³)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "273,9 ft³",
+    "490,4 ft³",
+    "729,9 ft³",
+    "407,4 ft³",
+    "561,4 ft³"
+   ],
+   "correta": 4,
+   "explicacao": "Entre rev e rev: (3.200 − 1.200) × 0,14377 = 287,54 ft³. No poço aberto: (4.800 − 3.200) × 0,1268 × 1,35 = 273,89 ft³. Total = 561,43 ft³ (excesso só no poço aberto)."
+  },
+  {
+   "id": "ci-0039",
+   "dificuldade": 2,
+   "tema": "Cimentação: volumes e sacos",
+   "enunciado": "Cimentação primária: sapata do revestimento de 7\" a 5.500 ft, colar flutuante a 5.412 ft, sapata anterior (9⅝\") a 3.200 ft, topo da pasta leve a 1.200 ft, topo da pasta pesada a 4.800 ft, excesso de 35% no poço aberto. Capacidades: anular rev/rev = 0,14377 ft³/ft; anular poço aberto/rev = 0,1268 ft³/ft; interior do revestimento = 0,2025 ft³/ft. Qual o volume de pasta pesada (ft³), incluindo o shoe track?",
+   "tipo": "multipla",
+   "alternativas": [
+    "137,6 ft³",
+    "106,6 ft³",
+    "119,8 ft³",
+    "172,0 ft³",
+    "178,9 ft³"
+   ],
+   "correta": 0,
+   "explicacao": "Poço aberto: (5.500 − 4.800) × 0,1268 × 1,35 = 119,83 ft³. Shoe track: (5.500 − 5.412) × 0,2025 = 17,82 ft³. Total = 137,65 ft³."
+  },
+  {
+   "id": "ci-0040",
+   "dificuldade": 3,
+   "tema": "Cimentação: volumes e sacos",
+   "enunciado": "Cimentação primária: sapata do revestimento de 7\" a 5.500 ft, colar flutuante a 5.412 ft, sapata anterior (9⅝\") a 3.200 ft, topo da pasta leve a 1.200 ft, topo da pasta pesada a 4.800 ft, excesso de 35% no poço aberto. Capacidades: anular rev/rev = 0,14377 ft³/ft; anular poço aberto/rev = 0,1268 ft³/ft; interior do revestimento = 0,2025 ft³/ft. Qual o volume de deslocamento (bbl), de superfície até o colar flutuante (1 bbl = 5,6146 ft³)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "156,2 bbl",
+    "195,2 bbl",
+    "253,8 bbl",
+    "151,9 bbl",
+    "244,0 bbl"
+   ],
+   "correta": 1,
+   "explicacao": "Deslocamento = 5.412 ft × 0,2025 = 1.095,9 ft³ → ÷ 5,6146 = 195,2 bbl. O rat hole não entra no cálculo."
+  },
+  {
+   "id": "ci-0041",
+   "dificuldade": 2,
+   "tema": "Cimentação: volumes e sacos",
+   "enunciado": "Pasta leve de 561,4 ft³ com rendimento de 1,655 ft³/sk. Quantos sacos de cimento são necessários?",
+   "tipo": "multipla",
+   "alternativas": [
+    "488 sacos",
+    "339 sacos",
+    "441 sacos",
+    "254 sacos",
+    "929 sacos"
+   ],
+   "correta": 1,
+   "explicacao": "Sacos = volume/rendimento = 561,4/1,655 = 339 sacos."
+  },
+  {
+   "id": "ci-0042",
+   "dificuldade": 2,
+   "tema": "Cimentação: volumes e sacos",
+   "enunciado": "Pasta pesada de 137,6 ft³ com rendimento de 1,15 ft³/sk. Quantos sacos são necessários?",
+   "tipo": "multipla",
+   "alternativas": [
+    "90 sacos",
+    "158 sacos",
+    "120 sacos",
+    "156 sacos",
+    "83 sacos"
+   ],
+   "correta": 2,
+   "explicacao": "Sacos = 137,6/1,15 = 120 sacos."
+  },
+  {
+   "id": "ci-0043",
+   "dificuldade": 3,
+   "tema": "Cimentação: volumes e sacos",
+   "enunciado": "Qual a capacidade do anular (ft³/ft) entre um poço/revestimento de 8,5\" de diâmetro interno e um tubo de 7,0\" OD (cap = (D² − d²)/183,35)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,1014 ft³/ft",
+    "0,1775 ft³/ft",
+    "0,3941 ft³/ft",
+    "0,1585 ft³/ft",
+    "0,1268 ft³/ft"
+   ],
+   "correta": 4,
+   "explicacao": "(8,5² − 7,0²)/183,35 = 0,1268 ft³/ft."
+  },
+  {
+   "id": "ci-0044",
+   "dificuldade": 3,
+   "tema": "Cimentação: volumes e sacos",
+   "enunciado": "Qual a capacidade do anular (ft³/ft) entre um poço/revestimento de 12,25\" de diâmetro interno e um tubo de 9,625\" OD (cap = (D² − d²)/183,35)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,3915 ft³/ft",
+    "0,4385 ft³/ft",
+    "0,2506 ft³/ft",
+    "0,8184 ft³/ft",
+    "0,3132 ft³/ft"
+   ],
+   "correta": 4,
+   "explicacao": "(12,25² − 9,625²)/183,35 = 0,3132 ft³/ft."
+  },
+  {
+   "id": "ci-0045",
+   "dificuldade": 3,
+   "tema": "Cimentação: volumes e sacos",
+   "enunciado": "Qual a capacidade do anular (ft³/ft) entre um poço/revestimento de 8,681\" de diâmetro interno e um tubo de 7,0\" OD (cap = (D² − d²)/183,35)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,1798 ft³/ft",
+    "0,4110 ft³/ft",
+    "0,1438 ft³/ft",
+    "0,1150 ft³/ft",
+    "0,2013 ft³/ft"
+   ],
+   "correta": 2,
+   "explicacao": "(8,681² − 7,0²)/183,35 = 0,1438 ft³/ft."
+  },
+  {
+   "id": "ci-0046",
+   "dificuldade": 3,
+   "tema": "Cimentação: volumes e sacos",
+   "enunciado": "Qual a capacidade interna (ft³/ft) de um revestimento com ID de 6,094\" (cap = D²/183,35)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,2025 ft³/ft",
+    "0,3038 ft³/ft",
+    "0,2836 ft³/ft",
+    "0,1620 ft³/ft",
+    "0,2531 ft³/ft"
+   ],
+   "correta": 0,
+   "explicacao": "D²/183,35 = 0,2025 ft³/ft."
+  },
+  {
+   "id": "ci-0047",
+   "dificuldade": 3,
+   "tema": "Cimentação: volumes e sacos",
+   "enunciado": "Qual a capacidade interna (ft³/ft) de um revestimento com ID de 8,681\" (cap = D²/183,35)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "0,3288 ft³/ft",
+    "0,6165 ft³/ft",
+    "0,5137 ft³/ft",
+    "0,4110 ft³/ft",
+    "0,5754 ft³/ft"
+   ],
+   "correta": 3,
+   "explicacao": "D²/183,35 = 0,4110 ft³/ft."
+  },
+  {
+   "id": "ci-0048",
+   "dificuldade": 3,
+   "tema": "Cimentação: volumes e sacos",
+   "enunciado": "Qual a capacidade interna (ft³/ft) de um revestimento com ID de 12,415\" (cap = D²/183,35)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "1,0508 ft³/ft",
+    "1,1769 ft³/ft",
+    "0,8406 ft³/ft",
+    "0,6725 ft³/ft",
+    "1,2609 ft³/ft"
+   ],
+   "correta": 2,
+   "explicacao": "D²/183,35 = 0,8406 ft³/ft."
+  },
+  {
+   "id": "ci-0049",
+   "dificuldade": 3,
+   "tema": "Cimentação: tempo de pega e bombeio",
+   "enunciado": "Tempo de mistura 15 min, bombeio da pasta 5 min, liberação dos plugs 10 min e deslocamento 20 min. Segundo a política de tempo de pega (o maior entre 1,5 × o tempo de trabalho e tempo de trabalho + 2 h), qual o tempo mínimo de pega, em minutos?",
+   "tipo": "multipla",
+   "alternativas": [
+    "100 min",
+    "75 min",
+    "170 min",
+    "50 min",
+    "110 min"
+   ],
+   "correta": 2,
+   "explicacao": "Tempo de trabalho = 15 + 5 + 10 + 20 = 50 min. 1,5 × 50 = 75 min; 50 + 120 = 170 min. O maior é 170 min."
+  },
+  {
+   "id": "ci-0050",
+   "dificuldade": 3,
+   "tema": "Cimentação: tempo de pega e bombeio",
+   "enunciado": "Tempo de mistura 20 min, bombeio da pasta 6 min, liberação dos plugs 10 min e deslocamento 25 min. Segundo a política de tempo de pega (o maior entre 1,5 × o tempo de trabalho e tempo de trabalho + 2 h), qual o tempo mínimo de pega, em minutos?",
+   "tipo": "multipla",
+   "alternativas": [
+    "181 min",
+    "92 min",
+    "121 min",
+    "61 min",
+    "122 min"
+   ],
+   "correta": 0,
+   "explicacao": "Tempo de trabalho = 20 + 6 + 10 + 25 = 61 min. 1,5 × 61 = 92 min; 61 + 120 = 181 min. O maior é 181 min."
+  },
+  {
+   "id": "ci-0051",
+   "dificuldade": 3,
+   "tema": "Cimentação: tempo de pega e bombeio",
+   "enunciado": "Tempo de mistura 12 min, bombeio da pasta 8 min, liberação dos plugs 10 min e deslocamento 30 min. Segundo a política de tempo de pega (o maior entre 1,5 × o tempo de trabalho e tempo de trabalho + 2 h), qual o tempo mínimo de pega, em minutos?",
+   "tipo": "multipla",
+   "alternativas": [
+    "90 min",
+    "180 min",
+    "225 min",
+    "60 min",
+    "120 min"
+   ],
+   "correta": 1,
+   "explicacao": "Tempo de trabalho = 12 + 8 + 10 + 30 = 60 min. 1,5 × 60 = 90 min; 60 + 120 = 180 min. O maior é 180 min."
+  },
+  {
+   "id": "ci-0052",
+   "dificuldade": 3,
+   "tema": "Cimentação: tempo de pega e bombeio",
+   "enunciado": "Tempo de mistura 30 min, bombeio da pasta 10 min, liberação dos plugs 10 min e deslocamento 45 min. Segundo a política de tempo de pega (o maior entre 1,5 × o tempo de trabalho e tempo de trabalho + 2 h), qual o tempo mínimo de pega, em minutos?",
+   "tipo": "multipla",
+   "alternativas": [
+    "142 min",
+    "190 min",
+    "155 min",
+    "215 min",
+    "95 min"
+   ],
+   "correta": 3,
+   "explicacao": "Tempo de trabalho = 30 + 10 + 10 + 45 = 95 min. 1,5 × 95 = 142 min; 95 + 120 = 215 min. O maior é 215 min."
+  },
+  {
+   "id": "ci-0053",
+   "dificuldade": 3,
+   "tema": "Cimentação: tempo de pega e bombeio",
+   "enunciado": "Tempo de mistura 25 min, bombeio da pasta 15 min, liberação dos plugs 10 min e deslocamento 60 min. Segundo a política de tempo de pega (o maior entre 1,5 × o tempo de trabalho e tempo de trabalho + 2 h), qual o tempo mínimo de pega, em minutos?",
+   "tipo": "multipla",
+   "alternativas": [
+    "110 min",
+    "165 min",
+    "230 min",
+    "220 min",
+    "170 min"
+   ],
+   "correta": 2,
+   "explicacao": "Tempo de trabalho = 25 + 15 + 10 + 60 = 110 min. 1,5 × 110 = 165 min; 110 + 120 = 230 min. O maior é 230 min."
+  },
+  {
+   "id": "ci-0054",
+   "dificuldade": 3,
+   "tema": "Cimentação: tempo de pega e bombeio",
+   "enunciado": "Tempo de mistura 10 min, bombeio da pasta 8 min, liberação dos plugs 10 min e deslocamento 18 min. Segundo a política de tempo de pega (o maior entre 1,5 × o tempo de trabalho e tempo de trabalho + 2 h), qual o tempo mínimo de pega, em minutos?",
+   "tipo": "multipla",
+   "alternativas": [
+    "106 min",
+    "69 min",
+    "92 min",
+    "166 min",
+    "46 min"
+   ],
+   "correta": 3,
+   "explicacao": "Tempo de trabalho = 10 + 8 + 10 + 18 = 46 min. 1,5 × 46 = 69 min; 46 + 120 = 166 min. O maior é 166 min."
+  },
+  {
+   "id": "ci-0055",
+   "dificuldade": 1,
+   "tema": "Cimentação: tempo de pega e bombeio",
+   "enunciado": "Volume de 88 bbl bombeado a 6 bbl/min. Qual o tempo de bombeio, em minutos?",
+   "tipo": "multipla",
+   "alternativas": [
+    "18,4 min",
+    "7,3 min",
+    "14,7 min",
+    "29,3 min",
+    "11,8 min"
+   ],
+   "correta": 2,
+   "explicacao": "Tempo = volume/vazão = 88/6 = 14,7 min."
+  },
+  {
+   "id": "ci-0056",
+   "dificuldade": 1,
+   "tema": "Cimentação: tempo de pega e bombeio",
+   "enunciado": "Volume de 163 bbl bombeado a 8 bbl/min. Qual o tempo de bombeio, em minutos?",
+   "tipo": "multipla",
+   "alternativas": [
+    "25,5 min",
+    "16,3 min",
+    "20,4 min",
+    "40,8 min",
+    "10,2 min"
+   ],
+   "correta": 2,
+   "explicacao": "Tempo = volume/vazão = 163/8 = 20,4 min."
+  },
+  {
+   "id": "ci-0057",
+   "dificuldade": 1,
+   "tema": "Cimentação: tempo de pega e bombeio",
+   "enunciado": "Volume de 120 bbl bombeado a 5 bbl/min. Qual o tempo de bombeio, em minutos?",
+   "tipo": "multipla",
+   "alternativas": [
+    "30,0 min",
+    "12,0 min",
+    "24,0 min",
+    "19,2 min",
+    "48,0 min"
+   ],
+   "correta": 2,
+   "explicacao": "Tempo = volume/vazão = 120/5 = 24,0 min."
+  },
+  {
+   "id": "ci-0058",
+   "dificuldade": 1,
+   "tema": "Cimentação: tempo de pega e bombeio",
+   "enunciado": "Volume de 200 bbl bombeado a 10 bbl/min. Qual o tempo de bombeio, em minutos?",
+   "tipo": "multipla",
+   "alternativas": [
+    "10,0 min",
+    "25,0 min",
+    "40,0 min",
+    "20,0 min",
+    "16,0 min"
+   ],
+   "correta": 3,
+   "explicacao": "Tempo = volume/vazão = 200/10 = 20,0 min."
+  },
+  {
+   "id": "ci-0059",
+   "dificuldade": 3,
+   "tema": "Cimentação: tempo de pega e bombeio",
+   "enunciado": "Pressão de superfície de 2.245 psi e vazão de 8,5 bbl/min. Qual a potência hidráulica (HHP = P·Q/40,8)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "374 hhp",
+    "702 hhp",
+    "468 hhp",
+    "585 hhp",
+    "264 hhp"
+   ],
+   "correta": 2,
+   "explicacao": "HHP = 2.245 × 8,5/40,8 = 468 hhp. Serve para verificar se a unidade de cimentação suporta o trabalho."
+  },
+  {
+   "id": "ci-0060",
+   "dificuldade": 3,
+   "tema": "Cimentação: tempo de pega e bombeio",
+   "enunciado": "Pressão de superfície de 3.000 psi e vazão de 6 bbl/min. Qual a potência hidráulica (HHP = P·Q/40,8)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "353 hhp",
+    "500 hhp",
+    "441 hhp",
+    "551 hhp",
+    "662 hhp"
+   ],
+   "correta": 2,
+   "explicacao": "HHP = 3.000 × 6/40,8 = 441 hhp. Serve para verificar se a unidade de cimentação suporta o trabalho."
+  },
+  {
+   "id": "ci-0061",
+   "dificuldade": 3,
+   "tema": "Cimentação: tempo de pega e bombeio",
+   "enunciado": "Pressão de superfície de 4.000 psi e vazão de 10 bbl/min. Qual a potência hidráulica (HHP = P·Q/40,8)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "1.471 hhp",
+    "400 hhp",
+    "784 hhp",
+    "1.225 hhp",
+    "980 hhp"
+   ],
+   "correta": 4,
+   "explicacao": "HHP = 4.000 × 10/40,8 = 980 hhp. Serve para verificar se a unidade de cimentação suporta o trabalho."
+  },
+  {
+   "id": "ci-0062",
+   "dificuldade": 3,
+   "tema": "Cimentação: tempo de pega e bombeio",
+   "enunciado": "Pressão de superfície de 1.800 psi e vazão de 12 bbl/min. Qual a potência hidráulica (HHP = P·Q/40,8)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "529 hhp",
+    "794 hhp",
+    "150 hhp",
+    "661 hhp",
+    "423 hhp"
+   ],
+   "correta": 0,
+   "explicacao": "HHP = 1.800 × 12/40,8 = 529 hhp. Serve para verificar se a unidade de cimentação suporta o trabalho."
+  },
+  {
+   "id": "ci-0063",
+   "dificuldade": 3,
+   "tema": "Cimentação: testes de pasta",
+   "enunciado": "Uma pasta desidratou em 10 min no ensaio de filtrado a 1.000 psi, com 40 mL coletados. Qual o API Fluid Loss (mL/30 min), usando 2·Ft·(5,477/√t)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "97 mL/30 min",
+    "253 mL/30 min",
+    "139 mL/30 min",
+    "120 mL/30 min",
+    "80 mL/30 min"
+   ],
+   "correta": 2,
+   "explicacao": "FL = 2 × 40 × 5,477/√10 = 139 mL/30 min."
+  },
+  {
+   "id": "ci-0064",
+   "dificuldade": 3,
+   "tema": "Cimentação: testes de pasta",
+   "enunciado": "Uma pasta desidratou em 15 min no ensaio de filtrado a 1.000 psi, com 60 mL coletados. Qual o API Fluid Loss (mL/30 min), usando 2·Ft·(5,477/√t)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "170 mL/30 min",
+    "212 mL/30 min",
+    "120 mL/30 min",
+    "119 mL/30 min",
+    "465 mL/30 min"
+   ],
+   "correta": 0,
+   "explicacao": "FL = 2 × 60 × 5,477/√15 = 170 mL/30 min."
+  },
+  {
+   "id": "ci-0065",
+   "dificuldade": 3,
+   "tema": "Cimentação: testes de pasta",
+   "enunciado": "Uma pasta desidratou em 20 min no ensaio de filtrado a 1.000 psi, com 50 mL coletados. Qual o API Fluid Loss (mL/30 min), usando 2·Ft·(5,477/√t)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "86 mL/30 min",
+    "122 mL/30 min",
+    "100 mL/30 min",
+    "447 mL/30 min",
+    "75 mL/30 min"
+   ],
+   "correta": 1,
+   "explicacao": "FL = 2 × 50 × 5,477/√20 = 122 mL/30 min."
+  },
+  {
+   "id": "ci-0066",
+   "dificuldade": 3,
+   "tema": "Cimentação: testes de pasta",
+   "enunciado": "Uma pasta desidratou em 5 min no ensaio de filtrado a 1.000 psi, com 30 mL coletados. Qual o API Fluid Loss (mL/30 min), usando 2·Ft·(5,477/√t)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "134 mL/30 min",
+    "147 mL/30 min",
+    "60 mL/30 min",
+    "103 mL/30 min",
+    "180 mL/30 min"
+   ],
+   "correta": 1,
+   "explicacao": "FL = 2 × 30 × 5,477/√5 = 147 mL/30 min."
+  },
+  {
+   "id": "ci-0067",
+   "dificuldade": 2,
+   "tema": "Cimentação: testes de pasta",
+   "enunciado": "Uma pasta não desidrata em 30 min; coletaram-se 20 mL no filtro de cimento. Qual o API Fluid Loss a reportar?",
+   "tipo": "multipla",
+   "alternativas": [
+    "20 mL/30 min",
+    "80 mL/30 min",
+    "30 mL/30 min",
+    "40 mL/30 min",
+    "10 mL/30 min"
+   ],
+   "correta": 3,
+   "explicacao": "Para pastas que não desidratam em 30 min: FL = 2 × Ft = 2 × 20 = 40 mL (a célula tem metade da área)."
+  },
+  {
+   "id": "ci-0068",
+   "dificuldade": 2,
+   "tema": "Cimentação: testes de pasta",
+   "enunciado": "Uma pasta não desidrata em 30 min; coletaram-se 35 mL no filtro de cimento. Qual o API Fluid Loss a reportar?",
+   "tipo": "multipla",
+   "alternativas": [
+    "35 mL/30 min",
+    "140 mL/30 min",
+    "18 mL/30 min",
+    "70 mL/30 min",
+    "52 mL/30 min"
+   ],
+   "correta": 3,
+   "explicacao": "Para pastas que não desidratam em 30 min: FL = 2 × Ft = 2 × 35 = 70 mL (a célula tem metade da área)."
+  },
+  {
+   "id": "ci-0069",
+   "dificuldade": 2,
+   "tema": "Cimentação: testes de pasta",
+   "enunciado": "Uma pasta não desidrata em 30 min; coletaram-se 48 mL no filtro de cimento. Qual o API Fluid Loss a reportar?",
+   "tipo": "multipla",
+   "alternativas": [
+    "72 mL/30 min",
+    "192 mL/30 min",
+    "48 mL/30 min",
+    "96 mL/30 min",
+    "24 mL/30 min"
+   ],
+   "correta": 3,
+   "explicacao": "Para pastas que não desidratam em 30 min: FL = 2 × Ft = 2 × 48 = 96 mL (a célula tem metade da área)."
+  },
+  {
+   "id": "ci-0070",
+   "dificuldade": 2,
+   "tema": "Cimentação: testes de pasta",
+   "enunciado": "Uma pasta não desidrata em 30 min; coletaram-se 60 mL no filtro de cimento. Qual o API Fluid Loss a reportar?",
+   "tipo": "multipla",
+   "alternativas": [
+    "240 mL/30 min",
+    "60 mL/30 min",
+    "30 mL/30 min",
+    "120 mL/30 min",
+    "90 mL/30 min"
+   ],
+   "correta": 3,
+   "explicacao": "Para pastas que não desidratam em 30 min: FL = 2 × Ft = 2 × 60 = 120 mL (a célula tem metade da área)."
+  },
+  {
+   "id": "ci-0071",
+   "dificuldade": 3,
+   "tema": "Cimentação: testes de pasta",
+   "enunciado": "Leituras de reologia de pasta: θ300 = 96 e θ100 = 50. Qual a viscosidade plástica de Bingham (PV = (θ300 − θ100) × 1,5)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "138,0 cP",
+    "69,0 cP",
+    "46,0 cP",
+    "77,0 cP",
+    "75,0 cP"
+   ],
+   "correta": 1,
+   "explicacao": "PV = (96 − 50) × 1,5 = 69,0 cP."
+  },
+  {
+   "id": "ci-0072",
+   "dificuldade": 3,
+   "tema": "Cimentação: testes de pasta",
+   "enunciado": "Leituras de pasta: θ300 = 96 e θ100 = 50. Qual o limite de escoamento (Ty = θ300 − PV, com PV = (θ300 − θ100) × 1,5)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "62,0 lbf/100ft²",
+    "69,0 lbf/100ft²",
+    "27,0 lbf/100ft²",
+    "46,0 lbf/100ft²",
+    "96,0 lbf/100ft²"
+   ],
+   "correta": 2,
+   "explicacao": "PV = 69,0; Ty = 96 − 69,0 = 27,0."
+  },
+  {
+   "id": "ci-0073",
+   "dificuldade": 3,
+   "tema": "Cimentação: testes de pasta",
+   "enunciado": "Leituras de reologia de pasta: θ300 = 120 e θ100 = 64. Qual a viscosidade plástica de Bingham (PV = (θ300 − θ100) × 1,5)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "96,0 cP",
+    "56,0 cP",
+    "84,0 cP",
+    "168,0 cP",
+    "100,0 cP"
+   ],
+   "correta": 2,
+   "explicacao": "PV = (120 − 64) × 1,5 = 84,0 cP."
+  },
+  {
+   "id": "ci-0074",
+   "dificuldade": 3,
+   "tema": "Cimentação: testes de pasta",
+   "enunciado": "Leituras de pasta: θ300 = 120 e θ100 = 64. Qual o limite de escoamento (Ty = θ300 − PV, com PV = (θ300 − θ100) × 1,5)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "36,0 lbf/100ft²",
+    "120,0 lbf/100ft²",
+    "56,0 lbf/100ft²",
+    "80,0 lbf/100ft²",
+    "84,0 lbf/100ft²"
+   ],
+   "correta": 0,
+   "explicacao": "PV = 84,0; Ty = 120 − 84,0 = 36,0."
+  },
+  {
+   "id": "ci-0075",
+   "dificuldade": 3,
+   "tema": "Cimentação: testes de pasta",
+   "enunciado": "Leituras de reologia de pasta: θ300 = 80 e θ100 = 40. Qual a viscosidade plástica de Bingham (PV = (θ300 − θ100) × 1,5)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "75,0 cP",
+    "48,0 cP",
+    "120,0 cP",
+    "40,0 cP",
+    "60,0 cP"
+   ],
+   "correta": 4,
+   "explicacao": "PV = (80 − 40) × 1,5 = 60,0 cP."
+  },
+  {
+   "id": "ci-0076",
+   "dificuldade": 3,
+   "tema": "Cimentação: testes de pasta",
+   "enunciado": "Leituras de pasta: θ300 = 80 e θ100 = 40. Qual o limite de escoamento (Ty = θ300 − PV, com PV = (θ300 − θ100) × 1,5)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "48,0 lbf/100ft²",
+    "20,0 lbf/100ft²",
+    "80,0 lbf/100ft²",
+    "40,0 lbf/100ft²",
+    "60,0 lbf/100ft²"
+   ],
+   "correta": 1,
+   "explicacao": "PV = 60,0; Ty = 80 − 60,0 = 20,0."
+  },
+  {
+   "id": "ci-0077",
+   "dificuldade": 3,
+   "tema": "Cimentação: testes de pasta",
+   "enunciado": "Leituras de reologia de pasta: θ300 = 150 e θ100 = 90. Qual a viscosidade plástica de Bingham (PV = (θ300 − θ100) × 1,5)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "135,0 cP",
+    "90,0 cP",
+    "180,0 cP",
+    "150,0 cP",
+    "60,0 cP"
+   ],
+   "correta": 1,
+   "explicacao": "PV = (150 − 90) × 1,5 = 90,0 cP."
+  },
+  {
+   "id": "ci-0078",
+   "dificuldade": 3,
+   "tema": "Cimentação: testes de pasta",
+   "enunciado": "Leituras de pasta: θ300 = 150 e θ100 = 90. Qual o limite de escoamento (Ty = θ300 − PV, com PV = (θ300 − θ100) × 1,5)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "150,0 lbf/100ft²",
+    "128,0 lbf/100ft²",
+    "75,0 lbf/100ft²",
+    "90,0 lbf/100ft²",
+    "60,0 lbf/100ft²"
+   ],
+   "correta": 4,
+   "explicacao": "PV = 90,0; Ty = 150 − 90,0 = 60,0."
+  },
+  {
+   "id": "ci-0079",
+   "dificuldade": 3,
+   "tema": "Cimentação: aditivos",
+   "enunciado": "Pasta para poço com BHST > 230 °F e 300 sacos de cimento (94 lb/sk). Para controlar a retrogressão, adicionam-se 35% BWOC de sílica. Qual a massa de sílica (lb)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "7.896 lb",
+    "14.805 lb",
+    "9.870 lb",
+    "12.338 lb",
+    "10.500 lb"
+   ],
+   "correta": 2,
+   "explicacao": "35% × 94 lb/sk × 300 sk = 9.870 lb."
+  },
+  {
+   "id": "ci-0080",
+   "dificuldade": 3,
+   "tema": "Cimentação: aditivos",
+   "enunciado": "Pasta para poço com BHST > 230 °F e 400 sacos de cimento (94 lb/sk). Para controlar a retrogressão, adicionam-se 40% BWOC de sílica. Qual a massa de sílica (lb)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "16.000 lb",
+    "18.800 lb",
+    "22.560 lb",
+    "15.040 lb",
+    "12.032 lb"
+   ],
+   "correta": 3,
+   "explicacao": "40% × 94 lb/sk × 400 sk = 15.040 lb."
+  },
+  {
+   "id": "ci-0081",
+   "dificuldade": 3,
+   "tema": "Cimentação: aditivos",
+   "enunciado": "Pasta para poço com BHST > 230 °F e 250 sacos de cimento (94 lb/sk). Para controlar a retrogressão, adicionam-se 35% BWOC de sílica. Qual a massa de sílica (lb)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "8.225 lb",
+    "8.750 lb",
+    "6.580 lb",
+    "10.281 lb",
+    "12.338 lb"
+   ],
+   "correta": 0,
+   "explicacao": "35% × 94 lb/sk × 250 sk = 8.225 lb."
+  },
+  {
+   "id": "ci-0082",
+   "dificuldade": 3,
+   "tema": "Cimentação: aditivos",
+   "enunciado": "Pasta para poço com BHST > 230 °F e 500 sacos de cimento (94 lb/sk). Para controlar a retrogressão, adicionam-se 40% BWOC de sílica. Qual a massa de sílica (lb)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "18.800 lb",
+    "15.040 lb",
+    "23.500 lb",
+    "28.200 lb",
+    "20.000 lb"
+   ],
+   "correta": 0,
+   "explicacao": "40% × 94 lb/sk × 500 sk = 18.800 lb."
+  },
+  {
+   "id": "ci-0083",
+   "dificuldade": 2,
+   "tema": "Cimentação: aditivos",
+   "enunciado": "Qual a massa de CaCl₂ (lb) para 300 sacos de cimento a 2% BWOC (94 lb/sk)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "705 lb",
+    "451 lb",
+    "600 lb",
+    "564 lb",
+    "846 lb"
+   ],
+   "correta": 3,
+   "explicacao": "BWOC é percentual sobre a massa de cimento: 2% × 94 lb/sk × 300 sk = 564 lb de CaCl₂."
+  },
+  {
+   "id": "ci-0084",
+   "dificuldade": 2,
+   "tema": "Cimentação: aditivos",
+   "enunciado": "Qual a massa de CaCl₂ (lb) para 200 sacos de cimento a 3% BWOC (94 lb/sk)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "705 lb",
+    "451 lb",
+    "600 lb",
+    "846 lb",
+    "564 lb"
+   ],
+   "correta": 4,
+   "explicacao": "BWOC é percentual sobre a massa de cimento: 3% × 94 lb/sk × 200 sk = 564 lb de CaCl₂."
+  },
+  {
+   "id": "ci-0085",
+   "dificuldade": 2,
+   "tema": "Cimentação: aditivos",
+   "enunciado": "Qual a massa de CaCl₂ (lb) para 400 sacos de cimento a 2% BWOC (94 lb/sk)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "752 lb",
+    "940 lb",
+    "1.128 lb",
+    "800 lb",
+    "602 lb"
+   ],
+   "correta": 0,
+   "explicacao": "BWOC é percentual sobre a massa de cimento: 2% × 94 lb/sk × 400 sk = 752 lb de CaCl₂."
+  },
+  {
+   "id": "ci-0086",
+   "dificuldade": 1,
+   "tema": "Cimentação primária e secundária",
+   "enunciado": "Qual o objetivo principal da cimentação primária?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Perfurar a próxima fase",
+    "Medir a pressão de poros",
+    "Controlar a corrosão da broca",
+    "Aumentar a densidade do fluido",
+    "Preencher o anular entre o revestimento e a parede do poço (ou o revestimento anterior) para isolar zonas, suportar e proteger o revestimento"
+   ],
+   "correta": 4,
+   "explicacao": "Isolamento zonal, suporte do peso do revestimento (inclusive de colunas posteriores), proteção contra corrosão e atendimento a normas."
+  },
+  {
+   "id": "ci-0087",
+   "dificuldade": 1,
+   "tema": "Cimentação primária e secundária",
+   "enunciado": "Quais são as três principais razões da cimentação primária (prova)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Estabelecer comunicação hidrocarboneto-superfície, reduzir dano e controlar sobrecarga",
+    "Reduzir dano à formação, comunicar hidrocarboneto e aumentar a pressão",
+    "Fornecer isolamento de zonas, suportar a carga axial da coluna de revestimento e fornecer suporte e proteção ao revestimento",
+    "Aumentar a ROP, reduzir o torque e resfriar a broca",
+    "Controlar o kick, medir a salinidade e estabilizar argilas"
+   ],
+   "correta": 2,
+   "explicacao": "Isolamento, suporte axial e proteção do revestimento são os objetivos. O cimento não serve para criar comunicação com a superfície."
+  },
+  {
+   "id": "ci-0088",
+   "dificuldade": 1,
+   "tema": "Cimentação primária e secundária",
+   "enunciado": "O que é cimentação secundária?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Operações corretivas ou de emergência, como squeezes, tampões e recimentação de anulares",
+    "A primeira cimentação do condutor",
+    "A cimentação com 2 estágios",
+    "A cimentação feita antes da perfuração",
+    "A cimentação com fluido de perfuração"
+   ],
+   "correta": 0,
+   "explicacao": "Squeeze, tampão e recimentação são cimentações secundárias, em geral remediais."
+  },
+  {
+   "id": "ci-0089",
+   "dificuldade": 1,
+   "tema": "Cimentação primária e secundária",
+   "enunciado": "Quando ocorre a recimentação?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Quando o cimento não alcança a altura desejada no anular na cimentação primária e a correção é feita bombeando pasta pela coluna de trabalho, com circulação obtida via canhoneios",
+    "Quando há excesso de pasta na sapata",
+    "Quando se usa liner",
+    "Quando o regime é turbulento acima da Qcrit",
+    "Quando se mede o tempo de espessamento"
+   ],
+   "correta": 0,
+   "explicacao": "A recimentação só é possível quando se consegue circulação pelo anular, por meio de canhoneios no revestimento."
+  },
+  {
+   "id": "ci-0090",
+   "dificuldade": 1,
+   "tema": "Cimentação primária e secundária",
+   "enunciado": "Para que serve um tampão (plug) de cimento?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Separar fluidos durante a cimentação primária",
+    "Tamponar um trecho do poço, em casos de perda de circulação, abandono (total ou parcial) e como base para desvios",
+    "Testar o BOP",
+    "Medir o filtrado",
+    "Aumentar a densidade da lama"
+   ],
+   "correta": 1,
+   "explicacao": "O tampão é bombeado em determinado volume e posicionado no trecho a ser isolado."
+  },
+  {
+   "id": "ci-0091",
+   "dificuldade": 1,
+   "tema": "Cimentação primária e secundária",
+   "enunciado": "Qual a finalidade do squeeze de cimento?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Medir a pressão de fratura",
+    "Reduzir a corrosão da broca",
+    "Substituir a perfuração",
+    "Injeção forçada de pasta sob pressão para corrigir localmente a cimentação primária, sanar vazamentos no revestimento ou bloquear zonas produtoras de água",
+    "Aumentar a densidade do fluido"
+   ],
+   "correta": 3,
+   "explicacao": "Pode ser por hesitação, contínuo, com cement retainer, de baixa ou alta pressão."
+  },
+  {
+   "id": "ci-0092",
+   "dificuldade": 1,
+   "tema": "Cimentação primária e secundária",
+   "enunciado": "O que é cimentação por Top Job?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Uso de estendedores para reduzir a densidade",
+    "Cimento bombeado exclusivamente pelo interior do revestimento e que retorna pela choke line",
+    "Cimentação em dois estágios com colar",
+    "Injeção de cimento a alta pressão para corrigir canalização",
+    "Cimento bombeado pelo anular rev/poço por tubos finos (macaroni) para completar o preenchimento até retorno em superfície"
+   ],
+   "correta": 4,
+   "explicacao": "O Top Job preenche o trecho superior não cimentado, até o retorno de cimento."
+  },
+  {
+   "id": "ci-0093",
+   "dificuldade": 2,
+   "tema": "Cimentação primária e secundária",
+   "enunciado": "Qual a característica marcante da técnica stab-in (inner string)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Usa sempre dois estágios",
+    "Só se aplica ao condutor e sempre com tampões metálicos",
+    "A circulação pelo anular vem de canhoneios",
+    "O cimento é bombeado por uma coluna de drill pipe para o anular, reduzindo contaminação e canalização",
+    "Cimento cura em 28 dias"
+   ],
+   "correta": 3,
+   "explicacao": "Menor volume de deslocamento, menor tempo de operação e menos contaminação."
+  },
+  {
+   "id": "ci-0094",
+   "dificuldade": 1,
+   "tema": "Cimentação primária e secundária",
+   "enunciado": "Por que se faz cimentação em dois ou mais estágios?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Para reduzir o número de sacos em qualquer caso",
+    "Porque o poço é raso",
+    "Para eliminar o colar flutuante",
+    "Para aumentar a hidrostática",
+    "Para reduzir a hidrostática (formação fraca ou gradiente de fratura baixo) e/ou colocar sistema de cimento especial na zona superior"
+   ],
+   "correta": 4,
+   "explicacao": "Janelas estreitas entre poros e fratura são a razão mais comum. Entre estágios usa-se colar de estágio."
+  },
+  {
+   "id": "ci-0095",
+   "dificuldade": 1,
+   "tema": "Cimentação primária e secundária",
+   "enunciado": "Qual o objetivo da fase condutor?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Cobrir revestimento desgastado",
+    "Suportar estimulação",
+    "Servir de liner de produção",
+    "Isolar o reservatório",
+    "Prevenir arrombamento, dar elevação para BOP e bell nipple e proteger areias superficiais da contaminação"
+   ],
+   "correta": 4,
+   "explicacao": "É o primeiro revestimento (ex.: 30\" em poço de 36\"), com grandes excessos, pasta acelerada e cimentação stab-in comum."
+  },
+  {
+   "id": "ci-0096",
+   "dificuldade": 1,
+   "tema": "Cimentação primária e secundária",
+   "enunciado": "Qual a função da fase de superfície?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Servir como liner",
+    "Substituir a fase condutor",
+    "Apenas suportar estimulação",
+    "Isolar a zona de interesse",
+    "Proteger aquíferos superficiais, revestir zonas não consolidadas e de perdas e dar base competente para BOP e cabeça de revestimento"
+   ],
+   "correta": 4,
+   "explicacao": "Cimenta-se até a superfície, com pastas leves estendidas e excessos de 50–150%."
+  },
+  {
+   "id": "ci-0097",
+   "dificuldade": 1,
+   "tema": "Cimentação primária e secundária",
+   "enunciado": "Qual a função da fase intermediária?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Fazer o abandono",
+    "Proteger aquíferos",
+    "Dividir o poço em zonas de trabalho e isolar zonas de alta pressão e não produtivas acima da zona de interesse",
+    "Substituir o liner",
+    "Servir de base de BOP"
+   ],
+   "correta": 2,
+   "explicacao": "Cimenta-se até a sapata do anterior, com pasta de preenchimento seguida de pasta de alta resistência."
+  },
+  {
+   "id": "ci-0098",
+   "dificuldade": 1,
+   "tema": "Cimentação primária e secundária",
+   "enunciado": "Qual a vantagem do liner?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Aumenta o diâmetro do poço",
+    "Elimina o BOP",
+    "Cimentação sem plugs",
+    "Dispensa o cimento",
+    "Menor custo de revestimento, útil em poços profundos e anulares estreitos"
+   ],
+   "correta": 4,
+   "explicacao": "O liner é preso por liner hanger ao revestimento anterior, com overlap."
+  },
+  {
+   "id": "ci-0099",
+   "dificuldade": 2,
+   "tema": "Cimentação primária e secundária",
+   "enunciado": "O volume do poço aberto abaixo da sapata (rat hole) é incluído no cálculo do volume de pasta da cimentação primária.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 1,
+   "explicacao": "O cimento circula para fora da sapata e sobe pelo anular; o rat hole não é calculado."
+  },
+  {
+   "id": "ci-0100",
+   "dificuldade": 2,
+   "tema": "Cimentação primária e secundária",
+   "enunciado": "O excesso de volume é aplicado apenas à seção de poço aberto, e não à seção revestimento/revestimento.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "O excesso compensa irregularidades do poço aberto (washout) e é aplicado só nesse trecho."
+  },
+  {
+   "id": "ci-0101",
+   "dificuldade": 1,
+   "tema": "Acessórios e plugs",
+   "enunciado": "Quais as funções dos plugs de cimentação?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Medir perda de fluido HPHT",
+    "Aumentar a resistência compressiva",
+    "Centralizar o revestimento",
+    "Separar fluidos, limpar internamente o revestimento e indicar o deslocamento da pasta quando o plug assenta no colar",
+    "Aumentar a densidade da pasta"
+   ],
+   "correta": 3,
+   "explicacao": "O plug de fundo (com diafragma) abre-se ao chegar ao colar; o de topo (sólido) fecha o fluxo, indicando o fim do deslocamento."
+  },
+  {
+   "id": "ci-0102",
+   "dificuldade": 1,
+   "tema": "Acessórios e plugs",
+   "enunciado": "Como se diferenciam os plugs de topo e de fundo?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Topo: sólido; fundo: com diafragma e oco por dentro",
+    "Ambos com diafragma",
+    "Topo: metálico; fundo: de madeira",
+    "Topo: com diafragma; fundo: sólido",
+    "Ambos sólidos"
+   ],
+   "correta": 0,
+   "explicacao": "O plug de fundo é bombeado antes da pasta e se rompe no colar, permitindo a passagem do cimento."
+  },
+  {
+   "id": "ci-0103",
+   "dificuldade": 2,
+   "tema": "Acessórios e plugs",
+   "enunciado": "Sobre o colar flutuante (float collar), é correto afirmar que:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Substitui o centralizador em poços horizontais",
+    "É instalado no topo do revestimento para aumentar a vazão",
+    "É instalado geralmente uma junta acima da sapata e ajuda a reduzir a contaminação nas proximidades da sapata",
+    "É instalado acima do BOP para fechar o poço no kick",
+    "É um tampão metálico"
+   ],
+   "correta": 2,
+   "explicacao": "Forma o shoe track, reduz contaminação da pasta e impede o retorno do cimento (válvula de retenção)."
+  },
+  {
+   "id": "ci-0104",
+   "dificuldade": 1,
+   "tema": "Acessórios e plugs",
+   "enunciado": "Para que servem os centralizadores?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Acelerar a pega",
+    "Manter o revestimento centralizado no poço, melhorando o deslocamento da lama e evitando canais",
+    "Fechar o BOP",
+    "Reduzir a pasta",
+    "Medir a densidade"
+   ],
+   "correta": 1,
+   "explicacao": "Rígidos são usados em poços horizontais; flexíveis ou semirrígidos em direcionais. O stand-off deve ser > 75%."
+  },
+  {
+   "id": "ci-0105",
+   "dificuldade": 1,
+   "tema": "Acessórios e plugs",
+   "enunciado": "Qual o objetivo dos arranhadores (scratchers)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Indicar o fim do deslocamento",
+    "Substituir o espaçador",
+    "Remover o reboco da parede, usados com reciprocação (ou rotação) do revestimento",
+    "Aumentar o peso da pasta",
+    "Centralizar o revestimento"
+   ],
+   "correta": 2,
+   "explicacao": "Auxiliam a limpeza mecânica do reboco e a aderência do cimento."
+  },
+  {
+   "id": "ci-0106",
+   "dificuldade": 2,
+   "tema": "Acessórios e plugs",
+   "enunciado": "Qual parâmetro da especificação do revestimento determina o diâmetro interno (ID)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "O tipo de rosca",
+    "O diâmetro externo (OD)",
+    "O grau do aço",
+    "A pressão de colapso",
+    "O peso do revestimento (lb/ft)"
+   ],
+   "correta": 4,
+   "explicacao": "O OD é constante para o tamanho nominal; ao aumentar o peso, aumenta a espessura e diminui o ID. Ex.: 9⅝\" a 53,5 lb/ft, grau C75, burst 7.430 psi, colapso 6.380 psi."
+  },
+  {
+   "id": "ci-0107",
+   "dificuldade": 1,
+   "tema": "Acessórios e plugs",
+   "enunciado": "Quais os tipos de conexão citados para revestimento?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Apenas VAM TOP",
+    "Apenas BTC sem acoplamento",
+    "Flange e solda",
+    "Buttress (vedação nas roscas) e VAM TOP (vedação nas roscas e ressaltos), ambas com acoplamento",
+    "Rosca cônica e hexagonal"
+   ],
+   "correta": 3,
+   "explicacao": "São especificadas junto com OD, peso, grau do aço, burst e colapso."
+  },
+  {
+   "id": "ci-0108",
+   "dificuldade": 2,
+   "tema": "Deslocamento e limpeza",
+   "enunciado": "Quais cuidados no preparo do poço antes da cimentação?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Manter alto teor de sólidos para suportar o reboco",
+    "Circular pelo menos 1 volume do poço, condicionar o fluido (quebrar gel, reduzir YP/PV e sólidos < 6%) e centralizar bem (stand-off > 75%)",
+    "Descer o revestimento rapidamente sem circular",
+    "Parar a circulação para quebrar géis por muito tempo",
+    "Reduzir a vazão a zero antes da pasta"
+   ],
+   "correta": 1,
+   "explicacao": "Boa limpeza, fluido condicionado, rotação e reciprocação do revestimento durante a circulação favorecem o deslocamento."
+  },
+  {
+   "id": "ci-0109",
+   "dificuldade": 2,
+   "tema": "Boas práticas",
+   "enunciado": "Quais as melhores práticas durante a descida do revestimento (prova)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Manter teor alto de sólidos",
+    "Parar sem circular para quebrar géis",
+    "Descer rápido, sem circular, para economizar tempo de sonda",
+    "Garantir boa centralização, descer rotacionando e reciprocando, condicionar o fluido e circular o poço para resfriamento",
+    "Não preencher o revestimento com fluido"
+   ],
+   "correta": 3,
+   "explicacao": "Também: completar com fluido (se não houver auto fill-up) e minimizar a pressão de surgência."
+  },
+  {
+   "id": "ci-0110",
+   "dificuldade": 2,
+   "tema": "Deslocamento e limpeza",
+   "enunciado": "Qual a faixa de Reynolds adotada para tubos (laminar, transicional, turbulento) na cimentação?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Laminar < 20.000",
+    "Laminar < 200; turbulento > 240",
+    "Laminar < 2.000; transitório entre 2.000 e 2.400; turbulento > 2.400",
+    "Laminar > 2.400",
+    "Sempre turbulento"
+   ],
+   "correta": 2,
+   "explicacao": "A planilha de hidráulica de perfuração usa 2.100 como limite; em cimentação adotam-se 2.000 e 2.400."
+  },
+  {
+   "id": "ci-0111",
+   "dificuldade": 3,
+   "tema": "Deslocamento e limpeza",
+   "enunciado": "Quais as condições para o fluxo turbulento ser eficaz no deslocamento?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Vazão abaixo de Qcrit e tempo de 1 min",
+    "Turbulência ao redor de todo o revestimento, vazão mínima ≥ Qcrit e tempo de contato de ~10 minutos",
+    "Apenas laminar",
+    "Reynolds 100",
+    "Poço excêntrico"
+   ],
+   "correta": 1,
+   "explicacao": "O turbulento remove melhor a lama, mas exige vazão acima da crítica e tempo de contato suficiente."
+  },
+  {
+   "id": "ci-0112",
+   "dificuldade": 3,
+   "tema": "Deslocamento e limpeza",
+   "enunciado": "Quais as condições para um deslocamento laminar eficaz?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Densidade crescente (espaçador > lama, pasta > espaçador), hierarquia de pressão de fricção e Ty do fluido deslocante maior que o deslocado",
+    "Ty da lama maior que o da pasta",
+    "Sem hierarquia de reologia",
+    "Poço sem centralização",
+    "Fluido deslocante mais leve que o deslocado"
+   ],
+   "correta": 0,
+   "explicacao": "A hierarquia: densidade do espaçador > 1,1 × lama; da pasta > 1,1 × espaçador; e Ty crescente na ordem de bombeio."
+  },
+  {
+   "id": "ci-0113",
+   "dificuldade": 1,
+   "tema": "Deslocamento e limpeza",
+   "enunciado": "Para que servem os colchões lavadores?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Aumentar a resistência compressiva",
+    "Diluir a lama, remover o reboco por ação química e mecânica, reduzir a tensão interfacial e, com OBM, molhar com água as superfícies",
+    "Aumentar a densidade da pasta",
+    "Controlar o filtrado da pasta",
+    "Acelerar a pega"
+   ],
+   "correta": 1,
+   "explicacao": "São fluidos newtonianos de baixa densidade (água, salmoura, diesel, sistemas especiais), em geral 10 a 40 bbl."
+  },
+  {
+   "id": "ci-0114",
+   "dificuldade": 1,
+   "tema": "Deslocamento e limpeza",
+   "enunciado": "Para que servem os colchões espaçadores?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Reduzir a hidrostática",
+    "Evitar a contaminação entre a pasta e o fluido de perfuração e remover o reboco, melhorando a aderência do cimento",
+    "Aumentar o filtrado",
+    "Substituir o cimento",
+    "Reduzir o tempo de pega"
+   ],
+   "correta": 1,
+   "explicacao": "São fluidos com reologia e densidade ajustáveis (10,5 a 20 ppg ou mais), compatíveis com a lama e com a pasta."
+  },
+  {
+   "id": "ci-0115",
+   "dificuldade": 3,
+   "tema": "Deslocamento e limpeza",
+   "enunciado": "Com lama base óleo, qual a função dos surfactantes no lavador/espaçador?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Acelerar o cimento",
+    "Aumentar a viscosidade",
+    "Inverter a molhabilidade do revestimento e da formação para água, removendo o filme de óleo",
+    "Retardar o cimento",
+    "Aumentar a densidade"
+   ],
+   "correta": 2,
+   "explicacao": "A superfície molhada por água favorece a aderência do cimento."
+  },
+  {
+   "id": "ci-0116",
+   "dificuldade": 1,
+   "tema": "Deslocamento e limpeza",
+   "enunciado": "O que é o stand-off e qual o valor mínimo recomendado?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Filtrado; < 50 mL",
+    "Medida de centralização entre o revestimento e o poço; > 75%",
+    "Um tipo de pasta; > 30%",
+    "Relação água-cimento; 0,44",
+    "Teor de sólidos; < 6%"
+   ],
+   "correta": 1,
+   "explicacao": "Excentricidade gera canais de lama; a centralização deve ser otimizada."
+  },
+  {
+   "id": "ci-0117",
+   "dificuldade": 1,
+   "tema": "Cimentação: testes de pasta",
+   "enunciado": "Quais as principais etapas de teste de uma pasta de cimento?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Densidade, reologia, água livre, filtrado, tempo de espessamento, resistência compressiva e compatibilidade pasta-espaçador-lama",
+    "Apenas MBT",
+    "Apenas teor de areia",
+    "Apenas densidade",
+    "Apenas pH"
+   ],
+   "correta": 0,
+   "explicacao": "Seguem as práticas API RP 10B-2 e 10B-3."
+  },
+  {
+   "id": "ci-0118",
+   "dificuldade": 2,
+   "tema": "Cimentação: testes de pasta",
+   "enunciado": "Por que a pasta é misturada em Waring Blender e em que ordem?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Sem agitação",
+    "Para simular a mistura de campo: água e aditivos líquidos primeiro; cimento e sólidos a 4.000 rpm (15 s) e 12.000 rpm nos 35 s restantes",
+    "A 600 rpm por 10 min",
+    "Apenas com consistômetro",
+    "Cimento primeiro, água depois"
+   ],
+   "correta": 1,
+   "explicacao": "Alta energia de mistura simula o misturador de campo; pastas com microesferas usam procedimento de baixo cisalhamento."
+  },
+  {
+   "id": "ci-0119",
+   "dificuldade": 1,
+   "tema": "Cimentação: testes de pasta",
+   "enunciado": "Qual o objetivo do teste de água livre?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Medir a pressão de poros",
+    "Medir a separação de fluido de uma pasta estática (estabilidade), em 2 horas, expresso em %",
+    "Medir o pH",
+    "Medir a resistência compressiva",
+    "Medir o filtrado a 100 psi"
+   ],
+   "correta": 1,
+   "explicacao": "A baixa estabilidade pode gerar água livre ou sedimentação; a proveta pode ser inclinada para simular poço desviado."
+  },
+  {
+   "id": "ci-0120",
+   "dificuldade": 2,
+   "tema": "Cimentação: testes de pasta",
+   "enunciado": "Que tela e pressões são usadas no teste de filtrado da pasta?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Tela de 10 mesh a 10 psi",
+    "Tela de 325 mesh apoiada em tela de 60 mesh; HPHT a 1.000 psi (baixa pressão de 100 psi só para fluidos de perfuração)",
+    "Sem tela, a 14,7 psi",
+    "Papel de filtro a 100 psi",
+    "Tela de 325 mesh a 5.000 psi"
+   ],
+   "correta": 1,
+   "explicacao": "A tela simula a formação permeável. A célula agitada é preferida por permitir pré-condicionamento no próprio aparelho."
+  },
+  {
+   "id": "ci-0121",
+   "dificuldade": 3,
+   "tema": "Cimentação: testes de pasta",
+   "enunciado": "Quais valores de filtrado API (mL/30 min a 1.000 psi) são recomendados para prevenção de migração de gás?",
+   "tipo": "multipla",
+   "alternativas": [
+    "< 500, < 700 e < 1.000",
+    "Sem limite",
+    "< 5, < 7 e < 10",
+    "< 50 (alta severidade), < 70 (média) e < 100 (baixa)",
+    "< 250, < 150 e < 50"
+   ],
+   "correta": 3,
+   "explicacao": "Também < 50 para poços horizontais, pastas de alta densidade e liners de produção; revestimento de produção: < 250 (leves) e < 150 (pesadas)."
+  },
+  {
+   "id": "ci-0122",
+   "dificuldade": 2,
+   "tema": "Cimentação: testes de pasta",
+   "enunciado": "Qual condição de pasta exige filtrado abaixo de 50 mL/30 min (prova)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Pastas de tampão",
+    "Pastas de superfície",
+    "Pastas de preenchimento",
+    "Qualquer pasta",
+    "Pastas utilizadas em zonas com migração de gás"
+   ],
+   "correta": 4,
+   "explicacao": "Perda de fluido controlada reduz a desidratação e o risco de migração de gás."
+  },
+  {
+   "id": "ci-0123",
+   "dificuldade": 2,
+   "tema": "Cimentação: testes de pasta",
+   "enunciado": "Quais as velocidades do reômetro usadas para pasta de cimento e por que não se usa 600 rpm?",
+   "tipo": "multipla",
+   "alternativas": [
+    "300, 200, 100, 60, 30, 6 e 3 rpm; em 600 rpm os sólidos podem ser centrifugados, mudando a reologia",
+    "1, 2 e 3 rpm",
+    "Apenas 600 rpm",
+    "600 e 300 rpm",
+    "Todas as 7, incluindo 600"
+   ],
+   "correta": 0,
+   "explicacao": "Para Bingham: PV = (θ300 − θ100) × 1,5 e Ty = θ300 − PV. Géis: 10 s e 10 min."
+  },
+  {
+   "id": "ci-0124",
+   "dificuldade": 1,
+   "tema": "Cimentação: testes de pasta",
+   "enunciado": "O que determina o teste de tempo de espessamento (thickening time)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "A densidade",
+    "O período em que a pasta permanece bombeável, em consistômetro pressurizado, simulando BHCT; 70 Bc é o limite",
+    "A resistência compressiva em 24 h",
+    "A água livre",
+    "O filtrado"
+   ],
+   "correta": 1,
+   "explicacao": "O resultado é em unidades Bearden (Bc). A 70 Bc a pasta está espessa demais para bombear. A temperatura relevante é a BHCT (circulante)."
+  },
+  {
+   "id": "ci-0125",
+   "dificuldade": 2,
+   "tema": "Cimentação: testes de pasta",
+   "enunciado": "Qual temperatura é usada no teste de tempo de espessamento e qual no UCA?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Espessamento: BHST; UCA: BHCT",
+    "Espessamento: BHCT (circulante); UCA (resistência compressiva): condições estáticas (BHST)",
+    "Ambos ambiente",
+    "Ambos BHCT",
+    "Ambos BHST"
+   ],
+   "correta": 1,
+   "explicacao": "A pasta é bombeada em condição dinâmica (circulante); depois fica estática, na temperatura do fundo."
+  },
+  {
+   "id": "ci-0126",
+   "dificuldade": 1,
+   "tema": "Cimentação: testes de pasta",
+   "enunciado": "O que mede o UCA (Ultrasonic Cement Analyzer)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "O filtrado",
+    "O tempo de espessamento",
+    "Evolução da resistência compressiva em função do tempo (não destrutivo), pelo tempo de trânsito de onda ultrassônica",
+    "A densidade",
+    "A reologia"
+   ],
+   "correta": 2,
+   "explicacao": "Informa o tempo de cura para checar o topo de cimento e ancoragem."
+  },
+  {
+   "id": "ci-0127",
+   "dificuldade": 2,
+   "tema": "Cimentação: testes de pasta",
+   "enunciado": "Qual variação de densidade é considerada aceitável na pasta misturada em laboratório, em relação ao valor projetado?",
+   "tipo": "multipla",
+   "alternativas": [
+    "± 0,2 lb/gal; variações maiores indicam imprecisão da mistura ou densidade específica fora da especificação em algum componente",
+    "± 0,002 lb/gal",
+    "± 5 lb/gal",
+    "Qualquer variação é aceitável",
+    "± 2 lb/gal"
+   ],
+   "correta": 0,
+   "explicacao": "Em pastas com partículas frágeis (microesferas), mede-se também a densidade com balança pressurizada após o condicionamento."
+  },
+  {
+   "id": "ci-0128",
+   "dificuldade": 2,
+   "tema": "Cimentação: testes de pasta",
+   "enunciado": "Para que serve o condicionamento da pasta no consistômetro atmosférico?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Misturar pasta",
+    "Medir resistência compressiva",
+    "Medir a pressão de poros",
+    "Simular a colocação da pasta da superfície até o fundo, com rampa de temperatura",
+    "Medir filtrado em 30 min"
+   ],
+   "correta": 3,
+   "explicacao": "Antes do teste de filtrado, de reologia e de água livre, a pasta deve ser condicionada."
+  },
+  {
+   "id": "ci-0129",
+   "dificuldade": 3,
+   "tema": "Cimentação: testes de pasta",
+   "enunciado": "O que significam BHST e BHCT?",
+   "tipo": "multipla",
+   "alternativas": [
+    "BHST: temperatura estática de fundo; BHCT: temperatura circulante de fundo",
+    "BHST: circulante; BHCT: estática",
+    "Ambas estáticas",
+    "Ambas circulantes",
+    "BHST: temperatura de superfície"
+   ],
+   "correta": 0,
+   "explicacao": "O consistômetro usa BHCT (espessamento); a cura e o UCA usam BHST."
+  },
+  {
+   "id": "ci-0130",
+   "dificuldade": 1,
+   "tema": "Cimentação: aditivos",
+   "enunciado": "Qual a função do CaCl₂ na pasta e qual a concentração ótima?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Dispersante; 0,1% BWOC",
+    "Estendedor; 50% BWOC",
+    "Retardador; 10% BWOC",
+    "Acelerador: reduz o tempo de espessamento e aumenta a resistência inicial; 1–4% BWOC, ótimo de 2%",
+    "Antiespumante; 5%"
+   ],
+   "correta": 3,
+   "explicacao": "É o acelerador mais eficiente e econômico, muito usado em cimentações de superfície."
+  },
+  {
+   "id": "ci-0131",
+   "dificuldade": 1,
+   "tema": "Cimentação: aditivos",
+   "enunciado": "Como atua o NaCl como aditivo de cimento?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Retarda a < 10%",
+    "Reduz a densidade",
+    "Acelera sempre",
+    "Aumenta o filtrado sempre",
+    "Acelera a < 10% BWOW e retarda acima de 18% BWOW; usado em pastas de sal e em contato com argilas"
+   ],
+   "correta": 4,
+   "explicacao": "O sal é calculado por BWOW (peso da água), não por BWOC."
+  },
+  {
+   "id": "ci-0132",
+   "dificuldade": 1,
+   "tema": "Cimentação: aditivos",
+   "enunciado": "O que são estendedores?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Retardadores",
+    "Antiespumantes",
+    "Aditivos que permitem adicionar mais água (bentonita, silicato) ou reduzir a densidade (microsílica, microesferas) para pastas leves",
+    "Aditivos que aumentam a densidade",
+    "Dispersantes"
+   ],
+   "correta": 2,
+   "explicacao": "Água: pastas de 11,5 a 15 ppg; sólidos de baixa densidade: 9 a 12 ppg."
+  },
+  {
+   "id": "ci-0133",
+   "dificuldade": 1,
+   "tema": "Cimentação: aditivos",
+   "enunciado": "Quais aditivos retardam a pega?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Antiespumantes",
+    "Barita",
+    "Aceleradores",
+    "CaCl₂",
+    "Retardadores (ex.: lignossulfonatos), usados em alta temperatura/profundidade e longos tempos de trabalho"
+   ],
+   "correta": 4,
+   "explicacao": "Selecionam-se pela BHCT esperada, compatibilidade, tipo de cimento e efeito nas propriedades."
+  },
+  {
+   "id": "ci-0134",
+   "dificuldade": 2,
+   "tema": "Cimentação: aditivos",
+   "enunciado": "Para que servem os dispersantes na pasta de cimento?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Acelerar a pega",
+    "Reduzir viscosidade, limite de escoamento e pressão de fricção; melhorar mistura e eficiência do controle de filtrado",
+    "Aumentar a densidade",
+    "Aumentar a viscosidade",
+    "Controlar o gás"
+   ],
+   "correta": 1,
+   "explicacao": "Alguns dispersantes também retardam a pega."
+  },
+  {
+   "id": "ci-0135",
+   "dificuldade": 1,
+   "tema": "Cimentação: aditivos",
+   "enunciado": "Para que servem os antiespumantes?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Aumentar a resistência compressiva",
+    "Evitar espuma, que prejudica a mistura, causa cavitação nas bombas e impede atingir a densidade real",
+    "Diminuir a densidade",
+    "Retardar a pega",
+    "Aumentar o filtrado"
+   ],
+   "correta": 1,
+   "explicacao": "São usados em pequenas doses (ex.: 0,01 gal/sk)."
+  },
+  {
+   "id": "ci-0136",
+   "dificuldade": 1,
+   "tema": "Cimentação: aditivos",
+   "enunciado": "Para que servem os adensantes e qual o exemplo?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Reduzir densidade; microesferas",
+    "Retardar; lignossulfonato",
+    "Elevar a densidade da pasta para formações de alta pressão; barita (sulfato de bário)",
+    "Controlar filtrado; látex",
+    "Acelerar; CaCl₂"
+   ],
+   "correta": 2,
+   "explicacao": "Devem ter alta gravidade específica, granulometria compatível, baixa absorção de água e serem inertes."
+  },
+  {
+   "id": "ci-0137",
+   "dificuldade": 2,
+   "tema": "Cimentação: aditivos",
+   "enunciado": "Qual o efeito dos controladores de filtrado na pasta?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Reduzem a resistência",
+    "Reduzem rendimento, água livre, tempo de espessamento e decantação; aumentam densidade, PV, Ty e resistência",
+    "Aumentam a água livre",
+    "Reduzem a densidade",
+    "Aumentam o filtrado"
+   ],
+   "correta": 1,
+   "explicacao": "Podem ser polímeros ou látex; bloqueiam por partículas ou por polímero."
+  },
+  {
+   "id": "ci-0138",
+   "dificuldade": 3,
+   "tema": "Cimentação: aditivos",
+   "enunciado": "O que é a retrogressão da resistência do cimento e como evitá-la?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Ocorre abaixo de 100 °F; usar CaCl₂",
+    "Ocorre com excesso de água livre; usar bentonita",
+    "É causada por barita; usar estendedor",
+    "Ocorre apenas no gás; usar látex",
+    "Acima de 230 °F o C-S-H converte-se em fase cristalina, reduzindo a resistência e aumentando a permeabilidade; adicionar 35–40% BWOC de sílica"
+   ],
+   "correta": 4,
+   "explicacao": "Usa-se sílica em poços com BHST > 230 °F e injeção de vapor."
+  },
+  {
+   "id": "ci-0139",
+   "dificuldade": 2,
+   "tema": "Cimentação: aditivos",
+   "enunciado": "Qual o papel dos aditivos de perda de circulação (LCM) na pasta?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Aceleram a pega",
+    "Só são usados em fluidos de perfuração",
+    "Aumentam a densidade",
+    "Substituem o cimento",
+    "Evitam perdas em zonas permeáveis, fraturadas ou vugulares, formando rede fibrosa; a concentração deve ser controlada"
+   ],
+   "correta": 4,
+   "explicacao": "Fibras sintéticas e plugs poliméricos podem ser adicionados à pasta. Entupimento do equipamento é o risco."
+  },
+  {
+   "id": "ci-0140",
+   "dificuldade": 2,
+   "tema": "Cimentação: aditivos",
+   "enunciado": "Quais afirmativas sobre aditivos estão corretas (prova)? I. CaCl₂ é acelerador. II. Bentonitas sódicas são estendedores. III. Dispersantes baixam a viscosidade. IV. LCM só se usa em fluidos de perfuração.",
+   "tipo": "multipla",
+   "alternativas": [
+    "II e IV",
+    "Somente IV",
+    "Somente I",
+    "I, II e III",
+    "I e IV"
+   ],
+   "correta": 3,
+   "explicacao": "LCM também é usado na pasta de cimento. As demais (I, II, III) estão corretas segundo a prova."
+  },
+  {
+   "id": "ci-0141",
+   "dificuldade": 1,
+   "tema": "Cimentação: aditivos",
+   "enunciado": "Em que se calcula o aditivo sólido e o líquido?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Sólido: gal/sk; líquido: %BWOC",
+    "Sólido: ppg; líquido: lb/ft",
+    "Todos em ppg",
+    "Sólido: % BWOC (peso do cimento); líquido: gal por saco; sal: BWOW",
+    "Todos em BWOW"
+   ],
+   "correta": 3,
+   "explicacao": "BWOC = by weight of cement; BWOW = by weight of water."
+  },
+  {
+   "id": "ci-0142",
+   "dificuldade": 1,
+   "tema": "Cimentação: avaliação e integridade",
+   "enunciado": "O que avalia o CBL (Cement Bond Log)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "A pressão de poros",
+    "O filtrado",
+    "A qualidade/aderência do cimento ao revestimento, por amplitude do sinal acústico",
+    "A temperatura de cura",
+    "A densidade da pasta"
+   ],
+   "correta": 2,
+   "explicacao": "Menor amplitude indica melhor aderência (ex.: abaixo de 20 mV em bom trecho). O VDL mostra a forma de onda."
+  },
+  {
+   "id": "ci-0143",
+   "dificuldade": 1,
+   "tema": "Cimentação: avaliação e integridade",
+   "enunciado": "O que é o VDL e como complementa o CBL?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Mede a temperatura",
+    "Mede a densidade do fluido",
+    "Mede a resistência",
+    "Variable Density Log: forma de onda acústica; ajuda a interpretar a aderência cimento-formação e identificar canais",
+    "Identifica luvas do revestimento"
+   ],
+   "correta": 3,
+   "explicacao": "CBL mede amplitude; VDL mostra a onda. Juntos avaliam a qualidade da cimentação."
+  },
+  {
+   "id": "ci-0144",
+   "dificuldade": 1,
+   "tema": "Cimentação: avaliação e integridade",
+   "enunciado": "Qual a função do CCL?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Medir o filtrado",
+    "Avaliar a aderência",
+    "Identificar o gás",
+    "Localizar as luvas do revestimento, servindo como referência de profundidade; não avalia a qualidade do cimento",
+    "Medir a resistência"
+   ],
+   "correta": 3,
+   "explicacao": "O gamma ray correlaciona formações; CCL correlaciona profundidade."
+  },
+  {
+   "id": "ci-0145",
+   "dificuldade": 1,
+   "tema": "Cimentação: avaliação e integridade",
+   "enunciado": "Para que serve o teste FIT?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Fraturar a formação até o rompimento",
+    "Medir o filtrado",
+    "Medir a pega",
+    "Verificar se a formação suporta a pressão-alvo, parando o bombeio antes de fraturar",
+    "Medir salinidade"
+   ],
+   "correta": 3,
+   "explicacao": "No FIT, bombeia-se até a pressão desejada e interrompe-se antes da fratura."
+  },
+  {
+   "id": "ci-0146",
+   "dificuldade": 1,
+   "tema": "Cimentação: avaliação e integridade",
+   "enunciado": "O que o LOT (Leak-Off Test) determina?",
+   "tipo": "multipla",
+   "alternativas": [
+    "A temperatura de fundo",
+    "A resistência do cimento",
+    "A viscosidade",
+    "A pressão na qual a formação começa a perder fluido/fraturar, definindo limites seguros de pressão (compressão elástica, crescimento estável e instável da fratura)",
+    "A densidade da pasta"
+   ],
+   "correta": 3,
+   "explicacao": "O ponto de leak-off (LP) é onde a curva pressão × volume sai da linearidade."
+  },
+  {
+   "id": "ci-0147",
+   "dificuldade": 3,
+   "tema": "Cimentação: avaliação e integridade",
+   "enunciado": "O que acrescenta o XLOT ao LOT?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Mede o filtrado",
+    "Extende o teste com ciclos de fechamento e reabertura, identificando ISIP, FCP e FRP para estimar a tensão horizontal mínima (Shmin)",
+    "Mede a resistência compressiva",
+    "Mede a densidade",
+    "Substitui a cimentação"
+   ],
+   "correta": 1,
+   "explicacao": "Dá maior precisão para estabilidade do poço e janela operacional."
+  },
+  {
+   "id": "ci-0148",
+   "dificuldade": 2,
+   "tema": "Cimentação: avaliação e integridade",
+   "enunciado": "Para que serve o teste de segurança pressão hidrostática/dinâmica no projeto?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Comparar com pressão de poros, de fratura, de ruptura e de colapso do revestimento, simulando o esquema de bombeio",
+    "Medir o filtrado",
+    "Medir o pH",
+    "Medir o MBT",
+    "Medir a viscosidade"
+   ],
+   "correta": 0,
+   "explicacao": "Garante que a cimentação não fraturará a formação nem romperá o revestimento."
+  },
+  {
+   "id": "ci-0149",
+   "dificuldade": 3,
+   "tema": "Cimentação: avaliação e integridade",
+   "enunciado": "O que são as quatro fases de ajuste da pasta e quando o gás deixa de invadir?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Não há fases",
+    "Líquido, sólido, gás e vapor",
+    "Líquido, gelificação precoce, hidratação (partículas se tocam) e cimento endurecido; após a pega o gás não invade mais",
+    "Mistura, bombeio, deslocamento e pega",
+    "Espessamento, água livre, filtrado e densidade"
+   ],
+   "correta": 2,
+   "explicacao": "O período crítico de hidratação é aquele em que a pressão hidrostática cai e o gás pode invadir."
+  },
+  {
+   "id": "ci-0150",
+   "dificuldade": 2,
+   "tema": "Cimentação: avaliação e integridade",
+   "enunciado": "O objetivo da avaliação da cimentação é comparar o resultado com os objetivos do trabalho: topo de cimento, vedação da sapata e isolamento zonal.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "Falhas exigem cimentação remedial, com perda de tempo de sonda e custo."
+  },
+  {
+   "id": "ci-0151",
+   "dificuldade": 3,
+   "tema": "Cimentação primária e secundária",
+   "enunciado": "Sobre cimentação, considere:",
+   "tipo": "combinacao",
+   "afirmativas": [
+    "I. Top Job é feito pelo anular com tubos finos até obter retorno em superfície.",
+    "II. Stab-in bombeia o cimento por uma coluna de drill pipe até o anular.",
+    "III. A recimentação independe de circulação pelo anular."
+   ],
+   "alternativas": [
+    "Apenas I",
+    "Apenas I e II",
+    "Apenas I e III",
+    "Apenas II e III",
+    "I, II e III"
+   ],
+   "correta": 1,
+   "explicacao": "III é falsa: a recimentação só é feita quando se consegue circulação pelo anular, via canhoneios."
+  },
+  {
+   "id": "ci-0152",
+   "dificuldade": 3,
+   "tema": "Cimentação: testes de pasta",
+   "enunciado": "Sobre os testes de pasta, considere:",
+   "tipo": "combinacao",
+   "afirmativas": [
+    "I. O tempo de espessamento usa a BHCT.",
+    "II. O UCA mede a resistência compressiva de forma não destrutiva.",
+    "III. A reologia da pasta usa 600 rpm."
+   ],
+   "alternativas": [
+    "Apenas I",
+    "Apenas III",
+    "Apenas I e II",
+    "Apenas II e III",
+    "I, II e III"
+   ],
+   "correta": 2,
+   "explicacao": "III é falsa: 600 rpm não é usada em pastas, pois os sólidos podem ser centrifugados."
+  },
+  {
+   "id": "ci-0153",
+   "dificuldade": 3,
+   "tema": "Cimentação: aditivos",
+   "enunciado": "Sobre aditivos, considere:",
+   "tipo": "combinacao",
+   "afirmativas": [
+    "I. O CaCl₂ é um acelerador.",
+    "II. O NaCl, acima de 18% BWOW, retarda a pega.",
+    "III. Os dispersantes aumentam a viscosidade da pasta."
+   ],
+   "alternativas": [
+    "Apenas II",
+    "Apenas III",
+    "Apenas I e II",
+    "Apenas II e III",
+    "I, II e III"
+   ],
+   "correta": 2,
+   "explicacao": "III é falsa: dispersantes reduzem viscosidade e Ty."
+  },
+  {
+   "id": "ci-0154",
+   "dificuldade": 2,
+   "tema": "Deslocamento e limpeza",
+   "enunciado": "Sobre o deslocamento do fluido, considere:",
+   "tipo": "combinacao",
+   "afirmativas": [
+    "I. Stand-off acima de 75% favorece a remoção da lama.",
+    "II. Durante a descida, deve-se rotacionar e reciprocar o revestimento.",
+    "III. O teor de sólidos da lama deve ser mantido alto antes da cimentação."
+   ],
+   "alternativas": [
+    "Apenas II",
+    "Apenas I e II",
+    "Apenas I e III",
+    "Apenas II e III",
+    "I, II e III"
+   ],
+   "correta": 1,
+   "explicacao": "III é falsa: o teor de sólidos deve ser baixo (< 6%)."
+  },
+  {
+   "id": "ci-0155",
+   "dificuldade": 2,
+   "tema": "Cimentação: aditivos",
+   "enunciado": "Assinale a INCORRETA sobre aditivos de cimento:",
+   "tipo": "incorreta",
+   "alternativas": [
+    "Os estendedores permitem pastas mais leves",
+    "O CaCl₂ acelera a pega",
+    "A barita é adensante",
+    "Antiespumantes evitam cavitação nas bombas",
+    "Os dispersantes aumentam a viscosidade e a pressão de fricção"
+   ],
+   "correta": 4,
+   "explicacao": "Os dispersantes reduzem a viscosidade, o Ty e a pressão de fricção."
+  },
+  {
+   "id": "ci-0156",
+   "dificuldade": 3,
+   "tema": "Cimentação: testes de pasta",
+   "enunciado": "Assinale a INCORRETA sobre os testes de pasta:",
+   "tipo": "incorreta",
+   "alternativas": [
+    "O UCA mede a resistência compressiva",
+    "O teste de tempo de espessamento é feito na BHST",
+    "A água livre é medida em % após 2 h",
+    "A célula de filtrado usa tela de 325 mesh",
+    "O limite de 70 Bc indica pasta muito espessa para bombear"
+   ],
+   "correta": 1,
+   "explicacao": "O espessamento usa a BHCT (temperatura circulante), simulando a condição dinâmica."
+  }
+ ],
+ "flashcards": [
+  {
+   "id": "ci-f001",
+   "frente": "Cimentação primária",
+   "verso": "Preencher o anular revestimento/poço (ou revestimento anterior) para: isolar zonas, suportar a carga axial, proteger o revestimento e atender a regulação."
+  },
+  {
+   "id": "ci-f002",
+   "frente": "Cimentação secundária",
+   "verso": "Squeezes, tampões e recimentação: operações corretivas ou de emergência."
+  },
+  {
+   "id": "ci-f003",
+   "frente": "Recimentação",
+   "verso": "Corrige cimentação primária cujo cimento não atingiu a altura desejada. Exige circulação pelo anular (via canhoneios), bombeando pela coluna de trabalho."
+  },
+  {
+   "id": "ci-f004",
+   "frente": "Squeeze",
+   "verso": "Injeção forçada de pasta sob pressão: corrige a cimentação primária, sana vazamentos e bloqueia zonas que produzem água. Tipos: hesitação, contínuo, com retainer, baixa/alta pressão."
+  },
+  {
+   "id": "ci-f005",
+   "frente": "Top Job",
+   "verso": "Cimento pelo anular com tubos finos (macaroni) para completar o preenchimento até retorno em superfície."
+  },
+  {
+   "id": "ci-f006",
+   "frente": "Stab-in (inner string)",
+   "verso": "Cimento bombeado por drill pipe até o anular: menos contaminação, menos canalização, menor volume de deslocamento e menor tempo."
+  },
+  {
+   "id": "ci-f007",
+   "frente": "Cimentação em 2 estágios",
+   "verso": "Reduz a hidrostática (fratura baixa) e permite sistema especial na zona superior; colar de estágio entre os estágios."
+  },
+  {
+   "id": "ci-f008",
+   "frente": "Fases do poço e revestimentos",
+   "verso": "Condutor (30\" em 36\"); superfície (13⅜\" em 17½\"); intermediário (9⅝\" em 12¼\"); produção (7\" em 8¾\") ou liner."
+  },
+  {
+   "id": "ci-f009",
+   "frente": "Colar flutuante",
+   "verso": "Uma junta acima da sapata. Reduz contaminação perto da sapata e forma o shoe track; válvula de retenção."
+  },
+  {
+   "id": "ci-f010",
+   "frente": "Plugs de cimentação",
+   "verso": "Separam fluidos, limpam o interior do revestimento e indicam o fim do deslocamento. Fundo: com diafragma; topo: sólido."
+  },
+  {
+   "id": "ci-f011",
+   "frente": "Centralizadores e arranhadores",
+   "verso": "Centralizadores: stand-off > 75% (rígidos em horizontal, flexíveis em direcional). Arranhadores: removem reboco com reciprocação."
+  },
+  {
+   "id": "ci-f012",
+   "frente": "Peso do revestimento",
+   "verso": "Determina o ID (OD fixo). Também são especificados grau do aço, burst, colapso e rosca (Buttress, VAM TOP)."
+  },
+  {
+   "id": "ci-f013",
+   "frente": "Cálculo dos volumes",
+   "verso": "1) shoe track; 2) anular pasta pesada (OH); 3) anular pasta leve (OH); 4) anular rev/rev (leve); 5) deslocamento (superfície ao colar). Rat hole não entra."
+  },
+  {
+   "id": "ci-f014",
+   "frente": "Excesso",
+   "verso": "Adicionado só ao volume anular de poço aberto, para compensar irregularidades. Ex.: 50% → × 1,5."
+  },
+  {
+   "id": "ci-f015",
+   "frente": "Capacidade (ft³/ft)",
+   "verso": "Interior: D²/183,35. Anular: (D² − d²)/183,35. 1 bbl = 5,6146 ft³."
+  },
+  {
+   "id": "ci-f016",
+   "frente": "Sacos de cimento",
+   "verso": "Sacos = volume (ft³)/rendimento (ft³/sk). Classe G 15,8 ppg: 1,15 ft³/sk e 4,97 gal/sk; 13,9 ppg: 1,655 ft³/sk e 8,56 gal/sk."
+  },
+  {
+   "id": "ci-f017",
+   "frente": "Água e aditivos",
+   "verso": "Água (bbl) = sacos × gal/sk ÷ 42. Sólidos: % BWOC (× 94 lb/sk). Líquidos: gal/sk. Sal: BWOW."
+  },
+  {
+   "id": "ci-f018",
+   "frente": "Tempo de pega mínimo",
+   "verso": "Tempo de trabalho = mistura + bombeio + 10 min (plugs) + deslocamento. Pega mínima = maior entre 1,5 × trabalho e trabalho + 2 h."
+  },
+  {
+   "id": "ci-f019",
+   "frente": "HHP",
+   "verso": "HHP = P (psi) × Q (bpm)/40,8. Ex.: 2.245 psi e 8,5 bpm → 468 hhp."
+  },
+  {
+   "id": "ci-f020",
+   "frente": "Condicionamento do poço",
+   "verso": "Circular ≥ 1 volume, quebrar géis, sólidos < 6%, stand-off > 75%, rotacionar e reciprocar o revestimento."
+  },
+  {
+   "id": "ci-f021",
+   "frente": "Regimes de fluxo no deslocamento",
+   "verso": "Re < 2.000 laminar; 2.000–2.400 transitório; > 2.400 turbulento. Turbulento: vazão ≥ Qcrit e ~10 min de contato."
+  },
+  {
+   "id": "ci-f022",
+   "frente": "Deslocamento laminar",
+   "verso": "Densidade crescente (espaçador > lama; pasta > espaçador), pressão de fricção hierárquica e Ty do deslocante > Ty do deslocado."
+  },
+  {
+   "id": "ci-f023",
+   "frente": "Lavadores e espaçadores",
+   "verso": "Lavador: newtoniano de baixa densidade (10–40 bbl), dilui a lama. Espaçador: evita contaminação e remove reboco; 10,5–20 ppg."
+  },
+  {
+   "id": "ci-f024",
+   "frente": "Mistura em laboratório",
+   "verso": "Waring Blender: água e líquidos primeiro; sólidos a 4.000 rpm (15 s) e 12.000 rpm (35 s). Densidade ± 0,2 lb/gal."
+  },
+  {
+   "id": "ci-f025",
+   "frente": "Água livre",
+   "verso": "Separação de fluido da pasta estática, 2 h, em %. Pode ser testada inclinada."
+  },
+  {
+   "id": "ci-f026",
+   "frente": "Filtrado da pasta",
+   "verso": "Tela 325 mesh, HPHT 1.000 psi, 30 min. Se desidrata antes: FL = 2·Ft·(5,477/√t). Se não: 2 × Ft."
+  },
+  {
+   "id": "ci-f027",
+   "frente": "Filtrado recomendado",
+   "verso": "Gás: < 50 (alta), < 70 (média), < 100 (baixa). Horizontal, alta densidade e liner: < 50. Produção: < 250 (leve), < 150 (pesada)."
+  },
+  {
+   "id": "ci-f028",
+   "frente": "Reologia da pasta",
+   "verso": "300, 200, 100, 60, 30, 6, 3 rpm (sem 600). PV = (θ300 − θ100) × 1,5; Ty = θ300 − PV. Géis 10 s e 10 min."
+  },
+  {
+   "id": "ci-f029",
+   "frente": "Tempo de espessamento",
+   "verso": "Tempo bombeável da pasta, em consistômetro pressurizado, na BHCT; 70 Bc = muito espessa. Em Bc."
+  },
+  {
+   "id": "ci-f030",
+   "frente": "UCA",
+   "verso": "Analisador ultrassônico: resistência compressiva × tempo, não destrutivo, em condições estáticas (BHST)."
+  },
+  {
+   "id": "ci-f031",
+   "frente": "Aditivos: aceleradores e retardadores",
+   "verso": "CaCl₂ (1–4% BWOC; ótimo 2%) acelera. NaCl acelera < 10% e retarda > 18% BWOW. Retardadores: lignossulfonato, altas T e profundidade."
+  },
+  {
+   "id": "ci-f032",
+   "frente": "Aditivos: estendedores e adensantes",
+   "verso": "Estendedores: bentonita, silicato (11,5–15 ppg); microsílica e microesferas (9–12 ppg). Adensante: barita."
+  },
+  {
+   "id": "ci-f033",
+   "frente": "Aditivos: dispersantes e antiespumantes",
+   "verso": "Dispersantes: reduzem viscosidade, Ty e fricção. Antiespumantes evitam espuma e cavitação na bomba."
+  },
+  {
+   "id": "ci-f034",
+   "frente": "Retrogressão",
+   "verso": "Acima de 230 °F o C-S-H cristaliza, reduzindo resistência e aumentando permeabilidade. Prevenção: 35–40% BWOC de sílica."
+  },
+  {
+   "id": "ci-f035",
+   "frente": "CBL, VDL e CCL",
+   "verso": "CBL: amplitude (aderência cimento-revestimento). VDL: forma de onda. CCL: luvas (profundidade). GR: correlação de formações."
+  },
+  {
+   "id": "ci-f036",
+   "frente": "FIT, LOT e XLOT",
+   "verso": "FIT: pressão-alvo sem fraturar. LOT: leak-off (LP) e limite de fratura. XLOT: ciclos de fechamento e reabertura (ISIP, FCP, FRP, Shmin)."
+  }
+ ]
+}

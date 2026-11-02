@@ -1,0 +1,1898 @@
+{
+ "id": "solidos",
+ "perguntas": [
+  {
+   "id": "so-0001",
+   "dificuldade": 2,
+   "tema": "Controle de sólidos: cálculos",
+   "enunciado": "Qual a pressão ideal na entrada de um hidrociclone (head de 75 ft) com fluido de 9,0 ppg (P = 0,052 · ρ · 75)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "43,9 psi",
+    "52,7 psi",
+    "45,6 psi",
+    "28,1 psi",
+    "35,1 psi"
+   ],
+   "correta": 4,
+   "explicacao": "P = 0,052 × 9,0 × 75 = 35,1 psi. Os cones são projetados para operar com 75 ft de carga na entrada."
+  },
+  {
+   "id": "so-0002",
+   "dificuldade": 2,
+   "tema": "Controle de sólidos: cálculos",
+   "enunciado": "Qual a pressão ideal na entrada de um hidrociclone (head de 75 ft) com fluido de 10,2 ppg (P = 0,052 · ρ · 75)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "31,8 psi",
+    "51,7 psi",
+    "49,8 psi",
+    "59,7 psi",
+    "39,8 psi"
+   ],
+   "correta": 4,
+   "explicacao": "P = 0,052 × 10,2 × 75 = 39,8 psi. Os cones são projetados para operar com 75 ft de carga na entrada."
+  },
+  {
+   "id": "so-0003",
+   "dificuldade": 2,
+   "tema": "Controle de sólidos: cálculos",
+   "enunciado": "Qual a pressão ideal na entrada de um hidrociclone (head de 75 ft) com fluido de 11,5 ppg (P = 0,052 · ρ · 75)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "58,3 psi",
+    "35,9 psi",
+    "44,9 psi",
+    "67,3 psi",
+    "56,1 psi"
+   ],
+   "correta": 2,
+   "explicacao": "P = 0,052 × 11,5 × 75 = 44,9 psi. Os cones são projetados para operar com 75 ft de carga na entrada."
+  },
+  {
+   "id": "so-0004",
+   "dificuldade": 2,
+   "tema": "Controle de sólidos: cálculos",
+   "enunciado": "Qual a pressão ideal na entrada de um hidrociclone (head de 75 ft) com fluido de 12,5 ppg (P = 0,052 · ρ · 75)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "63,4 psi",
+    "39,0 psi",
+    "61,0 psi",
+    "73,2 psi",
+    "48,8 psi"
+   ],
+   "correta": 4,
+   "explicacao": "P = 0,052 × 12,5 × 75 = 48,8 psi. Os cones são projetados para operar com 75 ft de carga na entrada."
+  },
+  {
+   "id": "so-0005",
+   "dificuldade": 2,
+   "tema": "Controle de sólidos: cálculos",
+   "enunciado": "Qual a pressão ideal na entrada de um hidrociclone (head de 75 ft) com fluido de 14,0 ppg (P = 0,052 · ρ · 75)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "54,6 psi",
+    "68,2 psi",
+    "81,9 psi",
+    "71,0 psi",
+    "43,7 psi"
+   ],
+   "correta": 0,
+   "explicacao": "P = 0,052 × 14,0 × 75 = 54,6 psi. Os cones são projetados para operar com 75 ft de carga na entrada."
+  },
+  {
+   "id": "so-0006",
+   "dificuldade": 2,
+   "tema": "Controle de sólidos: cálculos",
+   "enunciado": "Qual a pressão ideal na entrada de um hidrociclone (head de 75 ft) com fluido de 8,6 ppg (P = 0,052 · ρ · 75)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "50,2 psi",
+    "33,5 psi",
+    "43,6 psi",
+    "26,8 psi",
+    "41,9 psi"
+   ],
+   "correta": 1,
+   "explicacao": "P = 0,052 × 8,6 × 75 = 33,5 psi. Os cones são projetados para operar com 75 ft de carga na entrada."
+  },
+  {
+   "id": "so-0007",
+   "dificuldade": 3,
+   "tema": "Controle de sólidos: cálculos",
+   "enunciado": "Um desareiador de 3 cones de 10 in opera com fluido de 10,2 ppg. Qual a pressão ideal de entrada e a faixa de vazão total a alimentar? (vazão por cone: 6\" = 100–120; 8\" = 200–240; 10\" = 400–500; 12\" = 500–600 gpm)",
+   "tipo": "multipla",
+   "alternativas": [
+    "39,8 psi e 2.400–3.000 gpm",
+    "4,0 psi e 1.200–1.500 gpm",
+    "51,7 psi e 1.200–1.500 gpm",
+    "39,8 psi e 400–500 gpm",
+    "39,8 psi e 1.200–1.500 gpm"
+   ],
+   "correta": 4,
+   "explicacao": "P = 0,052 × 10,2 × 75 = 39,8 psi. Vazão total = 3 cones × (400–500) gpm = 1.200–1.500 gpm."
+  },
+  {
+   "id": "so-0008",
+   "dificuldade": 3,
+   "tema": "Controle de sólidos: cálculos",
+   "enunciado": "Um desareiador de 2 cones de 12 in opera com fluido de 11,0 ppg. Qual a pressão ideal de entrada e a faixa de vazão total a alimentar? (vazão por cone: 6\" = 100–120; 8\" = 200–240; 10\" = 400–500; 12\" = 500–600 gpm)",
+   "tipo": "multipla",
+   "alternativas": [
+    "42,9 psi e 500–600 gpm",
+    "42,9 psi e 1.000–1.200 gpm",
+    "4,3 psi e 1.000–1.200 gpm",
+    "55,8 psi e 1.000–1.200 gpm",
+    "42,9 psi e 2.000–2.400 gpm"
+   ],
+   "correta": 1,
+   "explicacao": "P = 0,052 × 11,0 × 75 = 42,9 psi. Vazão total = 2 cones × (500–600) gpm = 1.000–1.200 gpm."
+  },
+  {
+   "id": "so-0009",
+   "dificuldade": 3,
+   "tema": "Controle de sólidos: cálculos",
+   "enunciado": "Um desareiador de 4 cones de 8 in opera com fluido de 9,5 ppg. Qual a pressão ideal de entrada e a faixa de vazão total a alimentar? (vazão por cone: 6\" = 100–120; 8\" = 200–240; 10\" = 400–500; 12\" = 500–600 gpm)",
+   "tipo": "multipla",
+   "alternativas": [
+    "3,7 psi e 800–960 gpm",
+    "37,0 psi e 200–240 gpm",
+    "37,0 psi e 1.600–1.920 gpm",
+    "37,0 psi e 800–960 gpm",
+    "48,2 psi e 800–960 gpm"
+   ],
+   "correta": 3,
+   "explicacao": "P = 0,052 × 9,5 × 75 = 37,0 psi. Vazão total = 4 cones × (200–240) gpm = 800–960 gpm."
+  },
+  {
+   "id": "so-0010",
+   "dificuldade": 3,
+   "tema": "Controle de sólidos: cálculos",
+   "enunciado": "Um desareiador de 3 cones de 6 in opera com fluido de 9,0 ppg. Qual a pressão ideal de entrada e a faixa de vazão total a alimentar? (vazão por cone: 6\" = 100–120; 8\" = 200–240; 10\" = 400–500; 12\" = 500–600 gpm)",
+   "tipo": "multipla",
+   "alternativas": [
+    "35,1 psi e 100–120 gpm",
+    "3,5 psi e 300–360 gpm",
+    "45,6 psi e 300–360 gpm",
+    "35,1 psi e 300–360 gpm",
+    "35,1 psi e 600–720 gpm"
+   ],
+   "correta": 3,
+   "explicacao": "P = 0,052 × 9,0 × 75 = 35,1 psi. Vazão total = 3 cones × (100–120) gpm = 300–360 gpm."
+  },
+  {
+   "id": "so-0011",
+   "dificuldade": 3,
+   "tema": "Controle de sólidos: cálculos",
+   "enunciado": "Um desareiador de 2 cones de 10 in opera com fluido de 12,0 ppg. Qual a pressão ideal de entrada e a faixa de vazão total a alimentar? (vazão por cone: 6\" = 100–120; 8\" = 200–240; 10\" = 400–500; 12\" = 500–600 gpm)",
+   "tipo": "multipla",
+   "alternativas": [
+    "46,8 psi e 800–1.000 gpm",
+    "60,8 psi e 800–1.000 gpm",
+    "4,7 psi e 800–1.000 gpm",
+    "46,8 psi e 1.600–2.000 gpm",
+    "46,8 psi e 400–500 gpm"
+   ],
+   "correta": 0,
+   "explicacao": "P = 0,052 × 12,0 × 75 = 46,8 psi. Vazão total = 2 cones × (400–500) gpm = 800–1.000 gpm."
+  },
+  {
+   "id": "so-0012",
+   "dificuldade": 3,
+   "tema": "Controle de sólidos: cálculos",
+   "enunciado": "Em fluido de 1,10 g/cm³, qual o diâmetro de um sólido perfurado (ρ = 2,65 g/cm³) que sedimenta com a mesma velocidade de uma partícula de barita (ρ = 4,25 g/cm³) de 5 µm? (Stokes: d1²·(ρ1 − ρf) = d2²·(ρ2 − ρf))",
+   "tipo": "multipla",
+   "alternativas": [
+    "3,5 µm",
+    "10,2 µm",
+    "5,0 µm",
+    "10,0 µm",
+    "7,1 µm"
+   ],
+   "correta": 4,
+   "explicacao": "d2/d1 = √[(4,25 − 1,10)/(2,65 − 1,10)] = 1,43; d2 = 5 × 1,43 = 7,1 µm. É o diâmetro equivalente: o sólido perfurado é maior que a barita."
+  },
+  {
+   "id": "so-0013",
+   "dificuldade": 3,
+   "tema": "Controle de sólidos: cálculos",
+   "enunciado": "Em fluido de 1,20 g/cm³, qual o diâmetro de um sólido perfurado (ρ = 2,60 g/cm³) que sedimenta com a mesma velocidade de uma partícula de barita (ρ = 4,20 g/cm³) de 8 µm? (Stokes: d1²·(ρ1 − ρf) = d2²·(ρ2 − ρf))",
+   "tipo": "multipla",
+   "alternativas": [
+    "8,0 µm",
+    "16,4 µm",
+    "11,7 µm",
+    "5,5 µm",
+    "17,1 µm"
+   ],
+   "correta": 2,
+   "explicacao": "d2/d1 = √[(4,20 − 1,20)/(2,60 − 1,20)] = 1,46; d2 = 8 × 1,46 = 11,7 µm. É o diâmetro equivalente: o sólido perfurado é maior que a barita."
+  },
+  {
+   "id": "so-0014",
+   "dificuldade": 3,
+   "tema": "Controle de sólidos: cálculos",
+   "enunciado": "Em fluido de 1,05 g/cm³, qual o diâmetro de um sólido perfurado (ρ = 2,65 g/cm³) que sedimenta com a mesma velocidade de uma partícula de barita (ρ = 4,25 g/cm³) de 10 µm? (Stokes: d1²·(ρ1 − ρf) = d2²·(ρ2 − ρf))",
+   "tipo": "multipla",
+   "alternativas": [
+    "14,1 µm",
+    "19,8 µm",
+    "20,0 µm",
+    "10,0 µm",
+    "7,1 µm"
+   ],
+   "correta": 0,
+   "explicacao": "d2/d1 = √[(4,25 − 1,05)/(2,65 − 1,05)] = 1,41; d2 = 10 × 1,41 = 14,1 µm. É o diâmetro equivalente: o sólido perfurado é maior que a barita."
+  },
+  {
+   "id": "so-0015",
+   "dificuldade": 3,
+   "tema": "Controle de sólidos: cálculos",
+   "enunciado": "Em fluido de 1,30 g/cm³, qual o diâmetro de um sólido perfurado (ρ = 2,70 g/cm³) que sedimenta com a mesma velocidade de uma partícula de barita (ρ = 4,20 g/cm³) de 6 µm? (Stokes: d1²·(ρ1 − ρf) = d2²·(ρ2 − ρf))",
+   "tipo": "multipla",
+   "alternativas": [
+    "6,0 µm",
+    "12,4 µm",
+    "8,6 µm",
+    "4,2 µm",
+    "12,1 µm"
+   ],
+   "correta": 2,
+   "explicacao": "d2/d1 = √[(4,20 − 1,30)/(2,70 − 1,30)] = 1,44; d2 = 6 × 1,44 = 8,6 µm. É o diâmetro equivalente: o sólido perfurado é maior que a barita."
+  },
+  {
+   "id": "so-0016",
+   "dificuldade": 3,
+   "tema": "Controle de sólidos: cálculos",
+   "enunciado": "Em fluido de 1,10 g/cm³, qual o diâmetro de um sólido perfurado (ρ = 2,60 g/cm³) que sedimenta com a mesma velocidade de uma partícula de barita (ρ = 4,20 g/cm³) de 12 µm? (Stokes: d1²·(ρ1 − ρf) = d2²·(ρ2 − ρf))",
+   "tipo": "multipla",
+   "alternativas": [
+    "12,0 µm",
+    "17,3 µm",
+    "8,3 µm",
+    "24,2 µm",
+    "24,8 µm"
+   ],
+   "correta": 1,
+   "explicacao": "d2/d1 = √[(4,20 − 1,10)/(2,60 − 1,10)] = 1,44; d2 = 12 × 1,44 = 17,3 µm. É o diâmetro equivalente: o sólido perfurado é maior que a barita."
+  },
+  {
+   "id": "so-0017",
+   "dificuldade": 3,
+   "tema": "Controle de sólidos: cálculos",
+   "enunciado": "Um cone de 4\" com head de 75 ft separa 50% dos sólidos de 12 µm (2,6 g/cm³) em água (1 cP). Qual o D50 para um fluido de 10 cP, com a mesma densidade (d1²/μ1 = d2²/μ2)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "37,9 µm",
+    "53,1 µm",
+    "21,3 µm",
+    "60,0 µm",
+    "120,0 µm"
+   ],
+   "correta": 0,
+   "explicacao": "d2² = 12² × 10/1 → d2 = 12 × √10 = 37,9 µm. O D50 aumenta com a raiz da viscosidade: fluidos viscosos separam pior."
+  },
+  {
+   "id": "so-0018",
+   "dificuldade": 3,
+   "tema": "Controle de sólidos: cálculos",
+   "enunciado": "Um cone de 4\" com head de 75 ft separa 50% dos sólidos de 12 µm (2,6 g/cm³) em água (1 cP). Qual o D50 para um fluido de 20 cP, com a mesma densidade (d1²/μ1 = d2²/μ2)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "53,7 µm",
+    "25,4 µm",
+    "67,1 µm",
+    "120,0 µm",
+    "75,1 µm"
+   ],
+   "correta": 0,
+   "explicacao": "d2² = 12² × 20/1 → d2 = 12 × √20 = 53,7 µm. O D50 aumenta com a raiz da viscosidade: fluidos viscosos separam pior."
+  },
+  {
+   "id": "so-0019",
+   "dificuldade": 3,
+   "tema": "Controle de sólidos: cálculos",
+   "enunciado": "Um cone de 4\" com head de 75 ft separa 50% dos sólidos de 12 µm (2,6 g/cm³) em água (1 cP). Qual o D50 para um fluido de 30 cP, com a mesma densidade (d1²/μ1 = d2²/μ2)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "28,1 µm",
+    "65,7 µm",
+    "180,0 µm",
+    "82,1 µm",
+    "92,0 µm"
+   ],
+   "correta": 1,
+   "explicacao": "d2² = 12² × 30/1 → d2 = 12 × √30 = 65,7 µm. O D50 aumenta com a raiz da viscosidade: fluidos viscosos separam pior."
+  },
+  {
+   "id": "so-0020",
+   "dificuldade": 3,
+   "tema": "Controle de sólidos: cálculos",
+   "enunciado": "Um cone de 4\" com head de 75 ft separa 50% dos sólidos de 12 µm (2,6 g/cm³) em água (1 cP). Qual o D50 para um fluido de 40 cP, com a mesma densidade (d1²/μ1 = d2²/μ2)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "30,2 µm",
+    "240,0 µm",
+    "106,3 µm",
+    "75,9 µm",
+    "94,9 µm"
+   ],
+   "correta": 3,
+   "explicacao": "d2² = 12² × 40/1 → d2 = 12 × √40 = 75,9 µm. O D50 aumenta com a raiz da viscosidade: fluidos viscosos separam pior."
+  },
+  {
+   "id": "so-0021",
+   "dificuldade": 3,
+   "tema": "Controle de sólidos: cálculos",
+   "enunciado": "Um cone de 4\" com head de 75 ft separa 50% dos sólidos de 12 µm (2,6 g/cm³) em água (1 cP). Qual o D50 para um fluido de 50 cP, com a mesma densidade (d1²/μ1 = d2²/μ2)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "300,0 µm",
+    "106,1 µm",
+    "118,8 µm",
+    "84,9 µm",
+    "31,9 µm"
+   ],
+   "correta": 3,
+   "explicacao": "d2² = 12² × 50/1 → d2 = 12 × √50 = 84,9 µm. O D50 aumenta com a raiz da viscosidade: fluidos viscosos separam pior."
+  },
+  {
+   "id": "so-0022",
+   "dificuldade": 3,
+   "tema": "Controle de sólidos: cálculos",
+   "enunciado": "Um cone de 4\" com head de 75 ft separa 50% dos sólidos de 12 µm (2,6 g/cm³) em água (1 cP). Qual o D50 para um fluido de 25 cP, com a mesma densidade (d1²/μ1 = d2²/μ2)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "150,0 µm",
+    "75,0 µm",
+    "26,8 µm",
+    "84,0 µm",
+    "60,0 µm"
+   ],
+   "correta": 4,
+   "explicacao": "d2² = 12² × 25/1 → d2 = 12 × √25 = 60,0 µm. O D50 aumenta com a raiz da viscosidade: fluidos viscosos separam pior."
+  },
+  {
+   "id": "so-0023",
+   "dificuldade": 3,
+   "tema": "Controle de sólidos: cálculos",
+   "enunciado": "Centrífuga: descarga com Qd = 220 L/h, densidade 2,37 g/cm³, 22,4% em volume de fase líquida e 86,42% em peso de sólidos; retorno com Qr = 3.900 L/h, densidade 1,04 g/cm³ e 17,18% em peso de sólidos totais. Qual a vazão de fase líquida na descarga (QL = Qd · Lvd), em L/h?",
+   "tipo": "multipla",
+   "alternativas": [
+    "116,8 L/h",
+    "49,3 L/h",
+    "190,1 L/h",
+    "69,0 L/h",
+    "61,6 L/h"
+   ],
+   "correta": 1,
+   "explicacao": "QL = 220 × 0,224 = 49,3 L/h."
+  },
+  {
+   "id": "so-0024",
+   "dificuldade": 3,
+   "tema": "Controle de sólidos: cálculos",
+   "enunciado": "Centrífuga: descarga com Qd = 220 L/h, densidade 2,37 g/cm³, 22,4% em volume de fase líquida e 86,42% em peso de sólidos; retorno com Qr = 3.900 L/h, densidade 1,04 g/cm³ e 17,18% em peso de sólidos totais. Qual a vazão de sólidos totais na descarga (QS = Qd · Dd · Smd), em kg/h?",
+   "tipo": "multipla",
+   "alternativas": [
+    "116,8 kg/h",
+    "521,4 kg/h",
+    "630,8 kg/h",
+    "190,1 kg/h",
+    "450,6 kg/h"
+   ],
+   "correta": 4,
+   "explicacao": "QS = 220 × 2,37 × 0,8642 = 450,6 kg/h."
+  },
+  {
+   "id": "so-0025",
+   "dificuldade": 3,
+   "tema": "Controle de sólidos: cálculos",
+   "enunciado": "Centrífuga: descarga com Qd = 220 L/h, densidade 2,37 g/cm³, 22,4% em volume de fase líquida e 86,42% em peso de sólidos; retorno com Qr = 3.900 L/h, densidade 1,04 g/cm³ e 17,18% em peso de sólidos totais. Qual a porcentagem de separação de sólidos (%S = QS/QSe × 100, com QSe = QS + QSr)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "64,7 %",
+    "39,3 %",
+    "58,9 %",
+    "23,6 %",
+    "60,7 %"
+   ],
+   "correta": 1,
+   "explicacao": "QS = 450,6; QSr = 3.900 × 1,04 × 0,1718 = 696,8 kg/h; QSe = 1.147,4; %S = 450,6/1.147,4 × 100 = 39,3%."
+  },
+  {
+   "id": "so-0026",
+   "dificuldade": 3,
+   "tema": "Controle de sólidos: cálculos",
+   "enunciado": "Centrífuga: descarga com Qd = 180 L/h, densidade 2,40 g/cm³, 25,0% em volume de fase líquida e 85,00% em peso de sólidos; retorno com Qr = 3.500 L/h, densidade 1,05 g/cm³ e 15,00% em peso de sólidos totais. Qual a vazão de fase líquida na descarga (QL = Qd · Lvd), em L/h?",
+   "tipo": "multipla",
+   "alternativas": [
+    "63,0 L/h",
+    "108,0 L/h",
+    "56,2 L/h",
+    "45,0 L/h",
+    "153,0 L/h"
+   ],
+   "correta": 3,
+   "explicacao": "QL = 180 × 0,250 = 45,0 L/h."
+  },
+  {
+   "id": "so-0027",
+   "dificuldade": 3,
+   "tema": "Controle de sólidos: cálculos",
+   "enunciado": "Centrífuga: descarga com Qd = 180 L/h, densidade 2,40 g/cm³, 25,0% em volume de fase líquida e 85,00% em peso de sólidos; retorno com Qr = 3.500 L/h, densidade 1,05 g/cm³ e 15,00% em peso de sólidos totais. Qual a vazão de sólidos totais na descarga (QS = Qd · Dd · Smd), em kg/h?",
+   "tipo": "multipla",
+   "alternativas": [
+    "108,0 kg/h",
+    "367,2 kg/h",
+    "432,0 kg/h",
+    "153,0 kg/h",
+    "514,1 kg/h"
+   ],
+   "correta": 1,
+   "explicacao": "QS = 180 × 2,40 × 0,8500 = 367,2 kg/h."
+  },
+  {
+   "id": "so-0028",
+   "dificuldade": 3,
+   "tema": "Controle de sólidos: cálculos",
+   "enunciado": "Centrífuga: descarga com Qd = 180 L/h, densidade 2,40 g/cm³, 25,0% em volume de fase líquida e 85,00% em peso de sólidos; retorno com Qr = 3.500 L/h, densidade 1,05 g/cm³ e 15,00% em peso de sólidos totais. Qual a porcentagem de separação de sólidos (%S = QS/QSe × 100, com QSe = QS + QSr)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "60,0 %",
+    "66,6 %",
+    "50,0 %",
+    "40,0 %",
+    "24,0 %"
+   ],
+   "correta": 3,
+   "explicacao": "QS = 367,2; QSr = 3.500 × 1,05 × 0,1500 = 551,2 kg/h; QSe = 918,5; %S = 367,2/918,5 × 100 = 40,0%."
+  },
+  {
+   "id": "so-0029",
+   "dificuldade": 3,
+   "tema": "Controle de sólidos: cálculos",
+   "enunciado": "Centrífuga: descarga com Qd = 250 L/h, densidade 2,30 g/cm³, 20,0% em volume de fase líquida e 88,00% em peso de sólidos; retorno com Qr = 4.200 L/h, densidade 1,03 g/cm³ e 12,00% em peso de sólidos totais. Qual a vazão de fase líquida na descarga (QL = Qd · Lvd), em L/h?",
+   "tipo": "multipla",
+   "alternativas": [
+    "115,0 L/h",
+    "62,5 L/h",
+    "50,0 L/h",
+    "40,0 L/h",
+    "70,0 L/h"
+   ],
+   "correta": 2,
+   "explicacao": "QL = 250 × 0,200 = 50,0 L/h."
+  },
+  {
+   "id": "so-0030",
+   "dificuldade": 3,
+   "tema": "Controle de sólidos: cálculos",
+   "enunciado": "Centrífuga: descarga com Qd = 250 L/h, densidade 2,30 g/cm³, 20,0% em volume de fase líquida e 88,00% em peso de sólidos; retorno com Qr = 4.200 L/h, densidade 1,03 g/cm³ e 12,00% em peso de sólidos totais. Qual a vazão de sólidos totais na descarga (QS = Qd · Dd · Smd), em kg/h?",
+   "tipo": "multipla",
+   "alternativas": [
+    "632,5 kg/h",
+    "575,0 kg/h",
+    "220,0 kg/h",
+    "506,0 kg/h",
+    "708,4 kg/h"
+   ],
+   "correta": 3,
+   "explicacao": "QS = 250 × 2,30 × 0,8800 = 506,0 kg/h."
+  },
+  {
+   "id": "so-0031",
+   "dificuldade": 3,
+   "tema": "Controle de sólidos: cálculos",
+   "enunciado": "Centrífuga: descarga com Qd = 250 L/h, densidade 2,30 g/cm³, 20,0% em volume de fase líquida e 88,00% em peso de sólidos; retorno com Qr = 4.200 L/h, densidade 1,03 g/cm³ e 12,00% em peso de sólidos totais. Qual a porcentagem de separação de sólidos (%S = QS/QSe × 100, com QSe = QS + QSr)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "97,5 %",
+    "49,4 %",
+    "61,8 %",
+    "29,6 %",
+    "74,0 %"
+   ],
+   "correta": 1,
+   "explicacao": "QS = 506,0; QSr = 4.200 × 1,03 × 0,1200 = 519,1 kg/h; QSe = 1.025,1; %S = 506,0/1.025,1 × 100 = 49,4%."
+  },
+  {
+   "id": "so-0032",
+   "dificuldade": 3,
+   "tema": "Controle de sólidos: cálculos",
+   "enunciado": "Centrífuga: descarga com Qd = 200 L/h, densidade 2,50 g/cm³, 30,0% em volume de fase líquida e 82,00% em peso de sólidos; retorno com Qr = 3.600 L/h, densidade 1,06 g/cm³ e 18,00% em peso de sólidos totais. Qual a vazão de fase líquida na descarga (QL = Qd · Lvd), em L/h?",
+   "tipo": "multipla",
+   "alternativas": [
+    "60,0 L/h",
+    "164,0 L/h",
+    "75,0 L/h",
+    "150,0 L/h",
+    "84,0 L/h"
+   ],
+   "correta": 0,
+   "explicacao": "QL = 200 × 0,300 = 60,0 L/h."
+  },
+  {
+   "id": "so-0033",
+   "dificuldade": 3,
+   "tema": "Controle de sólidos: cálculos",
+   "enunciado": "Centrífuga: descarga com Qd = 200 L/h, densidade 2,50 g/cm³, 30,0% em volume de fase líquida e 82,00% em peso de sólidos; retorno com Qr = 3.600 L/h, densidade 1,06 g/cm³ e 18,00% em peso de sólidos totais. Qual a vazão de sólidos totais na descarga (QS = Qd · Dd · Smd), em kg/h?",
+   "tipo": "multipla",
+   "alternativas": [
+    "500,0 kg/h",
+    "150,0 kg/h",
+    "164,0 kg/h",
+    "574,0 kg/h",
+    "410,0 kg/h"
+   ],
+   "correta": 4,
+   "explicacao": "QS = 200 × 2,50 × 0,8200 = 410,0 kg/h."
+  },
+  {
+   "id": "so-0034",
+   "dificuldade": 3,
+   "tema": "Controle de sólidos: cálculos",
+   "enunciado": "Centrífuga: descarga com Qd = 200 L/h, densidade 2,50 g/cm³, 30,0% em volume de fase líquida e 82,00% em peso de sólidos; retorno com Qr = 3.600 L/h, densidade 1,06 g/cm³ e 18,00% em peso de sólidos totais. Qual a porcentagem de separação de sólidos (%S = QS/QSe × 100, com QSe = QS + QSr)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "56,1 %",
+    "22,4 %",
+    "59,7 %",
+    "62,6 %",
+    "37,4 %"
+   ],
+   "correta": 4,
+   "explicacao": "QS = 410,0; QSr = 3.600 × 1,06 × 0,1800 = 686,9 kg/h; QSe = 1.096,9; %S = 410,0/1.096,9 × 100 = 37,4%."
+  },
+  {
+   "id": "so-0035",
+   "dificuldade": 3,
+   "tema": "Controle de sólidos: cálculos",
+   "enunciado": "Para medir a vazão do retorno da centrífuga usou-se um balde de 30 cm de diâmetro, em que o líquido atingiu 24,5 cm em 16 s. Qual a vazão em L/h (V = π·D²·h/4)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "4.871 L/h",
+    "3.118 L/h",
+    "5.845 L/h",
+    "1.948 L/h",
+    "3.897 L/h"
+   ],
+   "correta": 4,
+   "explicacao": "V = π × 30² × 24,5/4 = 17.318 cm³ = 17,3 L; Q = 17,3/16 = 1,08 L/s = 3.897 L/h."
+  },
+  {
+   "id": "so-0036",
+   "dificuldade": 3,
+   "tema": "Controle de sólidos: cálculos",
+   "enunciado": "Para medir a vazão do retorno da centrífuga usou-se um balde de 30 cm de diâmetro, em que o líquido atingiu 20,0 cm em 12 s. Qual a vazão em L/h (V = π·D²·h/4)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "4.241 L/h",
+    "6.362 L/h",
+    "3.393 L/h",
+    "2.121 L/h",
+    "5.301 L/h"
+   ],
+   "correta": 0,
+   "explicacao": "V = π × 30² × 20,0/4 = 14.137 cm³ = 14,1 L; Q = 14,1/12 = 1,18 L/s = 4.241 L/h."
+  },
+  {
+   "id": "so-0037",
+   "dificuldade": 3,
+   "tema": "Controle de sólidos: cálculos",
+   "enunciado": "Para medir a vazão do retorno da centrífuga usou-se um balde de 28 cm de diâmetro, em que o líquido atingiu 22,0 cm em 15 s. Qual a vazão em L/h (V = π·D²·h/4)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "2.601 L/h",
+    "3.251 L/h",
+    "1.626 L/h",
+    "4.877 L/h",
+    "4.064 L/h"
+   ],
+   "correta": 1,
+   "explicacao": "V = π × 28² × 22,0/4 = 13.547 cm³ = 13,5 L; Q = 13,5/15 = 0,90 L/s = 3.251 L/h."
+  },
+  {
+   "id": "so-0038",
+   "dificuldade": 2,
+   "tema": "Controle de sólidos: cálculos",
+   "enunciado": "Qual o diâmetro calculado da linha de equalização (D = (Qmax/15)^½, em in) para Qmax = 1.000 gpm? (O mínimo recomendado é 10 in.)",
+   "tipo": "multipla",
+   "alternativas": [
+    "4,9 in",
+    "8,2 in",
+    "16,3 in",
+    "10,2 in",
+    "6,7 in"
+   ],
+   "correta": 1,
+   "explicacao": "D = √(1.000/15) = 8,2 in. Lembre: o tamanho mínimo é 10 in; se o cálculo der menos, usa-se 10 in."
+  },
+  {
+   "id": "so-0039",
+   "dificuldade": 2,
+   "tema": "Controle de sólidos: cálculos",
+   "enunciado": "Qual o diâmetro calculado da linha de equalização (D = (Qmax/15)^½, em in) para Qmax = 1.500 gpm? (O mínimo recomendado é 10 in.)",
+   "tipo": "multipla",
+   "alternativas": [
+    "10,0 in",
+    "8,0 in",
+    "20,0 in",
+    "12,5 in",
+    "6,0 in"
+   ],
+   "correta": 0,
+   "explicacao": "D = √(1.500/15) = 10,0 in. Lembre: o tamanho mínimo é 10 in; se o cálculo der menos, usa-se 10 in."
+  },
+  {
+   "id": "so-0040",
+   "dificuldade": 2,
+   "tema": "Controle de sólidos: cálculos",
+   "enunciado": "Qual o diâmetro calculado da linha de equalização (D = (Qmax/15)^½, em in) para Qmax = 2.000 gpm? (O mínimo recomendado é 10 in.)",
+   "tipo": "multipla",
+   "alternativas": [
+    "13,3 in",
+    "6,9 in",
+    "23,1 in",
+    "11,5 in",
+    "14,4 in"
+   ],
+   "correta": 3,
+   "explicacao": "D = √(2.000/15) = 11,5 in. Lembre: o tamanho mínimo é 10 in; se o cálculo der menos, usa-se 10 in."
+  },
+  {
+   "id": "so-0041",
+   "dificuldade": 2,
+   "tema": "Controle de sólidos: cálculos",
+   "enunciado": "Qual o diâmetro calculado da linha de equalização (D = (Qmax/15)^½, em in) para Qmax = 3.000 gpm? (O mínimo recomendado é 10 in.)",
+   "tipo": "multipla",
+   "alternativas": [
+    "8,5 in",
+    "28,3 in",
+    "20,0 in",
+    "17,6 in",
+    "14,1 in"
+   ],
+   "correta": 4,
+   "explicacao": "D = √(3.000/15) = 14,1 in. Lembre: o tamanho mínimo é 10 in; se o cálculo der menos, usa-se 10 in."
+  },
+  {
+   "id": "so-0042",
+   "dificuldade": 2,
+   "tema": "Classificação dos sólidos",
+   "enunciado": "Segundo a classificação API, uma partícula de 144 µm é:",
+   "tipo": "multipla",
+   "alternativas": [
+    "grossa",
+    "fina",
+    "média",
+    "ultrafina",
+    "coloidal"
+   ],
+   "correta": 2,
+   "explicacao": "Faixas API: grossa > 2.000 µm; intermediária 250–2.000; média 74–250; fina 44–74; ultrafina 2–44; coloidal < 2 µm. 144 µm está na faixa média."
+  },
+  {
+   "id": "so-0043",
+   "dificuldade": 2,
+   "tema": "Classificação dos sólidos",
+   "enunciado": "Segundo a classificação API, uma partícula de 60 µm é:",
+   "tipo": "multipla",
+   "alternativas": [
+    "fina",
+    "coloidal",
+    "média",
+    "ultrafina",
+    "grossa"
+   ],
+   "correta": 0,
+   "explicacao": "Faixas API: grossa > 2.000 µm; intermediária 250–2.000; média 74–250; fina 44–74; ultrafina 2–44; coloidal < 2 µm. 60 µm está na faixa fina."
+  },
+  {
+   "id": "so-0044",
+   "dificuldade": 2,
+   "tema": "Classificação dos sólidos",
+   "enunciado": "Segundo a classificação API, uma partícula de 30 µm é:",
+   "tipo": "multipla",
+   "alternativas": [
+    "média",
+    "ultrafina",
+    "grossa",
+    "coloidal",
+    "fina"
+   ],
+   "correta": 1,
+   "explicacao": "Faixas API: grossa > 2.000 µm; intermediária 250–2.000; média 74–250; fina 44–74; ultrafina 2–44; coloidal < 2 µm. 30 µm está na faixa ultrafina."
+  },
+  {
+   "id": "so-0045",
+   "dificuldade": 1,
+   "tema": "Classificação dos sólidos",
+   "enunciado": "Segundo a classificação API, uma partícula de 1,5 µm é:",
+   "tipo": "multipla",
+   "alternativas": [
+    "coloidal",
+    "média",
+    "ultrafina",
+    "grossa",
+    "fina"
+   ],
+   "correta": 0,
+   "explicacao": "Faixas API: grossa > 2.000 µm; intermediária 250–2.000; média 74–250; fina 44–74; ultrafina 2–44; coloidal < 2 µm. 1,5 µm está na faixa coloidal."
+  },
+  {
+   "id": "so-0046",
+   "dificuldade": 2,
+   "tema": "Classificação dos sólidos",
+   "enunciado": "Segundo a classificação API, uma partícula de 500 µm é:",
+   "tipo": "multipla",
+   "alternativas": [
+    "intermediária",
+    "grossa",
+    "média",
+    "fina",
+    "ultrafina"
+   ],
+   "correta": 0,
+   "explicacao": "Faixas API: grossa > 2.000 µm; intermediária 250–2.000; média 74–250; fina 44–74; ultrafina 2–44; coloidal < 2 µm. 500 µm está na faixa intermediária."
+  },
+  {
+   "id": "so-0047",
+   "dificuldade": 1,
+   "tema": "Classificação dos sólidos",
+   "enunciado": "Segundo a classificação API, uma partícula de 2.500 µm é:",
+   "tipo": "multipla",
+   "alternativas": [
+    "coloidal",
+    "intermediária",
+    "fina",
+    "média",
+    "grossa"
+   ],
+   "correta": 4,
+   "explicacao": "Faixas API: grossa > 2.000 µm; intermediária 250–2.000; média 74–250; fina 44–74; ultrafina 2–44; coloidal < 2 µm. 2.500 µm está na faixa grossa."
+  },
+  {
+   "id": "so-0048",
+   "dificuldade": 1,
+   "tema": "Sólidos: tipos e efeitos",
+   "enunciado": "Quais as alternativas para gerenciar o aumento de sólidos perfurados no fluido?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Apenas aumentar a vazão",
+    "Apenas parar a circulação",
+    "Descartar o fluido, aditivar quimicamente, diluir com a base ou remover mecanicamente os sólidos",
+    "Apenas trocar a broca",
+    "Apenas aumentar a densidade"
+   ],
+   "correta": 2,
+   "explicacao": "São 4 alternativas: descarte, aditivação, diluição e remoção mecânica (sistema de controle de sólidos)."
+  },
+  {
+   "id": "so-0049",
+   "dificuldade": 2,
+   "tema": "Sólidos: tipos e efeitos",
+   "enunciado": "Por que o descarte e a diluição se tornaram menos comuns?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque o descarte é sempre proibido pela API",
+    "Porque a diluição aumenta a densidade",
+    "Porque os fluidos são mais baratos",
+    "Porque as peneiras eliminam todo o sólido",
+    "Pelo custo dos fluidos modernos, restrições ambientais, melhor tolerância dos fluidos e falta de espaço de armazenamento (risers, lâmina de água)"
+   ],
+   "correta": 4,
+   "explicacao": "O controle mecânico de sólidos é a alternativa mais usada atualmente."
+  },
+  {
+   "id": "so-0050",
+   "dificuldade": 1,
+   "tema": "Sólidos: tipos e efeitos",
+   "enunciado": "Como se classificam os sólidos quanto à densidade?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Todos são LGS",
+    "HGS: areia; LGS: barita",
+    "HGS: calcita; LGS: barita",
+    "HGS (alta densidade, ρ > 4,2 g/cm³: barita, hematita) e LGS (baixa densidade, 1,6–2,9 g/cm³: areia, argila, folhelho, carbonatos)",
+    "HGS: argila; LGS: hematita"
+   ],
+   "correta": 3,
+   "explicacao": "A densidade do fluido resulta do balanço de massa entre HGS e LGS."
+  },
+  {
+   "id": "so-0051",
+   "dificuldade": 2,
+   "tema": "Sólidos: tipos e efeitos",
+   "enunciado": "Assinale a INCORRETA: são sólidos de baixa densidade (LGS):",
+   "tipo": "incorreta",
+   "alternativas": [
+    "Dolomita",
+    "Folhelho",
+    "Areia",
+    "Carbonato de cálcio",
+    "Hematita e magnetita"
+   ],
+   "correta": 4,
+   "explicacao": "Hematita (e barita) são adensantes de alta densidade (HGS)."
+  },
+  {
+   "id": "so-0052",
+   "dificuldade": 2,
+   "tema": "Sólidos: tipos e efeitos",
+   "enunciado": "Qual a faixa de LGS tolerável em fluidos base água e em fluidos sintéticos?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Sem limite",
+    "10–12% (água) e 5–8% (sintético)",
+    "15–20% e 25–30%",
+    "1–2% e 3–4%",
+    "5–8% (base água) e 10–12% (sintéticos)"
+   ],
+   "correta": 4,
+   "explicacao": "Fluidos sintéticos toleram mais sólidos perfurados que os aquosos."
+  },
+  {
+   "id": "so-0053",
+   "dificuldade": 2,
+   "tema": "Sólidos: tipos e efeitos",
+   "enunciado": "Fluidos não aquosos (base sintética) apresentam maior tolerância à contaminação com sólidos perfurados que os fluidos aquosos.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "Tolera 10–12% de LGS contra 5–8% dos aquosos."
+  },
+  {
+   "id": "so-0054",
+   "dificuldade": 2,
+   "tema": "Sólidos: tipos e efeitos",
+   "enunciado": "Quais os efeitos do aumento de sólidos perfurados no reboco e na filtração?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Redução do torque",
+    "Redução de viscosidade",
+    "Reboco mais fino e menor filtrado",
+    "Reboco espesso e macio e aumento da taxa de filtração, com risco de arraste, prisão diferencial, dano à formação e má cimentação",
+    "Nenhum efeito"
+   ],
+   "correta": 3,
+   "explicacao": "Sólidos floculados degradam a qualidade do reboco."
+  },
+  {
+   "id": "so-0055",
+   "dificuldade": 2,
+   "tema": "Sólidos: tipos e efeitos",
+   "enunciado": "Qual propriedade reológica responde mais rápido ao aumento de sólidos perfurados e por quê?",
+   "tipo": "multipla",
+   "alternativas": [
+    "A densidade do filtrado",
+    "A viscosidade plástica, que cresce com mais atrito mecânico entre as partículas",
+    "A temperatura",
+    "A salinidade",
+    "O pH"
+   ],
+   "correta": 1,
+   "explicacao": "A VP é função do formato, tamanho e quantidade de sólidos."
+  },
+  {
+   "id": "so-0056",
+   "dificuldade": 2,
+   "tema": "Sólidos: tipos e efeitos",
+   "enunciado": "De que dependem o limite de escoamento e a força gel?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Do grau de atração e repulsão entre os sólidos, principalmente argilas ativas coloidais",
+    "Do diâmetro da broca",
+    "Do tamanho da peneira",
+    "Da vazão da bomba",
+    "Do número de cones"
+   ],
+   "correta": 0,
+   "explicacao": "Quanto mais sólidos ativos coloidais, maior o gel e o YP."
+  },
+  {
+   "id": "so-0057",
+   "dificuldade": 2,
+   "tema": "Sólidos: tipos e efeitos",
+   "enunciado": "Quais problemas decorrem de géis excessivos?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Aumento da ROP",
+    "Menor swab",
+    "Retenção de gás, dificuldade de descer perfilagem, surge/swab (perda e kick), pressões acima da capacidade da sonda e pior separação de sólidos",
+    "Redução da pressão de bombeio",
+    "Melhor limpeza do poço"
+   ],
+   "correta": 2,
+   "explicacao": "Géis altos dificultam a liberação do gás e elevam as pressões transientes."
+  },
+  {
+   "id": "so-0058",
+   "dificuldade": 1,
+   "tema": "Sólidos: tipos e efeitos",
+   "enunciado": "O que acontece quando YP e gel ficam excessivos por excesso de sólidos?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Nada deve ser feito",
+    "Pode-se usar dispersantes, mas com sólidos ainda maiores eles deixam de ser efetivos",
+    "Deve-se aumentar o MBT",
+    "Deve-se adicionar bentonita",
+    "Os dispersantes sempre resolvem"
+   ],
+   "correta": 1,
+   "explicacao": "O tratamento definitivo é remover sólidos (mecânico) ou diluir."
+  },
+  {
+   "id": "so-0059",
+   "dificuldade": 2,
+   "tema": "Sólidos: tipos e efeitos",
+   "enunciado": "Por que sólidos abrasivos (areia, calcário) são problemáticos?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Aumentam a lubricidade",
+    "Reduzem a densidade",
+    "Inibem argilas",
+    "Desgastam prematuramente tubos, camisas, pistões e válvulas das bombas de lama",
+    "Reduzem a viscosidade"
+   ],
+   "correta": 3,
+   "explicacao": "O desgaste traz perda de tempo e risco ambiental/ocupacional."
+  },
+  {
+   "id": "so-0060",
+   "dificuldade": 1,
+   "tema": "Sólidos: tipos e efeitos",
+   "enunciado": "O que mede o MBT e qual a CEC típica da bentonita e dos sólidos de formação?",
+   "tipo": "multipla",
+   "alternativas": [
+    "A quantidade de argila reativa (lb/bbl); bentonita ≈ 63 meq/100 g e sólidos de formação ≈ 19,5 meq/100 g",
+    "A quantidade de barita; 63 e 19,5 mg/L",
+    "A viscosidade; 63 e 19 cP",
+    "A salinidade; 1 e 2 ppm",
+    "O pH; 7 e 9"
+   ],
+   "correta": 0,
+   "explicacao": "O MBT é pelo azul de metileno e indica reatividade dos sólidos."
+  },
+  {
+   "id": "so-0061",
+   "dificuldade": 3,
+   "tema": "Sólidos: tipos e efeitos",
+   "enunciado": "Por que remover sólidos coloidais é mais eficaz para as propriedades reológicas que remover sólidos maiores?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque têm maior área superficial livre (mais interação), embora sejam mais difíceis de remover",
+    "Porque são mais fáceis de remover",
+    "Porque são mais densos",
+    "Porque são HGS",
+    "Porque não afetam a viscosidade"
+   ],
+   "correta": 0,
+   "explicacao": "Quanto menor a partícula, maior a área específica e o efeito nas propriedades."
+  },
+  {
+   "id": "so-0062",
+   "dificuldade": 2,
+   "tema": "Classificação dos sólidos",
+   "enunciado": "Por que é difícil separar sólidos adicionados (barita) de sólidos perfurados?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque a barita é mais leve",
+    "Porque a barita é solúvel",
+    "Porque os perfurados são sempre HGS",
+    "Porque partículas de densidades diferentes podem ter a mesma velocidade de sedimentação (diâmetro equivalente); a barita sedimenta como um sólido perfurado cerca de 1,4 a 1,5 vez maior",
+    "Porque a lei de Stokes não se aplica"
+   ],
+   "correta": 3,
+   "explicacao": "O diâmetro equivalente decorre da lei de Stokes: Vs ∝ d²·(ρp − ρf)/μ."
+  },
+  {
+   "id": "so-0063",
+   "dificuldade": 1,
+   "tema": "Classificação dos sólidos",
+   "enunciado": "Qual a origem dos sólidos no fluido?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Aditivação (adensantes, obturantes) e perfuração (areia, argila, folhelho, carbonatos, evaporitos se saturado)",
+    "Apenas do gás",
+    "Apenas das telas",
+    "Apenas da barita",
+    "Apenas da água"
+   ],
+   "correta": 0,
+   "explicacao": "Sólidos perfurados são os que mais alteram as propriedades de forma indesejada."
+  },
+  {
+   "id": "so-0064",
+   "dificuldade": 2,
+   "tema": "Classificação dos sólidos",
+   "enunciado": "Quais fatores levam ao acúmulo de sólidos perfurados no fluido?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Nenhum: é inevitável",
+    "Apenas a broca",
+    "Apenas a recirculação",
+    "Apenas a formação",
+    "Características da formação, fluido inadequado, tipo de broca, sistema de controle mal dimensionado ou com defeito, e recirculação"
+   ],
+   "correta": 4,
+   "explicacao": "Todos os fatores contribuem; a recirculação agrava o problema a cada ciclo."
+  },
+  {
+   "id": "so-0065",
+   "dificuldade": 1,
+   "tema": "Classificação dos sólidos",
+   "enunciado": "Apenas os sólidos perfurados devem ser controlados; os demais sólidos não influenciam o fluido.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 1,
+   "explicacao": "Todos os sólidos influenciam densidade, filtração e viscosidade, em especial os ativos."
+  },
+  {
+   "id": "so-0066",
+   "dificuldade": 1,
+   "tema": "Tanques e equipamentos",
+   "enunciado": "Qual a função do sand trap?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Separar óleo e água",
+    "Remover gases",
+    "Sedimentar sólidos maiores que poderiam tamponar os hidrociclones; 20 a 30 bbl",
+    "Misturar polímeros",
+    "Armazenar fluido novo"
+   ],
+   "correta": 2,
+   "explicacao": "É o primeiro compartimento de sedimentação, abaixo das peneiras."
+  },
+  {
+   "id": "so-0067",
+   "dificuldade": 1,
+   "tema": "Tanques e equipamentos",
+   "enunciado": "Qual o papel do trip tank?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Misturar polímeros",
+    "Indicar continuamente o volume de fluido que entra ou sai do poço, para medir o enchimento na manobra",
+    "Armazenar barita",
+    "Separar gases",
+    "Remover sólidos"
+   ],
+   "correta": 1,
+   "explicacao": "Permite registrar o volume necessário para encher o poço (detecta kick ou perda)."
+  },
+  {
+   "id": "so-0068",
+   "dificuldade": 1,
+   "tema": "Tanques e equipamentos",
+   "enunciado": "Qual a função do tanque de tampão (pill)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Misturar pequenos volumes (10 a 50 bbl) de tampões de manobra, detergente, combate à perda etc.",
+    "Armazenar todo o fluido",
+    "Aquecer o fluido",
+    "Remover sólidos",
+    "Separar gases"
+   ],
+   "correta": 0,
+   "explicacao": "É um pequeno tanque na seção de tratamento."
+  },
+  {
+   "id": "so-0069",
+   "dificuldade": 2,
+   "tema": "Tanques e equipamentos",
+   "enunciado": "Quais as recomendações para linhas de equalização entre tanques?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Diâmetro máximo de 2 in",
+    "Apenas na sucção",
+    "Apenas equalização alta em todos",
+    "Mínimo de 10 in de diâmetro; equalizadores baixos entre tanques de desareador, dessiltador e centrífuga; mantêm o nível constante",
+    "Sem equalização"
+   ],
+   "correta": 3,
+   "explicacao": "D = (Qmax/15)^½ (gpm → in). Equalização completa evita nível baixo na sucção."
+  },
+  {
+   "id": "so-0070",
+   "dificuldade": 1,
+   "tema": "Tanques e equipamentos",
+   "enunciado": "Qual a função dos agitadores e qual o TOR recomendado?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Medir densidade; 200 s",
+    "Aquecer o fluido; 5 a 10 s",
+    "Suspensão uniforme dos sólidos; TOR (taxa de giro) de 35 a 90 s",
+    "Remover sólidos; 10 min",
+    "Separar gás; 1 s"
+   ],
+   "correta": 2,
+   "explicacao": "Todos os tanques levam agitador, exceto o sand trap. Hélices inclinadas dão fluxo axial; planas, radial."
+  },
+  {
+   "id": "so-0071",
+   "dificuldade": 2,
+   "tema": "Tanques e equipamentos",
+   "enunciado": "Quais os princípios do sistema de controle de sólidos?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Apenas flotação",
+    "Apenas adição de polímeros",
+    "Peneiramento (tamanho), decantação (gravidade), centrifugação (força centrífuga) ou combinação",
+    "Apenas filtração química",
+    "Apenas diluição"
+   ],
+   "correta": 2,
+   "explicacao": "Peneiramento é só por tamanho; centrifugação e decantação, por diferença de massa relativa."
+  },
+  {
+   "id": "so-0072",
+   "dificuldade": 2,
+   "tema": "Tanques e equipamentos",
+   "enunciado": "Qual a sequência típica do sistema de controle de sólidos?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Desareiador, peneira, centrífuga",
+    "Dessiltador, peneira, desgaseificador",
+    "Peneira, centrífuga, sand trap",
+    "Peneiras, sand trap, desgaseificador, desareiador, dessiltador (ou mud cleaner) e centrífuga",
+    "Centrífuga, desareiador, peneira"
+   ],
+   "correta": 3,
+   "explicacao": "Do maior ao menor tamanho de partícula removido, conforme o fluxo do fluido."
+  },
+  {
+   "id": "so-0073",
+   "dificuldade": 1,
+   "tema": "Peneiras",
+   "enunciado": "Qual a função do ditch magnet (ímã) na divider box?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Remover sólidos finos",
+    "Medir densidade",
+    "Separar gás",
+    "Reter as limalhas vindas do poço",
+    "Aquecer o fluido"
+   ],
+   "correta": 3,
+   "explicacao": "A divider box divide o fluxo entre as peneiras."
+  },
+  {
+   "id": "so-0074",
+   "dificuldade": 2,
+   "tema": "Peneiras",
+   "enunciado": "Quais as 4 principais características de uma peneira?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Cor, peso, preço e marca",
+    "Pressão, temperatura, vazão e pH",
+    "Densidade, viscosidade, gel e pH",
+    "Apenas a malha",
+    "Tipo de movimento, amplitude e frequência, inclinação/número de decks e área de peneiramento"
+   ],
+   "correta": 4,
+   "explicacao": "Os padrões de vibração são linear, elíptico balanceado, elíptico desbalanceado e circular."
+  },
+  {
+   "id": "so-0075",
+   "dificuldade": 2,
+   "tema": "Peneiras",
+   "enunciado": "Qual o padrão de vibração mais usado no mundo e para qual fluido é mais indicado?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Elíptico; para fluido base óleo",
+    "Linear; para fluido base água",
+    "Linear (contrapesos em fase e sentidos opostos, 40–45°); indicado para fluidos base óleo (3–4 G)",
+    "Nenhum",
+    "Circular; para fluido base água"
+   ],
+   "correta": 2,
+   "explicacao": "Os movimentos circular e elíptico são mais recomendados para base água e sólidos grudentos (4–6 G)."
+  },
+  {
+   "id": "so-0076",
+   "dificuldade": 1,
+   "tema": "Peneiras",
+   "enunciado": "Como a API designa as telas?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Pelo peso",
+    "Pelo diâmetro de corte de 100% (D100) das partículas; ex.: D100 de 73 µm → API 200",
+    "Pela marca",
+    "Pelo D50",
+    "Pela cor"
+   ],
+   "correta": 1,
+   "explicacao": "A etiqueta traz a designação API, abertura em µm, condutância (kD/mm), área efetiva e código."
+  },
+  {
+   "id": "so-0077",
+   "dificuldade": 2,
+   "tema": "Peneiras",
+   "enunciado": "Quais são boas práticas de operação de peneiras?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Fazer bypass nas manobras",
+    "Usar a maior abertura possível",
+    "Limpar com jato de alta pressão",
+    "Reparar até 75% da tela",
+    "Inspecionar telas quando a circulação for interrompida, trocar ou reparar telas danificadas, limpar com jatos em névoa e nunca 'evitar' (bypass) as peneiras"
+   ],
+   "correta": 4,
+   "explicacao": "O reparo máximo é de 25% da área da tela."
+  },
+  {
+   "id": "so-0078",
+   "dificuldade": 1,
+   "tema": "Peneiras",
+   "enunciado": "Qual o reparo máximo recomendado em uma tela de peneira?",
+   "tipo": "multipla",
+   "alternativas": [
+    "10%",
+    "75%",
+    "25% da área",
+    "50%",
+    "100%"
+   ],
+   "correta": 2,
+   "explicacao": "Acima disso a tela deve ser trocada."
+  },
+  {
+   "id": "so-0079",
+   "dificuldade": 2,
+   "tema": "Peneiras",
+   "enunciado": "Qual forma de limpar as telas é recomendada?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Jato sólido de alta pressão",
+    "Vapor superaquecido",
+    "Escova metálica",
+    "Ar comprimido",
+    "Jatos em forma de névoa de água"
+   ],
+   "correta": 4,
+   "explicacao": "Jatos de alta pressão e escovas danificam a tela."
+  },
+  {
+   "id": "so-0080",
+   "dificuldade": 2,
+   "tema": "Peneiras",
+   "enunciado": "Em peneiras de múltiplos decks, qual a recomendação das telas?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Mesma malha em todos os decks",
+    "Qualquer arranjo",
+    "Usar designação API menor (malha mais aberta) no deck superior",
+    "Maior API no deck superior",
+    "Sem telas no deck superior"
+   ],
+   "correta": 2,
+   "explicacao": "Em deck simples, usa-se a mesma designação API."
+  },
+  {
+   "id": "so-0081",
+   "dificuldade": 1,
+   "tema": "Peneiras",
+   "enunciado": "Qual a vantagem e a limitação das peneiras?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Removem grandes quantidades de cascalho de forma simples e confiável, mas só sólidos maiores (até API 200, ~74 µm) e ocupam muito espaço",
+    "Não ocupam espaço",
+    "Removem coloidais",
+    "Removem sólidos ultrafinos",
+    "Removem gás"
+   ],
+   "correta": 0,
+   "explicacao": "Por isso há desareiadores, dessiltadores e centrífugas a jusante."
+  },
+  {
+   "id": "so-0082",
+   "dificuldade": 1,
+   "tema": "Peneiras",
+   "enunciado": "O que é gumbo e que equipamento o trata?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Barita; centrífuga",
+    "Gás aderido; desgaseificador",
+    "Cimento; sand trap",
+    "Óleo; secador",
+    "Massa pegajosa de argila ('clay ball'); peneiras de scalping, antes das peneiras principais"
+   ],
+   "correta": 4,
+   "explicacao": "Ocorre em sedimentos recentes e pode entupir a flowline."
+  },
+  {
+   "id": "so-0083",
+   "dificuldade": 1,
+   "tema": "Desgaseificadores",
+   "enunciado": "Por que usar desgaseificador?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Para aumentar a densidade",
+    "Para aumentar a viscosidade",
+    "Para reduzir a salinidade",
+    "Porque as peneiras não removem bem o gás de fluidos viscosos; o gás prejudica as bombas e cria atmosfera explosiva, corrosiva e tóxica",
+    "Para remover areia"
+   ],
+   "correta": 3,
+   "explicacao": "São atmosféricos (poor boy) ou a vácuo (500–1200 gpm)."
+  },
+  {
+   "id": "so-0084",
+   "dificuldade": 1,
+   "tema": "Hidrociclones, mud cleaner e centrífuga",
+   "enunciado": "Em que princípio operam os hidrociclones?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Força centrífuga: entrada tangencial gera vórtice; sólidos saem pelo ápex e fluido limpo pelo topo",
+    "Evaporação",
+    "Filtração química",
+    "Pressão osmótica",
+    "Magnetismo"
+   ],
+   "correta": 0,
+   "explicacao": "Sem partes móveis e de fácil manutenção."
+  },
+  {
+   "id": "so-0085",
+   "dificuldade": 2,
+   "tema": "Hidrociclones, mud cleaner e centrífuga",
+   "enunciado": "Qual o formato ideal da descarga (ápex) de um hidrociclone?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Fluxo pulsante",
+    "Corda",
+    "Fluxo contínuo em coluna",
+    "Jato horizontal",
+    "Spray em 'V' invertido"
+   ],
+   "correta": 4,
+   "explicacao": "Corda (descarga em jato) indica sobrecarga de sólidos ou baixa pressão e pode tampar o cone."
+  },
+  {
+   "id": "so-0086",
+   "dificuldade": 3,
+   "tema": "Hidrociclones, mud cleaner e centrífuga",
+   "enunciado": "Quais problemas causam a descarga em corda?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Vazão baixa",
+    "Concentração excessiva de sólidos, vazão excessiva por cone, viscosidade alta, ápex estreito e pressão de entrada inadequada (baixa)",
+    "Ápex largo demais",
+    "Viscosidade baixa",
+    "Pressão alta apenas"
+   ],
+   "correta": 1,
+   "explicacao": "Em corda, só partículas maiores saem e o cone pode tamponar."
+  },
+  {
+   "id": "so-0087",
+   "dificuldade": 2,
+   "tema": "Hidrociclones, mud cleaner e centrífuga",
+   "enunciado": "Qual o D50 de um hidrociclone?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Diâmetro da broca",
+    "Diâmetro do ápex",
+    "Diâmetro de entrada",
+    "Diâmetro do cone",
+    "Diâmetro de corte: o tamanho de partícula com 50% de chance de sair pelo underflow"
+   ],
+   "correta": 4,
+   "explicacao": "Cones de 12\": D50 60–80 µm; de 6\": 40–60 µm; de 4\": 20–40 µm. Depende da viscosidade, tamanho/formato do sólido e concentração."
+  },
+  {
+   "id": "so-0088",
+   "dificuldade": 2,
+   "tema": "Hidrociclones, mud cleaner e centrífuga",
+   "enunciado": "Qual a faixa típica de diâmetro dos cones do desareiador e do dessiltador?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Ambos 1 in",
+    "Ambos 20 in",
+    "Desareiador: 6 a 12 in; dessiltador: 2 a 5 in",
+    "Desareiador: 2–5 in; dessiltador: 6–12 in",
+    "Desareiador: 30 in"
+   ],
+   "correta": 2,
+   "explicacao": "Cones menores removem partículas menores; o dessiltador é a etapa seguinte ao desareiador."
+  },
+  {
+   "id": "so-0089",
+   "dificuldade": 1,
+   "tema": "Hidrociclones, mud cleaner e centrífuga",
+   "enunciado": "Quais as limitações dos hidrociclones?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Têm muitas partes móveis",
+    "Não precisam de bomba",
+    "Não removem areia",
+    "Separação limitada para ultrafinos, dificuldade com materiais floculados e com fluidos com muita barita",
+    "Só trabalham com gás"
+   ],
+   "correta": 3,
+   "explicacao": "A vantagem: fácil manutenção e sem partes móveis."
+  },
+  {
+   "id": "so-0090",
+   "dificuldade": 2,
+   "tema": "Hidrociclones, mud cleaner e centrífuga",
+   "enunciado": "Qual a pressão de entrada ideal para hidrociclones?",
+   "tipo": "multipla",
+   "alternativas": [
+    "A pressão de bombeio da sonda",
+    "A pressão de fratura",
+    "10 psi fixos",
+    "A correspondente a 75 ft de carga (P = 0,052 · ρ · 75)",
+    "500 psi"
+   ],
+   "correta": 3,
+   "explicacao": "Alta pressão pode entupir; baixa pressão gera descarga em corda."
+  },
+  {
+   "id": "so-0091",
+   "dificuldade": 1,
+   "tema": "Hidrociclones, mud cleaner e centrífuga",
+   "enunciado": "O que é um mud cleaner?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Combinação de hidrociclones (desander/desilter) com peneira fina que processa a descarga dos cones, reduzindo a perda de fluido",
+    "Um tanque",
+    "Uma centrífuga",
+    "Um desgaseificador",
+    "Um agitador"
+   ],
+   "correta": 0,
+   "explicacao": "Não remove finos nem ultrafinos; aplicação principal em fluidos não densificados com fase líquida cara (FNA)."
+  },
+  {
+   "id": "so-0092",
+   "dificuldade": 3,
+   "tema": "Hidrociclones, mud cleaner e centrífuga",
+   "enunciado": "Por que se evita usar o mud cleaner em fluidos densificados (barita)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque aumenta a densidade",
+    "Porque a barita é solúvel",
+    "Porque ele não funciona com água",
+    "Porque produz gás",
+    "Porque a barita é descartada junto com os sólidos, elevando o custo; usa-se peneira na descarga de cones em excesso de peneiras"
+   ],
+   "correta": 4,
+   "explicacao": "Em fluido densificado a barita descartada é custosa."
+  },
+  {
+   "id": "so-0093",
+   "dificuldade": 1,
+   "tema": "Hidrociclones, mud cleaner e centrífuga",
+   "enunciado": "Qual a função da centrífuga decantadora no controle de sólidos?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Misturar aditivos",
+    "Última barreira: acelera a decantação por rotação forçada, enviando sólidos para a saída (rosca transportadora) e o fluido leve pelo outro lado",
+    "Remover gás",
+    "Medir densidade",
+    "Peneirar cascalho grosso"
+   ],
+   "correta": 1,
+   "explicacao": "A força G é proporcional ao quadrado da rotação e ao diâmetro do tambor."
+  },
+  {
+   "id": "so-0094",
+   "dificuldade": 3,
+   "tema": "Hidrociclones, mud cleaner e centrífuga",
+   "enunciado": "Quais os ajustes mais comuns de uma centrífuga?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Apenas temperatura",
+    "Apenas pressão",
+    "Cor do fluido",
+    "Apenas pH",
+    "Velocidade do cilindro, velocidade diferencial parafuso-cilindro, altura da piscina, posição do tubo de alimentação e vazão de alimentação"
+   ],
+   "correta": 4,
+   "explicacao": "Os ajustes podem ser mecânicos, elétricos ou hidráulicos."
+  },
+  {
+   "id": "so-0095",
+   "dificuldade": 3,
+   "tema": "Hidrociclones, mud cleaner e centrífuga",
+   "enunciado": "Se dois cones têm a mesma densidade de descarga, qual é mais eficiente?",
+   "tipo": "multipla",
+   "alternativas": [
+    "O de menor densidade do fluido",
+    "O de maior vazão de descarga (remove mais sólidos na mesma relação líquido/sólido)",
+    "São iguais",
+    "O de menor vazão",
+    "Nenhum"
+   ],
+   "correta": 1,
+   "explicacao": "Se as vazões são iguais, o mais eficiente é o de maior densidade de descarga (mais sólidos, menos líquido)."
+  },
+  {
+   "id": "so-0096",
+   "dificuldade": 2,
+   "tema": "Hidrociclones, mud cleaner e centrífuga",
+   "enunciado": "Quais são os objetivos de um sistema de controle de sólidos?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Aumentar o ROP",
+    "Reduzir custo global, remover cascalhos, minimizar perda de fluido e cumprir a legislação ambiental de descarte",
+    "Substituir o fluido",
+    "Eliminar a barita",
+    "Aumentar a densidade"
+   ],
+   "correta": 1,
+   "explicacao": "Mantém as propriedades do fluido dentro do programado."
+  },
+  {
+   "id": "so-0097",
+   "dificuldade": 1,
+   "tema": "Cascalho e descarte",
+   "enunciado": "Qual o objetivo do secador de cascalhos?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Peneirar o cascalho",
+    "Aumentar o volume de resíduos",
+    "Reduzir o teor de óleo no cascalho para atender ao descarte e recuperar fluido de perfuração",
+    "Remover gás",
+    "Aumentar a densidade"
+   ],
+   "correta": 2,
+   "explicacao": "Reduz o volume de resíduos e recupera a fração líquida; exemplo: de 12% para 3% de base orgânica."
+  },
+  {
+   "id": "so-0098",
+   "dificuldade": 2,
+   "tema": "Cascalho e descarte",
+   "enunciado": "Qual o limite do IBAMA (IN nº 1/2018) para base orgânica no cascalho descartado (n-parafinas, olefinas etc.)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "1% para todos",
+    "Sem limite",
+    "6,9% (média acumulada por poço); 9,4% para éteres, acetais e ésteres; HPA ≤ 10 ppm",
+    "6,9% para ésteres",
+    "20% para todos"
+   ],
+   "correta": 2,
+   "explicacao": "Não é permitido descartar cascalho com óleo da formação. Verificar atualizações da legislação."
+  },
+  {
+   "id": "so-0099",
+   "dificuldade": 2,
+   "tema": "Cascalho e descarte",
+   "enunciado": "Qual o limite de base orgânica aderida ao cascalho de n-parafinas, olefinas internas, LAO e PAO para descarte offshore (prova)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "12%",
+    "6,3%",
+    "9,4%",
+    "3,2%",
+    "6,9%"
+   ],
+   "correta": 4,
+   "explicacao": "9,4% é para éteres, acetais e ésteres."
+  },
+  {
+   "id": "so-0100",
+   "dificuldade": 2,
+   "tema": "Cascalho e descarte",
+   "enunciado": "Quais as características dos HPA nos cascalhos?",
+   "tipo": "multipla",
+   "alternativas": [
+    "São inertes",
+    "São adensantes",
+    "São biodegradáveis em minutos",
+    "Aumentam a viscosidade",
+    "Hidrocarbonetos policíclicos aromáticos, altamente tóxicos; limite de 10 ppm para descarte"
+   ],
+   "correta": 4,
+   "explicacao": "Por isso o diesel (HPA alto) foi substituído por bases sintéticas."
+  },
+  {
+   "id": "so-0101",
+   "dificuldade": 2,
+   "tema": "Cascalho e descarte",
+   "enunciado": "Quais bases orgânicas têm toxicidade baixa e biodegradabilidade alta?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Nenhuma",
+    "Parafinas (média)",
+    "Iso-parafinas",
+    "Diesel",
+    "Olefinas, ésteres e éteres (n-parafinas também têm alta biodegradabilidade)"
+   ],
+   "correta": 4,
+   "explicacao": "O diesel tem toxicidade alta e baixa biodegradabilidade."
+  },
+  {
+   "id": "so-0102",
+   "dificuldade": 2,
+   "tema": "Cascalho e descarte",
+   "enunciado": "Quais os processos de tratamento de cascalho citados?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Apenas queima a céu aberto",
+    "Aterro com diluição, injeção no poço, impermeabilização de diques, dessorção térmica, micro-ondas, incineração e secagem",
+    "Apenas aterro",
+    "Apenas diluição",
+    "Apenas dispersão no mar"
+   ],
+   "correta": 1,
+   "explicacao": "Há ainda solidificação/estabilização, biorremediação e secagem a vácuo (RVD)."
+  },
+  {
+   "id": "so-0103",
+   "dificuldade": 3,
+   "tema": "Cascalho e descarte",
+   "enunciado": "Qual a limitação do RVD (secador rotativo a vácuo)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Leva mais tempo operacional",
+    "Aumenta a mão de obra",
+    "Consome mais espaço que o centrífugo",
+    "O teor de base não aquosa alcançado não é inferior a ~5%",
+    "Não funciona com cascalho"
+   ],
+   "correta": 3,
+   "explicacao": "Vantagens: menor tempo, menor espaço, menor manutenção e economia de ~80% frente aos centrífugos."
+  },
+  {
+   "id": "so-0104",
+   "dificuldade": 3,
+   "tema": "Cascalho e descarte",
+   "enunciado": "Qual a desvantagem do secador vertical de cascalhos?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Não é para offshore",
+    "Não reduz o óleo",
+    "Não suporta altas ROP",
+    "Ocupa muito espaço",
+    "Não faz parte da linha de controle de sólidos do fluido e pode influenciar sua eficiência por contaminação com fluido de retorno"
+   ],
+   "correta": 4,
+   "explicacao": "Vantagens: reduz óleo, suporta alta ROP, layout compacto e fácil manutenção."
+  },
+  {
+   "id": "so-0105",
+   "dificuldade": 2,
+   "tema": "Sólidos: tipos e efeitos",
+   "enunciado": "Sobre sólidos no fluido de perfuração, considere:",
+   "tipo": "combinacao",
+   "afirmativas": [
+    "I. Sólidos influenciam densidade, filtração e viscosidade.",
+    "II. A quantidade de sólidos deve ser gerenciada para reduzir riscos ao poço.",
+    "III. Os sólidos perfurados são os únicos que devem ser controlados."
+   ],
+   "alternativas": [
+    "Apenas I",
+    "Apenas II",
+    "Apenas III",
+    "Apenas I e II",
+    "Apenas I e III"
+   ],
+   "correta": 3,
+   "explicacao": "III é falsa: todos os sólidos podem afetar o fluido (inclusive aditivos em excesso e sólidos ativos)."
+  },
+  {
+   "id": "so-0106",
+   "dificuldade": 3,
+   "tema": "Peneiras",
+   "enunciado": "Sobre peneiras, considere:",
+   "tipo": "combinacao",
+   "afirmativas": [
+    "I. Inspecionar as telas sempre que a circulação for interrompida.",
+    "II. Evitar (bypass) as peneiras durante as manobras para ganhar tempo.",
+    "III. Reparar no máximo 25% da área da tela."
+   ],
+   "alternativas": [
+    "Apenas I",
+    "Apenas II",
+    "Apenas I e III",
+    "Apenas II e III",
+    "I, II e III"
+   ],
+   "correta": 2,
+   "explicacao": "II é falsa: nunca se deve evitar as peneiras durante circulação ou manobras."
+  },
+  {
+   "id": "so-0107",
+   "dificuldade": 3,
+   "tema": "Hidrociclones, mud cleaner e centrífuga",
+   "enunciado": "Sobre hidrociclones, considere:",
+   "tipo": "combinacao",
+   "afirmativas": [
+    "I. Operam por força centrífuga.",
+    "II. A descarga ideal é em spray em V invertido.",
+    "III. Têm muitas partes móveis, o que dificulta a manutenção."
+   ],
+   "alternativas": [
+    "Apenas I",
+    "Apenas II",
+    "Apenas I e II",
+    "Apenas I e III",
+    "Apenas II e III"
+   ],
+   "correta": 2,
+   "explicacao": "III é falsa: não possuem partes móveis e têm fácil manutenção."
+  }
+ ],
+ "flashcards": [
+  {
+   "id": "so-f001",
+   "frente": "Alternativas para gerenciar sólidos",
+   "verso": "Descarte, aditivação química, diluição e remoção mecânica (controle de sólidos). A remoção mecânica é a mais usada hoje."
+  },
+  {
+   "id": "so-f002",
+   "frente": "HGS × LGS",
+   "verso": "HGS: ρ > 4,2 g/cm³ (barita, hematita). LGS: 1,6–2,9 g/cm³ (areia, argila, folhelho, carbonatos)."
+  },
+  {
+   "id": "so-f003",
+   "frente": "LGS tolerável",
+   "verso": "5–8% em fluidos aquosos; 10–12% em fluidos sintéticos."
+  },
+  {
+   "id": "so-f004",
+   "frente": "Efeito dos sólidos na VP",
+   "verso": "A viscosidade plástica aumenta com a quantidade de sólidos (atrito mecânico). É a propriedade que responde mais rápido."
+  },
+  {
+   "id": "so-f005",
+   "frente": "YP e gel × sólidos",
+   "verso": "Dependem da atração/repulsão entre sólidos, sobretudo argilas ativas coloidais. Géis altos: retenção de gás, surge/swab, pressões elevadas."
+  },
+  {
+   "id": "so-f006",
+   "frente": "Sólidos e reboco",
+   "verso": "Mais sólidos perfurados: reboco espesso e macio, filtração maior, risco de prisão diferencial, dano e má cimentação."
+  },
+  {
+   "id": "so-f007",
+   "frente": "MBT e CEC",
+   "verso": "MBT mede argila reativa (azul de metileno). Bentonita ≈ 63 meq/100 g; sólidos de formação ≈ 19,5 meq/100 g."
+  },
+  {
+   "id": "so-f008",
+   "frente": "Diâmetro equivalente",
+   "verso": "Partículas de densidades diferentes com a mesma velocidade de sedimentação (Stokes). Barita sedimenta como perfurado ~1,4–1,5× maior."
+  },
+  {
+   "id": "so-f009",
+   "frente": "Lei de Stokes",
+   "verso": "Vs = d²·(ρp − ρf)·g / (18·μ). Maior d e maior diferença de densidade: sedimenta mais rápido; maior μ: mais lento."
+  },
+  {
+   "id": "so-f010",
+   "frente": "Classificação API por tamanho",
+   "verso": "Grossa > 2000 µm; intermediária 250–2000; média 74–250; fina 44–74; ultrafina 2–44; coloidal < 2 µm."
+  },
+  {
+   "id": "so-f011",
+   "frente": "Sand trap",
+   "verso": "Sedimentação dos sólidos maiores, 20–30 bbl. Único tanque sem agitador."
+  },
+  {
+   "id": "so-f012",
+   "frente": "Trip tank",
+   "verso": "Registra o volume que entra ou sai do poço na manobra (detecta kick ou perda)."
+  },
+  {
+   "id": "so-f013",
+   "frente": "Tanque de tampão",
+   "verso": "10–50 bbl para misturar pequenos volumes (pílulas, tampões)."
+  },
+  {
+   "id": "so-f014",
+   "frente": "Agitadores",
+   "verso": "Mantêm sólidos em suspensão. TOR (taxa de giro): 35 a 90 s."
+  },
+  {
+   "id": "so-f015",
+   "frente": "Equalização entre tanques",
+   "verso": "Diâmetro mínimo de 10 in; D = (Qmax/15)^½ (gpm → in). Mantém o nível constante."
+  },
+  {
+   "id": "so-f016",
+   "frente": "Sequência do controle de sólidos",
+   "verso": "Peneiras, sand trap, desgaseificador, desareiador, dessiltador (ou mud cleaner) e centrífuga."
+  },
+  {
+   "id": "so-f017",
+   "frente": "Padrões de vibração",
+   "verso": "Linear (OBM, 3–4 G); circular e elíptico (WBM, sólidos grudentos, 4–6 G). Linear é o mais usado."
+  },
+  {
+   "id": "so-f018",
+   "frente": "Telas API",
+   "verso": "Designada pelo D100 (ex.: 73 µm = API 200). Etiqueta: abertura, condutância (kD/mm), área efetiva."
+  },
+  {
+   "id": "so-f019",
+   "frente": "Cuidados com telas",
+   "verso": "Reparo máx. 25% da área; limpar com névoa de água; nunca fazer bypass das peneiras; inspecionar quando a circulação parar."
+  },
+  {
+   "id": "so-f020",
+   "frente": "Peneira de scalping e gumbo",
+   "verso": "Remove cascalho grosso e massas de argila (gumbo) antes das peneiras principais."
+  },
+  {
+   "id": "so-f021",
+   "frente": "Desgaseificador",
+   "verso": "Remove gás do fluido (peneiras não resolvem em fluidos viscosos). Atmosférico (poor boy) ou a vácuo (500–1200 gpm)."
+  },
+  {
+   "id": "so-f022",
+   "frente": "Hidrociclone: princípio",
+   "verso": "Força centrífuga por entrada tangencial. Sólidos pelo ápex (underflow), fluido limpo pelo topo (overflow). Sem partes móveis."
+  },
+  {
+   "id": "so-f023",
+   "frente": "Pressão de entrada do hidrociclone",
+   "verso": "75 ft de carga: P = 0,052 · ρ(lb/gal) · 75 (psi). Baixa: descarga em corda; alta: desgaste."
+  },
+  {
+   "id": "so-f024",
+   "frente": "Spray × corda",
+   "verso": "Spray em V invertido = operação correta. Corda = sobrecarga de sólidos, pressão baixa ou ápex estreito; pode tampar o cone."
+  },
+  {
+   "id": "so-f025",
+   "frente": "Vazão por cone",
+   "verso": "6\": 100–120 gpm; 8\": 200–240; 10\": 400–500; 12\": 500–600."
+  },
+  {
+   "id": "so-f026",
+   "frente": "D50 dos cones",
+   "verso": "12\": 60–80 µm; 6\": 40–60; 4\": 20–40. D50 aumenta com a viscosidade (∝√μ)."
+  },
+  {
+   "id": "so-f027",
+   "frente": "Desareiador × dessiltador",
+   "verso": "Desareiador: cones de 6–12 in. Dessiltador: cones de 2–5 in (remove partículas menores)."
+  },
+  {
+   "id": "so-f028",
+   "frente": "Mud cleaner",
+   "verso": "Cones (desander/desilter) + peneira fina na descarga. Recupera fluido e barita; mais usado em fluidos não densificados com fase líquida cara."
+  },
+  {
+   "id": "so-f029",
+   "frente": "Centrífuga decantadora",
+   "verso": "Última barreira. Força G ∝ rpm²; 1500–4000 rpm. Ajustes: velocidade, diferencial, piscina, tubo de alimentação, vazão."
+  },
+  {
+   "id": "so-f030",
+   "frente": "Balanço da centrífuga",
+   "verso": "QL = Qd·Lvd; QS = Qd·Dd·Smd; QSe = QS + QSr; %S = QS/QSe; R = QL/QS."
+  },
+  {
+   "id": "so-f031",
+   "frente": "Secador de cascalhos",
+   "verso": "Reduz o teor de base orgânica no cascalho e recupera fluido. Vertical ou horizontal (RVD)."
+  },
+  {
+   "id": "so-f032",
+   "frente": "Limites IBAMA de descarte",
+   "verso": "6,9% de base orgânica (n-parafinas, olefinas) e 9,4% (éteres, acetais, ésteres), em média por poço. HPA ≤ 10 ppm."
+  },
+  {
+   "id": "so-f033",
+   "frente": "RVD",
+   "verso": "Secador rotativo a vácuo. Teor de base não aquosa não inferior a ~5%. Menor tempo, espaço e manutenção."
+  },
+  {
+   "id": "so-f034",
+   "frente": "Tratamentos de cascalho",
+   "verso": "Aterro, injeção no poço, dessorção térmica, micro-ondas, incineração, secagem e biorremediação."
+  }
+ ]
+}

@@ -323,7 +323,7 @@
   },
   {
    "id": "col-0021",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "BHL",
    "enunciado": "Pela equação de Berthod, BHL = H/(H+L) × 20, um tensoativo com parte hidrofílica de massa 440 e lipofílica de 560 tem BHL de:",
    "tipo": "multipla",
@@ -355,7 +355,7 @@
   },
   {
    "id": "col-0023",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Adsorção",
    "enunciado": "Quais mecanismos podem explicar a adsorção de tensoativos em sólidos, segundo o curso?",
    "tipo": "multipla",
@@ -403,7 +403,7 @@
   },
   {
    "id": "col-0026",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "CMC",
    "enunciado": "Qual o efeito do aumento da temperatura sobre a CMC de tensoativos não iônicos e iônicos?",
    "tipo": "multipla",
@@ -483,7 +483,7 @@
   },
   {
    "id": "col-0031",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Tensoativos",
    "enunciado": "A inserção de 1 a 3 mols de óxido de eteno entre o grupo apolar e o aniônico:",
    "tipo": "multipla",
@@ -547,7 +547,7 @@
   },
   {
    "id": "col-0035",
-   "dificuldade": 2,
+   "dificuldade": 1,
    "tema": "Espumas",
    "enunciado": "O que determina a estabilidade de uma espuma?",
    "tipo": "multipla",
@@ -627,7 +627,7 @@
   },
   {
    "id": "col-0040",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Espumas EOR",
    "enunciado": "Na injeção de espuma em reservatórios maduros para recuperação avançada, qual afirmação é verdadeira?",
    "tipo": "multipla",
@@ -691,7 +691,7 @@
   },
   {
    "id": "col-0044",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Nanoemulsões",
    "enunciado": "Qual a faixa de tensoativo necessária para formar nanoemulsões em comparação com microemulsões?",
    "tipo": "multipla",
@@ -723,7 +723,7 @@
   },
   {
    "id": "col-0046",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Nanoemulsões",
    "enunciado": "Qual a desvantagem dos métodos de alta energia (homogeneizador de alta pressão, ultrassom) na obtenção de nanoemulsões?",
    "tipo": "multipla",
@@ -739,7 +739,7 @@
   },
   {
    "id": "col-0047",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Microemulsões",
    "enunciado": "Qual a faixa típica de tamanho das gotículas em microemulsões, segundo as definições do curso?",
    "tipo": "multipla",
@@ -964,7 +964,7 @@
   },
   {
    "id": "col-0062",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Tensoativos",
    "enunciado": "Assinale a INCORRETA sobre tensoativos catiônicos:",
    "tipo": "incorreta",
@@ -996,7 +996,7 @@
   },
   {
    "id": "col-0064",
-   "dificuldade": 2,
+   "dificuldade": 3,
    "tema": "Tensoativos",
    "enunciado": "Sobre as classes de tensoativos, analise as afirmativas:",
    "tipo": "combinacao",

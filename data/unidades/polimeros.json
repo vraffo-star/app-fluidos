@@ -1,0 +1,2014 @@
+{
+ "id": "polimeros",
+ "perguntas": [
+  {
+   "id": "pol-0001",
+   "dificuldade": 1,
+   "tema": "Conceitos",
+   "enunciado": "Em um polímero, o que é o mero?",
+   "tipo": "multipla",
+   "alternativas": [
+    "A unidade química que se repete ao longo da cadeia",
+    "A molécula pequena que reage para formar o polímero",
+    "O número de vezes que a unidade se repete na cadeia",
+    "A parte da molécula responsável por formar uma ligação",
+    "Um polímero de baixa massa molar"
+   ],
+   "correta": 0,
+   "explicacao": "Mero é a unidade repetitiva da cadeia. A molécula pequena que reage é o monômero; o número de repetições é o grau de polimerização; a região que forma a ligação é o sítio reacional."
+  },
+  {
+   "id": "pol-0002",
+   "dificuldade": 1,
+   "tema": "Conceitos",
+   "enunciado": "O grau de polimerização de uma cadeia corresponde a:",
+   "tipo": "multipla",
+   "alternativas": [
+    "massa molar do monômero de partida",
+    "número de vezes que o mero se repete na cadeia",
+    "temperatura em que o polímero amolece",
+    "número de ligações cruzadas por cadeia",
+    "percentual de regiões cristalinas"
+   ],
+   "correta": 1,
+   "explicacao": "Grau de polimerização é o número de unidades repetitivas (meros) na cadeia. Junto com a massa molar, determina viscosidade e resistência."
+  },
+  {
+   "id": "pol-0003",
+   "dificuldade": 1,
+   "tema": "Conceitos",
+   "enunciado": "Para atuar como monômero, uma molécula precisa ter na estrutura pelo menos:",
+   "tipo": "multipla",
+   "alternativas": [
+    "dois sítios de reação",
+    "um anel aromático",
+    "três átomos de carbono",
+    "uma ligação iônica",
+    "um grupo hidroxila livre"
+   ],
+   "correta": 0,
+   "explicacao": "Com pelo menos dois sítios reacionais a molécula consegue se ligar a outras de cada lado e formar uma cadeia."
+  },
+  {
+   "id": "pol-0004",
+   "dificuldade": 2,
+   "tema": "Conceitos",
+   "enunciado": "Qual das alternativas distingue corretamente polímero de oligômero e de monômero?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Oligômero é a molécula com massa acima de 1.000.000 g/mol",
+    "Monômero é o polímero reticulado; oligômero é o linear",
+    "Monômero é a molécula pequena que reage; oligômero é uma cadeia curta (cerca de 1.000 a 10.000 g/mol); polímero tem muitos meros e alta massa molar",
+    "Monômero é a cadeia longa; oligômero é a molécula pequena; polímero é a unidade repetitiva",
+    "Oligômero e polímero são sinônimos, e monômero é o produto da reticulação"
+   ],
+   "correta": 2,
+   "explicacao": "Monômero (pequena e reativa) → oligômero (poucos meros) → polímero (muitos meros). As propriedades típicas de polímero só aparecem com alta massa molar."
+  },
+  {
+   "id": "pol-0005",
+   "dificuldade": 2,
+   "tema": "Conceitos",
+   "enunciado": "Por que o polietileno tem propriedades mecânicas tão diferentes de um hidrocarboneto pequeno de composição semelhante (como o etano)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque o polietileno não tem ligações covalentes",
+    "Pela alta massa molar e pelo enorme somatório de forças intermoleculares entre cadeias entrelaçadas",
+    "Porque o polietileno tem menos átomos de carbono por molécula",
+    "Porque o polietileno possui ligações iônicas entre as cadeias",
+    "Porque o etano é sempre mais denso que o polietileno"
+   ],
+   "correta": 1,
+   "explicacao": "A alta massa molar permite entrelaçamento e milhares de interações simultâneas entre cadeias, o que dá resistência. Moléculas pequenas não se entrelaçam."
+  },
+  {
+   "id": "pol-0006",
+   "dificuldade": 3,
+   "tema": "Conceitos",
+   "enunciado": "As forças de dispersão de London são fracas individualmente. Como elas contribuem para as propriedades de um polímero?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Elas se convertem em ligações covalentes durante o entrelaçamento",
+    "Elas só atuam acima da temperatura de transição vítrea",
+    "Centenas de milhares de interações simultâneas entre cadeias somam uma força total de atração muito alta",
+    "Elas são substituídas por ligações iônicas em polímeros apolares",
+    "Elas desaparecem quando a massa molar aumenta"
+   ],
+   "correta": 2,
+   "explicacao": "O polímero tem milhares de segmentos lado a lado. Cada interação é fraca, mas o somatório é enorme, e isso explica a resistência de polímeros apolares como o polietileno."
+  },
+  {
+   "id": "pol-0007",
+   "dificuldade": 2,
+   "tema": "Polimerização",
+   "enunciado": "Qual característica diferencia a policondensação da poliadição?",
+   "tipo": "multipla",
+   "alternativas": [
+    "A policondensação só produz polímeros reticulados",
+    "Na policondensação não há reação entre grupos funcionais",
+    "Na policondensação há liberação de moléculas pequenas (como água) durante a formação da cadeia",
+    "Na poliadição sempre há eliminação de água",
+    "A poliadição exige monômeros diferentes e polifuncionais"
+   ],
+   "correta": 2,
+   "explicacao": "Na poliadição os monômeros se somam sem perda de átomos. Na policondensação, grupos funcionais reagem e eliminam uma molécula pequena (água, amônia etc.)."
+  },
+  {
+   "id": "pol-0008",
+   "dificuldade": 1,
+   "tema": "Polimerização",
+   "enunciado": "O polietileno é obtido por poliadição do monômero eteno (etileno).",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "Verdadeiro. Os monômeros de eteno se adicionam uns aos outros sem eliminar nenhuma molécula, característica da polimerização por adição."
+  },
+  {
+   "id": "pol-0009",
+   "dificuldade": 2,
+   "tema": "Polimerização",
+   "enunciado": "Qual dos polímeros abaixo é obtido por policondensação?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Polipropileno",
+    "Polietileno",
+    "Poliestireno",
+    "Poli(cloreto de vinila) (PVC)",
+    "Poliamidas, como o náilon"
+   ],
+   "correta": 4,
+   "explicacao": "Poliamidas, poliésteres, policarbonatos e polifenóis são formados por policondensação. Os demais são vinílicos, obtidos por adição."
+  },
+  {
+   "id": "pol-0010",
+   "dificuldade": 2,
+   "tema": "Estrutura",
+   "enunciado": "Qual o efeito das ramificações laterais sobre a densidade do polímero?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Formam ligações cruzadas permanentes e eliminam a fusão",
+    "Reduzem o empacotamento entre cadeias e diminuem a densidade, como no polietileno de baixa densidade",
+    "Não afetam a densidade, apenas a cor",
+    "Aumentam o empacotamento e a densidade",
+    "Tornam o polímero necessariamente cristalino"
+   ],
+   "correta": 1,
+   "explicacao": "Ramificações atrapalham o alinhamento das cadeias. Menor empacotamento significa menor densidade e menor cristalinidade (PEBD × PEAD)."
+  },
+  {
+   "id": "pol-0011",
+   "dificuldade": 2,
+   "tema": "Estrutura",
+   "enunciado": "Como um polímero com arquitetura reticulada (rede tridimensional) se comporta diante de um bom solvente?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Funde e depois dissolve",
+    "Dissolve rapidamente, como o linear",
+    "Dissolve melhor que o ramificado",
+    "Não se dissolve; no máximo incha",
+    "Dissolve apenas em água quente"
+   ],
+   "correta": 3,
+   "explicacao": "As ligações cruzadas mantêm as cadeias ligadas, então o polímero não se solubiliza. Só polímeros lineares ou ramificados se dissolvem ou se dispersam."
+  },
+  {
+   "id": "pol-0012",
+   "dificuldade": 3,
+   "tema": "Estrutura",
+   "enunciado": "Polímeros reticulados podem ser dissolvidos em um bom solvente, desde que a temperatura seja suficientemente alta.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 1,
+   "explicacao": "Falso. A rede de ligações cruzadas impede a dissolução. O polímero reticulado pode inchar, mas não se solubiliza."
+  },
+  {
+   "id": "pol-0013",
+   "dificuldade": 2,
+   "tema": "Termoplásticos e termofixos",
+   "enunciado": "Assinale a INCORRETA sobre os polímeros termoplásticos:",
+   "tipo": "incorreta",
+   "alternativas": [
+    "O polietileno é um exemplo",
+    "Podem ser reprocessados e reciclados",
+    "Amolecem ao aquecer e endurecem ao resfriar",
+    "Possuem ligações cruzadas que impedem o amolecimento por calor",
+    "Podem ser amorfos ou semicristalinos"
+   ],
+   "correta": 3,
+   "explicacao": "Termoplásticos têm cadeias lineares ou ramificadas, sem ligações cruzadas permanentes, por isso amolecem e podem ser remoldados. Ligações cruzadas são típicas dos termofixos."
+  },
+  {
+   "id": "pol-0014",
+   "dificuldade": 1,
+   "tema": "Termoplásticos e termofixos",
+   "enunciado": "O que ocorre com um polímero termofixo quando é aquecido em excesso?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Recristaliza e fica transparente",
+    "Torna-se um elastômero",
+    "Amolece e pode ser remoldado várias vezes",
+    "Não amolece nem funde; acaba se decompondo",
+    "Dissolve-se em água"
+   ],
+   "correta": 3,
+   "explicacao": "Após a cura, o termofixo forma rede reticulada, infusível e insolúvel. O calor excessivo o decompõe, e ele não pode ser reprocessado."
+  },
+  {
+   "id": "pol-0015",
+   "dificuldade": 2,
+   "tema": "Termoplásticos e termofixos",
+   "enunciado": "Polímeros termofixos podem ser refundidos e reprocessados da mesma forma que os termoplásticos.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 1,
+   "explicacao": "Falso. A cura cria uma rede reticulada permanente. Por isso são infusíveis, insolúveis e não recicláveis por fusão."
+  },
+  {
+   "id": "pol-0016",
+   "dificuldade": 1,
+   "tema": "Elastômeros",
+   "enunciado": "Qual classe de polímeros apresenta poucas ligações cruzadas e grande deformação elástica reversível (acima de 200%)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Polímeros vítreos",
+    "Fibras sintéticas",
+    "Elastômeros",
+    "Termoplásticos cristalinos",
+    "Termofixos rígidos"
+   ],
+   "correta": 2,
+   "explicacao": "Elastômeros (borrachas) têm cadeias flexíveis com poucas ligações cruzadas, o que permite esticar muito e recuperar a forma."
+  },
+  {
+   "id": "pol-0017",
+   "dificuldade": 3,
+   "tema": "Elastômeros",
+   "enunciado": "Qual o papel do enxofre na vulcanização da borracha?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Formar ligações cruzadas entre as cadeias, impedindo o escorregamento e dando recuperação elástica",
+    "Dissolver a borracha para facilitar a moldagem",
+    "Quebrar as cadeias para reduzir a massa molar",
+    "Iniciar a degradação térmica controlada",
+    "Atuar como plastificante, reduzindo a Tg"
+   ],
+   "correta": 0,
+   "explicacao": "A vulcanização cria poucas ligações cruzadas entre cadeias. Elas amarram as cadeias e a borracha volta à forma original depois da deformação."
+  },
+  {
+   "id": "pol-0018",
+   "dificuldade": 1,
+   "tema": "Elastômeros",
+   "enunciado": "Qual elastômero é conhecido pela alta resistência a óleos e combustíveis e é muito usado em vedações e o-rings?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Poliestireno",
+    "Borracha nitrílica (NBR)",
+    "Silicone (VMQ)",
+    "Borracha natural (NR)",
+    "Neoprene (CR)"
+   ],
+   "correta": 1,
+   "explicacao": "A NBR resiste bem a óleos e combustíveis e é amplamente usada em vedações. A borracha natural não tem boa resistência a óleos."
+  },
+  {
+   "id": "pol-0019",
+   "dificuldade": 3,
+   "tema": "Elastômeros",
+   "enunciado": "Para vedações em ambientes ricos em petróleo e agressivos, qual elastômero costuma ser preferido?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Polietileno de alta densidade",
+    "Elastômeros fluorados, como o Viton",
+    "Náilon",
+    "Borracha natural",
+    "Poliestireno"
+   ],
+   "correta": 1,
+   "explicacao": "Elastômeros fluorados resistem a hidrocarbonetos, produtos químicos e temperatura, sendo usados onde NBR e borracha natural não aguentam."
+  },
+  {
+   "id": "pol-0020",
+   "dificuldade": 1,
+   "tema": "Propriedades térmicas",
+   "enunciado": "A temperatura de transição vítrea (Tg) é aquela em que o polímero:",
+   "tipo": "multipla",
+   "alternativas": [
+    "cristaliza completamente",
+    "passa do estado rígido e quebradiço (vítreo) para o estado flexível (borrachoso)",
+    "perde toda a massa molar",
+    "passa do estado sólido para líquido viscoso",
+    "se decompõe quimicamente"
+   ],
+   "correta": 1,
+   "explicacao": "Abaixo da Tg o polímero é rígido e quebradiço; acima, ganha mobilidade e fica flexível. A Tg ocorre nas regiões amorfas."
+  },
+  {
+   "id": "pol-0021",
+   "dificuldade": 2,
+   "tema": "Propriedades térmicas",
+   "enunciado": "Qual a diferença entre Tg e temperatura de fusão (Tm)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "A Tg é a temperatura de decomposição do polímero",
+    "A Tg ocorre só em cristalinos e a Tm só em amorfos",
+    "Ambas ocorrem apenas em termofixos reticulados",
+    "A Tm é sempre inferior à Tg",
+    "A Tg ocorre na fase amorfa; a Tm ocorre apenas nas regiões cristalinas"
+   ],
+   "correta": 4,
+   "explicacao": "Polímeros totalmente amorfos têm só Tg. Semicristalinos têm Tg (fase amorfa) e Tm (cristais). Acima da Tm o polímero vira líquido viscoso."
+  },
+  {
+   "id": "pol-0022",
+   "dificuldade": 3,
+   "tema": "Propriedades térmicas",
+   "enunciado": "Qual dos fatores abaixo REDUZ a Tg de um polímero?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Cadeias mais rígidas",
+    "Adição de plastificantes",
+    "Aumento das interações polares entre cadeias",
+    "Aumento da massa molar",
+    "Aumento do número de ligações cruzadas"
+   ],
+   "correta": 1,
+   "explicacao": "Plastificantes se intercalam entre as cadeias, aumentam a mobilidade e reduzem a Tg. Cadeias rígidas, maior massa molar e mais ligações cruzadas elevam a Tg."
+  },
+  {
+   "id": "pol-0023",
+   "dificuldade": 3,
+   "tema": "Propriedades térmicas",
+   "enunciado": "Por que um elastômero de vedação deve operar acima da sua Tg?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Abaixo da Tg ele se dissolve no fluido de perfuração",
+    "Acima da Tg ele é flexível e elástico e consegue vedar; abaixo, fica rígido e quebradiço",
+    "Acima da Tg ele funde e escoa, o que melhora a vedação",
+    "Acima da Tg ele se torna termofixo",
+    "A Tg não influencia o desempenho de vedação"
+   ],
+   "correta": 1,
+   "explicacao": "A vedação depende de elasticidade para acompanhar a superfície. Abaixo da Tg o material fica vítreo, sem elasticidade, e tende a trincar."
+  },
+  {
+   "id": "pol-0024",
+   "dificuldade": 2,
+   "tema": "Cristalinidade",
+   "enunciado": "Como a cristalinidade influencia as propriedades de um polímero?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Maior cristalinidade reduz a resistência a solventes",
+    "Maior cristalinidade aumenta a transparência e a flexibilidade",
+    "Só polímeros amorfos resistem a solventes",
+    "Maior cristalinidade aumenta rigidez, resistência mecânica e resistência química",
+    "A cristalinidade não altera nenhuma propriedade"
+   ],
+   "correta": 3,
+   "explicacao": "Regiões cristalinas têm cadeias compactas e ordenadas, o que aumenta rigidez, resistência e resistência química. Já o amorfismo dá flexibilidade e transparência."
+  },
+  {
+   "id": "pol-0025",
+   "dificuldade": 2,
+   "tema": "Cristalinidade",
+   "enunciado": "Qual combinação favorece a cristalização de um polímero?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Copolímeros aleatórios com grupos volumosos",
+    "Muitas ramificações e grupos laterais grandes",
+    "Cadeias atáticas e resfriamento brusco",
+    "Cadeias lineares e regulares (isotáticas ou sindiotáticas) e resfriamento lento",
+    "Alto grau de reticulação"
+   ],
+   "correta": 3,
+   "explicacao": "A regularidade permite empacotamento, e o resfriamento lento dá tempo para as cadeias se organizarem. Ramificações e irregularidades favorecem o amorfismo."
+  },
+  {
+   "id": "pol-0026",
+   "dificuldade": 3,
+   "tema": "Cristalinidade",
+   "enunciado": "Qual dos polímeros abaixo é tipicamente amorfo?",
+   "tipo": "multipla",
+   "alternativas": [
+    "PTFE (teflon)",
+    "Polietileno de alta densidade (PEAD)",
+    "Polipropileno isotático",
+    "Náilon (poliamida)",
+    "Poliestireno atático"
+   ],
+   "correta": 4,
+   "explicacao": "Poliestireno, policarbonato e PMMA são típicos amorfos. PEAD, PP isotático, náilon e PTFE são semicristalinos."
+  },
+  {
+   "id": "pol-0027",
+   "dificuldade": 2,
+   "tema": "Conceitos",
+   "enunciado": "Todo polímero é uma macromolécula, mas nem toda macromolécula é um polímero.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "Verdadeiro. Polímero exige unidade química repetitiva. Há macromoléculas sem unidade repetitiva, que não são polímeros."
+  },
+  {
+   "id": "pol-0028",
+   "dificuldade": 1,
+   "tema": "Polímeros naturais",
+   "enunciado": "Qual das alternativas abaixo é um polímero de origem natural?",
+   "tipo": "multipla",
+   "alternativas": [
+    "PVC",
+    "Celulose",
+    "Polietileno",
+    "Náilon",
+    "Teflon"
+   ],
+   "correta": 1,
+   "explicacao": "Celulose, amido, proteínas e borracha natural são polímeros naturais. Náilon, PVC, polietileno e PTFE são sintéticos."
+  },
+  {
+   "id": "pol-0029",
+   "dificuldade": 2,
+   "tema": "Grupos funcionais",
+   "enunciado": "Qual grupo funcional presente nas poliamidas (náilon) confere alta resistência mecânica e térmica?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Grupo alquila",
+    "Éster",
+    "Hidroxila isolada",
+    "Éter",
+    "Amida"
+   ],
+   "correta": 4,
+   "explicacao": "A amida forma pontes de hidrogênio fortes entre cadeias. O éster dá flexibilidade e resistência química (poliésteres). O éter dá estabilidade química e resistência a solventes."
+  },
+  {
+   "id": "pol-0030",
+   "dificuldade": 3,
+   "tema": "Interações moleculares",
+   "enunciado": "Como se relacionam as forças intramoleculares e intermoleculares nos polímeros?",
+   "tipo": "multipla",
+   "alternativas": [
+    "As intramoleculares só existem em polímeros cristalinos",
+    "As intermoleculares são ligações covalentes entre cadeias",
+    "As intramoleculares definem a solubilidade; as intermoleculares definem a estrutura química",
+    "Ambas definem apenas a cor e o brilho",
+    "As intramoleculares (ligações primárias) definem a estrutura química da cadeia; as intermoleculares (secundárias) definem propriedades físicas como fusão e solubilidade"
+   ],
+   "correta": 4,
+   "explicacao": "Ligações covalentes ao longo da cadeia fixam a estrutura química. Forças secundárias entre cadeias (van der Waals, pontes de hidrogênio) controlam fusão, solubilidade e resistência."
+  },
+  {
+   "id": "pol-0031",
+   "dificuldade": 3,
+   "tema": "Celulose e derivados",
+   "enunciado": "Sobre os fatores que determinam as propriedades de um derivado de celulose como a CMC, analise as afirmativas:",
+   "tipo": "combinacao",
+   "afirmativas": [
+    "I. O grau de polimerização influencia a viscosidade.",
+    "II. O grau de substituição (DS) influencia a solubilidade e o desempenho.",
+    "III. A cor do pó é o fator que define a viscosidade da solução."
+   ],
+   "alternativas": [
+    "Apenas I",
+    "Apenas I e II",
+    "Apenas II e III",
+    "Apenas I e III",
+    "I, II e III"
+   ],
+   "correta": 1,
+   "explicacao": "I e II corretas: DP, DS, uniformidade da substituição e pureza determinam o desempenho. III é falsa: a cor do pó não define a viscosidade."
+  },
+  {
+   "id": "pol-0032",
+   "dificuldade": 2,
+   "tema": "Propriedades mecânicas",
+   "enunciado": "Qual o efeito de aumentar a massa molar de um polímero sobre as suas propriedades?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Tende a aumentar a resistência mecânica e a temperatura de transição vítrea",
+    "Torna o polímero sempre solúvel em água",
+    "Reduz a Tg e a resistência à tração",
+    "Não altera nenhuma propriedade",
+    "Reduz a viscosidade das soluções"
+   ],
+   "correta": 0,
+   "explicacao": "Cadeias mais longas se entrelaçam mais e têm mais interações, o que aumenta a resistência mecânica, a Tg e a viscosidade das soluções."
+  },
+  {
+   "id": "pol-0033",
+   "dificuldade": 2,
+   "tema": "Propriedades mecânicas",
+   "enunciado": "Qual o efeito dos plastificantes sobre as propriedades mecânicas de um polímero?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Aumentam a rigidez e a resistência à tração",
+    "Criam ligações cruzadas permanentes",
+    "Aumentam a flexibilidade e reduzem a resistência mecânica",
+    "Elevam a Tg e a temperatura de fusão",
+    "Eliminam a cristalinidade e aumentam a dureza"
+   ],
+   "correta": 2,
+   "explicacao": "Plastificantes afastam as cadeias, aumentam a mobilidade e a flexibilidade e reduzem a Tg, às custas da resistência mecânica."
+  },
+  {
+   "id": "pol-0034",
+   "dificuldade": 3,
+   "tema": "Termofixos",
+   "enunciado": "Qual a aplicação típica, em campo de petróleo, de polímeros termofixos como a resina epóxi?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Fluidos viscosificantes injetáveis",
+    "Floculantes para cascalho",
+    "Revestimentos anticorrosivos, adesivos estruturais e isolamento térmico",
+    "Redutores de arraste em linhas de bombeio",
+    "Tubulações flexíveis recicláveis por fusão"
+   ],
+   "correta": 2,
+   "explicacao": "Termofixos oferecem alta resistência térmica, mecânica e química, adequados a revestimentos, adesivos e componentes estruturais. Não podem ser remoldados."
+  },
+  {
+   "id": "pol-0035",
+   "dificuldade": 1,
+   "tema": "Estrutura",
+   "enunciado": "Em geral, quanto maior o grau de ramificação, menor tende a ser a densidade do polímero.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "Verdadeiro. Ramificações dificultam o empacotamento das cadeias, reduzindo a densidade e a cristalinidade."
+  },
+  {
+   "id": "pol-0036",
+   "dificuldade": 3,
+   "tema": "Termoplásticos e termofixos",
+   "enunciado": "Um tubo flexível de revestimento interno (liner) precisa ser fundido e remoldado em fabricação. Qual classe de polímero é mais adequada?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Termoplástico, como a poliamida 11",
+    "Polímero reticulado em rede",
+    "Elastômero vulcanizado, como a borracha de pneu",
+    "Qualquer polímero, pois todos fundem e dissolvem",
+    "Termofixo, como a resina fenólica"
+   ],
+   "correta": 0,
+   "explicacao": "Só termoplásticos amolecem e podem ser processados por fusão. A poliamida 11 é muito usada como camada de barreira em dutos flexíveis."
+  },
+  {
+   "id": "pol-0037",
+   "dificuldade": 1,
+   "tema": "Reologia",
+   "enunciado": "A resistência ao escoamento de um fluido polimérico é definida pela sua:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Dureza",
+    "Porosidade",
+    "Tenacidade",
+    "Ductilidade",
+    "Viscosidade"
+   ],
+   "correta": 4,
+   "explicacao": "Viscosidade é a medida da resistência de um fluido ao escoamento. Tenacidade, ductilidade e dureza são propriedades de sólidos."
+  },
+  {
+   "id": "pol-0038",
+   "dificuldade": 1,
+   "tema": "Reologia",
+   "enunciado": "Em um fluido pseudoplástico, o que acontece com a viscosidade quando a taxa de cisalhamento aumenta?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Aumenta",
+    "Permanece constante",
+    "Oscila sem tendência",
+    "Torna-se infinita",
+    "Diminui"
+   ],
+   "correta": 4,
+   "explicacao": "Pseudoplásticos afinam sob cisalhamento: viscosidade cai com o aumento da taxa. É o comportamento típico de soluções poliméricas."
+  },
+  {
+   "id": "pol-0039",
+   "dificuldade": 1,
+   "tema": "Reologia",
+   "enunciado": "Fluido newtoniano é aquele em que:",
+   "tipo": "multipla",
+   "alternativas": [
+    "a viscosidade aumenta com a taxa de cisalhamento",
+    "a viscosidade diminui com o tempo de cisalhamento",
+    "a viscosidade depende só da concentração de sólidos",
+    "a viscosidade é constante, independentemente da taxa de cisalhamento",
+    "existe um limite de escoamento mínimo"
+   ],
+   "correta": 3,
+   "explicacao": "Água e óleo mineral são newtonianos. A tensão é proporcional à taxa de cisalhamento, e a viscosidade é uma constante."
+  },
+  {
+   "id": "pol-0040",
+   "dificuldade": 2,
+   "tema": "Reologia",
+   "enunciado": "Qual tipo de fluido tem viscosidade que aumenta com a taxa de cisalhamento?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Newtoniano",
+    "Tixotrópico",
+    "Pseudoplástico",
+    "Plástico de Bingham",
+    "Dilatante"
+   ],
+   "correta": 4,
+   "explicacao": "No dilatante a viscosidade aumenta com a taxa, o contrário do pseudoplástico. Aparece, por exemplo, em misturas com alta concentração de sólidos."
+  },
+  {
+   "id": "pol-0041",
+   "dificuldade": 2,
+   "tema": "Reologia",
+   "enunciado": "Qual a diferença entre fluidos tixotrópicos e reopéticos?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Ambos engrossam com o tempo sob cisalhamento",
+    "Nos tixotrópicos a viscosidade aparente cai com o tempo sob cisalhamento e se recupera em repouso; nos reopéticos ocorre o inverso",
+    "Tixotrópicos têm viscosidade constante e reopéticos têm viscosidade variável",
+    "Tixotrópicos têm limite de escoamento e reopéticos não",
+    "Reopéticos são sempre newtonianos"
+   ],
+   "correta": 1,
+   "explicacao": "Tixotropia e reopexia são dependências do tempo. Fluidos de perfuração são tixotrópicos; a viscosidade volta ao valor original quando o esforço cessa."
+  },
+  {
+   "id": "pol-0042",
+   "dificuldade": 2,
+   "tema": "Reologia",
+   "enunciado": "Por que a tixotropia é desejável em um fluido de perfuração polimérico?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Substitui a função da barita no fluido",
+    "Faz a viscosidade subir indefinidamente durante a circulação",
+    "Impede qualquer filtração para a formação",
+    "Permite que o fluido recupere gel em repouso, evitando a sedimentação de cascalhos e de barita",
+    "Elimina a necessidade de controlar a densidade"
+   ],
+   "correta": 3,
+   "explicacao": "Em circulação o fluido afina e bombeia fácil; parado, recupera estrutura gel e mantém sólidos em suspensão."
+  },
+  {
+   "id": "pol-0043",
+   "dificuldade": 3,
+   "tema": "Reologia",
+   "enunciado": "O que distingue o fluido de Herschel-Bulkley do plástico de Bingham?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Ambos têm limite de escoamento; no Herschel-Bulkley a relação após o limite é não linear (tipo lei de potência)",
+    "O Bingham é sempre dilatante",
+    "O Herschel-Bulkley não depende da taxa de cisalhamento",
+    "O Bingham não tem limite de escoamento",
+    "O Herschel-Bulkley é newtoniano"
+   ],
+   "correta": 0,
+   "explicacao": "Bingham: limite de escoamento + relação linear. Herschel-Bulkley: limite de escoamento + comportamento tipo lei de potência, descrevendo melhor a maioria dos fluidos poliméricos."
+  },
+  {
+   "id": "pol-0044",
+   "dificuldade": 2,
+   "tema": "Reologia",
+   "enunciado": "À medida que a concentração do polímero aumenta (regimes diluído, semidiluído e concentrado), a viscosidade da solução:",
+   "tipo": "multipla",
+   "alternativas": [
+    "aumenta de forma cada vez mais acentuada",
+    "permanece praticamente constante",
+    "só aumenta no regime diluído",
+    "diminui de forma linear",
+    "oscila sem relação com a concentração"
+   ],
+   "correta": 0,
+   "explicacao": "No diluído o aumento é suave; no semidiluído é mais acentuado; no concentrado, pequenos acréscimos de concentração provocam grandes aumentos de viscosidade."
+  },
+  {
+   "id": "pol-0045",
+   "dificuldade": 3,
+   "tema": "Reologia",
+   "enunciado": "Dois polímeros têm a mesma composição, mas A tem massa molar bem maior que B. Para atingir a mesma viscosidade de solução, é esperado que:",
+   "tipo": "multipla",
+   "alternativas": [
+    "A não consiga formar soluções viscosas",
+    "A precise de menor concentração que B",
+    "A precise de maior concentração que B",
+    "As duas concentrações sejam iguais",
+    "B precise de concentração menor, pois tem cadeia menor"
+   ],
+   "correta": 1,
+   "explicacao": "Maior massa molar significa maior viscosidade por unidade de concentração. Por isso, polímeros de alta massa molar rendem mais e usam menos produto."
+  },
+  {
+   "id": "pol-0046",
+   "dificuldade": 3,
+   "tema": "Reologia",
+   "enunciado": "Por que um polímero linear costuma gerar solução mais viscosa que um ramificado de mesma massa molar?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque o comprimento efetivo da cadeia ramificada é menor, ocupando menor volume hidrodinâmico",
+    "Porque o ramificado é sempre insolúvel",
+    "Porque o linear tem ligações cruzadas",
+    "Porque o ramificado tem massa molar maior",
+    "Porque o linear é sempre mais cristalino em solução"
+   ],
+   "correta": 0,
+   "explicacao": "A ramificação torna a molécula mais compacta. Com menor dimensão da cadeia, o aumento de viscosidade na solução é menor."
+  },
+  {
+   "id": "pol-0047",
+   "dificuldade": 2,
+   "tema": "Solubilidade",
+   "enunciado": "O que caracteriza um bom solvente para um polímero?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Reticula as cadeias do polímero",
+    "Não interage com o polímero",
+    "Contrai a cadeia e reduz a viscosidade",
+    "Provoca precipitação do polímero",
+    "Interage fortemente com a cadeia, expandindo-a e elevando a viscosidade da solução"
+   ],
+   "correta": 4,
+   "explicacao": "Em bom solvente, a cadeia se expande por interação polímero-solvente favorável e a viscosidade é maior. Em mau solvente, a cadeia se contrai e pode precipitar."
+  },
+  {
+   "id": "pol-0048",
+   "dificuldade": 1,
+   "tema": "Solubilidade",
+   "enunciado": "Qual é o solvente mais adequado para um polímero hidrofílico como a poliacrilamida?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Diesel",
+    "Água",
+    "Parafina",
+    "Hexano",
+    "Olefina linear"
+   ],
+   "correta": 1,
+   "explicacao": "Semelhante dissolve semelhante: polímeros polares e iônicos se dissolvem em água, e polímeros apolares, em solventes orgânicos."
+  },
+  {
+   "id": "pol-0049",
+   "dificuldade": 3,
+   "tema": "Solubilidade",
+   "enunciado": "O que se espera ao colocar um polímero aniônico (como a PHPA) em salmoura de alta salinidade?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Blindagem das cargas, contração das cadeias e perda de viscosidade",
+    "Nenhum efeito, pois sais não interagem com polímeros",
+    "Reticulação irreversível do polímero",
+    "Expansão das cadeias e ganho de viscosidade",
+    "Aumento da Tg para valores acima de 200 °C"
+   ],
+   "correta": 0,
+   "explicacao": "Os íons blindam as cargas ao longo da cadeia, reduzindo a repulsão eletrostática. Com isso a cadeia se contrai e a viscosidade cai."
+  },
+  {
+   "id": "pol-0050",
+   "dificuldade": 2,
+   "tema": "Solubilidade",
+   "enunciado": "Assinale a INCORRETA sobre a solubilidade de polímeros:",
+   "tipo": "incorreta",
+   "alternativas": [
+    "Polímeros reticulados dissolvem com facilidade em bons solventes",
+    "Maior massa molar tende a dificultar a dissolução",
+    "Polímeros lineares e ramificados podem se solubilizar",
+    "Temperatura e pressão do meio influenciam a solubilidade",
+    "A natureza polar ou apolar do polímero influencia a solubilidade"
+   ],
+   "correta": 0,
+   "explicacao": "Polímeros reticulados não se solubilizam, no máximo incham. As demais afirmativas descrevem fatores reais que afetam a solubilidade."
+  },
+  {
+   "id": "pol-0051",
+   "dificuldade": 2,
+   "tema": "Medição",
+   "enunciado": "Quais são as velocidades de rotação do cilindro externo do viscosímetro rotativo Fann 35A?",
+   "tipo": "multipla",
+   "alternativas": [
+    "1, 2, 5, 10, 50 e 100 rpm",
+    "300 e 600 rpm apenas",
+    "3, 6, 100, 200, 300 e 600 rpm",
+    "6, 12, 24, 48, 96 e 192 rpm",
+    "10, 20, 30, 60, 90 e 120 rpm"
+   ],
+   "correta": 2,
+   "explicacao": "No Fann 35A o cilindro externo gira a velocidades controladas (3, 6, 100, 200, 300 e 600 rpm) enquanto o bob interno permanece estático."
+  },
+  {
+   "id": "pol-0052",
+   "dificuldade": 2,
+   "tema": "Medição",
+   "enunciado": "Para que serve principalmente a viscosidade Marsh na rotina do fluido?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Calcular o limite de escoamento",
+    "Indicar rapidamente mudanças no comportamento do fluido, embora não entre em cálculos de reologia",
+    "Medir a densidade do fluido",
+    "Medir o volume de filtrado API",
+    "Determinar o índice de comportamento n"
+   ],
+   "correta": 1,
+   "explicacao": "O funil Marsh dá um tempo de escoamento. Não entra em cálculos reológicos, mas sinaliza alterações no fluido durante a perfuração."
+  },
+  {
+   "id": "pol-0053",
+   "dificuldade": 1,
+   "tema": "Medição",
+   "enunciado": "Qual instrumento mede a viscosidade de fluidos newtonianos transparentes pelo tempo de escoamento em um tubo?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Funil Marsh",
+    "Retorta",
+    "Filtro-prensa",
+    "Balança de lama",
+    "Viscosímetros capilares, como Ostwald, Cannon-Fenske e Ubbelohde"
+   ],
+   "correta": 4,
+   "explicacao": "Viscosímetros capilares são úteis para fluidos newtonianos transparentes. Para fluidos não newtonianos usam-se reômetros e viscosímetros rotativos."
+  },
+  {
+   "id": "pol-0054",
+   "dificuldade": 2,
+   "tema": "Degradação",
+   "enunciado": "Quais fatores favorecem a degradação por hidrólise de polímeros em fluidos de poço?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Presença de água em temperatura elevada e/ou pH extremo",
+    "Alta concentração de barita",
+    "Fluido base óleo em temperatura ambiente",
+    "Pressão negativa no anular",
+    "Ausência de água e baixa temperatura"
+   ],
+   "correta": 0,
+   "explicacao": "A hidrólise é a quebra de ligações pela água, acelerada por temperatura alta e pH muito ácido ou alcalino."
+  },
+  {
+   "id": "pol-0055",
+   "dificuldade": 1,
+   "tema": "Degradação",
+   "enunciado": "Fatores como temperatura elevada e variações de pH podem causar, nos polímeros:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Aumento da resistência mecânica",
+    "Aumento da massa molar",
+    "Cristalização instantânea e completa",
+    "Transformação em polímeros termofixos",
+    "A degradação das cadeias macromoleculares"
+   ],
+   "correta": 4,
+   "explicacao": "Calor e pH extremo quebram as cadeias, reduzindo massa molar e, portanto, viscosidade e eficiência."
+  },
+  {
+   "id": "pol-0056",
+   "dificuldade": 2,
+   "tema": "Degradação",
+   "enunciado": "Qual a consequência prática da degradação das cadeias de um polímero viscosificante no fluido?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Perda de viscosidade, de suspensão de sólidos e de controle de filtrado",
+    "Maior resistência ao cisalhamento",
+    "Aumento da densidade do fluido",
+    "Melhora do controle de perdas por filtração",
+    "Aumento imediato da viscosidade plástica"
+   ],
+   "correta": 0,
+   "explicacao": "Cadeias mais curtas geram menor viscosidade e menor capacidade de carrear cascalhos e controlar filtrado."
+  },
+  {
+   "id": "pol-0057",
+   "dificuldade": 3,
+   "tema": "Degradação",
+   "enunciado": "Qual estratégia ajuda a prolongar a vida útil de polímeros em poços quentes?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Aumentar a concentração de oxigênio dissolvido",
+    "Reduzir a massa molar do polímero",
+    "Elevar o pH até valores extremos",
+    "Trocar por polímeros com mais ligações hidrolisáveis",
+    "Usar polímeros modificados ou reticulados e estabilizantes térmicos"
+   ],
+   "correta": 4,
+   "explicacao": "Modificações químicas (copolímeros com monômeros resistentes ao calor, reticulação) e estabilizantes térmicos retardam a degradação."
+  },
+  {
+   "id": "pol-0058",
+   "dificuldade": 1,
+   "tema": "HPHT",
+   "enunciado": "O que significa a condição HPHT enfrentada pelos polímeros em poços profundos?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Alta pressão e alta temperatura",
+    "Alta porosidade e alta transmissividade",
+    "Hidratação de polímeros de alta tenacidade",
+    "Homogeneização de polímeros de tração hidráulica",
+    "Alta permeabilidade e alta tixotropia"
+   ],
+   "correta": 0,
+   "explicacao": "HPHT é high pressure, high temperature. No curso, refere-se a condições acima de cerca de 150 °C e pressões muito elevadas, comuns em poços ultraprofundos."
+  },
+  {
+   "id": "pol-0059",
+   "dificuldade": 2,
+   "tema": "HPHT",
+   "enunciado": "Em condições HPHT, a ruptura térmica das cadeias poliméricas provoca:",
+   "tipo": "multipla",
+   "alternativas": [
+    "formação de ligações cruzadas permanentes",
+    "aumento da viscosidade do fluido",
+    "aumento da resistência à oxidação",
+    "redução da viscosidade e da eficácia do polímero",
+    "aumento da Tg do polímero"
+   ],
+   "correta": 3,
+   "explicacao": "A degradação térmica reduz a massa molar e a eficiência do polímero. Oxidação térmica em presença de oxigênio acelera o processo."
+  },
+  {
+   "id": "pol-0060",
+   "dificuldade": 3,
+   "tema": "HPHT",
+   "enunciado": "O que o curso afirma sobre a adsorção de polímeros em rochas reservatório?",
+   "tipo": "multipla",
+   "alternativas": [
+    "A adsorção sempre aumenta a viscosidade na solução",
+    "Há maior adsorção em carbonatos do que em arenitos, o que pode reduzir a eficiência do polímero",
+    "A adsorção não ocorre em rochas reservatório",
+    "Arenitos adsorvem mais polímero que carbonatos",
+    "A adsorção só ocorre em rochas sem argila"
+   ],
+   "correta": 1,
+   "explicacao": "O polímero que adsorve na rocha deixa de atuar na solução, e a perda é maior em carbonatos do que em arenitos."
+  },
+  {
+   "id": "pol-0061",
+   "dificuldade": 2,
+   "tema": "Testes",
+   "enunciado": "Qual ensaio avalia a capacidade de um polímero de reduzir a perda de fluido para a formação?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Filtro-prensa (API ou HPHT)",
+    "Reômetro",
+    "Ensaio de dureza Shore",
+    "Cromatografia a gás",
+    "Forno de envelhecimento"
+   ],
+   "correta": 0,
+   "explicacao": "O filtro-prensa mede o volume de filtrado e a espessura do reboco em condições API ou HPHT."
+  },
+  {
+   "id": "pol-0062",
+   "dificuldade": 2,
+   "tema": "Testes",
+   "enunciado": "Qual equipamento simula o efeito prolongado da temperatura sobre um fluido polimérico?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Titulador de alcalinidade",
+    "Retorta",
+    "Balança de lama",
+    "Funil Marsh",
+    "Forno de envelhecimento"
+   ],
+   "correta": 4,
+   "explicacao": "No envelhecimento acelerado o fluido é mantido em células aquecidas, simulando o tempo no poço para avaliar degradação térmica, oxidação e hidrólise."
+  },
+  {
+   "id": "pol-0063",
+   "dificuldade": 3,
+   "tema": "Testes",
+   "enunciado": "Qual ensaio verifica que um polímero não precipita nem gelifica de forma indesejada ao ser misturado com salmouras e aditivos?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Medida de dureza",
+    "Ensaio de tração",
+    "Teste de compatibilidade química",
+    "Teste de densidade",
+    "Teste de temperatura de ebulição"
+   ],
+   "correta": 2,
+   "explicacao": "O teste de compatibilidade avalia a interação do polímero com salmouras, argilas e outros aditivos, procurando precipitação ou gelificação."
+  },
+  {
+   "id": "pol-0064",
+   "dificuldade": 3,
+   "tema": "Reologia",
+   "enunciado": "Sobre fluidos pseudoplásticos poliméricos, analise as afirmativas:",
+   "tipo": "combinacao",
+   "afirmativas": [
+    "I. A viscosidade diminui com o aumento da taxa de cisalhamento.",
+    "II. Facilitam o bombeamento sob cisalhamento e mantêm viscosidade em repouso.",
+    "III. Comportam-se sempre como fluidos newtonianos."
+   ],
+   "alternativas": [
+    "Apenas I",
+    "Apenas I e II",
+    "Apenas II e III",
+    "Apenas I e III",
+    "I, II e III"
+   ],
+   "correta": 1,
+   "explicacao": "I e II corretas. III é falsa: pseudoplásticos são não newtonianos, pois a viscosidade depende da taxa de cisalhamento."
+  },
+  {
+   "id": "pol-0065",
+   "dificuldade": 3,
+   "tema": "Reologia",
+   "enunciado": "Após trocar o polímero por outro de maior massa molar, na mesma concentração, a pressão de bombeio aumentou. Qual a explicação mais provável?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Aumento da Tg",
+    "Maior viscosidade da solução, com maior perda de carga por fricção",
+    "Redução da densidade do fluido",
+    "Redução do atrito nas paredes",
+    "Queda do teor de sólidos"
+   ],
+   "correta": 1,
+   "explicacao": "Maior massa molar significa maior viscosidade na mesma concentração, e portanto maior perda de carga no escoamento."
+  },
+  {
+   "id": "pol-0066",
+   "dificuldade": 3,
+   "tema": "Redução de arraste",
+   "enunciado": "Como os redutores de arraste (drag reducers) poliméricos funcionam?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Formam um reboco espesso na parede do poço",
+    "Aumentam fortemente a densidade do fluido",
+    "Aumentam a turbulência para melhorar a mistura",
+    "Polímeros lineares de alta massa molar, em pequenas quantidades, suprimem a turbulência e reduzem a perda de carga",
+    "Reduzem o volume de fluido bombeado"
+   ],
+   "correta": 3,
+   "explicacao": "Pequenas concentrações de polímero de alta massa molar atenuam o escoamento turbulento, reduzindo a resistência e a pressão necessária."
+  },
+  {
+   "id": "pol-0067",
+   "dificuldade": 1,
+   "tema": "Redução de arraste",
+   "enunciado": "Quais polímeros são citados como agentes redutores de arraste?",
+   "tipo": "multipla",
+   "alternativas": [
+    "CMC de baixa viscosidade e cal",
+    "PEO (poli(óxido de etileno)) e poliacrilamida de alta massa molar",
+    "Barita e hematita",
+    "Lignossulfonato e bentonita",
+    "Soda cáustica e cloreto de sódio"
+   ],
+   "correta": 1,
+   "explicacao": "Polímeros lineares de alta massa molar, como PEO, PAM e poli-isobutileno, reduzem a perda de carga em tubulações."
+  },
+  {
+   "id": "pol-0068",
+   "dificuldade": 2,
+   "tema": "Reologia",
+   "enunciado": "Em um fluido pseudoplástico, a viscosidade em alta taxa de cisalhamento é maior do que em repouso.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 1,
+   "explicacao": "Falso. Pseudoplásticos afinam sob cisalhamento: a viscosidade é menor em alta taxa e maior em baixa taxa ou em repouso."
+  },
+  {
+   "id": "pol-0069",
+   "dificuldade": 1,
+   "tema": "Reologia",
+   "enunciado": "A viscosidade de uma solução polimérica tende a diminuir quando a temperatura aumenta.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "Verdadeiro. A temperatura aumenta a mobilidade das cadeias e reduz a viscosidade, além de acelerar a degradação."
+  },
+  {
+   "id": "pol-0070",
+   "dificuldade": 2,
+   "tema": "Solubilidade",
+   "enunciado": "Polímeros aniônicos tendem a ser mais sensíveis à salinidade e à presença de cátions que polímeros não iônicos.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "Verdadeiro. As cargas ao longo da cadeia interagem com íons do meio. Polímeros não iônicos, como a goma guar, são pouco afetados por sais."
+  },
+  {
+   "id": "pol-0071",
+   "dificuldade": 2,
+   "tema": "Solubilidade",
+   "enunciado": "Qual polímero é não iônico, pertence às galactomananas e é compatível com NaCl e KCl?",
+   "tipo": "multipla",
+   "alternativas": [
+    "PHPA",
+    "Goma guar",
+    "Carboximetilcelulose (CMC)",
+    "Amido pré-gelatinizado",
+    "Goma xantana"
+   ],
+   "correta": 1,
+   "explicacao": "A goma guar é uma galactomanana não iônica. Hidrata-se em qualquer tipo de água e é compatível com sais como NaCl e KCl."
+  },
+  {
+   "id": "pol-0072",
+   "dificuldade": 3,
+   "tema": "Reologia",
+   "enunciado": "Por que o aumento de temperatura pode ser mais crítico para fluidos poliméricos do que apenas a queda de viscosidade reversível?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque a temperatura torna o polímero termofixo",
+    "Porque, além de reduzir a viscosidade, pode degradar as cadeias de forma irreversível",
+    "Porque a temperatura aumenta a salinidade",
+    "Porque a temperatura elimina a pseudoplasticidade",
+    "Porque a temperatura aumenta a massa molar"
+   ],
+   "correta": 1,
+   "explicacao": "A queda de viscosidade por mobilidade é reversível ao resfriar. Já a degradação térmica e oxidativa rompe cadeias de modo permanente."
+  },
+  {
+   "id": "pol-0073",
+   "dificuldade": 2,
+   "tema": "Reologia",
+   "enunciado": "Qual o papel da elasticidade (viscoelasticidade) em fluidos poliméricos usados no poço?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Elimina a necessidade de controle de filtrado",
+    "Substitui o tratamento de sólidos",
+    "Eleva o pH do fluido",
+    "Aumenta a densidade do fluido",
+    "Auxilia na suspensão de sólidos e na estabilização da estrutura do fluido"
+   ],
+   "correta": 4,
+   "explicacao": "Fluidos viscoelásticos recuperam parcialmente a deformação e ajudam a manter sólidos em suspensão e a conservar a estrutura."
+  },
+  {
+   "id": "pol-0074",
+   "dificuldade": 1,
+   "tema": "Fluidos de perfuração",
+   "enunciado": "Qual é a principal função da poliacrilamida parcialmente hidrolisada (PHPA) em fluidos de perfuração?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Aumentar a densidade do fluido sem usar barita",
+    "Elevar o pH do fluido",
+    "Substituir as tubulações de aço",
+    "Atuar como agente desespumante mineral",
+    "Inibir a hidratação e o inchamento de argilas e folhelhos"
+   ],
+   "correta": 4,
+   "explicacao": "A PHPA encapsula cascalhos e reveste as paredes do poço, reduzindo a hidratação e a dispersão de folhelhos. Costuma ser associada ao KCl."
+  },
+  {
+   "id": "pol-0075",
+   "dificuldade": 1,
+   "tema": "Fluidos de perfuração",
+   "enunciado": "Qual conjunto reúne polímeros usados principalmente como viscosificantes em fluidos aquosos?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Barita, hematita e calcário",
+    "PHPA, PAC e amido",
+    "Lignossulfonato, soda cáustica e cal",
+    "Goma xantana, goma guar e HEC",
+    "CMC, PAC e amido"
+   ],
+   "correta": 3,
+   "explicacao": "Xantana, guar e HEC são viscosificantes. CMC, PAC e amido atuam principalmente no controle de filtrado."
+  },
+  {
+   "id": "pol-0076",
+   "dificuldade": 1,
+   "tema": "Fluidos de perfuração",
+   "enunciado": "Quais polímeros atuam principalmente como redutores de filtrado em fluidos aquosos?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Barita, hematita e galena",
+    "Amido modificado, CMC e PAC",
+    "Diesel, parafina e olefina",
+    "Cal, soda cáustica e bicarbonato",
+    "Goma xantana, goma guar e HEC"
+   ],
+   "correta": 1,
+   "explicacao": "Amido, CMC e PAC formam reboco fino e de baixa permeabilidade, reduzindo o filtrado para a formação."
+  },
+  {
+   "id": "pol-0077",
+   "dificuldade": 1,
+   "tema": "Goma xantana",
+   "enunciado": "Qual é a origem da goma xantana?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Extração da semente de guar",
+    "Polimerização da acrilamida",
+    "Extração do amido do milho",
+    "Fermentação bacteriana por Xanthomonas campestris",
+    "Carboximetilação da celulose"
+   ],
+   "correta": 3,
+   "explicacao": "A xantana é um biopolímero polissacarídeo produzido por fermentação. É natural, e não derivada do petróleo."
+  },
+  {
+   "id": "pol-0078",
+   "dificuldade": 2,
+   "tema": "Goma xantana",
+   "enunciado": "A goma xantana é um polímero sintético derivado do petróleo.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 1,
+   "explicacao": "Falso. É um polissacarídeo natural, produzido por fermentação bacteriana, biodegradável."
+  },
+  {
+   "id": "pol-0079",
+   "dificuldade": 2,
+   "tema": "Goma xantana",
+   "enunciado": "Por que a goma xantana é adequada para suspender cascalhos e barita?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Por reduzir a viscosidade em repouso",
+    "Por dar alta viscosidade em baixa taxa de cisalhamento (pseudoplasticidade) e recuperar estrutura em repouso (tixotropia)",
+    "Por reticular com a barita",
+    "Por ter densidade muito alta",
+    "Por ser insolúvel em água"
+   ],
+   "correta": 1,
+   "explicacao": "A xantana mantém alta viscosidade em baixa taxa, o que sustenta sólidos, e afina sob bombeamento. Resiste a variações de pH e à presença de sais."
+  },
+  {
+   "id": "pol-0080",
+   "dificuldade": 3,
+   "tema": "Goma xantana",
+   "enunciado": "Em um poço horizontal, qual propriedade de um fluido com xantana é mais valiosa para a limpeza do poço?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Alto teor de sólidos de baixa gravidade",
+    "Alta viscosidade plástica",
+    "Alta viscosidade em baixa taxa de cisalhamento, que ajuda a suspender e carrear cascalhos",
+    "Baixa viscosidade em repouso",
+    "Alta densidade"
+   ],
+   "correta": 2,
+   "explicacao": "No trecho horizontal as taxas de cisalhamento no anular são baixas. Uma boa viscosidade nessa faixa é o que evita a formação de leito de cascalhos."
+  },
+  {
+   "id": "pol-0081",
+   "dificuldade": 2,
+   "tema": "CMC e derivados",
+   "enunciado": "Como é obtida a carboximetilcelulose (CMC)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Por extração da galactomanana",
+    "Por fermentação bacteriana",
+    "Por carboximetilação da celulose, substituindo hidroxilas por grupos carboximetil",
+    "Por hidrólise do amido",
+    "Por polimerização da acrilamida"
+   ],
+   "correta": 2,
+   "explicacao": "A CMC é um polímero natural modificado, aniônico e solúvel em água. A substituição das hidroxilas da celulose define o grau de substituição (DS)."
+  },
+  {
+   "id": "pol-0082",
+   "dificuldade": 3,
+   "tema": "Goma guar",
+   "enunciado": "Por que a goma guar é adequada em salmouras de NaCl e KCl?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Por ser aniônica e blindada pelos sais",
+    "Por ter massa molar muito baixa",
+    "Por ser não iônica, hidratar-se em qualquer tipo de água e ser pouco afetada por sais",
+    "Por ser insolúvel em água",
+    "Por precipitar na presença de sais"
+   ],
+   "correta": 2,
+   "explicacao": "Sem cargas, a guar não sofre blindagem eletrostática pelos sais. É uma galactomanana compatível com NaCl e KCl."
+  },
+  {
+   "id": "pol-0083",
+   "dificuldade": 2,
+   "tema": "Amido",
+   "enunciado": "O amido pré-gelatinizado, usado no controle de filtrado, é constituído por:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Galactose e manose, formando um polissacarídeo aniônico",
+    "Amilose e amilopectina, formando um polissacarídeo neutro",
+    "Acrilamida e acrilato",
+    "Glicose e ácido glucurônico",
+    "Celulose carboximetilada"
+   ],
+   "correta": 1,
+   "explicacao": "O amido é um polissacarídeo neutro de dois tipos de cadeia, amilose e amilopectina. Galactose e manose compõem a guar."
+  },
+  {
+   "id": "pol-0084",
+   "dificuldade": 3,
+   "tema": "PHPA e inibição",
+   "enunciado": "Como a PHPA atua como floculante de sólidos de perfuração?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Aumentando a densidade de cada partícula individual",
+    "Neutralizando o pH da fase contínua",
+    "Dissolvendo as partículas sólidas",
+    "Dispersando as partículas em tamanhos menores",
+    "Cadeias longas aniônicas adsorvem em várias partículas, formando pontes e flocos que sedimentam e são removidos"
+   ],
+   "correta": 4,
+   "explicacao": "A floculação por pontes agrega partículas em flocos maiores que sedimentam, ajudando a reduzir o teor de sólidos do fluido."
+  },
+  {
+   "id": "pol-0085",
+   "dificuldade": 3,
+   "tema": "PHPA e inibição",
+   "enunciado": "Por que o KCl costuma ser associado à PHPA para inibir folhelhos?",
+   "tipo": "multipla",
+   "alternativas": [
+    "O KCl reticula a PHPA em um termofixo",
+    "O KCl neutraliza a carga da PHPA para precipitá-la",
+    "O KCl aumenta a hidratação da argila",
+    "O íon K+ reduz o inchamento das camadas da argila e a PHPA encapsula e protege o cascalho e a parede",
+    "O KCl aumenta a viscosidade da PHPA sem limites"
+   ],
+   "correta": 3,
+   "explicacao": "O K+ se encaixa entre as lamelas da argila, reduzindo a hidratação. A PHPA complementa o efeito de encapsulamento."
+  },
+  {
+   "id": "pol-0086",
+   "dificuldade": 3,
+   "tema": "PHPA e inibição",
+   "enunciado": "Como polímeros policatiônicos (poli-ionenos) ajudam a estabilizar folhelhos?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Substituem cátions intercambiáveis mono e divalentes por múltiplos pontos de ligação, reduzindo a dispersão",
+    "Reagem com o cimento para formar gel",
+    "Aumentam a água livre do fluido",
+    "Aumentam o pH para dissolver a argila",
+    "Reduzem a densidade da formação"
+   ],
+   "correta": 0,
+   "explicacao": "Polímeros com várias cargas positivas se ligam fortemente à superfície negativa da argila, impedindo hidratação e desintegração do cascalho."
+  },
+  {
+   "id": "pol-0087",
+   "dificuldade": 1,
+   "tema": "Completação",
+   "enunciado": "Qual é o fluido típico de completação descrito no curso?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Solução salina (salmoura) compatível com o reservatório e seus fluidos",
+    "Água doce sem aditivos",
+    "Cimento com retardador",
+    "Lama base óleo com barita em alta densidade",
+    "Espuma de nitrogênio puro"
+   ],
+   "correta": 0,
+   "explicacao": "O fluido de completação é uma salmoura cuja composição deve ser compatível com o reservatório, para evitar dano à formação. Pode levar espessantes e controladores de filtrado."
+  },
+  {
+   "id": "pol-0088",
+   "dificuldade": 2,
+   "tema": "Completação",
+   "enunciado": "Qual polímero é viscosificante típico em salmouras de completação por seu bom desempenho em soluções salinas?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Poliestireno",
+    "PHPA de alta carga aniônica",
+    "Resina epóxi",
+    "Hidroxietilcelulose (HEC)",
+    "Carboximetilcelulose de baixa viscosidade"
+   ],
+   "correta": 3,
+   "explicacao": "A HEC é não iônica e funciona em salmouras e em temperatura moderada a alta, sendo usada em fluidos de completação e estimulação."
+  },
+  {
+   "id": "pol-0089",
+   "dificuldade": 1,
+   "tema": "Cimentação",
+   "enunciado": "Qual a função dos dispersantes poliméricos na pasta de cimento?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Reduzir a viscosidade e a fricção, permitindo bombeio com menor potência",
+    "Aumentar a densidade da pasta com sólidos",
+    "Reduzir o tempo de espessamento",
+    "Aumentar a viscosidade da pasta",
+    "Acelerar a pega do cimento"
+   ],
+   "correta": 0,
+   "explicacao": "Dispersantes (polímeros com grupos sulfônicos e carboxílicos) melhoram a fluidez e facilitam o escoamento da pasta."
+  },
+  {
+   "id": "pol-0090",
+   "dificuldade": 1,
+   "tema": "Cimentação",
+   "enunciado": "Para que servem os retardadores de pega de cimento?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Aumentar a densidade da pasta",
+    "Aumentar a velocidade de hidratação",
+    "Acelerar a resistência compressiva inicial",
+    "Reduzir a perda de filtrado",
+    "Reduzir a velocidade de hidratação do cimento, dando tempo para o bombeio e o posicionamento"
+   ],
+   "correta": 4,
+   "explicacao": "Em poços profundos e quentes a pega é rápida. O retardador estende o tempo de bombeabilidade da pasta."
+  },
+  {
+   "id": "pol-0091",
+   "dificuldade": 2,
+   "tema": "Cimentação",
+   "enunciado": "Quais grupos funcionais são típicos de polímeros dispersantes de cimento?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Halogênios",
+    "Apenas grupos alquila simples",
+    "Apenas ligações duplas sem grupos polares",
+    "Sulfônicos, carboxílicos e anéis aromáticos",
+    "Grupos nitro"
+   ],
+   "correta": 3,
+   "explicacao": "Grupos sulfônicos e carboxílicos conferem carga à partícula de cimento e promovem repulsão, dispersando a pasta."
+  },
+  {
+   "id": "pol-0092",
+   "dificuldade": 3,
+   "tema": "Cimentação",
+   "enunciado": "Qual o risco de uma pasta de cimento com perda de filtrado excessiva?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Aumento da resistência compressiva final",
+    "Redução da densidade da pasta",
+    "Desidratação prematura, aumento de viscosidade e risco de falha no isolamento zonal",
+    "Redução do tempo de pega, sem qualquer outro efeito",
+    "Melhora da aderência à formação"
+   ],
+   "correta": 2,
+   "explicacao": "Com a perda de água para a formação, a pasta engrossa, pode formar pontes e deixar canais, prejudicando o isolamento zonal."
+  },
+  {
+   "id": "pol-0093",
+   "dificuldade": 1,
+   "tema": "Estimulação",
+   "enunciado": "A acidificação de matriz com HCl é indicada principalmente para:",
+   "tipo": "multipla",
+   "alternativas": [
+    "reservatórios carbonáticos, que reagem com o ácido",
+    "formações já totalmente cimentadas",
+    "rochas ígneas maciças",
+    "arenitos limpos sem carbonato",
+    "folhelhos reativos"
+   ],
+   "correta": 0,
+   "explicacao": "O HCl dissolve calcita e dolomita, aumentando a permeabilidade da matriz carbonática. Estimulação ácida visa formações com solubilidade química relevante."
+  },
+  {
+   "id": "pol-0094",
+   "dificuldade": 2,
+   "tema": "Estimulação",
+   "enunciado": "Qual o papel dos polímeros em tratamentos ácidos?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Dissolver a rocha no lugar do ácido",
+    "Viscosificar e retardar o ácido e criar géis temporários que direcionam o fluxo para as zonas-alvo",
+    "Aumentar a reatividade do ácido sem controle",
+    "Neutralizar o ácido imediatamente",
+    "Substituir o HCl por água"
+   ],
+   "correta": 1,
+   "explicacao": "Polímeros reticuláveis formam géis temporários que desviam o ácido para zonas menos permeáveis, e depois são degradados."
+  },
+  {
+   "id": "pol-0095",
+   "dificuldade": 2,
+   "tema": "Estimulação",
+   "enunciado": "No fraturamento hidráulico, qual a principal função do polímero viscosificante?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Reduzir a pressão de fratura a zero",
+    "Dissolver a rocha reservatório",
+    "Aumentar a densidade da rocha",
+    "Transportar o agente de sustentação (propante) e gerar fraturas mais amplas",
+    "Substituir o propante"
+   ],
+   "correta": 3,
+   "explicacao": "Polímeros como guar, HPAM e borato de guar aumentam a viscosidade e permitem carrear o propante para dentro da fratura."
+  },
+  {
+   "id": "pol-0096",
+   "dificuldade": 3,
+   "tema": "Estimulação",
+   "enunciado": "Por que se usam quebradores (breakers) em fluidos de fraturamento poliméricos?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Para aumentar a viscosidade durante o fechamento da fratura",
+    "Para impedir a degradação do polímero",
+    "Para elevar a densidade do fluido",
+    "Para reduzir a viscosidade depois do bombeio e evitar resíduo que danifique a permeabilidade da fratura",
+    "Para reticular o polímero dentro do reservatório"
+   ],
+   "correta": 3,
+   "explicacao": "O gel precisa carrear o propante, mas depois deve quebrar e retornar ao poço. Gel residual bloqueia a fratura e reduz a produtividade."
+  },
+  {
+   "id": "pol-0097",
+   "dificuldade": 3,
+   "tema": "EOR",
+   "enunciado": "Qual a eficiência típica da recuperação primária citada no curso?",
+   "tipo": "multipla",
+   "alternativas": [
+    "15 a 20% do óleo original",
+    "30 a 60% do óleo original",
+    "Menos de 1% do óleo original",
+    "70 a 80% do óleo original",
+    "12 a 15% do óleo original"
+   ],
+   "correta": 4,
+   "explicacao": "A primária usa só a energia do reservatório (12 a 15%). A secundária (injeção de água ou gás) chega a 15 a 20%, e a avançada, a 30 a 60%."
+  },
+  {
+   "id": "pol-0098",
+   "dificuldade": 2,
+   "tema": "EOR",
+   "enunciado": "Qual o objetivo da adição de polímeros à água de injeção em EOR?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Aumentar a tensão interfacial óleo-água",
+    "Aumentar a salinidade do reservatório",
+    "Dissolver a rocha carbonática",
+    "Reduzir a densidade da água injetada",
+    "Aumentar a viscosidade da água injetada, melhorando a razão de mobilidade e a eficiência de varrido"
+   ],
+   "correta": 4,
+   "explicacao": "Água muito mais móvel que o óleo canaliza (fingering). Com polímero, a água fica mais viscosa, a mobilidade é controlada e o varrido melhora."
+  },
+  {
+   "id": "pol-0099",
+   "dificuldade": 3,
+   "tema": "EOR",
+   "enunciado": "Na EOR química, tensoativos e polímeros atuam, respectivamente, sobre:",
+   "tipo": "multipla",
+   "alternativas": [
+    "a densidade do óleo e a densidade da água",
+    "as forças viscosas e as forças capilares",
+    "a granulometria da rocha e a porosidade",
+    "as forças capilares (reduzindo a tensão interfacial) e as forças viscosas (controlando a mobilidade)",
+    "apenas a pressão de poros"
+   ],
+   "correta": 3,
+   "explicacao": "Tensoativos reduzem a tensão interfacial e liberam óleo preso por capilaridade. Polímeros aumentam a viscosidade da água, atuando nas forças viscosas."
+  },
+  {
+   "id": "pol-0100",
+   "dificuldade": 3,
+   "tema": "EOR",
+   "enunciado": "Um reservatório com injeção de água apresenta canalização precoce de água para os produtores. O que a adição de HPAM tende a fazer?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Aumentar a tensão interfacial óleo-água",
+    "Aumentar a viscosidade da água, reduzindo a razão de mobilidade e a canalização",
+    "Aumentar a densidade do óleo",
+    "Reduzir a pressão capilar na garganta de poro",
+    "Reduzir a viscosidade da água para aumentar a injetividade sem controle"
+   ],
+   "correta": 1,
+   "explicacao": "Com viscosidade da água mais próxima da do óleo, a frente de deslocamento fica mais estável e varre mais volume de rocha."
+  },
+  {
+   "id": "pol-0101",
+   "dificuldade": 3,
+   "tema": "EOR",
+   "enunciado": "Qual o principal risco ao injetar HPAM em reservatório de alta temperatura e alta salinidade?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Aumento indefinido da viscosidade",
+    "Hidrólise e degradação térmica, com sensibilidade à salinidade e perda de viscosidade",
+    "Reticulação espontânea em termofixo",
+    "Cristalização do polímero na água",
+    "Aumento da permeabilidade da rocha"
+   ],
+   "correta": 1,
+   "explicacao": "O HPAM se hidrolisa em temperatura alta e é sensível a sais e à dureza. O resultado é perda de viscosidade e de eficiência."
+  },
+  {
+   "id": "pol-0102",
+   "dificuldade": 2,
+   "tema": "Perda de circulação",
+   "enunciado": "Como polímeros auxiliam no controle de perda de circulação?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Formam géis ou bloqueios temporários em poros e fraturas, que podem ser degradados depois",
+    "Aumentam a pressão de poros",
+    "Aumentam a permeabilidade da formação fraturada",
+    "Dissolvem a rocha para fechar a fratura",
+    "Reduzem a viscosidade para escoar nas fraturas"
+   ],
+   "correta": 0,
+   "explicacao": "Polímeros reticuláveis e de alta viscosidade preenchem e selam fraturas e poros, e podem ser quebrados depois para não danificar a zona."
+  },
+  {
+   "id": "pol-0103",
+   "dificuldade": 2,
+   "tema": "Aquoso e não aquoso",
+   "enunciado": "Segundo o curso, qual vantagem dos fluidos aquosos poliméricos sobre os base óleo?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Menor impacto ambiental e menor custo",
+    "Melhor controle de filtrado em qualquer condição",
+    "Maior lubricidade em todas as condições",
+    "Maior estabilidade térmica",
+    "Inibição de folhelhos superior sempre"
+   ],
+   "correta": 0,
+   "explicacao": "A base polimérica tem menor impacto ambiental e custo, mas estabilidade térmica moderada. O base óleo tem maior estabilidade térmica e controle de filtrado, com maior custo e impacto."
+  },
+  {
+   "id": "pol-0104",
+   "dificuldade": 3,
+   "tema": "Aquoso e não aquoso",
+   "enunciado": "Assinale a INCORRETA ao comparar fluidos aquosos poliméricos e fluidos base óleo:",
+   "tipo": "incorreta",
+   "alternativas": [
+    "O base óleo costuma ter excelente compatibilidade com reservatório",
+    "O base óleo costuma custar mais",
+    "O fluido aquoso polimérico costuma ter maior estabilidade térmica e custo mais alto que o base óleo",
+    "O aquoso polimérico costuma ter menor impacto ambiental",
+    "O base óleo costuma ter melhor estabilidade térmica"
+   ],
+   "correta": 2,
+   "explicacao": "O correto é o inverso: o aquoso polimérico é mais barato e menos agressivo ao ambiente, mas menos estável termicamente."
+  },
+  {
+   "id": "pol-0105",
+   "dificuldade": 2,
+   "tema": "Aquoso e não aquoso",
+   "enunciado": "Quais compostos sintéticos o curso cita em fluidos não aquosos de menor toxicidade?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Amido e CMC",
+    "Barita e calcário",
+    "Diesel e benzeno",
+    "Soda cáustica e cal",
+    "Polialfaolefinas (PAO), ésteres e olefinas lineares"
+   ],
+   "correta": 4,
+   "explicacao": "PAOs, ésteres e olefinas lineares são bases sintéticas com toxicidade menor que o diesel."
+  },
+  {
+   "id": "pol-0106",
+   "dificuldade": 2,
+   "tema": "Sustentabilidade",
+   "enunciado": "O que define um polímero biodegradável?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Degrada-se por ação de microrganismos, como bactérias e fungos, em produtos naturais",
+    "Resiste indefinidamente ao ambiente",
+    "Só degrada em temperaturas acima de 300 °C",
+    "É sempre sintético e derivado do petróleo",
+    "Não pode ser degradado nem em laboratório"
+   ],
+   "correta": 0,
+   "explicacao": "Biodegradação é a quebra por microrganismos. Xantana e CMC são exemplos de polímeros naturais biodegradáveis."
+  },
+  {
+   "id": "pol-0107",
+   "dificuldade": 3,
+   "tema": "Sustentabilidade",
+   "enunciado": "Qual o principal desafio de substituir polímeros sintéticos por biodegradáveis em poços profundos e quentes?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Maior toxicidade dos biodegradáveis",
+    "Menor biocompatibilidade",
+    "Menor estabilidade térmica e custo mais alto, com degradação difícil de controlar",
+    "Impossibilidade de dissolução em água",
+    "Densidade excessiva"
+   ],
+   "correta": 2,
+   "explicacao": "Biopolímeros se degradam mais facilmente sob calor e umidade, e podem custar mais, o que limita o uso em condições extremas."
+  },
+  {
+   "id": "pol-0108",
+   "dificuldade": 2,
+   "tema": "Sustentabilidade",
+   "enunciado": "A poliacrilamida é resistente à hidrólise e à oxidação em poços. Qual desafio isso gera?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Redução do custo de descarte",
+    "Dificuldade de degradar ou remover completamente o polímero após o uso",
+    "Aumento da biodegradabilidade",
+    "Facilidade de monitorar a degradação",
+    "Perda total de viscosidade"
+   ],
+   "correta": 1,
+   "explicacao": "A estabilidade que ajuda no desempenho dificulta a degradação, atrasando a remoção ou a biodegradação."
+  },
+  {
+   "id": "pol-0109",
+   "dificuldade": 2,
+   "tema": "Sustentabilidade",
+   "enunciado": "Qual norma internacional controla a poluição por operações marítimas, incluindo polímeros de fluidos de perfuração descartados no mar?",
+   "tipo": "multipla",
+   "alternativas": [
+    "API RP 13B-1",
+    "REACH",
+    "NBR 15000",
+    "MARPOL 73/78",
+    "ISO 9001"
+   ],
+   "correta": 3,
+   "explicacao": "A MARPOL 73/78 trata da poluição marinha por navios e plataformas. O REACH é regulamento europeu sobre substâncias químicas."
+  },
+  {
+   "id": "pol-0110",
+   "dificuldade": 2,
+   "tema": "Fluidos de perfuração",
+   "enunciado": "A PHPA pode ser usada tanto como floculante quanto como inibidora de folhelhos.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "Verdadeiro. Em baixas concentrações floculam sólidos e, adsorvida em argilas, inibe hidratação e inchamento."
+  },
+  {
+   "id": "pol-0111",
+   "dificuldade": 1,
+   "tema": "Completação",
+   "enunciado": "O fluido de completação deve ser compatível com o reservatório para evitar dano à formação.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "Verdadeiro. Incompatibilidade pode causar precipitados, inchamento de argilas e bloqueio de poros."
+  },
+  {
+   "id": "pol-0112",
+   "dificuldade": 3,
+   "tema": "EOR",
+   "enunciado": "Quanto maior a salinidade, maior sempre será a viscosidade de uma solução de HPAM.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 1,
+   "explicacao": "Falso. A salinidade blinda as cargas do polímero aniônico, contraindo a cadeia e reduzindo a viscosidade."
+  },
+  {
+   "id": "pol-0113",
+   "dificuldade": 3,
+   "tema": "Fluidos de perfuração",
+   "enunciado": "Sobre polímeros em fluidos aquosos, analise as afirmativas:",
+   "tipo": "combinacao",
+   "afirmativas": [
+    "I. A goma guar é não iônica e compatível com NaCl e KCl.",
+    "II. A CMC é um polímero natural modificado de caráter aniônico.",
+    "III. O amido pré-gelatinizado é um polissacarídeo aniônico formado por galactose e manose."
+   ],
+   "alternativas": [
+    "Apenas I",
+    "Apenas I e II",
+    "Apenas II e III",
+    "Apenas I e III",
+    "I, II e III"
+   ],
+   "correta": 1,
+   "explicacao": "I e II corretas. III é falsa: o amido é neutro e formado por amilose e amilopectina; galactose e manose compõem a guar."
+  }
+ ],
+ "flashcards": [
+  {
+   "id": "pol-f001",
+   "frente": "Monômero, mero, oligômero, polímero",
+   "verso": "Monômero: molécula pequena reativa (mín. 2 sítios reacionais). Mero: unidade repetitiva. Oligômero: poucos meros (~1.000–10.000 g/mol). Polímero: muitos meros, alta massa molar."
+  },
+  {
+   "id": "pol-f002",
+   "frente": "Grau de polimerização",
+   "verso": "Número de vezes que o mero se repete na cadeia."
+  },
+  {
+   "id": "pol-f003",
+   "frente": "Poliadição × policondensação",
+   "verso": "Adição: monômeros se somam sem perda de átomos (ex.: polietileno). Condensação: elimina molécula pequena, como água (poliamidas, poliésteres)."
+  },
+  {
+   "id": "pol-f004",
+   "frente": "Arquitetura da cadeia",
+   "verso": "Linear, ramificada (menor densidade) ou reticulada (rede; não dissolve, só incha). Só linear e ramificado se solubilizam."
+  },
+  {
+   "id": "pol-f005",
+   "frente": "Forças entre cadeias",
+   "verso": "Milhares de interações fracas (van der Waals, London, pontes de H) somam uma atração enorme. Definem fusão, solubilidade e resistência."
+  },
+  {
+   "id": "pol-f006",
+   "frente": "Termoplástico",
+   "verso": "Amolece com calor, é reprocessável e reciclável. Cadeias lineares ou ramificadas. Ex.: PE, PP, PVC, náilon."
+  },
+  {
+   "id": "pol-f007",
+   "frente": "Termofixo",
+   "verso": "Rede reticulada formada na cura. Não funde, é insolúvel e não reprocessável. Ex.: epóxi, poliuretano, resina fenólica."
+  },
+  {
+   "id": "pol-f008",
+   "frente": "Elastômero",
+   "verso": "Poucas ligações cruzadas e deformação elástica reversível (>200%). Ex.: NR, NBR, silicone, neoprene."
+  },
+  {
+   "id": "pol-f009",
+   "frente": "Elastômeros em poço",
+   "verso": "NBR: óleos e combustíveis. Fluorados (Viton): hidrocarbonetos e temperatura. Silicone: alta temperatura. PU: vedações e raspadores."
+  },
+  {
+   "id": "pol-f010",
+   "frente": "Vulcanização",
+   "verso": "Ligações cruzadas (enxofre) entre cadeias de borracha: evita escorregamento e dá recuperação elástica."
+  },
+  {
+   "id": "pol-f011",
+   "frente": "Transição vítrea (Tg)",
+   "verso": "Passagem do estado vítreo (rígido, quebradiço) para o borrachoso (flexível), na fase amorfa. Plastificante reduz a Tg; maior massa molar e cadeias rígidas elevam."
+  },
+  {
+   "id": "pol-f012",
+   "frente": "Fusão (Tm)",
+   "verso": "Só em regiões cristalinas. Acima da Tm o polímero é líquido viscoso."
+  },
+  {
+   "id": "pol-f013",
+   "frente": "Cristalino × amorfo",
+   "verso": "Cristalino: cadeias regulares e compactas; rigidez, resistência mecânica e química. Amorfo: flexibilidade e transparência. Ramificações favorecem amorfismo."
+  },
+  {
+   "id": "pol-f014",
+   "frente": "Plastificantes",
+   "verso": "Aumentam flexibilidade e reduzem Tg e resistência mecânica."
+  },
+  {
+   "id": "pol-f015",
+   "frente": "Grupos funcionais",
+   "verso": "Amida: resistência mecânica e térmica. Éster: flexibilidade e resistência química. Éter: estabilidade química e a solventes."
+  },
+  {
+   "id": "pol-f016",
+   "frente": "Viscosidade de soluções poliméricas",
+   "verso": "Sobe com concentração e massa molar, cai com a temperatura. Linear > ramificado. Bom solvente expande a cadeia e eleva a viscosidade."
+  },
+  {
+   "id": "pol-f017",
+   "frente": "Regimes de concentração",
+   "verso": "Diluído (aumento suave), semidiluído (mais acentuado) e concentrado (saltos grandes de viscosidade)."
+  },
+  {
+   "id": "pol-f018",
+   "frente": "Pseudoplástico × dilatante",
+   "verso": "Pseudoplástico: viscosidade cai com a taxa de cisalhamento (soluções poliméricas). Dilatante: viscosidade sobe com a taxa."
+  },
+  {
+   "id": "pol-f019",
+   "frente": "Tixotrópico × reopético",
+   "verso": "Tixotrópico: viscosidade cai com o tempo sob cisalhamento e se recupera em repouso (fluidos de perfuração). Reopético: o oposto."
+  },
+  {
+   "id": "pol-f020",
+   "frente": "Bingham × Herschel-Bulkley",
+   "verso": "Ambos têm limite de escoamento. Bingham: linear. Herschel-Bulkley: tipo lei de potência."
+  },
+  {
+   "id": "pol-f021",
+   "frente": "Fann 35A",
+   "verso": "Cilindro externo gira a 3, 6, 100, 200, 300 e 600 rpm; bob interno fica estático. Marsh: só indica mudança, não entra nos cálculos reológicos."
+  },
+  {
+   "id": "pol-f022",
+   "frente": "Polímero aniônico em salmoura",
+   "verso": "Íons blindam as cargas, contraem a cadeia e reduzem a viscosidade. Não iônicos (guar, HEC) são pouco afetados."
+  },
+  {
+   "id": "pol-f023",
+   "frente": "Degradação de polímeros",
+   "verso": "Térmica/oxidativa, hidrólise (água + temperatura/pH extremo) e biológica. Resultado: perda de massa molar, de viscosidade e de eficiência."
+  },
+  {
+   "id": "pol-f024",
+   "frente": "HPHT",
+   "verso": "Alta pressão e alta temperatura (>150 °C e pressões muito altas). Mitigação: copolímeros resistentes ao calor, reticulação, estabilizantes térmicos."
+  },
+  {
+   "id": "pol-f025",
+   "frente": "Adsorção em rocha",
+   "verso": "Polímero que adsorve deixa de atuar na solução. Maior adsorção em carbonatos que em arenitos."
+  },
+  {
+   "id": "pol-f026",
+   "frente": "Testes de polímeros",
+   "verso": "Reologia (reômetro), filtração (filtro-prensa API/HPHT), estabilidade térmica (forno de envelhecimento), compatibilidade química e dissolução/dispersão."
+  },
+  {
+   "id": "pol-f027",
+   "frente": "Goma xantana",
+   "verso": "Biopolímero de Xanthomonas campestris. Alta viscosidade em baixa taxa, pseudoplástica e tixotrópica, estável a sais e pH. Ótima para suspensão e limpeza."
+  },
+  {
+   "id": "pol-f028",
+   "frente": "Goma guar",
+   "verso": "Galactomanana não iônica. Hidrata-se em qualquer água e é compatível com NaCl e KCl. Viscosificante; no fraturamento, borato de guar."
+  },
+  {
+   "id": "pol-f029",
+   "frente": "CMC e PAC",
+   "verso": "CMC: celulose carboximetilada, aniônica, controla filtrado e viscosidade. PAC: derivado celulósico polianiônico para filtrado. Dependem de DP, DS e pureza."
+  },
+  {
+   "id": "pol-f030",
+   "frente": "HEC",
+   "verso": "Hidroxietilcelulose não iônica. Viscosificante para salmouras de completação e estimulação."
+  },
+  {
+   "id": "pol-f031",
+   "frente": "Amido pré-gelatinizado",
+   "verso": "Polissacarídeo neutro (amilose e amilopectina). Controle de filtrado."
+  },
+  {
+   "id": "pol-f032",
+   "frente": "PHPA",
+   "verso": "Poliacrilamida parcialmente hidrolisada. Encapsula cascalho, inibe hidratação de folhelhos (com KCl), floculante de sólidos."
+  },
+  {
+   "id": "pol-f033",
+   "frente": "Viscosificantes × redutores de filtrado",
+   "verso": "Viscosificantes: xantana, guar, HEC. Redutores de filtrado: amido, CMC, PAC."
+  },
+  {
+   "id": "pol-f034",
+   "frente": "Redutores de arraste",
+   "verso": "Polímeros lineares de alta massa molar (PEO, PAM) em pequena dose suprimem a turbulência e reduzem a perda de carga."
+  },
+  {
+   "id": "pol-f035",
+   "frente": "Poli-ionenos",
+   "verso": "Polímeros policatiônicos que substituem cátions trocáveis da argila e estabilizam folhelhos."
+  },
+  {
+   "id": "pol-f036",
+   "frente": "Polímeros na cimentação",
+   "verso": "Dispersantes (grupos sulfônicos e carboxílicos) reduzem fricção. Retardadores diminuem a hidratação. Controladores de filtrado evitam desidratação da pasta."
+  },
+  {
+   "id": "pol-f037",
+   "frente": "Completação",
+   "verso": "Fluido: salmoura compatível com o reservatório, com espessantes e controladores de filtrado. Objetivo: evitar dano à formação."
+  },
+  {
+   "id": "pol-f038",
+   "frente": "Acidificação de matriz",
+   "verso": "HCl em carbonatos. Polímeros retardam e desviam o ácido formando géis temporários."
+  },
+  {
+   "id": "pol-f039",
+   "frente": "Fraturamento hidráulico",
+   "verso": "Polímeros (guar, borato de guar, HPAM) viscosificam e carreiam propante. Breakers quebram o gel depois, evitando dano à fratura."
+  },
+  {
+   "id": "pol-f040",
+   "frente": "Recuperação de petróleo",
+   "verso": "Primária: 12–15%. Secundária (água/gás): 15–20%. Avançada: 30–60%. Polímeros alteram forças viscosas; tensoativos, as capilares."
+  },
+  {
+   "id": "pol-f041",
+   "frente": "HPAM em EOR",
+   "verso": "Aumenta a viscosidade da água injetada, melhora a razão de mobilidade e o varrido. Sensível a salinidade, dureza e temperatura (hidrólise)."
+  },
+  {
+   "id": "pol-f042",
+   "frente": "Perda de circulação",
+   "verso": "Géis e polímeros de alta viscosidade selam poros e fraturas de forma temporária e podem ser degradados depois."
+  },
+  {
+   "id": "pol-f043",
+   "frente": "Aquoso polimérico × base óleo",
+   "verso": "Aquoso: menor custo e impacto ambiental, estabilidade térmica moderada. Base óleo: maior estabilidade térmica e controle de filtrado, maior custo e impacto."
+  },
+  {
+   "id": "pol-f044",
+   "frente": "Polímeros biodegradáveis",
+   "verso": "Degradam-se por microrganismos. Menor impacto, porém menor estabilidade térmica e custo maior. PAM é resistente à hidrólise e oxidação e difícil de remover."
+  }
+ ]
+}

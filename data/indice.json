@@ -1,5 +1,5 @@
 {
- "versao": 4,
+ "versao": 5,
  "dataFim": "2026-12-06",
  "novasPorDia": 25,
  "unidades": [
@@ -38,6 +38,42 @@
    "cor": "#A85FB5",
    "arquivo": "unidades/construcao.json",
    "resumo": "resumos/construcao.md"
+  },
+  {
+   "id": "mudlogging",
+   "ordem": 5,
+   "titulo": "Basic Mud Logging",
+   "curto": "Mud Logging",
+   "cor": "#D9534F",
+   "arquivo": "unidades/mudlogging.json",
+   "resumo": "resumos/mudlogging.md"
+  },
+  {
+   "id": "coloides",
+   "ordem": 6,
+   "titulo": "Colóides e tensoativos",
+   "curto": "Colóides",
+   "cor": "#E0A800",
+   "arquivo": "unidades/coloides.json",
+   "resumo": "resumos/coloides.md"
+  },
+  {
+   "id": "polimeros",
+   "ordem": 7,
+   "titulo": "Introdução a polímeros",
+   "curto": "Polímeros",
+   "cor": "#5B8DEF",
+   "arquivo": "unidades/polimeros.json",
+   "resumo": "resumos/polimeros.md"
+  },
+  {
+   "id": "argilas",
+   "ordem": 8,
+   "titulo": "Teoria das argilas",
+   "curto": "Argilas",
+   "cor": "#8C6D46",
+   "arquivo": "unidades/argilas.json",
+   "resumo": "resumos/argilas.md"
   }
  ]
 }

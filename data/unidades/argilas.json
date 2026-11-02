@@ -1,0 +1,1659 @@
+{
+ "id": "argilas",
+ "perguntas": [
+  {
+   "id": "arg-0001",
+   "dificuldade": 1,
+   "tema": "Definições",
+   "enunciado": "Qual é o critério usado pelos geólogos para definir argila?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Granulometria: partículas com diâmetro equivalente inferior a 2 µm (diâmetro de Stokes)",
+    "Cor escura e baixa densidade",
+    "Solubilidade total em água",
+    "Dureza superior à do quartzo",
+    "Presença obrigatória de carbonato de cálcio"
+   ],
+   "correta": 0,
+   "explicacao": "Argila é um grupo de minerais de partículas minúsculas (< 2 µm). Do ponto de vista tecnológico, é um material terrígeno que adquire plasticidade quando umedecido."
+  },
+  {
+   "id": "arg-0002",
+   "dificuldade": 1,
+   "tema": "Definições",
+   "enunciado": "O que são argilominerais?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Sulfatos de bário com estrutura fibrosa",
+    "Carbonatos de cálcio e magnésio em camadas",
+    "Silicatos hidratados de Al, Fe e Mg, com estrutura em camadas (filossilicatos), formados por folhas tetraédricas de SiO4 e octaédricas",
+    "Óxidos de ferro anidros em cristais cúbicos",
+    "Polímeros naturais derivados da celulose"
+   ],
+   "correta": 2,
+   "explicacao": "Argilominerais são filossilicatos: folhas contínuas de tetraedros de SiO4, condensadas com folhas octaédricas de hidróxidos de metais tri e divalentes."
+  },
+  {
+   "id": "arg-0003",
+   "dificuldade": 2,
+   "tema": "Definições",
+   "enunciado": "Por que as argilas apresentam comportamento coloidal e são sólidos quimicamente ativos?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Pelo teor elevado de carbonato",
+    "Pela alta densidade, que impede a interação com a água",
+    "Pelo tamanho muito pequeno dos cristais, que gera área específica elevada (superior a 1 m²/g)",
+    "Pela cristalização em cubos perfeitos",
+    "Pela completa ausência de carga elétrica"
+   ],
+   "correta": 2,
+   "explicacao": "A área específica elevada faz as superfícies e bordas interagirem intensamente com a água e com os íons do meio."
+  },
+  {
+   "id": "arg-0004",
+   "dificuldade": 3,
+   "tema": "Definições",
+   "enunciado": "Considerando cristais cúbicos de 2,0 µm de lado e densidade de 2,60 g/cm³, qual é a área específica, pela equação AE = 6 / (l · ρ)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Aproximadamente 2,30 m²/g",
+    "Aproximadamente 0,115 m²/g",
+    "Aproximadamente 1,15 m²/g",
+    "Aproximadamente 11,5 m²/g",
+    "Aproximadamente 115 m²/g"
+   ],
+   "correta": 2,
+   "explicacao": "AE = 6 / (2,0×10⁻⁶ m × 2,60×10⁶ g/m³) = 6 / 5,2 ≈ 1,15 m²/g. Mesmo nessa hipótese simplificada, a argila já é ativa (AE > 1 m²/g)."
+  },
+  {
+   "id": "arg-0005",
+   "dificuldade": 3,
+   "tema": "Definições",
+   "enunciado": "Por que a área específica real de uma bentonita (100–800 m²/g) é muito maior que a calculada para cubos de 2 µm?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque a bentonita é amorfa e não tem estrutura",
+    "Porque os cristais são lamelas muito finas e a superfície interlamelar também fica acessível",
+    "Porque os cristais são esferas perfeitas",
+    "Porque a bentonita tem densidade menor que 1 g/cm³",
+    "Porque a área só considera a face externa dos grãos"
+   ],
+   "correta": 1,
+   "explicacao": "Na esmectita as lâminas são nanométricas e, ao hidratar e separar as camadas, a superfície interna também conta. Por isso a bentonita reage rápido e altera as propriedades quase instantaneamente."
+  },
+  {
+   "id": "arg-0006",
+   "dificuldade": 2,
+   "tema": "Estrutura",
+   "enunciado": "O que significa a nomenclatura 2:1 (T-O-T) para um argilomineral?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Dois cátions interlamelares para cada molécula de água",
+    "Duas folhas octaédricas de Al2(OH)6 e uma folha tetraédrica de SiO4",
+    "Duas folhas tetraédricas de SiO4 e uma folha octaédrica de Al2(OH)6",
+    "Duas folhas tetraédricas e duas octaédricas",
+    "Uma folha tetraédrica e uma octaédrica"
+   ],
+   "correta": 2,
+   "explicacao": "Em 2:1, a folha octaédrica fica entre duas tetraédricas (T-O-T). Em 1:1 (T-O) há uma de cada. Em 2:2 (T-O-T-O) há uma camada octaédrica extra entre as unidades."
+  },
+  {
+   "id": "arg-0007",
+   "dificuldade": 2,
+   "tema": "Estrutura",
+   "enunciado": "A qual tipo de empilhamento pertencem a caulinita, as esmectitas/ilitas e a clorita, respectivamente?",
+   "tipo": "multipla",
+   "alternativas": [
+    "2:1, 2:1 e 1:1",
+    "2:2, 2:1 e 1:1",
+    "1:1, 2:2 e 2:1",
+    "2:1, 1:1 e 2:2",
+    "1:1 (T-O), 2:1 (T-O-T) e 2:2 (T-O-T-O)"
+   ],
+   "correta": 4,
+   "explicacao": "Caulinita: 1:1 (~7 Å). Esmectita, vermiculita e mica/ilita: 2:1 (~10 Å). Clorita: 2:2 (~14 Å)."
+  },
+  {
+   "id": "arg-0008",
+   "dificuldade": 2,
+   "tema": "Estrutura",
+   "enunciado": "A distância interplanar basal típica de caulinita, ilita e clorita é, respectivamente, cerca de:",
+   "tipo": "multipla",
+   "alternativas": [
+    "10 Å, 14 Å e 7 Å",
+    "10 Å, 7 Å e 14 Å",
+    "7 Å, 14 Å e 10 Å",
+    "7 Å, 10 Å e 14 Å",
+    "14 Å, 10 Å e 7 Å"
+   ],
+   "correta": 3,
+   "explicacao": "1:1 → 7 Å (caulinita); 2:1 fixa → 10 Å (ilita, mica); 2:2 → 14 Å (clorita)."
+  },
+  {
+   "id": "arg-0009",
+   "dificuldade": 1,
+   "tema": "Caulinita",
+   "enunciado": "Por que a caulinita não incha em contato com água?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Por ser fibrosa",
+    "Por ser praticamente neutra, sem cátions interlamelares e com energia de coesão maior que a de hidratação",
+    "Por ter grande carga negativa",
+    "Por ser rica em cátions sódio hidratados",
+    "Por ter potássio fixo entre camadas"
+   ],
+   "correta": 1,
+   "explicacao": "Sem substituições isomórficas, a caulinita é eletricamente neutra e sem cátions entre as camadas. As forças eletrostáticas, van der Waals e pontes de hidrogênio mantêm as camadas coesas."
+  },
+  {
+   "id": "arg-0010",
+   "dificuldade": 2,
+   "tema": "Ilita",
+   "enunciado": "Por que a ilita (grupo das micas hidratadas) não apresenta inchamento interlamelar?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque o sódio hidratado se expande de forma limitada",
+    "Porque o potássio (K+) entre as camadas é fixo e mantém a distância basal em cerca de 10 Å",
+    "Porque as camadas são neutras e sem cátions",
+    "Porque a ilita é fibrosa",
+    "Porque a ilita é um carbonato"
+   ],
+   "correta": 1,
+   "explicacao": "Na ilita, parte do Si é substituído por Al nas folhas tetraédricas, gerando carga negativa balanceada por K+ fixo. O K+ trava as camadas e impede a expansão."
+  },
+  {
+   "id": "arg-0011",
+   "dificuldade": 3,
+   "tema": "Ilita",
+   "enunciado": "Qual a posição da substituição isomórfica na ilita e na esmectita, respectivamente?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Em ambas, apenas nas folhas tetraédricas",
+    "Na ilita, nas octaédricas; na esmectita, nas tetraédricas",
+    "Na ilita, nas folhas tetraédricas (Al por Si); na esmectita, principalmente nas octaédricas (Mg por Al)",
+    "Em nenhuma, pois ambas são neutras",
+    "Em ambas, apenas entre camadas"
+   ],
+   "correta": 2,
+   "explicacao": "Ilita: um em cada quatro Si substituído por Al (tetraédrica), com K+ fixo. Esmectita: Al substituído por Mg ou Fe nas octaédricas, com cátions hidratados entre camadas."
+  },
+  {
+   "id": "arg-0012",
+   "dificuldade": 1,
+   "tema": "Esmectita",
+   "enunciado": "Qual grupo de argilas é o mais importante para o estudo dos fluidos de perfuração?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Caulinitas",
+    "Micas puras",
+    "Esmectitas, principalmente a montmorilonita (bentonita)",
+    "Cloritas",
+    "Carbonatos"
+   ],
+   "correta": 2,
+   "explicacao": "A esmectita é o constituinte coloidal básico dos fluidos de perfuração aquosos, conhecida como montmorilonita e comercialmente como bentonita."
+  },
+  {
+   "id": "arg-0013",
+   "dificuldade": 1,
+   "tema": "Esmectita",
+   "enunciado": "Como a esmectita pode inchar em contato com água?",
+   "tipo": "multipla",
+   "alternativas": [
+    "A água expulsa os cátions sem entrar nas camadas",
+    "A ligação entre as camadas é fraca, então água e substâncias polares entram no espaço interlamelar e aumentam a distância basal",
+    "O inchamento ocorre só pela entrada de gás",
+    "A água reage quimicamente com a sílica, formando gel",
+    "A água dissolve as folhas octaédricas"
+   ],
+   "correta": 1,
+   "explicacao": "As ligações intercristalinas são fracas e os cátions trocáveis se hidratam, afastando as camadas. O inchamento intercristalino chega a 12,5–40 Å."
+  },
+  {
+   "id": "arg-0014",
+   "dificuldade": 3,
+   "tema": "Esmectita",
+   "enunciado": "Em uma esmectita, qual a origem das cargas negativas compensadas pelos cátions trocáveis?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Dissolução parcial do quartzo",
+    "Substituição isomórfica de metais de maior valência por menor valência (ex.: Al³⁺ por Mg²⁺)",
+    "Adsorção de polímeros aniônicos",
+    "Presença de ânions cloreto na estrutura",
+    "Hidrólise das folhas tetraédricas"
+   ],
+   "correta": 1,
+   "explicacao": "Quando um metal de menor valência substitui outro de maior valência, falta carga positiva e sobra carga negativa. Ela é compensada por cátions hidratados entre as camadas."
+  },
+  {
+   "id": "arg-0015",
+   "dificuldade": 2,
+   "tema": "CTC",
+   "enunciado": "O que é a capacidade de troca de cátions (CTC) de uma argila?",
+   "tipo": "multipla",
+   "alternativas": [
+    "A temperatura de calcinação da argila",
+    "A quantidade total de cátions trocáveis, em miliequivalentes por 100 g de argila seca",
+    "A massa de água que a argila absorve por grama",
+    "O volume de filtrado API",
+    "A área superficial em m²/g"
+   ],
+   "correta": 1,
+   "explicacao": "A CTC mede os cátions que balanceiam a carga da estrutura e podem ser trocados com a solução. Expressa-se em meq/100 g."
+  },
+  {
+   "id": "arg-0016",
+   "dificuldade": 3,
+   "tema": "CTC",
+   "enunciado": "O que a CTC revela sobre a estrutura de um argilomineral?",
+   "tipo": "multipla",
+   "alternativas": [
+    "O grau de substituição isomórfica, pois os cátions trocáveis balanceiam essa carga",
+    "A densidade da argila seca",
+    "O pH de equilíbrio do reservatório",
+    "A porosidade da formação argilosa",
+    "A temperatura de formação da rocha"
+   ],
+   "correta": 0,
+   "explicacao": "Como os cátions trocáveis compensam a deficiência de carga criada pelas substituições isomórficas, a CTC é uma medida de quanta substituição existe."
+  },
+  {
+   "id": "arg-0017",
+   "dificuldade": 2,
+   "tema": "CTC",
+   "enunciado": "Qual a faixa de CTC típica da bentonita sódica, segundo o material do curso?",
+   "tipo": "multipla",
+   "alternativas": [
+    "70 a 130 meq/100 g",
+    "5 a 15 meq/100 g",
+    "1 a 5 meq/100 g",
+    "0 meq/100 g",
+    "200 a 500 meq/100 g"
+   ],
+   "correta": 0,
+   "explicacao": "A CTC elevada permite alterar as propriedades físicas da dispersão modificando o meio aquoso, sem comprometer a estabilidade do sistema."
+  },
+  {
+   "id": "arg-0018",
+   "dificuldade": 1,
+   "tema": "Estrutura",
+   "enunciado": "Qual argilomineral tem estrutura fibrosa, em feixes de agulhas, e não em camadas?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Montmorilonita",
+    "Clorita",
+    "Caulinita",
+    "Paligorsquita (atapulgita) e sepiolita",
+    "Ilita"
+   ],
+   "correta": 3,
+   "explicacao": "Paligorsquita e sepiolita têm estrutura em canais, como feixes de fibras. Os demais são filossilicatos em camadas."
+  },
+  {
+   "id": "arg-0019",
+   "dificuldade": 2,
+   "tema": "Estrutura",
+   "enunciado": "Assinale a INCORRETA sobre os principais grupos de argilominerais:",
+   "tipo": "incorreta",
+   "alternativas": [
+    "A paligorsquita tem estrutura fibrosa",
+    "A esmectita é eletricamente neutra e não expande em água",
+    "A caulinita é praticamente neutra e não expansível",
+    "A ilita tem K+ fixo e não expande",
+    "A clorita tem estrutura 2:2"
+   ],
+   "correta": 1,
+   "explicacao": "A esmectita tem cargas negativas compensadas por cátions hidratados e expande bastante em água. É a base da bentonita."
+  },
+  {
+   "id": "arg-0020",
+   "dificuldade": 1,
+   "tema": "Definições",
+   "enunciado": "Argilominerais representam cerca de 40% de todos os minerais presentes em sedimentos e rochas sedimentares.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "Verdadeiro. São os minerais mais abundantes em sedimentos, o que explica a frequência de formações argilosas nos poços."
+  },
+  {
+   "id": "arg-0021",
+   "dificuldade": 2,
+   "tema": "Estrutura",
+   "enunciado": "A esmectita é um argilomineral do tipo 1:1 (T-O).",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 1,
+   "explicacao": "Falso. A esmectita é 2:1 (T-O-T). O tipo 1:1 é o da caulinita."
+  },
+  {
+   "id": "arg-0022",
+   "dificuldade": 2,
+   "tema": "Estrutura",
+   "enunciado": "Na ilita, o cátion interlamelar predominante é o potássio, que é fixo e impede o inchamento.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "Verdadeiro. O K+ trava as camadas e mantém a distância basal em torno de 10 Å."
+  },
+  {
+   "id": "arg-0023",
+   "dificuldade": 2,
+   "tema": "Formações",
+   "enunciado": "Qual a relação entre ilita e esmectita nos folhelhos e argilitos, em regra geral?",
+   "tipo": "multipla",
+   "alternativas": [
+    "A ilita só ocorre em arenitos",
+    "A ilita predomina nos folhelhos, enquanto esmectita e esmectita-ilita são mais frequentes nos argilitos",
+    "A caulinita predomina nos folhelhos e a clorita nos argilitos",
+    "Folhelhos não têm argilominerais",
+    "A esmectita predomina em todos os folhelhos"
+   ],
+   "correta": 1,
+   "explicacao": "Em ordem decrescente de abundância nos sedimentos: ilita, esmectita, camada mista E-I, clorita e caulinita."
+  },
+  {
+   "id": "arg-0024",
+   "dificuldade": 3,
+   "tema": "Formações",
+   "enunciado": "Por que um folhelho rico em ilita pode desmoronar mesmo sem inchar?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque a ilita aumenta o diâmetro do poço por inchamento",
+    "Porque a ilita se dissolve em água doce",
+    "Porque a ilita reage com HCl",
+    "Por não inchar, mas, dependendo da compactação, pode ter pressão de poros alta e fissurar ao ser perfurado, colapsando a parede",
+    "Porque a ilita forma gel imediato"
+   ],
+   "correta": 3,
+   "explicacao": "A ilita não gera enceramento nem inchamento, mas folhelhos ilíticos compactados com pressão de poros elevada fissuram e colapsam."
+  },
+  {
+   "id": "arg-0025",
+   "dificuldade": 2,
+   "tema": "Estrutura",
+   "enunciado": "Em argilas, os termos silicatos e aluminatos se referem a quê?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Aos íons do filtrado",
+    "Aos aditivos de pH",
+    "Aos agentes dispersantes",
+    "Às folhas tetraédricas (de silício) e octaédricas (de alumínio) que compõem as camadas",
+    "Aos polímeros adsorvidos"
+   ],
+   "correta": 3,
+   "explicacao": "A estrutura em camadas se constrói com folhas tetraédricas de silicato (SiO4) e folhas octaédricas de hidróxidos de Al, Mg ou Fe."
+  },
+  {
+   "id": "arg-0026",
+   "dificuldade": 3,
+   "tema": "CTC",
+   "enunciado": "Uma esmectita A tem CTC maior que a esmectita B. O que se pode concluir?",
+   "tipo": "multipla",
+   "alternativas": [
+    "A não é argilomineral",
+    "A não pode inchar",
+    "B tem mais cátions trocáveis",
+    "A tem mais substituição isomórfica e mais cátions trocáveis que B",
+    "A é totalmente neutra"
+   ],
+   "correta": 3,
+   "explicacao": "CTC maior = mais cargas estruturais compensadas por cátions trocáveis = maior grau de substituição isomórfica."
+  },
+  {
+   "id": "arg-0027",
+   "dificuldade": 1,
+   "tema": "Estrutura",
+   "enunciado": "Qual a forma típica dos cristais de caulinita?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Lâminas ou placas de perfil hexagonal, com espessura muito menor que o diâmetro das faces",
+    "Agulhas longas e flexíveis",
+    "Fibras amorfas",
+    "Esferas",
+    "Cubos regulares"
+   ],
+   "correta": 0,
+   "explicacao": "A caulinita é anisométrica, laminar e hexagonal. As agulhas são típicas da paligorsquita e da sepiolita."
+  },
+  {
+   "id": "arg-0028",
+   "dificuldade": 3,
+   "tema": "Estrutura",
+   "enunciado": "Sobre as estruturas dos argilominerais, analise as afirmativas:",
+   "tipo": "combinacao",
+   "afirmativas": [
+    "I. A caulinita é 1:1 e praticamente neutra.",
+    "II. A ilita é 2:1, com K+ fixo entre camadas.",
+    "III. A esmectita é 1:1 e não possui cátions trocáveis."
+   ],
+   "alternativas": [
+    "Apenas I",
+    "Apenas I e II",
+    "Apenas II e III",
+    "Apenas I e III",
+    "I, II e III"
+   ],
+   "correta": 1,
+   "explicacao": "I e II corretas. III é falsa: a esmectita é 2:1 e possui cátions trocáveis hidratados entre as camadas."
+  },
+  {
+   "id": "arg-0029",
+   "dificuldade": 3,
+   "tema": "Formações",
+   "enunciado": "Qual argilomineral é o mais associado a inchamento, dispersão e gumbo em fluidos base água?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Quartzo",
+    "Clorita",
+    "Caulinita",
+    "Ilita",
+    "Esmectita"
+   ],
+   "correta": 4,
+   "explicacao": "A esmectita hidrata e expande fortemente, e argilitos esmectíticos são os responsáveis pelo gumbo e pelo enceramento."
+  },
+  {
+   "id": "arg-0030",
+   "dificuldade": 1,
+   "tema": "Definições",
+   "enunciado": "Qual é o constituinte coloidal básico da maioria dos fluidos de perfuração aquosos?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Barita",
+    "Carbonato de cálcio",
+    "Argila do tipo esmectita (bentonita)",
+    "Sulfato de bário",
+    "Cloreto de potássio"
+   ],
+   "correta": 2,
+   "explicacao": "A bentonita é o viscosificante coloidal clássico dos fluidos base água. Barita é adensante, e KCl é inibidor."
+  },
+  {
+   "id": "arg-0031",
+   "dificuldade": 1,
+   "tema": "Bentonita",
+   "enunciado": "Qual é a principal função da bentonita no fluido de perfuração aquoso?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Reduzir o pH do fluido",
+    "Conceder viscosidade, gel e controle de filtrado (reboco)",
+    "Atuar como lubrificante mineral",
+    "Conceder peso (densidade) ao fluido",
+    "Substituir o cimento no revestimento"
+   ],
+   "correta": 1,
+   "explicacao": "A bentonita viscosifica e forma reboco de baixa permeabilidade. O peso vem de adensantes como a barita."
+  },
+  {
+   "id": "arg-0032",
+   "dificuldade": 1,
+   "tema": "Bentonita",
+   "enunciado": "Segundo o curso, o que é bentonita?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Qualquer argila de cor clara",
+    "Uma rocha formada exclusivamente por caulinita",
+    "Qualquer argila composta dominantemente por esmectita e cujas propriedades físicas são ditadas por esse argilomineral",
+    "Um carbonato de sódio hidratado",
+    "Um polímero natural da família dos polissacarídeos"
+   ],
+   "correta": 2,
+   "explicacao": "Alguns autores exigem pelo menos 85% de esmectita. Suas propriedades de hidratação e inchamento é que definem seu uso em fluidos."
+  },
+  {
+   "id": "arg-0033",
+   "dificuldade": 1,
+   "tema": "Bentonita",
+   "enunciado": "Como as bentonitas são classificadas?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Pelo pH natural da argila",
+    "Pela cor: brancas, cinzas e pretas",
+    "Pelo teor de carbonato",
+    "Pela densidade do grão",
+    "Pelo cátion trocável predominante: sódicas, cálcicas, líticas ou magnesianas"
+   ],
+   "correta": 4,
+   "explicacao": "O cátion presente em maior teor (Na⁺, Ca²⁺, Li⁺ ou Mg²⁺) define o tipo e o comportamento em água."
+  },
+  {
+   "id": "arg-0034",
+   "dificuldade": 2,
+   "tema": "Bentonita",
+   "enunciado": "Qual a diferença de comportamento em água entre bentonita sódica e cálcica?",
+   "tipo": "multipla",
+   "alternativas": [
+    "As duas se comportam igual",
+    "A cálcica expande mais que a sódica",
+    "A sódica adsorve muita água, expande e se dispersa em lâminas individuais; a cálcica adsorve pouca água, fica agregada e decanta rápido",
+    "A cálcica forma reboco mais fino e impermeável que a sódica",
+    "A sódica não hidrata em água doce"
+   ],
+   "correta": 2,
+   "explicacao": "A bentonita sódica hidrata e dispersa muito. A cálcica expande pouco, agrega e forma reboco espesso e permeável, por isso não é usada em seu estado natural."
+  },
+  {
+   "id": "arg-0035",
+   "dificuldade": 2,
+   "tema": "Bentonita",
+   "enunciado": "Por que a bentonita cálcica não é usada em seu estado natural em fluidos de perfuração?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Hidrata pouco, tem partículas agregadas que decantam e o reboco é espesso e de alta permeabilidade",
+    "Porque forma gel muito rápido",
+    "Porque é radioativa",
+    "Porque dissolve completamente em água doce",
+    "Porque não tem esmectita"
+   ],
+   "correta": 0,
+   "explicacao": "A cálcica tem expansão moderada, partículas agregadas e floculadas que se depositam rapidamente, com reboco espesso e permeável."
+  },
+  {
+   "id": "arg-0036",
+   "dificuldade": 2,
+   "tema": "Bentonita",
+   "enunciado": "Quais são características tecnológicas superiores da bentonita sódica, citadas no curso?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Reboco espesso e permeável",
+    "Dispersão difícil e instável",
+    "Viscosidade alta só acima de 40% em peso",
+    "Dispersa fácil e estável, alta viscosidade e gel abaixo de 8% em peso, reboco plástico de baixa permeabilidade (<1 mD), CTC alta e área específica elevada",
+    "Baixa CTC e baixa área específica"
+   ],
+   "correta": 3,
+   "explicacao": "São justamente essas propriedades (dispersão, viscosidade com pouco sólido, reboco fino, alta reatividade) que tornam a sódica a mais usada."
+  },
+  {
+   "id": "arg-0037",
+   "dificuldade": 2,
+   "tema": "Ativação",
+   "enunciado": "Como uma bentonita cálcica é transformada em sódica para uso em fluidos?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Por calcinação a 1.000 °C",
+    "Por lavagem com HCl concentrado",
+    "Por ativação com barrilha leve (carbonato de sódio, soda ash)",
+    "Por adição de barita",
+    "Por adição de cloreto de cálcio"
+   ],
+   "correta": 2,
+   "explicacao": "A reação com Na2CO3 troca Ca²⁺ por Na⁺ (precipitando CaCO3), originando a argila ativada (bentonita sódica artificial)."
+  },
+  {
+   "id": "arg-0038",
+   "dificuldade": 2,
+   "tema": "Ativação",
+   "enunciado": "Qual afirmação sobre a ativação de argilas é correta?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Argila ativada só funciona em fluidos não aquosos",
+    "A ativação transforma a bentonita sódica em cálcica",
+    "A bentonita sódica tratada com carbonato de sódio é chamada argila ativada e é a mais usada em fluidos base água",
+    "A ativação consiste em adicionar barita à argila",
+    "A ativação reduz a CTC a zero"
+   ],
+   "correta": 2,
+   "explicacao": "Como as jazidas de bentonita sódica natural são escassas, a prática usual é ativar cálcicas. No Brasil toda bentonita empregada em fluidos é ativada."
+  },
+  {
+   "id": "arg-0039",
+   "dificuldade": 3,
+   "tema": "Ativação",
+   "enunciado": "Qual é a outra forma de ativar argilas, sem modificação química da argila?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Redução do tamanho do grão por moagem apenas",
+    "Adição de gasolina",
+    "Adição de cal virgem",
+    "Adição de polímeros (CMC, PAC, poliacrilatos, XC) para atender à especificação API pelo efeito combinado",
+    "Aquecimento a 500 °C"
+   ],
+   "correta": 3,
+   "explicacao": "Polímeros melhoram o rendimento da argila sem trocar cátions, e o conjunto atende o padrão API."
+  },
+  {
+   "id": "arg-0040",
+   "dificuldade": 3,
+   "tema": "Salinidade",
+   "enunciado": "Por que a bentonita rende mal quando misturada diretamente em água do mar ou salgada?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque o NaCl precipita a bentonita em CaCO3",
+    "Porque os sais aumentam a hidratação",
+    "Porque o pH da água do mar é muito baixo",
+    "Porque o sal aumenta o diâmetro das lâminas",
+    "Os sais reduzem a hidratação e o inchamento das lâminas, e o sistema fica instável e decanta"
+   ],
+   "correta": 4,
+   "explicacao": "A presença de sal inibe a hidratação e a dispersão da bentonita, derrubando o rendimento."
+  },
+  {
+   "id": "arg-0041",
+   "dificuldade": 2,
+   "tema": "Salinidade",
+   "enunciado": "O que é o Q-Mix?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Mistura de barita com bentonita seca",
+    "A pré-hidratação da bentonita em alta concentração (40–100 lb/bbl) em água doce, depois diluída com água do mar ou salobra",
+    "Mistura de cimento com bentonita",
+    "Adição de sal à bentonita seca",
+    "Mistura de diesel e bentonita"
+   ],
+   "correta": 1,
+   "explicacao": "Pré-hidratar em água doce garante bom rendimento. Depois, a suspensão concentrada é diluída com água salgada até o volume e as propriedades desejadas."
+  },
+  {
+   "id": "arg-0042",
+   "dificuldade": 3,
+   "tema": "Salinidade",
+   "enunciado": "Na pré-hidratação (Q-Mix), com 40–100 lb/bbl de bentonita, quais aditivos costumam acompanhar a bentonita em água doce?",
+   "tipo": "multipla",
+   "alternativas": [
+    "PHPA e KCl em alta concentração",
+    "Dispersante (lignossulfonato) e soda cáustica",
+    "Barita e cal virgem",
+    "Diesel e emulsificante",
+    "Sal grosso e gesso"
+   ],
+   "correta": 1,
+   "explicacao": "Com concentrações tão altas é preciso dispersar e controlar o pH. Uma formulação usual: água doce, bentonita, lignossulfonato (1,5–6 lb/bbl) e soda cáustica (0,5–2 lb/bbl)."
+  },
+  {
+   "id": "arg-0043",
+   "dificuldade": 3,
+   "tema": "Salinidade",
+   "enunciado": "Argilas ativadas têm melhor eficiência em água doce ou salgada? Por quê?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Em água destilada apenas",
+    "Só em água do mar, pelo MgCl2",
+    "Tanto faz, pois a salinidade não interfere",
+    "Em água doce, porque a presença de sais pode inibir a hidratação e a eficiência da argila",
+    "Em água salgada, porque os sais aumentam a hidratação"
+   ],
+   "correta": 3,
+   "explicacao": "Argilas hidratam bem em água doce. Na presença de sais (NaCl, CaCl2), a hidratação fica comprometida."
+  },
+  {
+   "id": "arg-0044",
+   "dificuldade": 1,
+   "tema": "Atapulgita",
+   "enunciado": "Qual a principal aplicação da atapulgita em fluidos de perfuração?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Agente de pega do cimento",
+    "Inibidor de corrosão",
+    "Viscosificante em água salgada ou água do mar",
+    "Adensante de alta densidade",
+    "Redutor de filtrado base óleo"
+   ],
+   "correta": 2,
+   "explicacao": "A atapulgita (80–90% de paligorsquita) viscosifica independentemente da concentração de eletrólitos."
+  },
+  {
+   "id": "arg-0045",
+   "dificuldade": 3,
+   "tema": "Atapulgita",
+   "enunciado": "Por que a atapulgita funciona bem em água salgada, ao contrário da bentonita?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque é uma esmectita sódica",
+    "Porque forma reboco de carbonato",
+    "Porque a viscosidade vem da interferência física entre as agulhas, e não de forças eletrostáticas entre partículas",
+    "Porque ela dissolve o sal",
+    "Porque tem CTC muito alta"
+   ],
+   "correta": 2,
+   "explicacao": "Poucas substituições atômicas significam carga superficial baixa e CTC baixa. O emaranhado de agulhas e a adsorção de água nos canais produzem a suspensão independentemente do sal."
+  },
+  {
+   "id": "arg-0046",
+   "dificuldade": 2,
+   "tema": "Sepiolita",
+   "enunciado": "Para que tipo de poço a sepiolita é especialmente indicada?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Fluidos de cimentação leves",
+    "Poços rasos em água doce apenas",
+    "Perfuração a seco sem fluido",
+    "Poços profundos, pela estabilidade térmica das dispersões, e fluidos em água salgada",
+    "Fluidos base óleo emulsionado com sais"
+   ],
+   "correta": 3,
+   "explicacao": "A sepiolita forma géis tixotrópicos estáveis em temperatura e em água salgada. As fibras são flexíveis e não quebram com a agitação."
+  },
+  {
+   "id": "arg-0047",
+   "dificuldade": 1,
+   "tema": "Organofílicas",
+   "enunciado": "O que são argilas organofílicas?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Argilas naturais encontradas em jazidas",
+    "Argilas contendo carvão natural",
+    "Argilas com alto teor de carbonato",
+    "Argilas em que moléculas orgânicas substituem os cátions trocáveis entre as camadas, tornando-as hidrofóbicas",
+    "Argilas com polímeros solúveis em água"
+   ],
+   "correta": 3,
+   "explicacao": "A modificação muda a natureza hidrofílica para organofílica, permitindo uso como viscosificante em fluidos não aquosos."
+  },
+  {
+   "id": "arg-0048",
+   "dificuldade": 2,
+   "tema": "Organofílicas",
+   "enunciado": "Como se sintetiza uma argila organofílica?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Por reação com HCl concentrado",
+    "Por adição de soda cáustica seca",
+    "Por troca iônica: substituindo Na⁺ por cátions orgânicos de sais quaternários de amônio (tensoativos catiônicos)",
+    "Por adição de barita",
+    "Por aquecimento da argila com enxofre"
+   ],
+   "correta": 2,
+   "explicacao": "A bentonita sódica é dispersa em água quente, adiciona-se o sal quaternário de amônio, lava-se, filtra-se, seca-se e desagrega-se."
+  },
+  {
+   "id": "arg-0049",
+   "dificuldade": 3,
+   "tema": "Organofílicas",
+   "enunciado": "Por que a bentonita sódica de alta pureza é a mais usada para preparar argilas organofílicas?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Pela alta CTC e pelo Na⁺ monovalente, fácil de trocar, o que torna a intercalação rápida e completa",
+    "Porque tem a menor CTC possível",
+    "Porque o Na⁺ não pode ser trocado",
+    "Porque a bentonita sódica é hidrofóbica",
+    "Porque a bentonita sódica é amorfa"
+   ],
+   "correta": 0,
+   "explicacao": "Cátions monovalentes (Na⁺) são facilmente trocados e a CTC elevada garante alta incorporação do orgânico."
+  },
+  {
+   "id": "arg-0050",
+   "dificuldade": 1,
+   "tema": "Organofílicas",
+   "enunciado": "Qual é a principal função da argila organofílica no fluido?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Gerar viscosidade e gel em fluidos não aquosos",
+    "Gerar peso no fluido",
+    "Aumentar a salinidade da fase aquosa",
+    "Reduzir o pH do fluido",
+    "Aumentar a densidade do cimento"
+   ],
+   "correta": 0,
+   "explicacao": "Em NAF (base diesel, parafina, olefina, éster), a organofílica faz o papel da bentonita: viscosifica e suspende sólidos."
+  },
+  {
+   "id": "arg-0051",
+   "dificuldade": 1,
+   "tema": "Organofílicas",
+   "enunciado": "As argilas usadas em fluidos aquosos são hidrofílicas, e as usadas em fluidos não aquosos são organofílicas (hidrofóbicas).",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "Verdadeiro. Todas as argilas naturais ativas são hidrofílicas. Para NAF é preciso modificá-las com sais quaternários de amônio."
+  },
+  {
+   "id": "arg-0052",
+   "dificuldade": 2,
+   "tema": "Organofílicas",
+   "enunciado": "Existem jazidas naturais de bentonita organofílica.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 1,
+   "explicacao": "Falso. Não há jazidas naturais: a organofílica é sempre obtida por modificação industrial de uma argila ativada."
+  },
+  {
+   "id": "arg-0053",
+   "dificuldade": 3,
+   "tema": "Floculação",
+   "enunciado": "Como se define floculação em suspensões de argila em fluidos de perfuração?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Toda dissociação de partículas em suspensão",
+    "Precipitação química do carbonato de cálcio",
+    "Aumento súbito do espaço interlamelar até lâminas individuais",
+    "Colapso das duplas camadas e formação de agregados paralelos a ~20 Å",
+    "Leve associação entre partículas, formando flocos ou géis e aumentando as forças-gel"
+   ],
+   "correta": 4,
+   "explicacao": "Floculação: associação leve (face-aresta). Agregação: colapso das duplas camadas e partículas paralelas (~20 Å). Dispersão: separação em lâminas individuais."
+  },
+  {
+   "id": "arg-0054",
+   "dificuldade": 3,
+   "tema": "Floculação",
+   "enunciado": "Qual o efeito da agregação sobre as forças-gel de uma suspensão de argila?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Não altera as forças-gel",
+    "Reduz as forças-gel, pois diminui o número de partículas livres e a área superficial disponível",
+    "Aumenta as forças-gel, por atração entre partículas",
+    "Aumenta a viscosidade plástica sem alterar o gel",
+    "Elimina a pressão capilar"
+   ],
+   "correta": 1,
+   "explicacao": "A floculação aumenta o gel; a agregação o reduz, por consumir partículas livres e superfície para interação."
+  },
+  {
+   "id": "arg-0055",
+   "dificuldade": 3,
+   "tema": "Floculação",
+   "enunciado": "Como se define dispersão de uma bentonita sódica?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Aumento súbito do espaço interlamelar até as lâminas se tornarem unidades individuais",
+    "Formação de cristais maiores por cimentação",
+    "Leve associação face-aresta em flocos",
+    "Precipitação do argilomineral",
+    "Colapso das duplas camadas em agregados paralelos"
+   ],
+   "correta": 0,
+   "explicacao": "Na dispersão, as lâminas superam as forças de atração e se expandem até se separarem. É o inverso da agregação."
+  },
+  {
+   "id": "arg-0056",
+   "dificuldade": 3,
+   "tema": "Floculação",
+   "enunciado": "Como se classifica a bentonita sódica em água doce e a bentonita sódica em solução de NaCl 0,1 N?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Em água doce: dispersa e floculada; em NaCl: dispersa e defloculada",
+    "Em ambos: agregada e defloculada",
+    "Em ambos: dispersa e defloculada",
+    "Em água doce: agregada e floculada; em NaCl: agregada e defloculada",
+    "Em água doce: dispersa e defloculada; em NaCl 0,1 N: dispersa e floculada"
+   ],
+   "correta": 4,
+   "explicacao": "O sal comprime a dupla camada e favorece associação entre partículas (floculação) mantendo as lâminas dispersas. A bentonita cálcica, por sua vez, tende a ser agregada."
+  },
+  {
+   "id": "arg-0057",
+   "dificuldade": 3,
+   "tema": "Floculação",
+   "enunciado": "Como se classifica a bentonita cálcica em água doce, segundo o curso?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Agregada e defloculada",
+    "Dispersa e defloculada",
+    "Totalmente dissolvida",
+    "Agregada e floculada",
+    "Dispersa e floculada"
+   ],
+   "correta": 0,
+   "explicacao": "Em água doce a cálcica fica agregada (grumos paralelos) e sem associação em rede, ou seja, defloculada."
+  },
+  {
+   "id": "arg-0058",
+   "dificuldade": 3,
+   "tema": "Floculação",
+   "enunciado": "Qual a associação de partículas que explica o gel e a boa viscosidade de uma dispersão de bentonita sódica em água?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Formação de ligações covalentes entre bentonita e água",
+    "Cristalização completa das lâminas",
+    "Colapso total das lâminas em um único bloco cristalino",
+    "Fusão das partículas em cubos",
+    "Associações face-a-face e aresta-a-face entre partículas, com separação de fases e adequada viscosidade"
+   ],
+   "correta": 4,
+   "explicacao": "Nas dispersões de bentonita sódica predominam associações do tipo face-a-face e aresta-a-face. Essa rede dá viscosidade adequada com baixa concentração de sólidos."
+  },
+  {
+   "id": "arg-0059",
+   "dificuldade": 3,
+   "tema": "Bentonita",
+   "enunciado": "Assinale a INCORRETA sobre bentonitas em fluidos de perfuração:",
+   "tipo": "incorreta",
+   "alternativas": [
+    "A bentonita sódica é a menos indicada, porque não incha em água doce",
+    "Em água salgada convém pré-hidratar a bentonita",
+    "A bentonita cálcica pode ser ativada com carbonato de sódio",
+    "A bentonita sódica é a mais indicada em fluidos aquosos",
+    "A bentonita confere viscosidade ao fluido"
+   ],
+   "correta": 0,
+   "explicacao": "A sódica incha e dispersa muito em água doce, justamente por isso é a mais indicada."
+  },
+  {
+   "id": "arg-0060",
+   "dificuldade": 3,
+   "tema": "Bentonita",
+   "enunciado": "Assinale a INCORRETA sobre as argilas em fluidos de perfuração:",
+   "tipo": "incorreta",
+   "alternativas": [
+    "A adição de argila confere ao fluido sempre melhor desempenho",
+    "Argilas em fluidos aquosos são hidrofílicas e, em fluidos não aquosos, organofílicas",
+    "A argila é considerada um coloide",
+    "A viscosidade do fluido depende do tipo e do teor de argila",
+    "Os cortes de rocha incorporados podem modificar as propriedades do fluido"
+   ],
+   "correta": 0,
+   "explicacao": "Mais argila não é sempre melhor: excesso de sólidos aumenta viscosidade, gel e filtração indesejáveis. A resposta depende do tipo e do teor."
+  },
+  {
+   "id": "arg-0061",
+   "dificuldade": 3,
+   "tema": "Bentonita",
+   "enunciado": "Sobre bentonitas ativadas e organofílicas, analise as afirmativas:",
+   "tipo": "combinacao",
+   "afirmativas": [
+    "I. A argila ativada é obtida por tratamento da cálcica com carbonato de sódio.",
+    "II. Argilas organofílicas são preparadas por troca de Na⁺ por cátions de sais quaternários de amônio.",
+    "III. A argila organofílica é usada em fluidos aquosos de água doce, pois é hidrofílica."
+   ],
+   "alternativas": [
+    "Apenas I",
+    "Apenas I e II",
+    "Apenas II e III",
+    "Apenas I e III",
+    "I, II e III"
+   ],
+   "correta": 1,
+   "explicacao": "I e II corretas. III falsa: a organofílica é hidrofóbica e usada em fluidos não aquosos (NAF)."
+  },
+  {
+   "id": "arg-0062",
+   "dificuldade": 3,
+   "tema": "Bentonita",
+   "enunciado": "Uma bentonita é submetida a uma suspensão em água do mar sem pré-hidratação e decanta. Qual a medida corretiva mais adequada?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Adicionar barita em excesso",
+    "Aquecer a suspensão acima de 150 °C",
+    "Aumentar a concentração de NaCl para melhorar a hidratação",
+    "Pré-hidratar em água doce em alta concentração, com dispersante e soda cáustica, e só depois diluir com a água do mar",
+    "Reduzir a quantidade de bentonita a zero e adicionar cimento"
+   ],
+   "correta": 3,
+   "explicacao": "O Q-Mix resolve exatamente isso: hidrata a argila com água doce antes de sentir a salinidade."
+  },
+  {
+   "id": "arg-0063",
+   "dificuldade": 3,
+   "tema": "Atapulgita",
+   "enunciado": "Em um fluido em água saturada de sal, qual argila viscosificante é mais indicada?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Bentonita sódica natural, sem pré-hidratação",
+    "Bentonita cálcica natural",
+    "Caulinita",
+    "Atapulgita ou sepiolita",
+    "Ilita"
+   ],
+   "correta": 3,
+   "explicacao": "As argilas fibrosas viscosificam por emaranhado físico e independem da concentração de eletrólitos."
+  },
+  {
+   "id": "arg-0064",
+   "dificuldade": 1,
+   "tema": "Formações argilosas",
+   "enunciado": "Qual a principal preocupação ao perfurar formações argilosas, como argilitos, margas e folhelhos?",
+   "tipo": "multipla",
+   "alternativas": [
+    "A elevada capacidade de interagir com a água, causando instabilidade e contaminação do fluido",
+    "A falta de contato com a broca",
+    "A baixa densidade da rocha",
+    "A ausência de pressão de poros",
+    "A impossibilidade de bombear o fluido"
+   ],
+   "correta": 0,
+   "explicacao": "Formações ricas em argila hidratam, incham, dispersam e incorporam sólidos ao fluido, o que muda as propriedades e desestabiliza o poço."
+  },
+  {
+   "id": "arg-0065",
+   "dificuldade": 1,
+   "tema": "Formações argilosas",
+   "enunciado": "O que é o folhelho, do ponto de vista de textura e composição?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Rocha de textura fina com estrutura plano-paralela (laminação), rica em argilominerais e quartzo",
+    "Evaporito formado por halita pura",
+    "Calcário sem argila",
+    "Rocha ígnea escura sem camadas",
+    "Rocha grossa de grãos arredondados de areia"
+   ],
+   "correta": 0,
+   "explicacao": "O folhelho tem laminação (folheação) e teores de argila entre 15 e 70% em peso. Argilito e marga também são ricos em argila."
+  },
+  {
+   "id": "arg-0066",
+   "dificuldade": 2,
+   "tema": "Formações argilosas",
+   "enunciado": "O que é uma marga?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Rocha ígnea com quartzo",
+    "Evaporito com halita",
+    "Folhelho sem carbonato",
+    "Arenito limpo com cimento silicoso",
+    "Calcário (calcilutito) com teor considerável de argila (35–60%), principalmente esmectita, altamente hidratável"
+   ],
+   "correta": 4,
+   "explicacao": "A marga mistura calcita, dolomita, quartzo, micas e muita esmectita. Traz os mesmos problemas dos argilitos altamente hidratáveis."
+  },
+  {
+   "id": "arg-0067",
+   "dificuldade": 1,
+   "tema": "Gumbo",
+   "enunciado": "O que é o gumbo?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Um evaporito rico em sais",
+    "Um aditivo polimérico para perda de circulação",
+    "Argilito altamente hidratável, do grupo das esmectitas, com grande capacidade de dispersão e inchamento",
+    "Um tipo de cimento leve",
+    "Um tipo de barita de baixa gravidade"
+   ],
+   "correta": 2,
+   "explicacao": "O gumbo impacta fluidos base água em perfuração, manobras, descida de revestimento e cimentação."
+  },
+  {
+   "id": "arg-0068",
+   "dificuldade": 2,
+   "tema": "Gumbo",
+   "enunciado": "Qual problema é típico do gumbo em fluidos base água?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Enceramento de broca, de estabilizadores e de peneiras, com risco de prisão e atraso em manobras",
+    "Aumento do washout em evaporitos",
+    "Corrosão por H2S",
+    "Perda de circulação total por fraturas induzidas",
+    "Cristalização do cimento"
+   ],
+   "correta": 0,
+   "explicacao": "A argila gruda nas aletas ou cones da broca, nos estabilizadores e nas telas das peneiras, reduzindo ROP e podendo levar a prisão da coluna."
+  },
+  {
+   "id": "arg-0069",
+   "dificuldade": 3,
+   "tema": "Gumbo",
+   "enunciado": "Para perfurar um intervalo de gumbo, quais são as alternativas descritas no curso?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Parar a circulação durante a perfuração",
+    "Reduzir o peso do fluido a valores muito baixos",
+    "Aumentar o teor de bentonita sódica",
+    "Inibir a argila no fluido aquoso (sais ou polímeros) ou usar fluido de base sintética (NAF/SBM)",
+    "Usar apenas água doce sem aditivos"
+   ],
+   "correta": 3,
+   "explicacao": "Para fluidos base água é preciso adicionar produtos inibidores (sais, polímeros). Fluidos de base sintética limitam a hidratação."
+  },
+  {
+   "id": "arg-0070",
+   "dificuldade": 2,
+   "tema": "Reatividade",
+   "enunciado": "Quais formações são consideradas quimicamente ativas (reativas) em bacias sedimentares?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Siltitos limpos e arenitos",
+    "Calcarenitos, diabásio e embasamento cristalino",
+    "Rochas metamórficas e ígneas",
+    "Argilas, argilitos, folhelhos, siltitos argilosos, calcilutitos e evaporitos",
+    "Arenitos, conglomerados e basaltos"
+   ],
+   "correta": 3,
+   "explicacao": "As formações inertes incluem arenitos, siltitos limpos, conglomerados, ígneas, metamórficas e calcarenitos. Argilas e evaporitos reagem com o fluido."
+  },
+  {
+   "id": "arg-0071",
+   "dificuldade": 2,
+   "tema": "Reatividade",
+   "enunciado": "Quais fatores influenciam a reatividade de uma formação argilosa?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Teor de argila, tipo e teor de cada argilomineral, grau de compactação e tempo de exposição à rocha-fluido",
+    "Apenas a cor da rocha",
+    "Apenas a temperatura de superfície",
+    "Somente o diâmetro da broca",
+    "Somente a vazão do fluido"
+   ],
+   "correta": 0,
+   "explicacao": "A combinação desses fatores define o quanto a rocha hidrata e perde resistência."
+  },
+  {
+   "id": "arg-0072",
+   "dificuldade": 2,
+   "tema": "Instabilidade",
+   "enunciado": "Quais são exemplos de instabilidade de natureza física em poços perfurando folhelhos?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Forças de arraste do fluxo, choque da coluna, alívio de tensões e pressões de poros anormalmente altas",
+    "Pega do cimento",
+    "Reação ácido-base e troca iônica",
+    "Dissolução da calcita e dolomita",
+    "Corrosão e hidratação da argila"
+   ],
+   "correta": 0,
+   "explicacao": "Os efeitos físicos incluem erosão, desmoronamento das paredes e incorporação de sólidos. A hidratação, dispersão e inchamento são efeitos químicos."
+  },
+  {
+   "id": "arg-0073",
+   "dificuldade": 1,
+   "tema": "Instabilidade",
+   "enunciado": "Com base no curso, qual a consequência típica do inchamento de formações argilosas no poço?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Redução do diâmetro do poço",
+    "Aumento do diâmetro do poço (washout)",
+    "Aumento do diâmetro do revestimento",
+    "Perda de circulação por fraturas induzidas",
+    "Redução da pressão de poros"
+   ],
+   "correta": 0,
+   "explicacao": "Argilas hidratáveis inchando reduzem o diâmetro, o que causa aperto e dificuldade nas manobras. O arrombamento (washout) é mais comum em arenitos e formações salinas."
+  },
+  {
+   "id": "arg-0074",
+   "dificuldade": 2,
+   "tema": "Instabilidade",
+   "enunciado": "Frente a formações argilosas podem ocorrer problemas como:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Aumento do diâmetro por dissolução",
+    "Enceramento do revestimento",
+    "Arrombamento (washout) como problema típico das argilas",
+    "Inchamento da formação e desmoronamento (colapso) de placas",
+    "Cristalização de sal"
+   ],
+   "correta": 3,
+   "explicacao": "O arrombamento é mais característico de arenitos e formações salinas. O enceramento ocorre nas partes cortantes da coluna (broca e estabilizadores), e não no revestimento."
+  },
+  {
+   "id": "arg-0075",
+   "dificuldade": 2,
+   "tema": "Instabilidade",
+   "enunciado": "Em qual parte da coluna se observa o enceramento causado por argilas hidratáveis?",
+   "tipo": "multipla",
+   "alternativas": [
+    "No revestimento de produção",
+    "No cabeçote do poço",
+    "Na camisa da bomba apenas",
+    "Na broca e nos estabilizadores (e também em peneiras)",
+    "Na árvore de natal"
+   ],
+   "correta": 3,
+   "explicacao": "O enceramento é a aderência de argila às partes cortantes e aos estabilizadores, impedindo o contato da broca com a rocha."
+  },
+  {
+   "id": "arg-0076",
+   "dificuldade": 3,
+   "tema": "Instabilidade",
+   "enunciado": "Qual a combinação correta de argilomineral e problema mais associado em formações argilosas?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Ilita: inchamento; esmectita: fraturamento",
+    "Caulinita: inchamento intenso; ilita: dissolução",
+    "Ilita: inchamento; magnetita: desmoronamento",
+    "Ilita: desmoronamento; esmectita: inchamento",
+    "Anidrita: inchamento; esmectita: fraturamento"
+   ],
+   "correta": 3,
+   "explicacao": "A ilita não incha, mas pode desmoronar em folhelhos compactos com pressão de poros alta. A esmectita hidrata e incha."
+  },
+  {
+   "id": "arg-0077",
+   "dificuldade": 1,
+   "tema": "Hidratação",
+   "enunciado": "Como a hidratação dos folhelhos pode ser minimizada?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Usando água doce pura sem aditivos",
+    "Reduzindo a atividade química da fase aquosa e reduzindo a taxa de hidratação",
+    "Aumentando a atividade química da água",
+    "Aumentando o teor de bentonita sódica",
+    "Reduzindo o peso do fluido a valores muito baixos"
+   ],
+   "correta": 1,
+   "explicacao": "Sais (NaCl, KCl, CaCl2) reduzem a atividade da água, e polímeros reduzem a taxa de invasão de água e a hidratação."
+  },
+  {
+   "id": "arg-0078",
+   "dificuldade": 2,
+   "tema": "Hidratação",
+   "enunciado": "Quais cátions têm maior capacidade de inibição de argilas, segundo estudos citados no curso?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Hidrogênio (H⁺) e hidroxila",
+    "Magnésio (Mg²⁺) e ferro (Fe²⁺)",
+    "Potássio (K⁺) e amônio (NH4⁺)",
+    "Sódio (Na⁺) e cálcio (Ca²⁺)",
+    "Lítio (Li⁺) e alumínio (Al³⁺)"
+   ],
+   "correta": 2,
+   "explicacao": "K⁺ e NH4⁺ têm raio e energia de hidratação adequados para se encaixar entre as camadas e fixá-las, superando Na⁺, Ca²⁺ e Mg²⁺."
+  },
+  {
+   "id": "arg-0079",
+   "dificuldade": 1,
+   "tema": "Hidratação",
+   "enunciado": "Quais eletrólitos são fontes usuais para reduzir a atividade química da fase aquosa?",
+   "tipo": "multipla",
+   "alternativas": [
+    "NaCl, KCl, CaCl2 e, eventualmente, NH4Cl",
+    "Barita, hematita e calcita",
+    "Carbonato de sódio e bicarbonato",
+    "Gesso e anidrita",
+    "Soda cáustica e cal"
+   ],
+   "correta": 0,
+   "explicacao": "A concentração depende do sal, da reatividade da formação e das limitações ambientais."
+  },
+  {
+   "id": "arg-0080",
+   "dificuldade": 3,
+   "tema": "Hidratação",
+   "enunciado": "Em áreas com restrições ao uso de cloretos, quais sais podem ser usados como alternativa?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Brometos de zinco apenas",
+    "Sulfetos e nitratos",
+    "Silicatos de alumínio",
+    "Fosfatos de cálcio",
+    "Formiatos, acetatos, carbonatos e combinações"
+   ],
+   "correta": 4,
+   "explicacao": "Formiatos e acetatos são alternativas usadas com sucesso quando o ambiente restringe os cloretos."
+  },
+  {
+   "id": "arg-0081",
+   "dificuldade": 2,
+   "tema": "Hidratação",
+   "enunciado": "Como os polímeros reduzem a taxa de hidratação dos folhelhos?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Quebram a estrutura da esmectita",
+    "Reagem com a barita para formar sulfato",
+    "Dissolvem a argila da formação",
+    "Aumentam a pressão de poros",
+    "Adsorvem-se sobre a superfície da formação, formando uma película que reduz a invasão de água"
+   ],
+   "correta": 4,
+   "explicacao": "CMC, PAC, PHPA, poliacrilatos, PVA e polímeros catiônicos formam película protetora e reduzem a água que entra na formação."
+  },
+  {
+   "id": "arg-0082",
+   "dificuldade": 2,
+   "tema": "Hidratação",
+   "enunciado": "Qual das alternativas é uma forma de minimizar problemas ao perfurar formações argilosas reativas?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Usar fluido de peso muito reduzido",
+    "Usar fluidos de base orgânica (não aquosos) ou fluidos aquosos salinos",
+    "Aumentar o pH com soda cáustica sem aditivos",
+    "Usar fluidos aquosos com alta concentração de bentonita para evitar a interação",
+    "Usar água doce pura"
+   ],
+   "correta": 1,
+   "explicacao": "Fluidos de base orgânica evitam a hidratação das argilas, e fluidos salinos reduzem a atividade química da fase aquosa."
+  },
+  {
+   "id": "arg-0083",
+   "dificuldade": 3,
+   "tema": "Hidratação",
+   "enunciado": "Por que o uso amplo de asfalto e gilsonita para selar folhelhos foi descontinuado no Brasil?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque dissolvem em água",
+    "Porque são caros demais para qualquer uso",
+    "Porque são ácidos",
+    "Pelo potencial de danos a zonas produtoras",
+    "Porque aumentam a hidratação das argilas"
+   ],
+   "correta": 3,
+   "explicacao": "Esses materiais oleosos selam as paredes, mas podem danificar zonas produtoras, e hoje são usados apenas de forma complementar em alguns campos."
+  },
+  {
+   "id": "arg-0084",
+   "dificuldade": 3,
+   "tema": "Formações argilosas",
+   "enunciado": "Por que é essencial analisar a composição mineralógica de cada intervalo para definir o tratamento do fluido?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque o tratamento é sempre igual",
+    "Porque o tipo e o teor de argilominerais determinam o tipo de problema (inchamento, desmoronamento) e o tratamento mais eficaz e barato",
+    "Porque a mineralogia define a cor do fluido",
+    "Porque a mineralogia não influencia o poço",
+    "Porque a mineralogia só importa para a cimentação"
+   ],
+   "correta": 1,
+   "explicacao": "Esmectita pede inibição química; ilita compactada pede peso adequado para controlar a pressão de poros. Cada tratamento resolve um tipo de problema."
+  },
+  {
+   "id": "arg-0085",
+   "dificuldade": 2,
+   "tema": "Contaminação",
+   "enunciado": "Como as argilas de formação incorporadas ao fluido (cortes) podem afetar suas propriedades?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Eliminam o filtrado",
+    "Reduzem a densidade a zero",
+    "Aumentam a lubricidade sem outros efeitos",
+    "Aumentam o teor de sólidos ativos, alterando reologia, filtração e gel",
+    "Não têm efeito algum"
+   ],
+   "correta": 3,
+   "explicacao": "Os cortes de rocha argilosos hidratam e dispersam, contaminando o fluido com sólidos ativos e mudando suas propriedades."
+  },
+  {
+   "id": "arg-0086",
+   "dificuldade": 3,
+   "tema": "Contaminação",
+   "enunciado": "Por que a função de carrear os cortes até a superfície depende da viscosidade do fluido e, por sua vez, do tipo e teor de argila?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque a argila elimina a necessidade de bombear",
+    "Porque a argila é o viscosificante do fluido aquoso, e a capacidade de carreamento depende da viscosidade",
+    "Porque a argila é lubrificante de superfície",
+    "Porque a argila aumenta a densidade do fluido",
+    "Porque a argila reduz a pressão hidrostática"
+   ],
+   "correta": 1,
+   "explicacao": "A bentonita fornece viscosidade e gel, que sustentam e carregam os cascalhos. Quanto maior a argila, maior a viscosidade, até um limite."
+  },
+  {
+   "id": "arg-0087",
+   "dificuldade": 1,
+   "tema": "Bentonita",
+   "enunciado": "A função principal das argilas em fluidos de perfuração é conceder peso ao meio.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 1,
+   "explicacao": "Falso. A argila concede viscosidade, gel e reboco. O peso é conferido por adensantes, como a barita."
+  },
+  {
+   "id": "arg-0088",
+   "dificuldade": 2,
+   "tema": "Formações argilosas",
+   "enunciado": "O arrombamento (washout) é uma problemática mais comum em arenitos e formações salinas do que em formações argilosas.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "Verdadeiro. Em argilas o problema típico é inchamento e desmoronamento; o washout é mais característico de arenitos e sais."
+  },
+  {
+   "id": "arg-0089",
+   "dificuldade": 2,
+   "tema": "Formações argilosas",
+   "enunciado": "Enceramento é um problema do revestimento, e não das partes cortantes da coluna.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 1,
+   "explicacao": "Falso. O enceramento atinge broca, estabilizadores e coluna, aderindo argila e impedindo o contato com a rocha."
+  },
+  {
+   "id": "arg-0090",
+   "dificuldade": 3,
+   "tema": "Hidratação",
+   "enunciado": "Fluidos com salinidade elevada ajudam a reduzir a atividade química da fase aquosa e, portanto, a hidratação de folhelhos.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "Verdadeiro. A salinidade diminui a atividade da água do fluido, reduzindo o fluxo osmótico de água para a formação."
+  },
+  {
+   "id": "arg-0091",
+   "dificuldade": 3,
+   "tema": "Hidratação",
+   "enunciado": "Sobre a inibição de folhelhos, analise as afirmativas:",
+   "tipo": "combinacao",
+   "afirmativas": [
+    "I. Sais como KCl reduzem a atividade química da fase aquosa.",
+    "II. Polímeros formam película sobre a rocha e reduzem a taxa de hidratação.",
+    "III. K⁺ e NH4⁺ têm menor capacidade de inibição que Na⁺ e Ca²⁺."
+   ],
+   "alternativas": [
+    "Apenas I",
+    "Apenas I e II",
+    "Apenas II e III",
+    "Apenas I e III",
+    "I, II e III"
+   ],
+   "correta": 1,
+   "explicacao": "I e II corretas. III é falsa: K⁺ e NH4⁺ inibem mais que Na⁺, Ca²⁺, Mg²⁺ e Fe²⁺."
+  },
+  {
+   "id": "arg-0092",
+   "dificuldade": 3,
+   "tema": "Formações argilosas",
+   "enunciado": "Sobre formações argilosas em poços, analise as afirmativas:",
+   "tipo": "combinacao",
+   "afirmativas": [
+    "I. Folhelhos ilíticos podem desmoronar mesmo sem inchamento, por pressão de poros anormal.",
+    "II. Argilitos esmectíticos altamente hidratáveis podem causar gumbo e enceramento.",
+    "III. O enceramento de brocas é típico de formações inertes, como arenitos limpos."
+   ],
+   "alternativas": [
+    "Apenas I",
+    "Apenas I e II",
+    "Apenas II e III",
+    "Apenas I e III",
+    "I, II e III"
+   ],
+   "correta": 1,
+   "explicacao": "I e II corretas. III falsa: enceramento ocorre em formações argilosas reativas, e não em arenitos limpos."
+  },
+  {
+   "id": "arg-0093",
+   "dificuldade": 3,
+   "tema": "Instabilidade",
+   "enunciado": "Um intervalo de folhelho ilítico compactado apresenta fissuras e desmoronamento, sem sinais de enceramento. Qual a causa mais provável?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Hidratação de gumbo",
+    "Pressão de poros elevada e fissuração do folhelho compactado, sem inchamento significativo",
+    "Inchamento intenso de esmectita pura",
+    "Corrosão do revestimento",
+    "Dissolução de halita"
+   ],
+   "correta": 1,
+   "explicacao": "A ilita não incha nem gera enceramento. O colapso decorre da pressão de poros e da fissuração durante a perfuração."
+  },
+  {
+   "id": "arg-0094",
+   "dificuldade": 2,
+   "tema": "Formações argilosas",
+   "enunciado": "Qual a diferença de gravidade em relação ao fluido entre um folhelho ilítico e um argilito esmectítico altamente hidratável em fluido base água?",
+   "tipo": "multipla",
+   "alternativas": [
+    "O argilito esmectítico hidrata, incha e causa gumbo; o folhelho ilítico tende a desmoronar por pressão de poros, sem gumbo",
+    "O folhelho ilítico causa gumbo e o esmectítico, não",
+    "O esmectítico só reage com óleo",
+    "Ambos têm o mesmo efeito",
+    "Nenhum dos dois reage com o fluido"
+   ],
+   "correta": 0,
+   "explicacao": "O tipo de argilomineral define o problema e a resposta: inibição química para esmectita; controle de peso/pressão para ilita compactada."
+  }
+ ],
+ "flashcards": [
+  {
+   "id": "arg-f001",
+   "frente": "Argila",
+   "verso": "Material terrígeno que adquire plasticidade com água. Partículas < 2 µm (diâmetro de Stokes). Constituída por argilominerais."
+  },
+  {
+   "id": "arg-f002",
+   "frente": "Argilomineral",
+   "verso": "Silicato hidratado de Al, Fe e Mg, em camadas (filossilicato): folhas tetraédricas (SiO4) + octaédricas. Cristais geralmente < 2 µm."
+  },
+  {
+   "id": "arg-f003",
+   "frente": "Área específica (cubos)",
+   "verso": "AE = 6 / (l · ρ). Para l = 2 µm e ρ = 2,6 g/cm³: ≈ 1,15 m²/g. Argilas são ativas (> 1 m²/g). Bentonita: 100–800 m²/g."
+  },
+  {
+   "id": "arg-f004",
+   "frente": "1:1, 2:1 e 2:2",
+   "verso": "1:1 (T-O): caulinita, ~7 Å. 2:1 (T-O-T): esmectita, ilita, vermiculita, ~10 Å. 2:2 (T-O-T-O): clorita, ~14 Å."
+  },
+  {
+   "id": "arg-f005",
+   "frente": "2:1 = T-O-T",
+   "verso": "Duas folhas tetraédricas de SiO4 e uma octaédrica de Al2(OH)6 no meio."
+  },
+  {
+   "id": "arg-f006",
+   "frente": "Caulinita",
+   "verso": "1:1, praticamente neutra, sem cátions interlamelares, não expande. Placas hexagonais."
+  },
+  {
+   "id": "arg-f007",
+   "frente": "Ilita",
+   "verso": "2:1, micas hidratadas. Substituição nas folhas tetraédricas. K⁺ fixo, ~10 Å, sem inchamento."
+  },
+  {
+   "id": "arg-f008",
+   "frente": "Esmectita",
+   "verso": "2:1. Substituição principalmente octaédrica (Al por Mg). Cátions hidratados entre camadas; inchamento 12,5–40 Å. Base da bentonita."
+  },
+  {
+   "id": "arg-f009",
+   "frente": "CTC",
+   "verso": "Capacidade de troca de cátions, em meq/100 g. Mede o grau de substituição isomórfica. Bentonita sódica: 70–130 meq/100 g."
+  },
+  {
+   "id": "arg-f010",
+   "frente": "Paligorsquita e sepiolita",
+   "verso": "Argilas fibrosas (agulhas), CTC baixa. Atapulgita = 80–90% de paligorsquita. Viscosificam em água salgada, independem de eletrólitos."
+  },
+  {
+   "id": "arg-f011",
+   "frente": "Bentonita",
+   "verso": "Argila dominantemente esmectítica (≥ 85% segundo alguns). Pode ser sódica, cálcica, lítica ou magnesiana. Função: viscosidade, gel e reboco."
+  },
+  {
+   "id": "arg-f012",
+   "frente": "Bentonita sódica × cálcica",
+   "verso": "Sódica: adsorve muita água, dispersa, boa viscosidade e reboco fino. Cálcica: hidrata pouco, agrega, reboco espesso e permeável."
+  },
+  {
+   "id": "arg-f013",
+   "frente": "Argila ativada",
+   "verso": "Bentonita cálcica tratada com barrilha leve (Na2CO3) vira sódica artificial. Também se ativa com polímeros (CMC, PAC, poliacrilatos, XC)."
+  },
+  {
+   "id": "arg-f014",
+   "frente": "Q-Mix",
+   "verso": "Pré-hidratação da bentonita (40–100 lb/bbl) em água doce, com lignossulfonato (1,5–6) e soda (0,5–2), depois diluída em água salgada."
+  },
+  {
+   "id": "arg-f015",
+   "frente": "Bentonita em água salgada",
+   "verso": "Rende mal e decanta. Pré-hidratar em água doce. Argilas ativadas funcionam melhor em água doce."
+  },
+  {
+   "id": "arg-f016",
+   "frente": "Argila organofílica",
+   "verso": "Argila com cátions orgânicos (sais quaternários de amônio) no lugar do Na⁺. Hidrofóbica; viscosifica fluidos não aquosos. Não há jazidas naturais."
+  },
+  {
+   "id": "arg-f017",
+   "frente": "Floculação",
+   "verso": "Leve associação de partículas, formando flocos e géis: aumenta as forças-gel."
+  },
+  {
+   "id": "arg-f018",
+   "frente": "Agregação",
+   "verso": "Colapso das duplas camadas e formação de grumos paralelos (~20 Å ou menos): reduz as forças-gel."
+  },
+  {
+   "id": "arg-f019",
+   "frente": "Dispersão",
+   "verso": "Aumento súbito do espaço interlamelar até lâminas individuais."
+  },
+  {
+   "id": "arg-f020",
+   "frente": "Classificação da bentonita em meios",
+   "verso": "Na em água doce: dispersa e defloculada. Na em NaCl 0,1 N: dispersa e floculada. Ca em água doce: agregada e defloculada."
+  },
+  {
+   "id": "arg-f021",
+   "frente": "Folhelho",
+   "verso": "Rocha fina, laminada, 15–70% de argila, com quartzo. Ilita predomina."
+  },
+  {
+   "id": "arg-f022",
+   "frente": "Marga",
+   "verso": "Calcilutito com 35–60% de argila, sobretudo esmectita. Altamente hidratável."
+  },
+  {
+   "id": "arg-f023",
+   "frente": "Gumbo",
+   "verso": "Argilito esmectítico muito hidratável. Causa enceramento de broca, estabilizadores e peneiras, prisão e atraso nas manobras."
+  },
+  {
+   "id": "arg-f024",
+   "frente": "Formações inertes × reativas",
+   "verso": "Inertes: arenitos, siltitos limpos, conglomerados, ígneas, metamórficas, calcarenitos. Reativas: argilas, argilitos, folhelhos, siltitos argilosos, calcilutitos, evaporitos."
+  },
+  {
+   "id": "arg-f025",
+   "frente": "Fatores de reatividade",
+   "verso": "Teor de argila, tipo e teor de cada argilomineral, grau de compactação e tempo de exposição."
+  },
+  {
+   "id": "arg-f026",
+   "frente": "Instabilidade física",
+   "verso": "Arraste do fluxo, choque da coluna, alívio de tensões, pressão de poros anormal."
+  },
+  {
+   "id": "arg-f027",
+   "frente": "Ilita × esmectita no poço",
+   "verso": "Ilita: desmoronamento (sem inchar). Esmectita: inchamento, dispersão, gumbo."
+  },
+  {
+   "id": "arg-f028",
+   "frente": "Problemas com argilas",
+   "verso": "Inchamento (reduz o diâmetro), desmoronamento, enceramento. Washout é mais comum em arenitos e formações salinas."
+  },
+  {
+   "id": "arg-f029",
+   "frente": "Inibição de folhelhos",
+   "verso": "Reduzir a atividade química da fase aquosa (NaCl, KCl, CaCl2, NH4Cl; K⁺ e NH4⁺ são os melhores) e reduzir a taxa de hidratação (CMC, PAC, PHPA, poliacrilatos, PVA, catiônicos)."
+  },
+  {
+   "id": "arg-f030",
+   "frente": "Alternativas ao cloreto",
+   "verso": "Formiatos, acetatos e carbonatos, em áreas com restrição ambiental."
+  },
+  {
+   "id": "arg-f031",
+   "frente": "Fluidos para argilas reativas",
+   "verso": "Aquosos salinos ou de base orgânica (não aquosos/sintéticos)."
+  }
+ ]
+}

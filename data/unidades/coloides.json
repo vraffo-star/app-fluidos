@@ -1,0 +1,1207 @@
+{
+ "id": "coloides",
+ "perguntas": [
+  {
+   "id": "col-0001",
+   "dificuldade": 1,
+   "tema": "Tensoativos",
+   "enunciado": "O que caracteriza uma molécula de tensoativo?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Apenas uma cadeia apolar, sem grupo polar",
+    "Ser um gás dissolvido em água",
+    "Apenas um grupo iônico, sem cadeia",
+    "Ser sempre um sal inorgânico",
+    "Uma parte hidrofílica (polar) e uma parte hidrofóbica (cadeia hidrocarbônica) na mesma molécula"
+   ],
+   "correta": 4,
+   "explicacao": "Tensoativos são anfifílicos: um grupo polar solúvel em água e uma cadeia hidrocarbônica solúvel em óleo. Por isso se adsorvem nas interfaces."
+  },
+  {
+   "id": "col-0002",
+   "dificuldade": 1,
+   "tema": "Polaridade",
+   "enunciado": "A regra geral de solubilidade usada no curso é:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Apolar dissolve apenas água",
+    "A solubilidade só depende da temperatura",
+    "Polar dissolve polar e apolar dissolve apolar",
+    "Polar dissolve apolar",
+    "Todos os líquidos são miscíveis entre si"
+   ],
+   "correta": 2,
+   "explicacao": "Substâncias polares se misturam com polares e apolares com apolares. É a base para entender água × óleo e a necessidade de tensoativos."
+  },
+  {
+   "id": "col-0003",
+   "dificuldade": 1,
+   "tema": "Polaridade",
+   "enunciado": "Por que hidrocarbonetos não se dissolvem em água?",
+   "tipo": "multipla",
+   "alternativas": [
+    "A água evapora mais rápido",
+    "A água forma ligações de hidrogênio fortes entre si e expulsa as moléculas apolares",
+    "O hidrocarboneto é mais denso que a água",
+    "A água reage com os hidrocarbonetos",
+    "O hidrocarboneto é sempre sólido"
+   ],
+   "correta": 1,
+   "explicacao": "As moléculas de água se atraem por dipolo forte e pontes de hidrogênio. Um hidrocarboneto não forma essas interações e é expulso."
+  },
+  {
+   "id": "col-0004",
+   "dificuldade": 1,
+   "tema": "Tensão superficial",
+   "enunciado": "Por que a tensão superficial da água é alta?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Pela alta viscosidade",
+    "Pela baixa densidade da água",
+    "Pelas fortes forças de atração intermoleculares (pontes de hidrogênio)",
+    "Pela presença de sais",
+    "Pela ausência de polaridade"
+   ],
+   "correta": 2,
+   "explicacao": "Moléculas na superfície sofrem atração só dos vizinhos abaixo e laterais, com resultante para dentro. Quanto maior a atração intermolecular, maior a tensão superficial."
+  },
+  {
+   "id": "col-0005",
+   "dificuldade": 1,
+   "tema": "Tensoativos",
+   "enunciado": "Quais são os quatro tipos de tensoativos quanto à natureza do grupo polar?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Aniônicos, catiônicos, não iônicos e anfóteros",
+    "Ácidos, bases, sais e óxidos",
+    "Primários, secundários, terciários e quaternários",
+    "Simples, duplos, triplos e gêmeos",
+    "Líquidos, sólidos, gasosos e coloidais"
+   ],
+   "correta": 0,
+   "explicacao": "Aniônicos (carga negativa), catiônicos (positiva), não iônicos (sem dissociação) e anfóteros (carga dupla, depende do pH)."
+  },
+  {
+   "id": "col-0006",
+   "dificuldade": 1,
+   "tema": "Tensoativos",
+   "enunciado": "Qual é a classe de tensoativos mais utilizada pela indústria em geral?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Anfóteros",
+    "Não iônicos",
+    "Todos igualmente",
+    "Catiônicos",
+    "Aniônicos"
+   ],
+   "correta": 4,
+   "explicacao": "Os aniônicos são a maior classe (sabões, detergentes, xampus). Os não iônicos são a segunda mais usada e os anfóteros, a menos usada, por seu custo."
+  },
+  {
+   "id": "col-0007",
+   "dificuldade": 1,
+   "tema": "Tensoativos",
+   "enunciado": "Qual classe de tensoativos apresenta as maiores toxicidades aquáticas?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Catiônicos",
+    "Nenhum apresenta toxicidade",
+    "Não iônicos",
+    "Aniônicos",
+    "Anfóteros"
+   ],
+   "correta": 0,
+   "explicacao": "Os catiônicos, baseados no nitrogênio quaternário, são os de maior toxicidade aquática. Também aderem fortemente às superfícies sólidas."
+  },
+  {
+   "id": "col-0008",
+   "dificuldade": 1,
+   "tema": "Tensoativos",
+   "enunciado": "Por que tensoativos aniônicos e catiônicos geralmente não são compatíveis entre si?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Por diferença de viscosidade",
+    "Por evaporação do solvente",
+    "Por hidrólise completa dos compostos",
+    "Por neutralização de cargas",
+    "Por diferença de densidade"
+   ],
+   "correta": 3,
+   "explicacao": "As cargas opostas se neutralizam e o complexo pode precipitar, perdendo a atividade superficial."
+  },
+  {
+   "id": "col-0009",
+   "dificuldade": 1,
+   "tema": "Tensoativos",
+   "enunciado": "Qual a principal característica dos tensoativos não iônicos?",
+   "tipo": "multipla",
+   "alternativas": [
+    "São afetados fortemente pelos eletrólitos",
+    "São os de maior toxicidade",
+    "Não se dissociam em água e são compatíveis com as outras classes",
+    "São sensíveis à água dura",
+    "Dissociam-se em cátions"
+   ],
+   "correta": 2,
+   "explicacao": "Têm solubilidade por grupos de alta afinidade pela água (ex.: etoxilados), são pouco sensíveis à água dura e a eletrólitos e normalmente compatíveis com todas as classes."
+  },
+  {
+   "id": "col-0010",
+   "dificuldade": 1,
+   "tema": "CMC",
+   "enunciado": "O que é a concentração micelar crítica (CMC)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "A temperatura de ebulição do tensoativo",
+    "A concentração a partir da qual o tensoativo forma micelas espontaneamente",
+    "A concentração máxima de sal na solução",
+    "A concentração mínima para dissolver o óleo",
+    "A concentração em que a tensão superficial é máxima"
+   ],
+   "correta": 1,
+   "explicacao": "Acima da CMC os monômeros se agregam em micelas, e propriedades como tensão superficial e condutividade mudam bruscamente de comportamento."
+  },
+  {
+   "id": "col-0011",
+   "dificuldade": 1,
+   "tema": "Micelas",
+   "enunciado": "Em uma micela direta, os grupos polares ficam:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Voltados para o interior, com cadeias apolares na água",
+    "Em camada dupla no ar",
+    "Apenas na superfície sólida",
+    "Voltados para a água, com as cadeias apolares no interior",
+    "Todos misturados sem orientação"
+   ],
+   "correta": 3,
+   "explicacao": "Micela direta ocorre em meio aquoso, com cabeças polares para fora e cauda apolar escondida. Micela inversa é o oposto, em meio apolar."
+  },
+  {
+   "id": "col-0012",
+   "dificuldade": 1,
+   "tema": "Micelas",
+   "enunciado": "Qual a principal função das micelas formadas por tensoativos em solução aquosa?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Reduzir a viscosidade da fase contínua",
+    "Aumentar a tensão superficial",
+    "Solubilizar compostos hidrofóbicos no seu interior",
+    "Aumentar a pressão osmótica da solução",
+    "Estabilizar emulsões óleo em água apenas em baixas temperaturas"
+   ],
+   "correta": 2,
+   "explicacao": "O núcleo apolar da micela hospeda compostos hidrofóbicos (óleo, gordura), permitindo sua dispersão em água."
+  },
+  {
+   "id": "col-0013",
+   "dificuldade": 1,
+   "tema": "Emulsões",
+   "enunciado": "Quais são os dois tipos básicos de emulsão?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Ácida e básica",
+    "Óleo em água (O/A) e água em óleo (A/O)",
+    "Sólido em líquido e gás em sólido",
+    "Líquido em gás e gás em líquido",
+    "Óleo em gás e água em gás"
+   ],
+   "correta": 1,
+   "explicacao": "Na O/A as gotas de óleo estão dispersas na água. Na A/O, gotas de água no óleo. Há também emulsões múltiplas (A/O/A e O/A/O) e a inversão de fases."
+  },
+  {
+   "id": "col-0014",
+   "dificuldade": 1,
+   "tema": "Emulsões",
+   "enunciado": "A coalescência de uma emulsão é:",
+   "tipo": "multipla",
+   "alternativas": [
+    "A subida das gotas por diferença de densidade",
+    "A reversão por cisalhamento",
+    "A fusão irreversível das gotas",
+    "A descida das gotas por diferença de densidade",
+    "A aproximação das gotas sem fusão"
+   ],
+   "correta": 2,
+   "explicacao": "Sedimentação, cremeação e floculação são reversíveis com cisalhamento. Coalescência é irreversível: as gotas se fundem."
+  },
+  {
+   "id": "col-0015",
+   "dificuldade": 1,
+   "tema": "Microemulsões",
+   "enunciado": "Como é possível diferenciar uma emulsão de uma microemulsão quanto à formação?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Apenas microemulsões podem ser usadas em farmácia",
+    "Microemulsões se formam espontaneamente, enquanto emulsões necessitam de alta energia",
+    "Emulsões requerem menos tensoativo",
+    "Emulsões possuem gotículas menores",
+    "Microemulsões são sempre opacas e emulsões são transparentes"
+   ],
+   "correta": 1,
+   "explicacao": "Microemulsões são termodinamicamente estáveis, transparentes e se formam espontaneamente. Emulsões convencionais precisam de energia e são instáveis termodinamicamente."
+  },
+  {
+   "id": "col-0016",
+   "dificuldade": 1,
+   "tema": "Nanoemulsões",
+   "enunciado": "Qual a principal diferença entre microemulsões e nanoemulsões?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Microemulsões usam menos tensoativo",
+    "Nanoemulsões são termodinamicamente estáveis e microemulsões não",
+    "Nanoemulsões são sempre opacas",
+    "Nanoemulsões possuem sempre gotas maiores",
+    "Microemulsões se formam espontaneamente; nanoemulsões precisam de alta energia"
+   ],
+   "correta": 4,
+   "explicacao": "Nanoemulsões são cineticamente estáveis, mas termodinamicamente instáveis, e exigem energia (mecânica ou química). Microemulsões são termodinamicamente estáveis."
+  },
+  {
+   "id": "col-0017",
+   "dificuldade": 1,
+   "tema": "Espumas",
+   "enunciado": "Em processos de lavagem, a espuma em excesso é:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Sinal de baixa concentração de tensoativo",
+    "Responsável pela detergência",
+    "Indesejável, pois retira tensoativo e micelas da solução",
+    "Indiferente ao sistema",
+    "Sempre desejável"
+   ],
+   "correta": 2,
+   "explicacao": "A espuma ocupa volume, extrai tensoativo da solução e reduz as micelas disponíveis, diminuindo a eficiência. Contraria o conceito popular de que espuma é igual a limpeza."
+  },
+  {
+   "id": "col-0018",
+   "dificuldade": 1,
+   "tema": "Aplicação em fluidos",
+   "enunciado": "Como tensoativos são aplicados em fluidos de perfuração?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Para aumentar a viscosidade do petróleo",
+    "Para impedir a perfuração em rochas duras",
+    "Para melhorar a eficiência do fluido na remoção das partículas sólidas da rocha",
+    "Para aumentar a corrosividade do fluido",
+    "Para impedir a formação de espuma durante a circulação"
+   ],
+   "correta": 2,
+   "explicacao": "Tensoativos molham e dispersam sólidos e óleo, facilitam a limpeza do poço e atuam na emulsificação (ex.: fluidos emulsionados)."
+  },
+  {
+   "id": "col-0019",
+   "dificuldade": 1,
+   "tema": "Recuperação avançada",
+   "enunciado": "Na injeção de tensoativos para recuperação avançada de petróleo, o principal mecanismo é:",
+   "tipo": "multipla",
+   "alternativas": [
+    "A alteração irreversível da composição do petróleo",
+    "O aumento da tensão interfacial",
+    "O aumento da viscosidade do óleo",
+    "A redução da tensão interfacial óleo–água",
+    "A formação de precipitados insolúveis"
+   ],
+   "correta": 3,
+   "explicacao": "Menor tensão interfacial reduz a pressão capilar e libera o óleo residual preso nos poros."
+  },
+  {
+   "id": "col-0020",
+   "dificuldade": 2,
+   "tema": "BHL",
+   "enunciado": "No sistema BHL, quanto menor o valor, o tensoativo é:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Mais denso",
+    "Mais viscoso",
+    "Mais hidrofílico",
+    "Mais iônico",
+    "Mais lipofílico (afinidade pelo óleo)"
+   ],
+   "correta": 4,
+   "explicacao": "BHL baixo: caráter lipofílico, favorece micelas inversas (3–6). BHL alto: hidrofílico, favorece micelas diretas (8–18)."
+  },
+  {
+   "id": "col-0021",
+   "dificuldade": 2,
+   "tema": "BHL",
+   "enunciado": "Pela equação de Berthod, BHL = H/(H+L) × 20, um tensoativo com parte hidrofílica de massa 440 e lipofílica de 560 tem BHL de:",
+   "tipo": "multipla",
+   "alternativas": [
+    "8,8",
+    "0,44",
+    "4,4",
+    "11,2",
+    "17,6"
+   ],
+   "correta": 0,
+   "explicacao": "BHL = 440/(440+560) × 20 = 0,44 × 20 = 8,8. Essa equação não é usada para tensoativos iônicos."
+  },
+  {
+   "id": "col-0022",
+   "dificuldade": 2,
+   "tema": "Adsorção",
+   "enunciado": "O que ocorre com a tensão superficial quando o tensoativo se adsorve na interface até saturá-la?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Permanece constante, sempre",
+    "Aumenta",
+    "Diminui",
+    "Torna-se negativa",
+    "Torna-se infinita"
+   ],
+   "correta": 2,
+   "explicacao": "Os tensoativos separam as moléculas de água da superfície, reduzindo a atração entre elas e a tensão superficial ou interfacial."
+  },
+  {
+   "id": "col-0023",
+   "dificuldade": 2,
+   "tema": "Adsorção",
+   "enunciado": "Quais mecanismos podem explicar a adsorção de tensoativos em sólidos, segundo o curso?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Evaporação e condensação",
+    "Fusão e solidificação",
+    "Troca iônica, ligação de hidrogênio e pareamento iônico",
+    "Apenas combustão",
+    "Fissão nuclear"
+   ],
+   "correta": 2,
+   "explicacao": "O pH, a presença de eletrólitos e a natureza da superfície e do tensoativo influenciam a adsorção."
+  },
+  {
+   "id": "col-0024",
+   "dificuldade": 2,
+   "tema": "CMC",
+   "enunciado": "O que a adição de eletrólitos faz com a CMC de um tensoativo iônico?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Não tem efeito",
+    "Elimina as micelas",
+    "Aumenta a CMC",
+    "Reduz a CMC, por diminuir a repulsão entre as cabeças polares",
+    "Faz o tensoativo virar não iônico"
+   ],
+   "correta": 3,
+   "explicacao": "Os íons blindam as cargas, diminuindo a repulsão eletrostática e a hidratação da cabeça polar, o que favorece a micelização. Em não iônicos, o efeito é pequeno."
+  },
+  {
+   "id": "col-0025",
+   "dificuldade": 2,
+   "tema": "CMC",
+   "enunciado": "Qual o efeito do aumento da cadeia hidrofóbica sobre a CMC?",
+   "tipo": "multipla",
+   "alternativas": [
+    "A CMC é igual para todos os tensoativos",
+    "A CMC diminui",
+    "A CMC torna-se infinita",
+    "A CMC aumenta",
+    "A CMC não muda"
+   ],
+   "correta": 1,
+   "explicacao": "Cadeias maiores tornam o tensoativo mais hidrofóbico, e a agregação ocorre a concentrações menores."
+  },
+  {
+   "id": "col-0026",
+   "dificuldade": 2,
+   "tema": "CMC",
+   "enunciado": "Qual o efeito do aumento da temperatura sobre a CMC de tensoativos não iônicos e iônicos?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Aumenta em ambos",
+    "Diminui em ambos",
+    "Aumenta nos não iônicos e diminui nos iônicos",
+    "Não afeta nenhum",
+    "Diminui nos não iônicos e tende a aumentar nos iônicos"
+   ],
+   "correta": 4,
+   "explicacao": "Para não iônicos a CMC tende a cair com a temperatura. Para iônicos, tende a subir."
+  },
+  {
+   "id": "col-0027",
+   "dificuldade": 2,
+   "tema": "Krafft e turbidez",
+   "enunciado": "O ponto de Krafft é:",
+   "tipo": "multipla",
+   "alternativas": [
+    "A concentração máxima de eletrólito",
+    "A temperatura a partir da qual um tensoativo iônico fica solúvel o bastante para formar micelas",
+    "O ponto de ebulição da água",
+    "A temperatura em que o tensoativo não iônico separa fases",
+    "A temperatura de congelamento do óleo"
+   ],
+   "correta": 1,
+   "explicacao": "Abaixo do Krafft o tensoativo iônico fica em forma de monômero/cristal pouco solúvel. Acima, a solubilidade sobe e micelas se formam."
+  },
+  {
+   "id": "col-0028",
+   "dificuldade": 2,
+   "tema": "Krafft e turbidez",
+   "enunciado": "O ponto de turbidez (nuvem) é característico de:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Fluidos de perfuração base óleo",
+    "Tensoativos catiônicos, que precipitam com o frio",
+    "Tensoativos anfóteros, que formam gás",
+    "Tensoativos não iônicos, que perdem solubilidade com o aumento da temperatura",
+    "Tensoativos aniônicos, que ganham solubilidade com a temperatura"
+   ],
+   "correta": 3,
+   "explicacao": "Os etoxilados se desidratam ao aquecer. Acima do ponto de nuvem separam-se em fase rica em tensoativo (coacervato) e fase diluída."
+  },
+  {
+   "id": "col-0029",
+   "dificuldade": 2,
+   "tema": "Tensoativos",
+   "enunciado": "Por que tensoativos aniônicos são sensíveis à água dura?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Cálcio e magnésio podem neutralizá-los e precipitá-los",
+    "Porque a água dura tem pH ácido forte",
+    "Porque a água dura é apolar",
+    "Porque a água dura não tem sais",
+    "Porque dissolve a cadeia hidrofóbica"
+   ],
+   "correta": 0,
+   "explicacao": "Íons Ca²⁺ e Mg²⁺ formam sais insolúveis com o tensoativo. A sensibilidade é menor nos sulfatados e sulfonados."
+  },
+  {
+   "id": "col-0030",
+   "dificuldade": 2,
+   "tema": "Tensoativos",
+   "enunciado": "Os tensoativos anfóteros se comportam como:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Sempre não iônicos",
+    "Aniônicos em pH alto e catiônicos em pH baixo",
+    "Catiônicos em pH alto e aniônicos em pH baixo",
+    "Sempre aniônicos",
+    "Neutros em qualquer pH"
+   ],
+   "correta": 1,
+   "explicacao": "Possuem caráter iônico duplo, e o pH define a carga dominante (aminoácidos, betaínas, lecitinas)."
+  },
+  {
+   "id": "col-0031",
+   "dificuldade": 2,
+   "tema": "Tensoativos",
+   "enunciado": "A inserção de 1 a 3 mols de óxido de eteno entre o grupo apolar e o aniônico:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Torna o tensoativo catiônico",
+    "Reduz a tolerância à água dura",
+    "Aumenta a tolerância à água dura e a eletrólitos, e o poder espumante",
+    "Elimina a espuma",
+    "Reduz a solubilidade em água a zero"
+   ],
+   "correta": 2,
+   "explicacao": "Tensoativos aniônicos etoxilados (éter sulfatos) resistem melhor à água dura e formam espuma mais estável."
+  },
+  {
+   "id": "col-0032",
+   "dificuldade": 2,
+   "tema": "Emulsões",
+   "enunciado": "Qual a desestabilização comum em emulsões O/A, causada pela menor densidade do óleo?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Sedimentação",
+    "Cremeação",
+    "Coalescência",
+    "Inversão de fases apenas",
+    "Floculação"
+   ],
+   "correta": 1,
+   "explicacao": "Na O/A, o óleo menos denso sobe (cremeação). Na A/O, a água mais densa desce (sedimentação)."
+  },
+  {
+   "id": "col-0033",
+   "dificuldade": 2,
+   "tema": "Microemulsões",
+   "enunciado": "No sistema de Winsor, o tipo WIII é:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Microemulsão A/O com água em excesso",
+    "Sistema monofásico de microemulsão",
+    "Microemulsão O/A com óleo em excesso",
+    "Sistema trifásico: microemulsão em equilíbrio com fase oleosa e fase aquosa",
+    "Emulsão simples instável"
+   ],
+   "correta": 3,
+   "explicacao": "WI: O/A + óleo em excesso. WII: A/O + água em excesso. WIII: três fases. WIV: monofásico."
+  },
+  {
+   "id": "col-0034",
+   "dificuldade": 2,
+   "tema": "Microemulsões",
+   "enunciado": "Qual a função do cotensoativo (geralmente um álcool) em microemulsões?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Eliminar a fase óleo",
+    "Precipitar o tensoativo",
+    "Reduzir forças coulombianas entre cabeças polares e a tensão interfacial, estabilizando o sistema",
+    "Aumentar a tensão interfacial",
+    "Aumentar a viscosidade da água"
+   ],
+   "correta": 2,
+   "explicacao": "O cotensoativo, parcialmente solúvel em água e óleo, melhora a flexibilidade do filme interfacial."
+  },
+  {
+   "id": "col-0035",
+   "dificuldade": 2,
+   "tema": "Espumas",
+   "enunciado": "O que determina a estabilidade de uma espuma?",
+   "tipo": "multipla",
+   "alternativas": [
+    "A quantidade de óleo na bolha",
+    "A densidade do gás apenas",
+    "A espessura inicial do filme e a capacidade do tensoativo de evitar a drenagem da água do filme",
+    "A cor do tensoativo",
+    "A temperatura do ambiente apenas"
+   ],
+   "correta": 2,
+   "explicacao": "Se o filme afina demais por drenagem, a bolha estoura. O tensoativo retarda esse escorrimento."
+  },
+  {
+   "id": "col-0036",
+   "dificuldade": 2,
+   "tema": "Molhabilidade",
+   "enunciado": "Um líquido com tensão superficial menor tende a:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Evaporar instantaneamente",
+    "Formar gotas esféricas com ângulo maior",
+    "Espalhar-se mais sobre a superfície, com menor ângulo de contato",
+    "Aumentar sua densidade",
+    "Não molhar nada"
+   ],
+   "correta": 2,
+   "explicacao": "Líquidos de alta tensão superficial formam gotas. Os de baixa tensão se espalham em forma de lente, com ângulo de contato menor."
+  },
+  {
+   "id": "col-0037",
+   "dificuldade": 2,
+   "tema": "Molhabilidade",
+   "enunciado": "Qual a diferença entre molhabilidade e umectação?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Molhabilidade só ocorre em óleo",
+    "São fenômenos opostos",
+    "Umectação só ocorre em água salgada",
+    "Molhabilidade é de gases e umectação é de sólidos",
+    "São o mesmo fenômeno em aplicações diferentes; umectação refere-se a superfícies complexas, em que a capilaridade importa"
+   ],
+   "correta": 4,
+   "explicacao": "Umectação é o molhamento de materiais porosos ou fibrosos, como tecidos, em que a redução da tensão superficial favorece a penetração por capilaridade."
+  },
+  {
+   "id": "col-0038",
+   "dificuldade": 2,
+   "tema": "Detergência",
+   "enunciado": "Qual a função do tensoativo aniônico na detergência após remover a sujeira oleosa?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Evaporar a sujeira",
+    "Neutralizar a água dura",
+    "Aumentar a tensão interfacial para soltar a sujeira",
+    "Formar espuma persistente em qualquer caso",
+    "Estabilizar a emulsão da sujeira e evitar redeposição sobre a superfície limpa"
+   ],
+   "correta": 4,
+   "explicacao": "A carga negativa nas gotículas e na superfície limpa gera repulsão, impedindo a redeposição."
+  },
+  {
+   "id": "col-0039",
+   "dificuldade": 2,
+   "tema": "Detergência",
+   "enunciado": "O mecanismo de detergência dos tensoativos baseia-se em:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Adsorção irreversível do tensoativo na sujeira",
+    "Aumento da tensão superficial da água",
+    "Interação anfifílica que solubiliza substâncias hidrofóbicas",
+    "Formação de precipitados insolúveis",
+    "Formação de micelas que aprisionam partículas sólidas"
+   ],
+   "correta": 2,
+   "explicacao": "A cadeia apolar se liga à sujeira oleosa e o grupo polar à água, que a arrasta. O núcleo da micela solubiliza a fração hidrofóbica."
+  },
+  {
+   "id": "col-0040",
+   "dificuldade": 2,
+   "tema": "Espumas EOR",
+   "enunciado": "Na injeção de espuma em reservatórios maduros para recuperação avançada, qual afirmação é verdadeira?",
+   "tipo": "multipla",
+   "alternativas": [
+    "As propriedades interfaciais não importam para a estabilidade da espuma",
+    "A espuma é formada pela dispersão de líquido em bolhas finas",
+    "A espuma não afeta a mobilidade do gás",
+    "A seleção adequada de tensoativos é crucial para garantir a estabilidade da espuma e o sucesso da aplicação",
+    "A espuma é uma dispersão de líquido em gás"
+   ],
+   "correta": 3,
+   "explicacao": "Na EOR, espuma é gás disperso em líquido com tensoativo. Ela reduz a mobilidade do gás, bloqueia caminhos preferenciais e melhora a varredura, e depende da estabilidade proporcionada pelo tensoativo."
+  },
+  {
+   "id": "col-0041",
+   "dificuldade": 2,
+   "tema": "Micelas",
+   "enunciado": "Em soluções de tensoativos acima da CMC, observa-se:",
+   "tipo": "multipla",
+   "alternativas": [
+    "A formação espontânea de micelas estáveis",
+    "Redução significativa da solubilidade de compostos apolares",
+    "Ausência de monômeros",
+    "Aumento contínuo da tensão superficial com a concentração",
+    "Instabilidade imediata da fase coloidal"
+   ],
+   "correta": 0,
+   "explicacao": "Acima da CMC, a tensão superficial praticamente deixa de cair e o excesso de tensoativo forma micelas, que aumentam a solubilização de apolares."
+  },
+  {
+   "id": "col-0042",
+   "dificuldade": 2,
+   "tema": "Micelas",
+   "enunciado": "Quais tipos de estruturas auto-organizadas podem se formar com tensoativos?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Apenas gotas de gás",
+    "Apenas cristais cúbicos",
+    "Somente polímeros lineares",
+    "Nenhuma, o tensoativo nunca se organiza",
+    "Micelas esféricas e cilíndricas, bicamadas, estruturas bicontínuas, micelas inversas e vesículas"
+   ],
+   "correta": 4,
+   "explicacao": "A geometria depende da concentração, da estrutura do tensoativo e do meio."
+  },
+  {
+   "id": "col-0043",
+   "dificuldade": 2,
+   "tema": "Nanoemulsões",
+   "enunciado": "Qual o principal mecanismo de desestabilização de uma nanoemulsão?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Formação de micelas inversas",
+    "Cremeação rápida por gravidade",
+    "Floculação sem coalescência",
+    "Maturação de Ostwald: gotas menores se dissolvem e alimentam as maiores",
+    "Sedimentação por gravidade"
+   ],
+   "correta": 3,
+   "explicacao": "Pela pressão de Laplace, as gotas menores se dissolvem e o material migra por difusão para as maiores. Gotas pequenas quase não sofrem o efeito da gravidade."
+  },
+  {
+   "id": "col-0044",
+   "dificuldade": 2,
+   "tema": "Nanoemulsões",
+   "enunciado": "Qual a faixa de tensoativo necessária para formar nanoemulsões em comparação com microemulsões?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Nanoemulsões, cerca de 3 a 10%; microemulsões, 20% ou mais",
+    "Nanoemulsões não usam tensoativo",
+    "Nanoemulsões, 50% ou mais; microemulsões, 3%",
+    "Ambos exigem exatamente 1%",
+    "Microemulsões não usam tensoativo"
+   ],
+   "correta": 0,
+   "explicacao": "É uma das vantagens das nanoemulsões: usam menos tensoativo, embora exijam energia."
+  },
+  {
+   "id": "col-0045",
+   "dificuldade": 2,
+   "tema": "Nanoemulsões",
+   "enunciado": "O que caracteriza o método PIT (Phase Inversion Temperature) de baixa energia?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Adiciona-se água gota a gota a temperatura constante",
+    "Usa-se ultrassom de alta potência",
+    "Usa-se homogeneizador de alta pressão",
+    "Não há mudança de temperatura",
+    "Muda-se a temperatura mantendo a composição, causando inversão de fases e gotículas menores"
+   ],
+   "correta": 4,
+   "explicacao": "O PIT é conhecido para tensoativos não iônicos. O EIP (ponto de inversão de emulsão) mantém a temperatura e adiciona água lentamente."
+  },
+  {
+   "id": "col-0046",
+   "dificuldade": 2,
+   "tema": "Nanoemulsões",
+   "enunciado": "Qual a desvantagem dos métodos de alta energia (homogeneizador de alta pressão, ultrassom) na obtenção de nanoemulsões?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Exigem muita energia e/ou tensoativo para obter gotas cada vez menores, o que é desfavorável industrialmente",
+    "Não funcionam com óleo",
+    "Produzem gotas sempre grandes",
+    "Só funcionam com gás",
+    "Dispensam energia"
+   ],
+   "correta": 0,
+   "explicacao": "Quanto menor a gota desejada, maior a energia, o que motiva os métodos de baixa energia."
+  },
+  {
+   "id": "col-0047",
+   "dificuldade": 2,
+   "tema": "Microemulsões",
+   "enunciado": "Qual a faixa típica de tamanho das gotículas em microemulsões, segundo as definições do curso?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Da ordem de 6 a 100 nm",
+    "Da ordem de 100 a 500 µm",
+    "Acima de 1 µm",
+    "Da ordem de 1 a 10 mm",
+    "Da ordem de 0,1 a 1 mm"
+   ],
+   "correta": 0,
+   "explicacao": "São sistemas transparentes ou translúcidos, isotrópicos e termodinamicamente estáveis."
+  },
+  {
+   "id": "col-0048",
+   "dificuldade": 2,
+   "tema": "Diagramas",
+   "enunciado": "Para que servem os diagramas de fases ternários e pseudoternários?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Calcular a vazão da bomba",
+    "Medir a densidade do fluido",
+    "Determinar a pressão de poros",
+    "Medir a salinidade do reservatório",
+    "Mostrar a região de microemulsão em função da composição (água, óleo, tensoativo, com razão C/T fixa)"
+   ],
+   "correta": 4,
+   "explicacao": "Ternário: três componentes (usado em não iônicos). Quaternário: tetraedro. Pseudoternário: dois componentes agrupados (ex.: cotensoativo/tensoativo fixo)."
+  },
+  {
+   "id": "col-0049",
+   "dificuldade": 3,
+   "tema": "Winsor",
+   "enunciado": "O aumento da salinidade em um sistema com tensoativo iônico tende a provocar qual transição de Winsor?",
+   "tipo": "multipla",
+   "alternativas": [
+    "WI → WII diretamente, sem fase intermediária",
+    "WI → WIII → WII",
+    "Nenhuma transição",
+    "WII → WIII → WI",
+    "WIV → WI"
+   ],
+   "correta": 1,
+   "explicacao": "O sal reduz a afinidade do tensoativo iônico pela água e aumenta a pela fase oleosa. O sistema passa de O/A (WI) para trifásico (WIII) e para A/O (WII). Não iônicos são pouco sensíveis à salinidade."
+  },
+  {
+   "id": "col-0050",
+   "dificuldade": 3,
+   "tema": "Winsor",
+   "enunciado": "O aumento da temperatura, em tensoativos não iônicos etoxilados, tende a produzir a transição:",
+   "tipo": "multipla",
+   "alternativas": [
+    "WIII → WIV apenas",
+    "WI → WIII → WII",
+    "WIV → WII",
+    "Nenhuma transição",
+    "WII → WIII → WI"
+   ],
+   "correta": 4,
+   "explicacao": "A temperatura aumenta a hidrofilia aparente do tensoativo, o que desloca o sistema de A/O para O/A. Essa lógica vale para sistemas como os citados no curso."
+  },
+  {
+   "id": "col-0051",
+   "dificuldade": 3,
+   "tema": "Microemulsões",
+   "enunciado": "Qual tensoativo favorece a formação de microemulsões A/O?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Nenhum, pois A/O não existe",
+    "Apenas gases",
+    "Qualquer tensoativo iônico sem cotensoativo",
+    "Tensoativo hidrofílico (BHL alto)",
+    "Tensoativo hidrofóbico (BHL baixo)"
+   ],
+   "correta": 4,
+   "explicacao": "Microemulsão A/O usa tensoativo hidrofóbico e microemulsão O/A, tensoativo hidrofílico."
+  },
+  {
+   "id": "col-0052",
+   "dificuldade": 3,
+   "tema": "Microemulsões",
+   "enunciado": "Como o comprimento da cadeia do álcool cotensoativo afeta a região de microemulsão?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Não há relação",
+    "A região é infinita",
+    "Quanto maior a cadeia, maior a região",
+    "A região desaparece com álcoois curtos",
+    "Quanto maior a cadeia, menor a região de microemulsão"
+   ],
+   "correta": 4,
+   "explicacao": "Cadeias menores favorecem o posicionamento junto ao filme interfacial e ampliam a região monofásica. O mesmo vale para alcanos curtos na fase óleo."
+  },
+  {
+   "id": "col-0053",
+   "dificuldade": 3,
+   "tema": "Emulsões e fluidos",
+   "enunciado": "Qual característica um tensoativo deve ter para aumentar a durabilidade de uma emulsão?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Ser solúvel na fase contínua (maior quantidade) e ter pouca afinidade pela fase dispersa",
+    "Ser solúvel apenas na fase dispersa",
+    "Ser insolúvel em ambas as fases",
+    "Ter afinidade total pela fase dispersa",
+    "Não ter grupo polar"
+   ],
+   "correta": 0,
+   "explicacao": "É a regra de Bancroft: a fase em que o emulsificante é mais solúvel tende a ser a contínua. Emulsionante hidrofílico: O/A. Lipofílico: A/O."
+  },
+  {
+   "id": "col-0054",
+   "dificuldade": 3,
+   "tema": "Emulsões e fluidos",
+   "enunciado": "Um fluido de perfuração emulsionado (invertido) é uma emulsão A/O. Qual BHL de emulsificante favorece essa estrutura?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Qualquer BHL",
+    "BHL baixo (cerca de 3 a 6)",
+    "BHL alto (cerca de 15 a 18)",
+    "BHL igual a 20",
+    "BHL igual a 0"
+   ],
+   "correta": 1,
+   "explicacao": "Emulsificantes A/O são lipofílicos, de BHL baixo. Faixas altas (8–18) favorecem emulsões O/A e micelas diretas."
+  },
+  {
+   "id": "col-0055",
+   "dificuldade": 3,
+   "tema": "Espumas",
+   "enunciado": "Em fluido de perfuração aquoso, a formação indesejada de espuma por agitação de tensoativos tende a:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Reduzir o filtrado a zero",
+    "Eliminar a necessidade de bomba",
+    "Aumentar a densidade do fluido",
+    "Reduzir a eficiência do sistema, ocupar volume nos tanques e prejudicar a medição de densidade",
+    "Melhorar o controle de poço"
+   ],
+   "correta": 3,
+   "explicacao": "Espuma é uma fase com ar, o que reduz a densidade aparente, atrapalha a bomba e a leitura de volume e peso. Costuma-se controlar com antiespumante."
+  },
+  {
+   "id": "col-0056",
+   "dificuldade": 3,
+   "tema": "CMC",
+   "enunciado": "Em um tensoativo iônico com carga do grupo polar maior (por exemplo, di-aniônico), a CMC tende a:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Ser igual à de um não iônico",
+    "Diminuir sempre",
+    "Não ser definida",
+    "Ser sempre zero",
+    "Aumentar, por maior repulsão eletrostática entre as cabeças"
+   ],
+   "correta": 4,
+   "explicacao": "Se a repulsão hidrofílica é maior que a atração hidrofóbica, as moléculas se agregam com dificuldade e a CMC é alta."
+  },
+  {
+   "id": "col-0057",
+   "dificuldade": 1,
+   "tema": "Emulsões",
+   "enunciado": "Uma emulsão A/O tem gotas de água dispersas no óleo.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "Verdadeiro. A fase contínua é o óleo, como nos fluidos de perfuração base óleo invertidos."
+  },
+  {
+   "id": "col-0058",
+   "dificuldade": 2,
+   "tema": "Tensoativos",
+   "enunciado": "A solubilidade da maioria dos tensoativos não iônicos etoxilados aumenta com o aumento da temperatura.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 1,
+   "explicacao": "Falso. Para a maioria dos etoxilados, a solubilidade em água diminui com a temperatura, e acima do ponto de nuvem a solução turva."
+  },
+  {
+   "id": "col-0059",
+   "dificuldade": 2,
+   "tema": "Micelas",
+   "enunciado": "Abaixo da CMC, o tensoativo se encontra principalmente na forma de monômeros.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "Verdadeiro. Acima da CMC há equilíbrio dinâmico entre monômeros e micelas."
+  },
+  {
+   "id": "col-0060",
+   "dificuldade": 2,
+   "tema": "Nanoemulsões",
+   "enunciado": "As nanoemulsões são termodinamicamente estáveis, como as microemulsões.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 1,
+   "explicacao": "Falso. Elas têm estabilidade cinética, mas são termodinamicamente instáveis."
+  },
+  {
+   "id": "col-0061",
+   "dificuldade": 3,
+   "tema": "CMC",
+   "enunciado": "Em tensoativos não iônicos, a adição de eletrólitos altera fortemente o valor da CMC.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 1,
+   "explicacao": "Falso. A influência de eletrólitos sobre a CMC é grande nos iônicos e pequena nos não iônicos."
+  },
+  {
+   "id": "col-0062",
+   "dificuldade": 2,
+   "tema": "Tensoativos",
+   "enunciado": "Assinale a INCORRETA sobre tensoativos catiônicos:",
+   "tipo": "incorreta",
+   "alternativas": [
+    "Têm as maiores toxicidades aquáticas",
+    "Aderem bem a superfícies sólidas",
+    "São compatíveis com aniônicos, sem neutralização de cargas",
+    "Baseiam-se no nitrogênio quaternário",
+    "São influenciados por eletrólitos e pH"
+   ],
+   "correta": 2,
+   "explicacao": "Os catiônicos geralmente não são compatíveis com aniônicos, em razão da neutralização de cargas."
+  },
+  {
+   "id": "col-0063",
+   "dificuldade": 3,
+   "tema": "Micelas e CMC",
+   "enunciado": "Assinale a INCORRETA sobre CMC:",
+   "tipo": "incorreta",
+   "alternativas": [
+    "Cada tensoativo tem uma CMC característica",
+    "Propriedades físicas mudam bruscamente na CMC",
+    "A temperatura afeta a CMC de formas diferentes em iônicos e não iônicos",
+    "Cadeia hidrofóbica maior reduz a CMC",
+    "Para tensoativos iônicos, a CMC aumenta com a adição de sal"
+   ],
+   "correta": 4,
+   "explicacao": "Em iônicos, o sal reduz a repulsão entre as cabeças e a CMC diminui."
+  },
+  {
+   "id": "col-0064",
+   "dificuldade": 2,
+   "tema": "Tensoativos",
+   "enunciado": "Sobre as classes de tensoativos, analise as afirmativas:",
+   "tipo": "combinacao",
+   "afirmativas": [
+    "I. Tensoativos aniônicos são a maior classe usada na indústria.",
+    "II. Tensoativos não iônicos são pouco sensíveis à água dura.",
+    "III. Tensoativos anfóteros são a classe mais barata e mais usada."
+   ],
+   "alternativas": [
+    "Apenas I",
+    "Apenas I e II",
+    "Apenas II e III",
+    "Apenas I e III",
+    "I, II e III"
+   ],
+   "correta": 1,
+   "explicacao": "I e II corretas. III falsa: anfóteros são os menos usados por causa do alto custo."
+  },
+  {
+   "id": "col-0065",
+   "dificuldade": 3,
+   "tema": "Emulsões e micro",
+   "enunciado": "Sobre emulsões, micro e nanoemulsões, analise as afirmativas:",
+   "tipo": "combinacao",
+   "afirmativas": [
+    "I. Microemulsões são transparentes e termodinamicamente estáveis.",
+    "II. Nanoemulsões exigem fornecimento de energia para se formar.",
+    "III. Microemulsões se desestabilizam por maturação de Ostwald como principal mecanismo."
+   ],
+   "alternativas": [
+    "Apenas I",
+    "Apenas I e II",
+    "Apenas II e III",
+    "Apenas I e III",
+    "I, II e III"
+   ],
+   "correta": 1,
+   "explicacao": "I e II corretas. III é falsa: a maturação de Ostwald é típica de nanoemulsões, e microemulsões são termodinamicamente estáveis."
+  }
+ ],
+ "flashcards": [
+  {
+   "id": "col-f001",
+   "frente": "Tensoativo",
+   "verso": "Molécula anfifílica: grupo polar (hidrofílico) + cadeia hidrocarbônica (hidrofóbica). Adsorve em interfaces e reduz a tensão."
+  },
+  {
+   "id": "col-f002",
+   "frente": "Regra de solubilidade",
+   "verso": "Polar dissolve polar; apolar dissolve apolar."
+  },
+  {
+   "id": "col-f003",
+   "frente": "Tensão superficial × interfacial",
+   "verso": "Superficial: líquido–ar. Interfacial: entre dois líquidos imiscíveis. Ambas caem com a adsorção do tensoativo."
+  },
+  {
+   "id": "col-f004",
+   "frente": "Molhabilidade × umectação",
+   "verso": "Mesmo fenômeno. Baixa tensão superficial = menor ângulo de contato = mais espalhamento. Umectação: materiais porosos/fibrosos (capilaridade)."
+  },
+  {
+   "id": "col-f005",
+   "frente": "Aniônicos",
+   "verso": "Maior classe. Sensíveis à água dura (Ca²⁺, Mg²⁺) e a eletrólitos. Incompatíveis com catiônicos."
+  },
+  {
+   "id": "col-f006",
+   "frente": "Catiônicos",
+   "verso": "Nitrogênio quaternário. Maior toxicidade aquática, aderem fortemente a sólidos. Incompatíveis com aniônicos."
+  },
+  {
+   "id": "col-f007",
+   "frente": "Não iônicos",
+   "verso": "Não se dissociam. Pouco sensíveis à água dura e a eletrólitos; compatíveis com todos. Solubilidade cai com a temperatura."
+  },
+  {
+   "id": "col-f008",
+   "frente": "Anfóteros",
+   "verso": "Aniônicos em pH alto, catiônicos em pH baixo. Menos usados, por custo (betaínas, aminoácidos, lecitinas)."
+  },
+  {
+   "id": "col-f009",
+   "frente": "Óxido de eteno (1–3 mols)",
+   "verso": "Em aniônicos, aumenta tolerância à água dura/eletrólitos e o poder espumante."
+  },
+  {
+   "id": "col-f010",
+   "frente": "BHL (Griffin)",
+   "verso": "Baixo = lipofílico (3–6: micelas inversas / A/O). Alto = hidrofílico (8–18: micelas diretas / O/A)."
+  },
+  {
+   "id": "col-f011",
+   "frente": "BHL de Berthod",
+   "verso": "BHL = H / (H + L) × 20 (massas hidrofílica e lipofílica). Não vale para iônicos."
+  },
+  {
+   "id": "col-f012",
+   "frente": "Adsorção em sólidos",
+   "verso": "Troca iônica, ligação de hidrogênio e pareamento iônico. Depende de pH, eletrólitos e da superfície."
+  },
+  {
+   "id": "col-f013",
+   "frente": "CMC",
+   "verso": "Concentração micelar crítica: acima dela, micelas se formam espontaneamente. Propriedades mudam bruscamente."
+  },
+  {
+   "id": "col-f014",
+   "frente": "Fatores da CMC",
+   "verso": "Cadeia hidrofóbica maior → CMC menor. Eletrólitos reduzem a CMC dos iônicos. Temperatura: ↓ nos não iônicos, ↑ nos iônicos."
+  },
+  {
+   "id": "col-f015",
+   "frente": "Micela direta × inversa",
+   "verso": "Direta: cabeças polares para a água, caudas no núcleo. Inversa: em meio apolar, cabeças no interior."
+  },
+  {
+   "id": "col-f016",
+   "frente": "Ponto de Krafft",
+   "verso": "Temperatura mínima para um tensoativo iônico formar micelas (solubilidade ≥ CMC)."
+  },
+  {
+   "id": "col-f017",
+   "frente": "Ponto de turbidez (nuvem)",
+   "verso": "Em não iônicos, temperatura acima da qual separa em fase rica (coacervato) e diluída."
+  },
+  {
+   "id": "col-f018",
+   "frente": "Emulsão",
+   "verso": "Dois líquidos imiscíveis dispersos. O/A, A/O ou múltiplas (A/O/A, O/A/O). Instável termodinamicamente."
+  },
+  {
+   "id": "col-f019",
+   "frente": "Desestabilização de emulsões",
+   "verso": "Sedimentação (A/O), cremeação (O/A), floculação: reversíveis. Coalescência: irreversível."
+  },
+  {
+   "id": "col-f020",
+   "frente": "Microemulsão",
+   "verso": "Termodinamicamente estável, transparente, isotrópica, gotas ~6–100 nm. Forma-se espontaneamente (~20% ou mais de tensoativo)."
+  },
+  {
+   "id": "col-f021",
+   "frente": "Nanoemulsão",
+   "verso": "Gotas ~20–200 nm. Cineticamente estável, termodinamicamente instável. Exige energia. Usa ~3–10% de tensoativo."
+  },
+  {
+   "id": "col-f022",
+   "frente": "Maturação de Ostwald",
+   "verso": "Gotas menores se dissolvem (pressão de Laplace) e alimentam as maiores. Principal desestabilização de nanoemulsões."
+  },
+  {
+   "id": "col-f023",
+   "frente": "Métodos de nanoemulsão",
+   "verso": "Alta energia (alta pressão, ultrassom). Baixa energia: PIT (muda temperatura), EIP (adiciona água gota a gota) e emulsificação espontânea."
+  },
+  {
+   "id": "col-f024",
+   "frente": "Sistemas de Winsor",
+   "verso": "WI: O/A + óleo em excesso. WII: A/O + água em excesso. WIII: três fases. WIV: monofásico."
+  },
+  {
+   "id": "col-f025",
+   "frente": "Salinidade nos Winsor",
+   "verso": "Aumenta: WI → WIII → WII (tensoativos iônicos)."
+  },
+  {
+   "id": "col-f026",
+   "frente": "Temperatura nos Winsor",
+   "verso": "Aumenta: WII → WIII → WI (não iônicos)."
+  },
+  {
+   "id": "col-f027",
+   "frente": "Cotensoativo",
+   "verso": "Álcool, amina ou ácido. Reduz repulsão entre cabeças e tensão interfacial. Cadeia maior → região de microemulsão menor."
+  },
+  {
+   "id": "col-f028",
+   "frente": "Diagramas de fase",
+   "verso": "Ternário (água, óleo, tensoativo), quaternário (tetraedro) e pseudoternário (razão C/T fixa)."
+  },
+  {
+   "id": "col-f029",
+   "frente": "Detergência",
+   "verso": "O tensoativo solubiliza a sujeira oleosa. Aniônico estabiliza a emulsão e evita redeposição."
+  },
+  {
+   "id": "col-f030",
+   "frente": "Espuma",
+   "verso": "Gás disperso em líquido estabilizado por tensoativo. Em excesso, retira tensoativo/micelas e reduz a eficiência."
+  },
+  {
+   "id": "col-f031",
+   "frente": "Estabilidade da espuma",
+   "verso": "Depende da espessura do filme e de evitar a drenagem da água do filme."
+  },
+  {
+   "id": "col-f032",
+   "frente": "Tensoativos em fluidos de perfuração",
+   "verso": "Melhoram a remoção de sólidos, molham/dispersam e emulsificam. Emulsificante A/O: BHL baixo."
+  },
+  {
+   "id": "col-f033",
+   "frente": "Tensoativos na EOR",
+   "verso": "Reduzem a tensão interfacial óleo–água e liberam o óleo residual. Espuma reduz a mobilidade do gás e melhora a varredura."
+  }
+ ]
+}

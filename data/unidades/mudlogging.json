@@ -1,0 +1,1470 @@
+{
+ "id": "mudlogging",
+ "perguntas": [
+  {
+   "id": "ml-0001",
+   "dificuldade": 1,
+   "tema": "Mud logging",
+   "enunciado": "Qual combinação de parâmetros fornece a evidência mais robusta para identificar precocemente um kick?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Torque e ROP",
+    "WOB e RPM",
+    "Profundidade e SPM",
+    "RPM e hook load",
+    "Gás total, ganho de volume nos tanques e aumento do flowout"
+   ],
+   "correta": 4,
+   "explicacao": "Kick se confirma pela combinação: ganho de volume nos tanques, aumento do fluxo de retorno (flowout) sem aumento de vazão da bomba e gás total elevado. Parâmetros mecânicos isolados não indicam influxo."
+  },
+  {
+   "id": "ml-0002",
+   "dificuldade": 1,
+   "tema": "Sensores",
+   "enunciado": "Qual sensor monitora a concentração de gás tóxico durante a perfuração e fica na saída da flowline e nas peneiras?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Sensor de SPM, digital",
+    "Sensor de RPM, analógico",
+    "Sensor de H2S, de funcionamento analógico",
+    "Sensor de torque, digital",
+    "Sensor de nível, digital"
+   ],
+   "correta": 2,
+   "explicacao": "O sensor de H2S é analógico (sinal 4–20 mA) e é instalado nas peneiras, na plataforma e nas unidades, para medir a concentração do possível gás tóxico que venha do poço."
+  },
+  {
+   "id": "ml-0003",
+   "dificuldade": 1,
+   "tema": "Sensores",
+   "enunciado": "Qual a faixa de sinal típica de um sensor analógico em campo?",
+   "tipo": "multipla",
+   "alternativas": [
+    "4 a 20 mA",
+    "0 a 1 mA",
+    "1 a 3 mA",
+    "0 a 100 mA",
+    "20 a 40 mA"
+   ],
+   "correta": 0,
+   "explicacao": "Sensores analógicos convertem a grandeza física em sinal elétrico linear de 4–20 mA. Sensores digitais de proximidade (NAMUR) detectam apenas dois estados (~1 mA e ~3 mA)."
+  },
+  {
+   "id": "ml-0004",
+   "dificuldade": 1,
+   "tema": "Sensores",
+   "enunciado": "Os sensores de SPM e de RPM são tipicamente:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Analógicos de pressão",
+    "Ultrassônicos de volume",
+    "Analógicos de nível",
+    "Encoders absolutos de profundidade",
+    "Digitais (de proximidade, dois estados)"
+   ],
+   "correta": 4,
+   "explicacao": "Sensores digitais de proximidade (interface NAMUR) detectam dois estados e servem para contar cursos de pistão (SPM) e voltas (RPM). Pressão, peso, profundidade, torque, nível e fluxo de saída são analógicos."
+  },
+  {
+   "id": "ml-0005",
+   "dificuldade": 1,
+   "tema": "Sensores",
+   "enunciado": "O sensor de pressão instalado no sistema de circulação indica a:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Pressão de poros",
+    "Pressão atmosférica no tanque",
+    "Pressão no fundo do poço, medida diretamente",
+    "Pressão de fratura",
+    "Pressão de bombeio (stand pipe pressure, SPP)"
+   ],
+   "correta": 4,
+   "explicacao": "O sensor mede a pressão de bombeio (SPP). Queda pode indicar furo na coluna (washout), avaria nos jatos ou perda de desempenho das bombas."
+  },
+  {
+   "id": "ml-0006",
+   "dificuldade": 1,
+   "tema": "Sensores",
+   "enunciado": "O que o sensor de nível nos tanques de lama pode indicar?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Kick (ganho) ou perda de circulação (queda)",
+    "Desgaste da broca",
+    "Washout na coluna",
+    "Falha da bomba triplex",
+    "Prisão da coluna por diferencial"
+   ],
+   "correta": 0,
+   "explicacao": "O volume dos tanques ativos e do trip tank sobe num kick e cai numa perda de circulação."
+  },
+  {
+   "id": "ml-0007",
+   "dificuldade": 1,
+   "tema": "Sensores",
+   "enunciado": "Onde fica instalado o sensor de peso (hook load)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "No tambor do guincho",
+    "Na linha de saída da flowline",
+    "No kelly",
+    "No cabo morto (cabo estático) do sistema de sustentação de cargas",
+    "No gas trap"
+   ],
+   "correta": 3,
+   "explicacao": "O hook load mede a tensão no cabo morto. Identifica se a coluna está acunhada, sinaliza drag e rompimento de coluna."
+  },
+  {
+   "id": "ml-0008",
+   "dificuldade": 1,
+   "tema": "Sensores",
+   "enunciado": "O sensor de profundidade (encoder) é instalado:",
+   "tipo": "multipla",
+   "alternativas": [
+    "No tanque ativo",
+    "No cabo morto",
+    "No tambor do guincho, medindo o movimento da catarina",
+    "Na saída da flowline",
+    "Na linha de sucção da bomba"
+   ],
+   "correta": 2,
+   "explicacao": "O encoder no tambor do guincho acompanha o movimento da catarina. Combinado com outros fatores, resulta em profundidade da broca (bit depth) e do poço (hole depth)."
+  },
+  {
+   "id": "ml-0009",
+   "dificuldade": 1,
+   "tema": "Sensores",
+   "enunciado": "O que um aumento do RPM não acompanhado de avanço, ou irregularidade de rotação, pode indicar, segundo o curso?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Perda total de circulação",
+    "Aumento da pressão de poros",
+    "Possível desgaste da broca",
+    "Contaminação do fluido por cimento",
+    "Kick de gás"
+   ],
+   "correta": 2,
+   "explicacao": "O sensor de RPM indica a rotação da coluna e, com os demais parâmetros, possível desgaste da broca."
+  },
+  {
+   "id": "ml-0010",
+   "dificuldade": 1,
+   "tema": "H2S",
+   "enunciado": "O sulfeto de hidrogênio (H2S) é um gás tóxico e mais denso que o ar.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "Verdadeiro. É incolor, de cheiro característico, extremamente tóxico, inflamável (autoignição a 260 °C, limite inferior de explosividade ≈ 4,3% no ar) e mais denso que o ar."
+  },
+  {
+   "id": "ml-0011",
+   "dificuldade": 1,
+   "tema": "H2S",
+   "enunciado": "Qual a recomendação para calibrar o sensor de H2S?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Calibrar apenas com ar ambiente",
+    "Usar o gás natural do cromatógrafo",
+    "Calibrar dentro da unidade de mud logging, fechada",
+    "Calibrar com a bomba em operação, perto da peneira",
+    "Usar cilindro com o gás, em local aberto e com máscara de proteção"
+   ],
+   "correta": 4,
+   "explicacao": "A calibração do sensor de H2S usa cilindros contendo o gás, deve ser feita em local aberto e com máscaras apropriadas."
+  },
+  {
+   "id": "ml-0012",
+   "dificuldade": 1,
+   "tema": "Gás",
+   "enunciado": "Qual equipamento agita o fluido de retorno para extrair o gás que será analisado?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Trip tank",
+    "Hook load",
+    "Choke manifold",
+    "Encoder",
+    "Gas trap"
+   ],
+   "correta": 4,
+   "explicacao": "O gas trap (agitador do fluido) extrai o gás do fluido de retorno, que segue por uma linha até o detector de gás total e o cromatógrafo."
+  },
+  {
+   "id": "ml-0013",
+   "dificuldade": 1,
+   "tema": "Gás",
+   "enunciado": "Qual detector é usado para o registro contínuo de gás total, com chama ionizada (FID)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Encoder incremental",
+    "Detector de gás total (DGT)",
+    "Sensor NAMUR",
+    "Sensor de pressão",
+    "Sensor de fluxo de saída"
+   ],
+   "correta": 1,
+   "explicacao": "O DGT usa chama ionizada (FID) e analisa um fluxo contínuo de gás e ar retirados do gas trap. O cromatógrafo separa os componentes de hidrocarbonetos."
+  },
+  {
+   "id": "ml-0014",
+   "dificuldade": 1,
+   "tema": "Gás",
+   "enunciado": "Quais componentes o cromatógrafo do mud logging detecta?",
+   "tipo": "multipla",
+   "alternativas": [
+    "CO2, N2 e O2",
+    "Apenas H2S",
+    "Hidrocarbonetos leves e pesados: C1, C2, C3, C4, nC4, C5 e nC5",
+    "Somente etano e propano",
+    "Apenas metano"
+   ],
+   "correta": 2,
+   "explicacao": "O cromatógrafo com FID é programável e calibrado para detectar C1, C2, C3, iC4, nC4, iC5 e nC5, com amostragem automática."
+  },
+  {
+   "id": "ml-0015",
+   "dificuldade": 1,
+   "tema": "Gás",
+   "enunciado": "Como se calibra o cromatógrafo?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Usando o sinal 4–20 mA do sensor de pressão",
+    "Com ar ambiente filtrado",
+    "Com amostra de calha lavada",
+    "Medindo a densidade do fluido",
+    "Injetando cilindros de gás de concentração conhecida (metano e mistura) e comparando com o certificado"
+   ],
+   "correta": 4,
+   "explicacao": "Usam-se cilindros de metano e de mistura, injeta-se o gás, marcam-se os pontos e verifica-se se o resultado confere com o certificado do cilindro."
+  },
+  {
+   "id": "ml-0016",
+   "dificuldade": 1,
+   "tema": "Gás",
+   "enunciado": "Em um poço perfurado em condição de overbalance, a pressão hidrostática é:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Zero",
+    "Menor que a pressão de poros",
+    "Maior que a pressão de poros",
+    "Igual à pressão de fratura",
+    "Igual à pressão geostática"
+   ],
+   "correta": 2,
+   "explicacao": "Overbalanced: a hidrostática excede a pressão de poros. É a condição normal de perfuração, que mantém o poço sob controle."
+  },
+  {
+   "id": "ml-0017",
+   "dificuldade": 1,
+   "tema": "Arquitetura",
+   "enunciado": "Qual a sequência simplificada de aquisição de dados no mud logging?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Terminais → servidor → sensores",
+    "Servidor → sensores → cromatógrafo",
+    "Cromatógrafo → peneira → BOP",
+    "Gas trap → bomba → tanque",
+    "Sensores → registrador eletrônico (EDR) → servidor → terminais"
+   ],
+   "correta": 4,
+   "explicacao": "Instrumentos de medição (sensores) alimentam o EDR (Electronic Drilling Recorder), que envia ao servidor e aos terminais de visualização, com o cromatógrafo integrado."
+  },
+  {
+   "id": "ml-0018",
+   "dificuldade": 1,
+   "tema": "Parâmetros",
+   "enunciado": "A taxa de penetração (ROP) é um parâmetro:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Direto, medido por sensor de pressão",
+    "Analógico, medido por H2S",
+    "Digital, medido por NAMUR",
+    "Indireto, calculado a partir do avanço de profundidade no tempo",
+    "Direto, medido por encoder de SPM"
+   ],
+   "correta": 3,
+   "explicacao": "Parâmetros diretos são lidos diretamente por um sensor (profundidade, pressão). Indiretos resultam de cálculo com outras variáveis, como ROP e WOB."
+  },
+  {
+   "id": "ml-0019",
+   "dificuldade": 1,
+   "tema": "Parâmetros",
+   "enunciado": "O WOB (peso sobre a broca) é obtido:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Pelo sensor de SPM",
+    "Pelo cromatógrafo",
+    "Indiretamente, pela diferença entre o peso da coluna de referência (hook load) e o hook load com a broca no fundo",
+    "Diretamente, por sensor no kelly",
+    "Por um sensor de torque"
+   ],
+   "correta": 2,
+   "explicacao": "O WOB não é medido diretamente: é calculado a partir da variação do hook load em relação à referência."
+  },
+  {
+   "id": "ml-0020",
+   "dificuldade": 1,
+   "tema": "Mud logging",
+   "enunciado": "Qual atividade faz parte do serviço de mud logging?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Cimentar o revestimento",
+    "Instalar o BOP",
+    "Monitorar parâmetros de perfuração e detectar kicks e anomalias operacionais",
+    "Preparar o fluido de perfuração",
+    "Testar a pressão do reservatório em produção"
+   ],
+   "correta": 2,
+   "explicacao": "O mud logging descreve amostras, identifica anomalias de gás e zonas de interesse, monitora parâmetros, detecta kicks e evita tempo não produtivo."
+  },
+  {
+   "id": "ml-0021",
+   "dificuldade": 2,
+   "tema": "Gás",
+   "enunciado": "Em fluidos à base de óleo (OBM), a interpretação dos picos de gás requer atenção especial porque:",
+   "tipo": "multipla",
+   "alternativas": [
+    "O gás não sofre influência da temperatura",
+    "Hidrocarbonetos se dissolvem com mais facilidade no fluido e podem alterar a resposta observada na superfície",
+    "Não existe liberação de gás",
+    "O detector FID não funciona em OBM",
+    "O cromatógrafo não detecta metano"
+   ],
+   "correta": 1,
+   "explicacao": "O óleo tem maior afinidade com hidrocarbonetos, principalmente os mais pesados. Parte do gás fica dissolvida no OBM e a resposta na superfície pode ser atenuada."
+  },
+  {
+   "id": "ml-0022",
+   "dificuldade": 2,
+   "tema": "Gás",
+   "enunciado": "O que acontece com o gás liberado na superfície quando o peso ou a salinidade do fluido aumentam?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Nada muda",
+    "A capacidade de dissolver gás aumenta e menos gás é liberado",
+    "Apenas o gás pesado é afetado",
+    "A capacidade de dissolver gás diminui e mais gás é liberado",
+    "O gás deixa de ser detectado"
+   ],
+   "correta": 3,
+   "explicacao": "Fluido mais denso ou salino dissolve menos gás, então a quantidade liberada na superfície aumenta."
+  },
+  {
+   "id": "ml-0023",
+   "dificuldade": 2,
+   "tema": "Gás",
+   "enunciado": "O gás que entra no poço pela quebra da rocha pela broca é chamado de:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Gás de conexão",
+    "Gás reciclado",
+    "Gás de manobra",
+    "Gás liberado",
+    "Gás produzido"
+   ],
+   "correta": 3,
+   "explicacao": "Gás liberado vem dos poros da rocha cortada pela broca. Gás produzido é empurrado para o poço pela pressão dos poros."
+  },
+  {
+   "id": "ml-0024",
+   "dificuldade": 2,
+   "tema": "Gás",
+   "enunciado": "O gás que entra no poço porque a pressão dos poros o empurra para dentro é chamado de:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Gás produzido",
+    "Gás reciclado",
+    "Gás de conexão",
+    "Gás liberado",
+    "Background"
+   ],
+   "correta": 0,
+   "explicacao": "É o gás que flui da formação para o poço por diferencial de pressão a favor do poço, ao contrário do gás liberado pela broca."
+  },
+  {
+   "id": "ml-0025",
+   "dificuldade": 2,
+   "tema": "Sensores",
+   "enunciado": "Um aumento significativo da ROP, acompanhado de redução do torque e aumento do gás total, pode indicar:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Entrada em formação mais porosa e potencialmente portadora de hidrocarbonetos",
+    "Aumento da viscosidade do fluido",
+    "Entrada em formação mais compacta",
+    "Perda de eficiência da broca",
+    "Falha do sensor de profundidade"
+   ],
+   "correta": 0,
+   "explicacao": "ROP maior e torque menor indicam rocha mais mole e porosa (quebra de perfuração), e o gás total maior sugere conteúdo de hidrocarboneto."
+  },
+  {
+   "id": "ml-0026",
+   "dificuldade": 2,
+   "tema": "Parâmetros",
+   "enunciado": "O flowin e o flowout possuem a mesma forma de aquisição: ambos são lidos diretamente por sensores.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 1,
+   "explicacao": "Falso. O flowin é calculado a partir do SPM e da capacidade da bomba (parâmetro indireto), e o flowout é lido por sensor analógico na flowline."
+  },
+  {
+   "id": "ml-0027",
+   "dificuldade": 2,
+   "tema": "Sensores",
+   "enunciado": "Na instalação do sensor de nível ultrassônico nos tanques, o que se deve evitar?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Proximidade de paredes, agitadores e locais de descarga de fluido",
+    "Calibrar com o tanque cheio",
+    "Instalar no tanque ativo",
+    "Instalar no trip tank",
+    "Usar o princípio ultrassônico"
+   ],
+   "correta": 0,
+   "explicacao": "Paredes, agitadores e pontos de descarga geram reflexos ou turbulência que distorcem a leitura de nível."
+  },
+  {
+   "id": "ml-0028",
+   "dificuldade": 2,
+   "tema": "Manobras",
+   "enunciado": "Por que o monitoramento de manobras (RIH e POOH) com o trip tank é considerado crítico?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque a bomba triplex precisa ser calibrada",
+    "Porque o volume que entra ou sai do poço deve corresponder ao deslocamento do aço, e qualquer diferença indica kick ou perda",
+    "Porque o gás de conexão só aparece em manobra",
+    "Porque a broca fica sem rotação",
+    "Porque o H2S não é detectado"
+   ],
+   "correta": 1,
+   "explicacao": "Na retirada (POOH) o poço deve receber um volume igual ao do aço retirado. Na descida (RIH), expulsar o volume do aço. Desvios sinalizam influxo ou perda, e é preciso atentar ao surge e swab."
+  },
+  {
+   "id": "ml-0029",
+   "dificuldade": 2,
+   "tema": "Manobras",
+   "enunciado": "Quais efeitos de pressão devem ser considerados durante manobras?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Gás de conexão e background",
+    "Fluorescência e corte",
+    "Lag up e lag down",
+    "Surge e swab",
+    "Washout e overbalance"
+   ],
+   "correta": 3,
+   "explicacao": "Swab (pistoneio) reduz a pressão no fundo na retirada e surge (aumento) a eleva na descida."
+  },
+  {
+   "id": "ml-0030",
+   "dificuldade": 2,
+   "tema": "Sensores",
+   "enunciado": "O sensor de fluxo de saída (flowout) é instalado:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Na linha de sucção, e indica perda de circulação",
+    "No tambor do guincho, e indica ROP",
+    "Na flowline, e seu aumento sem aumento de bombeio sugere kick",
+    "No cabo morto, e indica acunhamento",
+    "No tanque ativo, e indica washout"
+   ],
+   "correta": 2,
+   "explicacao": "O flowout mede a vazão de retorno na flowline. Se aumentar sem mudança na vazão da bomba, há entrada de fluido da formação."
+  },
+  {
+   "id": "ml-0031",
+   "dificuldade": 2,
+   "tema": "Sensores",
+   "enunciado": "Qual dos sensores é responsável por identificar se a coluna está acunhada ou não?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Sensor de fluxo de saída",
+    "Sensor de SPM",
+    "Sensor de H2S",
+    "Sensor de peso (hook load)",
+    "Sensor de nível"
+   ],
+   "correta": 3,
+   "explicacao": "A leitura do peso no cabo morto muda quando a coluna é colocada nas cunhas e permite identificar a condição, além de sinalizar drag."
+  },
+  {
+   "id": "ml-0032",
+   "dificuldade": 2,
+   "tema": "Sensores",
+   "enunciado": "Como se diferenciam um encoder absoluto e um incremental?",
+   "tipo": "multipla",
+   "alternativas": [
+    "O absoluto é de nível e o incremental é de peso",
+    "O absoluto fornece a posição direta; o incremental conta pulsos por volta",
+    "Ambos medem pressão",
+    "O incremental fornece posição direta e o absoluto conta pulsos",
+    "Não há diferença, apenas de fabricante"
+   ],
+   "correta": 1,
+   "explicacao": "O encoder gera pulsos por volta. No absoluto, cada posição tem um código único. No incremental, conta-se o deslocamento a partir de uma referência."
+  },
+  {
+   "id": "ml-0033",
+   "dificuldade": 2,
+   "tema": "Sensores",
+   "enunciado": "Qual o sintoma típico de um furo na coluna (washout) no registro de pressão de bombeio?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Aumento súbito de torque",
+    "Aumento do RPM",
+    "Queda gradual da pressão de bombeio mantendo o SPM",
+    "Queda do nível do tanque com bombeio parado",
+    "Aumento do hook load"
+   ],
+   "correta": 2,
+   "explicacao": "Furo na coluna reduz a perda de carga e a pressão de bombeio cai com a mesma vazão."
+  },
+  {
+   "id": "ml-0034",
+   "dificuldade": 2,
+   "tema": "H2S",
+   "enunciado": "Por que o sensor de H2S é posicionado nas peneiras, na plataforma e nas unidades?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque o H2S se forma na broca",
+    "Porque são os pontos onde o gás pode se acumular ou ser liberado e atingir pessoas",
+    "Porque ele é menos denso que o ar",
+    "Para medir o gás total",
+    "Para calibrar o cromatógrafo"
+   ],
+   "correta": 1,
+   "explicacao": "As peneiras e áreas onde o fluido de retorno é exposto são pontos de liberação. O H2S, mais denso que o ar, tende a se acumular em áreas baixas."
+  },
+  {
+   "id": "ml-0035",
+   "dificuldade": 3,
+   "tema": "Hidrostática",
+   "enunciado": "Poço vertical de 1.934 m, lama de 12,1 lb/gal, pressão de poros de 3.778 psi. A lama é reduzida para 11,6 lb/gal. A pressão hidrostática e a condição de kick são:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Ph ≈ 3.814 psi, com kick",
+    "Ph ≈ 3.978 psi, com kick após a redução",
+    "Ph ≈ 3.814 psi, sem kick mesmo após a redução",
+    "Ph ≈ 3.978 psi, sem kick",
+    "Ph ≈ 3.700 psi, com kick"
+   ],
+   "correta": 2,
+   "explicacao": "Ph = 0,17 × 11,6 × 1.934 ≈ 3.814 psi, que ainda é maior que 3.778 psi. Portanto não ocorre kick (os 3.978 psi eram da lama de 12,1)."
+  },
+  {
+   "id": "ml-0036",
+   "dificuldade": 3,
+   "tema": "Hidrostática",
+   "enunciado": "Poço vertical de 2.798 m, pressão de poros de 4.301 psi. A lama cai de 9,3 para 8,9 lb/gal. Qual a nova hidrostática e o risco?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Ph ≈ 4.299 psi, sem kick",
+    "Ph ≈ 4.423 psi, sem kick",
+    "Ph ≈ 4.029 psi, com kick",
+    "Ph ≈ 4.233 psi, ocorrendo kick após a redução",
+    "Ph ≈ 4.500 psi, sem kick"
+   ],
+   "correta": 3,
+   "explicacao": "Ph = 0,17 × 8,9 × 2.798 ≈ 4.233 psi < 4.301 psi: a lama fica sob o equilíbrio e há risco de kick. Com 9,3 lb/gal a hidrostática era ≈ 4.423 psi."
+  },
+  {
+   "id": "ml-0037",
+   "dificuldade": 3,
+   "tema": "Sensores",
+   "enunciado": "Relacione cada sensor à sua função. Qual alternativa está correta?",
+   "tipo": "combinacao",
+   "afirmativas": [
+    "1. Sensor de pressão",
+    "2. Sensor de peso",
+    "3. Sensor de nível",
+    "4. Sensor de profundidade",
+    "5. Sensor de SPM/RPM",
+    "a) Contador de cursos do pistão ou rotações da coluna",
+    "b) Indica a pressão de bombeio (SPP) e pode indicar furo na coluna",
+    "c) Indica o movimento da catarina e registra a profundidade",
+    "d) Registra a tensão no cabo e sinaliza drag",
+    "e) Indica o volume do fluido nos tanques; perda de circulação e kicks"
+   ],
+   "alternativas": [
+    "1-b, 2-d, 3-e, 4-c, 5-a",
+    "1-a, 2-b, 3-c, 4-d, 5-e",
+    "1-e, 2-d, 3-a, 4-c, 5-b",
+    "1-b, 2-c, 3-d, 4-e, 5-a"
+   ],
+   "correta": 0,
+   "explicacao": "Pressão → SPP (b). Peso → tensão no cabo (d). Nível → volume nos tanques (e). Profundidade → catarina (c). SPM/RPM → contador (a)."
+  },
+  {
+   "id": "ml-0038",
+   "dificuldade": 3,
+   "tema": "Gás",
+   "enunciado": "Um poço apresenta pico de gás total elevado após uma manobra, sem alteração de ROP e sem mudança de litologia. Qual a interpretação mais razoável?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Washout na coluna",
+    "Falha do sensor de profundidade",
+    "Contaminação por cimento",
+    "Gás de manobra, vindo do gás acumulado no poço durante a parada, e não de zona nova",
+    "Entrada em zona nova de alta porosidade"
+   ],
+   "correta": 3,
+   "explicacao": "Sem sinais de nova formação, o pico ao retomar a circulação indica gás acumulado durante a manobra. Deve ser monitorado, pois pode ser também indício de baixa hidrostática."
+  },
+  {
+   "id": "ml-0039",
+   "dificuldade": 3,
+   "tema": "Gás",
+   "enunciado": "Um pico de gás total aparece depois de cada conexão de tubo, com tendência de ficar maior a cada conexão. O que isso pode indicar?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Desgaste do sensor de RPM",
+    "Aumento da eficiência da bomba",
+    "Aumento da seleção dos grãos",
+    "Perda total de circulação",
+    "Possível redução do sobrebalanço, com entrada de gás da formação nas paradas da bomba"
+   ],
+   "correta": 4,
+   "explicacao": "Com a bomba parada, a pressão no fundo cai (ECD some) e a formação pode entregar gás. Picos de conexão crescentes sugerem que o sobrebalanço está se aproximando de zero."
+  },
+  {
+   "id": "ml-0040",
+   "dificuldade": 1,
+   "tema": "Lag",
+   "enunciado": "O tempo necessário para o cascalho cortado pela broca chegar à superfície é chamado de:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Tempo de conexão",
+    "Tempo de cimentação",
+    "Tempo de pega do cimento",
+    "Tempo de manobra",
+    "Lag time"
+   ],
+   "correta": 4,
+   "explicacao": "Lag time é o tempo que o fluido leva para ir do fundo à superfície carregando o cascalho. É a base para associar amostras e gás à profundidade correta."
+  },
+  {
+   "id": "ml-0041",
+   "dificuldade": 1,
+   "tema": "Lag",
+   "enunciado": "Como se chama o tempo do fluido entre o fundo do poço e a superfície, pelo anular?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Lag down",
+    "Tempo de bombeio",
+    "Lag up (bottoms-up)",
+    "Surface to bit",
+    "Ciclo completo"
+   ],
+   "correta": 2,
+   "explicacao": "Lag down (STB) é a superfície até a broca pelo interior da coluna. Lag up (bottoms-up) é da broca à superfície pelo anular. O ciclo completo soma os dois."
+  },
+  {
+   "id": "ml-0042",
+   "dificuldade": 1,
+   "tema": "Lag",
+   "enunciado": "O que é o ciclo completo no contexto do lag?",
+   "tipo": "multipla",
+   "alternativas": [
+    "O tempo de uma manobra completa",
+    "O tempo superfície a superfície (descida pela coluna e retorno pelo anular)",
+    "Somente o tempo na coluna",
+    "O tempo de uma conexão",
+    "Somente o tempo no anular"
+   ],
+   "correta": 1,
+   "explicacao": "Ciclo completo = lag down + lag up. É usado, por exemplo, em testes com carbureto para avaliar alargamento do poço."
+  },
+  {
+   "id": "ml-0043",
+   "dificuldade": 1,
+   "tema": "Lag",
+   "enunciado": "Quais fatores afetam o lag time?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Apenas a profundidade",
+    "Vazão, configuração do poço (fases revestidas e poço aberto) e especificações do BHA",
+    "A temperatura ambiente",
+    "O número de tripulantes",
+    "Cor do fluido e salinidade"
+   ],
+   "correta": 1,
+   "explicacao": "A vazão e a geometria do poço (diâmetros e comprimentos das fases e do poço aberto) e a coluna definem os volumes e o tempo."
+  },
+  {
+   "id": "ml-0044",
+   "dificuldade": 1,
+   "tema": "Bomba triplex",
+   "enunciado": "Qual a expressão da capacidade volumétrica da bomba triplex (bbl/stroke) em função de D (pol), L (pol) e Ep (%)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Cv = D² · Ep / (L · 411.765,7)",
+    "Cv = D² · L · Ep / 411.765,7",
+    "Cv = π · D² · L · Ep",
+    "Cv = D² · L / (Ep · 411.765,7)",
+    "Cv = D · L · Ep / 411.765,7"
+   ],
+   "correta": 1,
+   "explicacao": "O fator 411.765,7 vem de 3 pistões × π/4 × conversão de polegadas³ para barris e da eficiência em %."
+  },
+  {
+   "id": "ml-0045",
+   "dificuldade": 1,
+   "tema": "Bomba triplex",
+   "enunciado": "Uma bomba triplex tem camisa de 6 pol, curso de 12 pol e eficiência de 95%. Qual a capacidade, em bbl/stroke?",
+   "tipo": "multipla",
+   "alternativas": [
+    "≈ 0,0476 bbl/stroke",
+    "≈ 0,0997 bbl/stroke",
+    "≈ 0,997 bbl/stroke",
+    "≈ 0,0099 bbl/stroke",
+    "≈ 0,1800 bbl/stroke"
+   ],
+   "correta": 1,
+   "explicacao": "Cv = 6² × 12 × 95 / 411.765,7 = 41.040 / 411.765,7 ≈ 0,0997 bbl/stroke (≈ 4,19 gal/stroke)."
+  },
+  {
+   "id": "ml-0046",
+   "dificuldade": 1,
+   "tema": "Bomba triplex",
+   "enunciado": "Quantos barris há em um galão americano, conforme o curso?",
+   "tipo": "multipla",
+   "alternativas": [
+    "1 bbl = 42 gal",
+    "1 bbl = 10 gal",
+    "1 bbl = 4,2 gal",
+    "1 bbl = 20 gal",
+    "1 bbl = 100 gal"
+   ],
+   "correta": 0,
+   "explicacao": "1 bbl = 42 gal americanos (≈ 159 L)."
+  },
+  {
+   "id": "ml-0047",
+   "dificuldade": 2,
+   "tema": "Bomba triplex",
+   "enunciado": "Com Cv = 0,0997 bbl/stroke, quantos strokes são necessários para bombear 200 bbl?",
+   "tipo": "multipla",
+   "alternativas": [
+    "≈ 19.900 strokes",
+    "≈ 200 strokes",
+    "≈ 20 strokes",
+    "≈ 1.000 strokes",
+    "≈ 2.007 strokes"
+   ],
+   "correta": 4,
+   "explicacao": "Nstk = 200 / 0,0997 ≈ 2.007 strokes."
+  },
+  {
+   "id": "ml-0048",
+   "dificuldade": 2,
+   "tema": "Bomba triplex",
+   "enunciado": "Para bombear 200 bbl em 25 min com 2.007 strokes, qual a velocidade da bomba?",
+   "tipo": "multipla",
+   "alternativas": [
+    "≈ 2.007 SPM",
+    "≈ 80 SPM",
+    "≈ 160 SPM",
+    "≈ 8 SPM",
+    "≈ 40 SPM"
+   ],
+   "correta": 1,
+   "explicacao": "SPM = 2.007 / 25 ≈ 80 strokes/min. A vazão em gal/min = 200 × 42 / 25 = 336 gal/min."
+  },
+  {
+   "id": "ml-0049",
+   "dificuldade": 2,
+   "tema": "Bomba triplex",
+   "enunciado": "Qual o número mínimo de strokes para deslocar 150 bbl com camisa de 6 1/2 pol, curso de 12 pol e eficiência de 97%?",
+   "tipo": "multipla",
+   "alternativas": [
+    "≈ 1.256 strokes",
+    "≈ 12.560 strokes",
+    "≈ 1.000 strokes",
+    "≈ 17 strokes",
+    "≈ 18 strokes"
+   ],
+   "correta": 0,
+   "explicacao": "Cv = 6,5² × 12 × 97 / 411.765,7 ≈ 0,1194 bbl/stk. Nstk = 150 / 0,1194 ≈ 1.256 strokes."
+  },
+  {
+   "id": "ml-0050",
+   "dificuldade": 2,
+   "tema": "Bomba triplex",
+   "enunciado": "Ao trocar a camisa da bomba de 6 pol por uma de 5 pol, mantendo curso e eficiência, o que ocorre?",
+   "tipo": "multipla",
+   "alternativas": [
+    "A capacidade aumenta, mas a vazão diminui",
+    "A capacidade diminui, mas a vazão se mantém",
+    "A capacidade volumétrica diminui e, com o mesmo SPM, a vazão de entrada também",
+    "A capacidade não muda, só o curso",
+    "A capacidade aumenta e a vazão também"
+   ],
+   "correta": 2,
+   "explicacao": "Cv é proporcional a D². Com camisa menor, cada stroke desloca menos volume e Q = Cv × SPM cai. Só é igual se o SPM compensar."
+  },
+  {
+   "id": "ml-0051",
+   "dificuldade": 2,
+   "tema": "Volumes",
+   "enunciado": "Qual a expressão do volume anular em barris com diâmetros em pol e comprimento em metros?",
+   "tipo": "multipla",
+   "alternativas": [
+    "V = (Dext² − dint²) × L × 313,76",
+    "V = Dext² × L / 1.029,4",
+    "V = (Dext² + dint²) × L / 313,76",
+    "V = (Dext − dint) × L / 313,76",
+    "V = (Dext² − dint²) × L / 313,76"
+   ],
+   "correta": 4,
+   "explicacao": "Em pés, o divisor é 1.029,4. Em metros, 313,76. O mesmo valor serve para o volume interno, usando ID² no lugar da diferença."
+  },
+  {
+   "id": "ml-0052",
+   "dificuldade": 3,
+   "tema": "Lag",
+   "enunciado": "Volume anular total de 1.083 bbl, bomba de 0,123 bbl/stroke a 75 SPM. Qual o lag up (bottoms-up)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "≈ 117 min",
+    "≈ 17 min",
+    "≈ 1,2 min",
+    "≈ 12 min",
+    "≈ 8.800 min"
+   ],
+   "correta": 0,
+   "explicacao": "Strokes = 1.083 / 0,123 ≈ 8.805. Tempo = 8.805 / 75 ≈ 117 min."
+  },
+  {
+   "id": "ml-0053",
+   "dificuldade": 3,
+   "tema": "Lag",
+   "enunciado": "Volume interno da coluna de 151 bbl, bomba de 0,123 bbl/stroke a 75 SPM. Qual o lag down (surface to bit)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "≈ 0,16 min",
+    "≈ 160 min",
+    "≈ 1,6 min",
+    "≈ 16 min",
+    "≈ 117 min"
+   ],
+   "correta": 3,
+   "explicacao": "Vazão = 0,123 × 75 ≈ 9,2 bbl/min. Tempo = 151 / 9,2 ≈ 16,4 min."
+  },
+  {
+   "id": "ml-0054",
+   "dificuldade": 3,
+   "tema": "Lag",
+   "enunciado": "Com lag down de 16 min e lag up de 117 min, qual o tempo de ciclo completo?",
+   "tipo": "multipla",
+   "alternativas": [
+    "≈ 1.872 min",
+    "≈ 101 min",
+    "≈ 133 min",
+    "≈ 16 min",
+    "≈ 117 min"
+   ],
+   "correta": 2,
+   "explicacao": "Ciclo completo = lag down + lag up ≈ 16 + 117 = 133 min."
+  },
+  {
+   "id": "ml-0055",
+   "dificuldade": 3,
+   "tema": "Lag",
+   "enunciado": "Se a vazão da bomba cair pela metade, o que acontece com o lag up (volume anular constante)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Cai pela metade",
+    "Fica zero",
+    "Permanece igual",
+    "Dobra",
+    "Cai a um quarto"
+   ],
+   "correta": 3,
+   "explicacao": "Lag = V / Q. Com Q pela metade, o tempo dobra. Na interpretação, isso afeta a profundidade atribuída a amostras e gás."
+  },
+  {
+   "id": "ml-0056",
+   "dificuldade": 3,
+   "tema": "Lag",
+   "enunciado": "Um alargamento do poço (washout) em um intervalo do poço aberto, mantidos os demais dados, tende a:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Aumentar o volume anular e, portanto, o lag real em relação ao calculado com o diâmetro nominal",
+    "Reduzir o lag real",
+    "Diminuir o volume interno da coluna",
+    "Anular o lag down",
+    "Não afetar o lag"
+   ],
+   "correta": 0,
+   "explicacao": "Mais volume anular implica mais tempo de retorno. Por isso o ciclo completo e o carbureto são usados para calibrar o lag e avaliar alargamento."
+  },
+  {
+   "id": "ml-0057",
+   "dificuldade": 2,
+   "tema": "Amostras de calha",
+   "enunciado": "O que são amostras de calha?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Amostras retiradas da parede do poço por canhão",
+    "Cilindros de rocha cortados com coroa",
+    "Amostras de fluido do tanque",
+    "Fragmentos de rocha cortados pela broca e trazidos à superfície pelo fluido de perfuração",
+    "Fragmentos de cimento"
+   ],
+   "correta": 3,
+   "explicacao": "Calha: cascalho. Testemunho: cilindro de rocha. Amostra lateral: retirada da parede do poço."
+  },
+  {
+   "id": "ml-0058",
+   "dificuldade": 2,
+   "tema": "Amostras de calha",
+   "enunciado": "Os intervalos de amostragem de calha mais comuns são:",
+   "tipo": "multipla",
+   "alternativas": [
+    "30 × 30 m",
+    "50 × 50 m",
+    "9 × 9 m, 6 × 6 m e 3 × 3 m",
+    "1 × 1 m e 0,1 × 0,1 m",
+    "100 × 100 m"
+   ],
+   "correta": 2,
+   "explicacao": "O intervalo é reduzido quando se entra em zonas de interesse para refinar a resolução."
+  },
+  {
+   "id": "ml-0059",
+   "dificuldade": 2,
+   "tema": "Amostras de calha",
+   "enunciado": "A profundidade atribuída a uma amostra de calha refere-se:",
+   "tipo": "multipla",
+   "alternativas": [
+    "À profundidade da sapata",
+    "À profundidade do último testemunho",
+    "Ao meio do intervalo",
+    "Ao topo do intervalo",
+    "À base do intervalo da amostra"
+   ],
+   "correta": 4,
+   "explicacao": "A profundidade da amostra é a da base do intervalo perfurado, corrigida pelo lag."
+  },
+  {
+   "id": "ml-0060",
+   "dificuldade": 2,
+   "tema": "Amostras de calha",
+   "enunciado": "Como a anidrita é identificada na amostra de calha?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Não reage com HCl, e pode formar agulhas",
+    "Reage vigorosamente com HCl",
+    "Apresenta efervescência com água",
+    "Dissolve-se em acetona",
+    "Brilha sob luz ultravioleta"
+   ],
+   "correta": 0,
+   "explicacao": "Calcita e dolomita reagem com HCl, em graus diferentes. A anidrita não reage."
+  },
+  {
+   "id": "ml-0061",
+   "dificuldade": 2,
+   "tema": "Amostras de calha",
+   "enunciado": "Como se testa a presença de cimento como contaminante na amostra?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Com fenolftaleína e ácido clorídrico",
+    "Pela densidade de folhelhos",
+    "Com acetona e nafta",
+    "Com luz ultravioleta apenas",
+    "Por calcimetria"
+   ],
+   "correta": 0,
+   "explicacao": "O cimento reage com a fenolftaleína (meio alcalino) e com HCl."
+  },
+  {
+   "id": "ml-0062",
+   "dificuldade": 2,
+   "tema": "Amostras de calha",
+   "enunciado": "O aparecimento repentino e em grande quantidade de material estranho (como calcita comercial ou aditivo) na amostra indica:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Pressão anormal",
+    "Falha de sensores",
+    "Entrada em reservatório",
+    "Contaminação por aditivo do fluido de perfuração; consultar o técnico de fluidos",
+    "Desmoronamento de formação"
+   ],
+   "correta": 3,
+   "explicacao": "Aditivos do fluido aparecem de repente e em quantidade. Deve-se consultar imediatamente o técnico de fluidos."
+  },
+  {
+   "id": "ml-0063",
+   "dificuldade": 2,
+   "tema": "Amostras de calha",
+   "enunciado": "Qual a característica de folhelhos desmoronados por pressão anormal na amostra?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Lâminas metálicas",
+    "Fragmentos com superfície côncava",
+    "Blocos retangulares",
+    "Fragmentos esféricos",
+    "Fragmentos fluorescentes"
+   ],
+   "correta": 1,
+   "explicacao": "Folhelhos com superfície côncava indicam pressão anormal. Blocos, alívio de tensões. Carbonatos pontiagudos também sugerem pressão anormal."
+  },
+  {
+   "id": "ml-0064",
+   "dificuldade": 2,
+   "tema": "Amostras de calha",
+   "enunciado": "Na descrição das amostras, as rochas são descritas em ordem decrescente de percentagem, em frações de:",
+   "tipo": "multipla",
+   "alternativas": [
+    "25%",
+    "50%",
+    "5%",
+    "1%",
+    "10%"
+   ],
+   "correta": 4,
+   "explicacao": "Traços (TR): 1% a 9%; raros (RAR): < 1%. Traços e raros não contribuem para totalizar 100%."
+  },
+  {
+   "id": "ml-0065",
+   "dificuldade": 2,
+   "tema": "Amostras de calha",
+   "enunciado": "Qual a classificação de seleção BOA?",
+   "tipo": "multipla",
+   "alternativas": [
+    "90% dos grãos em uma ou duas classes vizinhas",
+    "50% dos grãos em uma classe",
+    "90% dos grãos em cinco ou mais classes",
+    "90% dos grãos em três ou quatro classes",
+    "Todos os grãos em uma só classe"
+   ],
+   "correta": 0,
+   "explicacao": "Boa: 1–2 classes. Regular: 3–4. Má: 5 ou mais. Quanto menor a dispersão do tamanho, melhor a seleção."
+  },
+  {
+   "id": "ml-0066",
+   "dificuldade": 2,
+   "tema": "Indícios",
+   "enunciado": "Fluorescência em mais de 90% dos fragmentos é classificada como:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Esparsa",
+    "Total",
+    "Pontual",
+    "Rara",
+    "Moderada"
+   ],
+   "correta": 1,
+   "explicacao": "Total: mais de 90%. Esparsa: 10% a 90%. Pontual: menos de 10%. Rara: menos de 1%."
+  },
+  {
+   "id": "ml-0067",
+   "dificuldade": 2,
+   "tema": "Indícios",
+   "enunciado": "O corte é observado sob luz ultravioleta como:",
+   "tipo": "multipla",
+   "alternativas": [
+    "O som ao partir a rocha",
+    "A disseminação de hidrocarbonetos em um solvente orgânico",
+    "A dureza da rocha",
+    "A cor do fragmento",
+    "A reação com HCl"
+   ],
+   "correta": 1,
+   "explicacao": "Solventes: tetracloreto de carbono, tricloroetano, éter etílico, acetona e nafta. Avalia-se pela velocidade (imediato, moderado, provocado) e pelo modo (radial ou aureolar)."
+  },
+  {
+   "id": "ml-0068",
+   "dificuldade": 2,
+   "tema": "Indícios",
+   "enunciado": "Qual cuidado é essencial na interpretação da fluorescência?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Não confundir fluorescência de óleo com a mineral ou com a de material do fluido",
+    "Usar só luz natural",
+    "Considerar apenas a cor da calha",
+    "Interpretar sem solvente",
+    "Ignorar contaminantes"
+   ],
+   "correta": 0,
+   "explicacao": "Minerais e aditivos do fluido também fluorescem. Solvente contaminado pode produzir falso corte."
+  },
+  {
+   "id": "ml-0069",
+   "dificuldade": 2,
+   "tema": "Anomalias gasosas",
+   "enunciado": "O gás que aparece após parar a circulação para conectar um tubo é chamado de:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Gás de conexão",
+    "Background",
+    "Gás reciclado",
+    "Gás produzido sempre",
+    "Gás liberado"
+   ],
+   "correta": 0,
+   "explicacao": "Gás de conexão: pico associado à parada da bomba (queda de ECD) durante a conexão. Gás de manobra: após manobra. Reciclado: gás que volta a circular. Background: nível de fundo."
+  },
+  {
+   "id": "ml-0070",
+   "dificuldade": 2,
+   "tema": "Anomalias gasosas",
+   "enunciado": "O que é gás reciclado?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Gás que já circulou e retorna a ser detectado por não ter sido removido do fluido",
+    "Gás liberado pela broca a cada metro",
+    "Gás de H2S puro",
+    "Gás da cimentação",
+    "Gás do cromatógrafo"
+   ],
+   "correta": 0,
+   "explicacao": "O fluido mal degaseificado volta ao poço e o mesmo gás é lido de novo, mascarando a interpretação."
+  },
+  {
+   "id": "ml-0071",
+   "dificuldade": 3,
+   "tema": "Interpretação",
+   "enunciado": "Um poço mostra gás total em alta, fluorescência esparsa e corte moderado em arenito com ROP alta. O que fazer primeiro?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Aumentar o peso da lama sem critério",
+    "Cimentar imediatamente",
+    "Verificar contaminantes e correlacionar com perfis e poços vizinhos, e avaliar a decisão de testemunhar",
+    "Parar de coletar amostras",
+    "Ignorar, pois o gás é sempre falso"
+   ],
+   "correta": 2,
+   "explicacao": "Indícios devem ser integrados: gás, fluorescência, corte, ROP e litologia, descartando contaminantes e avaliando se há zona de interesse."
+  },
+  {
+   "id": "ml-0072",
+   "dificuldade": 3,
+   "tema": "Interpretação",
+   "enunciado": "Qual o perigo de interpretar o gás de fundo (background) sem considerar o fluido de perfuração?",
+   "tipo": "multipla",
+   "alternativas": [
+    "O gás só é lido em fluido à base de óleo",
+    "A resposta depende de peso, salinidade e tipo de fluido, o que pode mascarar ou amplificar leituras",
+    "O FID só funciona em fluido pesado",
+    "O gás só existe em água doce",
+    "Nenhum, o gás independe do fluido"
+   ],
+   "correta": 1,
+   "explicacao": "Peso e salinidade maiores liberam mais gás. OBM dissolve hidrocarbonetos, principalmente os pesados. A leitura precisa ser normalizada."
+  },
+  {
+   "id": "ml-0073",
+   "dificuldade": 2,
+   "tema": "Cromatografia",
+   "enunciado": "A amostra de gás é extraída pelo gas trap e levada por uma linha com o auxílio de uma bomba até o cromatógrafo.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "Verdadeiro. É o caminho: gas trap → linha de gás com bomba → cromatógrafo/DGT na unidade de mud logging."
+  },
+  {
+   "id": "ml-0074",
+   "dificuldade": 2,
+   "tema": "Amostras",
+   "enunciado": "Em amostras de calha geralmente se descreve a porosidade aparente (PORAP), que é uma avaliação qualitativa.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "Verdadeiro. A calha permite apenas uma estimativa qualitativa. Estruturas sedimentares são mais bem descritas em testemunhos e amostras laterais."
+  },
+  {
+   "id": "ml-0075",
+   "dificuldade": 3,
+   "tema": "Gás",
+   "enunciado": "Quanto maior o peso do fluido ou a salinidade, maior a capacidade do fluido de dissolver o gás.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 1,
+   "explicacao": "Falso. Aumentando peso ou salinidade, a capacidade de dissolver gás diminui e mais gás é liberado."
+  },
+  {
+   "id": "ml-0076",
+   "dificuldade": 2,
+   "tema": "Calibração",
+   "enunciado": "O sensor de H2S deve ser calibrado em ambiente fechado, para evitar dispersão do gás de calibração.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 1,
+   "explicacao": "Falso. A calibração é feita em local aberto, com máscaras apropriadas, por ser o gás tóxico."
+  },
+  {
+   "id": "ml-0077",
+   "dificuldade": 2,
+   "tema": "Mud logging",
+   "enunciado": "Assinale a INCORRETA. O mud logging inclui:",
+   "tipo": "incorreta",
+   "alternativas": [
+    "Cálculo de tempo de retorno de amostra e hidrostática de poço",
+    "Identificação de anomalias de gás e zonas de interesse",
+    "Dimensionar a coluna de revestimento e o programa de cimentação",
+    "Detecção de kicks e anomalias operacionais",
+    "Descrição de calha, amostra lateral e testemunho"
+   ],
+   "correta": 2,
+   "explicacao": "Dimensionar revestimento e cimentação é função de engenharia de poços, e não do mud logging."
+  },
+  {
+   "id": "ml-0078",
+   "dificuldade": 3,
+   "tema": "Sensores",
+   "enunciado": "Assinale a INCORRETA sobre sensores de mud logging:",
+   "tipo": "incorreta",
+   "alternativas": [
+    "O sensor de nível deve ser instalado junto aos agitadores para melhor leitura",
+    "O sensor de profundidade é um encoder no tambor do guincho",
+    "O sensor de H2S fica nas peneiras e unidades",
+    "O sensor de peso fica no cabo morto",
+    "O sensor de fluxo de saída fica na flowline"
+   ],
+   "correta": 0,
+   "explicacao": "O sensor de nível deve ficar longe de agitadores, paredes e pontos de descarga."
+  },
+  {
+   "id": "ml-0079",
+   "dificuldade": 2,
+   "tema": "Gás",
+   "enunciado": "Sobre detecção de gás, analise:",
+   "tipo": "combinacao",
+   "afirmativas": [
+    "I. O gás liberado é o que vem dos poros da rocha cortada pela broca.",
+    "II. O gás produzido é o empurrado para o poço pela pressão dos poros.",
+    "III. Em OBM, a leitura de gás é sempre idêntica à de fluido base água."
+   ],
+   "alternativas": [
+    "Apenas I",
+    "Apenas I e II",
+    "Apenas II e III",
+    "Apenas I e III",
+    "I, II e III"
+   ],
+   "correta": 1,
+   "explicacao": "I e II estão corretas. III é falsa: em OBM os hidrocarbonetos se dissolvem mais no fluido e a leitura em superfície pode diferir."
+  },
+  {
+   "id": "ml-0080",
+   "dificuldade": 3,
+   "tema": "Lag e bomba",
+   "enunciado": "Analise as afirmativas:",
+   "tipo": "combinacao",
+   "afirmativas": [
+    "I. O lag time depende da vazão e da geometria do poço.",
+    "II. A capacidade volumétrica da bomba triplex é proporcional ao quadrado do diâmetro da camisa.",
+    "III. O ciclo completo é a soma do lag down e do lag up."
+   ],
+   "alternativas": [
+    "Apenas I",
+    "Apenas I e II",
+    "Apenas II e III",
+    "Apenas I e III",
+    "I, II e III"
+   ],
+   "correta": 4,
+   "explicacao": "Todas estão corretas. Cv = D²·L·Ep / 411.765,7 e ciclo completo = lag down + lag up."
+  }
+ ],
+ "flashcards": [
+  {
+   "id": "ml-f001",
+   "frente": "O que faz o mud logging",
+   "verso": "Descreve amostras, identifica anomalias de gás, monitora parâmetros, detecta kicks, calcula lag e hidrostática, faz cromatografia e vigia gases nocivos."
+  },
+  {
+   "id": "ml-f002",
+   "frente": "Sensor analógico",
+   "verso": "Converte a grandeza física em sinal linear de 4–20 mA. Ex.: pressão, peso, profundidade, torque, nível, fluxo de saída, H2S."
+  },
+  {
+   "id": "ml-f003",
+   "frente": "Sensor digital",
+   "verso": "Proximidade com dois estados (NAMUR: ~1 mA atuado, ~3 mA não atuado). Ex.: SPM e RPM."
+  },
+  {
+   "id": "ml-f004",
+   "frente": "Parâmetro direto × indireto",
+   "verso": "Direto: lido no sensor (profundidade, pressão, hook load). Indireto: calculado (ROP, WOB, flowin)."
+  },
+  {
+   "id": "ml-f005",
+   "frente": "Sensor de pressão (SPP)",
+   "verso": "Pressão de bombeio. Queda: washout ou jatos ou bomba. Aumento: jatos entupidos ou fluido pesado."
+  },
+  {
+   "id": "ml-f006",
+   "frente": "Sensor de nível",
+   "verso": "Tanques ativos e trip tank. Ganho = kick. Perda = perda de circulação. Longe de paredes, agitadores e descargas."
+  },
+  {
+   "id": "ml-f007",
+   "frente": "Flowout",
+   "verso": "Vazão de retorno na flowline (analógico). Sobe sem mudar a bomba = possível kick."
+  },
+  {
+   "id": "ml-f008",
+   "frente": "Hook load",
+   "verso": "Peso/tensão no cabo morto. Mostra acunhamento, drag e ruptura de coluna."
+  },
+  {
+   "id": "ml-f009",
+   "frente": "Encoder (profundidade)",
+   "verso": "No tambor do guincho, mede movimento da catarina; dá bit depth e hole depth. Absoluto × incremental."
+  },
+  {
+   "id": "ml-f010",
+   "frente": "H2S",
+   "verso": "Incolor, tóxico, mais denso que o ar, inflamável (autoignição 260 °C, LIE ≈ 4,3%). Sensor nas peneiras, plataforma e unidades."
+  },
+  {
+   "id": "ml-f011",
+   "frente": "Calibração do H2S",
+   "verso": "Com cilindro do gás, em local aberto e com máscara."
+  },
+  {
+   "id": "ml-f012",
+   "frente": "Gas trap",
+   "verso": "Agitador que extrai o gás do fluido de retorno."
+  },
+  {
+   "id": "ml-f013",
+   "frente": "DGT",
+   "verso": "Detector de gás total por FID, com leitura contínua."
+  },
+  {
+   "id": "ml-f014",
+   "frente": "Cromatógrafo",
+   "verso": "FID com amostragem automática: C1, C2, C3, C4, nC4, C5 e nC5. Calibrado com cilindros de metano e mistura."
+  },
+  {
+   "id": "ml-f015",
+   "frente": "Gás liberado × produzido",
+   "verso": "Liberado: sai dos poros da rocha cortada pela broca. Produzido: é empurrado pela pressão dos poros para o poço."
+  },
+  {
+   "id": "ml-f016",
+   "frente": "Fluido e leitura de gás",
+   "verso": "Mais peso ou salinidade = menos solubilidade e mais gás liberado. OBM dissolve HC, sobretudo os pesados."
+  },
+  {
+   "id": "ml-f017",
+   "frente": "Overbalance",
+   "verso": "Pressão hidrostática maior que a pressão de poros."
+  },
+  {
+   "id": "ml-f018",
+   "frente": "Surge e swab",
+   "verso": "Surge: aumento de pressão na descida. Swab: pistoneio na retirada, com risco de kick."
+  },
+  {
+   "id": "ml-f019",
+   "frente": "Manobra e trip tank",
+   "verso": "O volume que entra ou sai deve igualar o deslocamento do aço. Diferença = kick ou perda."
+  },
+  {
+   "id": "ml-f020",
+   "frente": "Arquitetura de dados",
+   "verso": "Sensores → EDR → servidor → terminais; cromatógrafo integrado."
+  },
+  {
+   "id": "ml-f021",
+   "frente": "Bomba triplex",
+   "verso": "Cv (bbl/stk) = D² · L · Ep / 411.765,7 (D e L em pol, Ep em %). 1 bbl = 42 gal."
+  },
+  {
+   "id": "ml-f022",
+   "frente": "Vazão e strokes",
+   "verso": "Q = Cv × SPM. Nstk = Vol / Cv."
+  },
+  {
+   "id": "ml-f023",
+   "frente": "Volume anular",
+   "verso": "V (bbl) = (Dext² − dint²) × L / 313,76 (L em m) ou / 1.029,4 (L em pés)."
+  },
+  {
+   "id": "ml-f024",
+   "frente": "Lag time",
+   "verso": "Tempo para o cascalho ir do fundo à superfície. Depende de vazão, geometria do poço e BHA."
+  },
+  {
+   "id": "ml-f025",
+   "frente": "Lag down / lag up / ciclo",
+   "verso": "Lag down (STB): superfície → broca. Lag up (bottoms-up): broca → superfície. Ciclo completo = soma."
+  },
+  {
+   "id": "ml-f026",
+   "frente": "Lag = V ÷ Q",
+   "verso": "Dobrar a vazão reduz o lag à metade. Alargamento do poço aumenta o lag real."
+  },
+  {
+   "id": "ml-f027",
+   "frente": "Amostra de calha",
+   "verso": "Fragmentos cortados pela broca, trazidos pelo fluido. Intervalos de 9, 6 ou 3 m. Profundidade = base do intervalo."
+  },
+  {
+   "id": "ml-f028",
+   "frente": "Teste com HCl",
+   "verso": "Calcita e dolomita reagem. Anidrita não reage."
+  },
+  {
+   "id": "ml-f029",
+   "frente": "Contaminantes",
+   "verso": "Desabamento (FLH côncavo = pressão anormal), aditivos do fluido, ferrugem, limalha, tinta, borracha, graxa, cimento (fenolftaleína + HCl)."
+  },
+  {
+   "id": "ml-f030",
+   "frente": "Percentagem na descrição",
+   "verso": "Frações de 10%. Traços: 1–9%. Raros: < 1%."
+  },
+  {
+   "id": "ml-f031",
+   "frente": "Seleção",
+   "verso": "Boa: 90% dos grãos em 1–2 classes. Regular: 3–4. Má: 5 ou mais."
+  },
+  {
+   "id": "ml-f032",
+   "frente": "Fluorescência",
+   "verso": "Total > 90% dos fragmentos. Esparsa: 10–90%. Pontual: < 10%. Rara: < 1%."
+  },
+  {
+   "id": "ml-f033",
+   "frente": "Corte",
+   "verso": "Disseminação do HC em solvente sob UV. Imediato, moderado ou provocado. Radial ou aureolar."
+  },
+  {
+   "id": "ml-f034",
+   "frente": "Anomalias gasosas",
+   "verso": "Liberado, de manobra, reciclado, de conexão, produzido e background."
+  },
+  {
+   "id": "ml-f035",
+   "frente": "Gás de conexão",
+   "verso": "Pico após parada da bomba na conexão. Se crescente, o sobrebalanço está diminuindo."
+  },
+  {
+   "id": "ml-f036",
+   "frente": "Kick: evidência robusta",
+   "verso": "Ganho de volume nos tanques + aumento do flowout + gás total."
+  }
+ ]
+}

@@ -146,4 +146,8 @@ Abas internas:
 
 ## Publicação
 - Repositório público `app-fluidos` no GitHub, GitHub Pages servindo a branch `main` (raiz).
+  - Repo: https://github.com/vraffo-star/app-fluidos
+  - Site: https://vraffo-star.github.io/app-fluidos/
 - Commits pequenos e com mensagem em português.
+- **E-mail dos commits**: só o noreply do GitHub (`318654462+vraffo-star@users.noreply.github.com`, já configurado no `git config` local deste repo). Nunca commitar com e-mail pessoal ou institucional.
+- **Publicar**: `.\publicar.ps1 "mensagem do commit"`. O script valida `data/` (índice e todos os arquivos referenciados), bloqueia PDFs e material do curso, recusa publicar se arquivos da app mudaram sem subir `VERSAO` em `sw.js`, e faz commit + push na `main`. O Pages atualiza em 1–2 minutos.

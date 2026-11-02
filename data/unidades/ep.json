@@ -127,182 +127,6 @@
    "explicacao": "Verdadeiro. A curva potencial com novos investimentos mostra um declínio mais suave, adiando o momento em que a produção cruza o limite econômico."
   },
   {
-   "id": "ep-0009",
-   "dificuldade": 1,
-   "tema": "História do petróleo",
-   "enunciado": "Desde quando há registros do uso do petróleo pela humanidade?",
-   "tipo": "multipla",
-   "alternativas": [
-    "Cerca de 4000 a.C., graças a exsudações e afloramentos no Oriente Médio",
-    "Desde o ano 1000 d.C., na Europa",
-    "Somente a partir do século XX",
-    "Apenas a partir de 1859",
-    "Desde a Revolução Industrial, no século XVIII"
-   ],
-   "correta": 0,
-   "explicacao": "Mesopotâmios, egípcios, persas e povos da Judeia já usavam betume em estradas, construções, iluminação, aquecimento, como lubrificante e até como laxativo."
-  },
-  {
-   "id": "ep-0010",
-   "dificuldade": 2,
-   "tema": "História do petróleo",
-   "enunciado": "Segundo o curso, qual povo já perfurava poços usando hastes de bambu, por volta de 347 a.C.?",
-   "tipo": "multipla",
-   "alternativas": [
-    "Os fenícios",
-    "Os romanos",
-    "Os incas",
-    "Os chineses",
-    "Os egípcios"
-   ],
-   "correta": 3,
-   "explicacao": "Os chineses perfuravam poços com hastes de bambu já em 347 a.C., no mínimo."
-  },
-  {
-   "id": "ep-0011",
-   "dificuldade": 2,
-   "tema": "História do petróleo",
-   "enunciado": "Em 1850, na Escócia, James Young ficou conhecido por:",
-   "tipo": "multipla",
-   "alternativas": [
-    "Descobrir o pré-sal do Mar do Norte",
-    "Inventar a sísmica de reflexão",
-    "Perfurar o primeiro poço comercial do mundo",
-    "Descobrir que o petróleo podia ser extraído do carvão e do xisto betuminoso e criar processos de refinação",
-    "Fundar a primeira companhia estatal de petróleo"
-   ],
-   "correta": 3,
-   "explicacao": "Young desenvolveu processos de refino a partir de carvão e xisto, marco da moderna indústria do petróleo em meados do século XIX."
-  },
-  {
-   "id": "ep-0012",
-   "dificuldade": 1,
-   "tema": "História do petróleo",
-   "enunciado": "O poço de Edwin Drake, em 1859, na Pensilvânia, tinha aproximadamente:",
-   "tipo": "multipla",
-   "alternativas": [
-    "210 metros de profundidade e 0,5 m³/dia",
-    "2.100 metros de profundidade e 200 m³/dia",
-    "488 metros de profundidade e 0,5 m³/dia",
-    "21 metros de profundidade e produção de 2 m³/dia",
-    "7.000 metros de profundidade, no pré-sal"
-   ],
-   "correta": 3,
-   "explicacao": "Drake perfurou em agosto de 1859 um poço de 21 m que produziu cerca de 2 m³/dia de óleo — o início da indústria moderna."
-  },
-  {
-   "id": "ep-0013",
-   "dificuldade": 2,
-   "tema": "História no Brasil",
-   "enunciado": "Qual foi o poço descobridor de petróleo no Brasil, em 21 de janeiro de 1939?",
-   "tipo": "multipla",
-   "alternativas": [
-    "O primeiro poço de Candeias (BA)",
-    "DNPM-163, em Lobato (BA)",
-    "O poço de Miranga (BA)",
-    "O poço de Bofete (SP), de Eugênio Ferreira Camargo",
-    "O poço 1-RJS-652, na Bacia de Santos"
-   ],
-   "correta": 1,
-   "explicacao": "O DNPM-163, em Lobato (BA), encontrou petróleo a 210 m. Era antieconômico, mas foi fundamental para o desenvolvimento das atividades no país."
-  },
-  {
-   "id": "ep-0014",
-   "dificuldade": 2,
-   "tema": "História no Brasil",
-   "enunciado": "Onde e quando foi descoberto o primeiro campo comercial de petróleo do Brasil?",
-   "tipo": "multipla",
-   "alternativas": [
-    "Na Bacia de Campos, em 1974",
-    "Em Mossoró (RN), em 1953",
-    "Em Bofete (SP), em 1897",
-    "Em Lobato (BA), em 1939",
-    "Em Candeias (BA), em 1941"
-   ],
-   "correta": 4,
-   "explicacao": "Lobato (1939) foi a primeira descoberta, mas antieconômica. O primeiro campo comercial foi Candeias (BA), em 1941."
-  },
-  {
-   "id": "ep-0015",
-   "dificuldade": 2,
-   "tema": "História no Brasil",
-   "enunciado": "O primeiro poço perfurado no Brasil com o objetivo de encontrar petróleo foi:",
-   "tipo": "multipla",
-   "alternativas": [
-    "O DNPM-163, em Lobato, em 1939",
-    "O de Drake, em Titusville",
-    "Um poço da Petrobras em 1953",
-    "O de Candeias, em 1941",
-    "O de Bofete (SP), em 1897, com 488 m e produção relatada de 0,5 m³ de óleo"
-   ],
-   "correta": 4,
-   "explicacao": "Eugênio Ferreira Camargo perfurou em Bofete (SP), em 1897, um poço de 488 m. Antes disso, em 1858, houve apenas uma concessão para extrair mineral betuminoso na Bahia."
-  },
-  {
-   "id": "ep-0016",
-   "dificuldade": 2,
-   "tema": "História no Brasil",
-   "enunciado": "Em 1858, o Decreto nº 2.266, assinado pelo Marquês de Olinda, concedeu a José Barros Pimentel o direito de:",
-   "tipo": "multipla",
-   "alternativas": [
-    "Perfurar poços no pré-sal",
-    "Explorar petróleo em Bofete (SP)",
-    "Extrair mineral betuminoso para fabricar querosene às margens do Rio Marau, na Bahia",
-    "Criar a Petrobras",
-    "Importar petróleo dos EUA"
-   ],
-   "correta": 2,
-   "explicacao": "É considerado o início da história do petróleo no Brasil: uma concessão para extração de mineral betuminoso, na então província da Bahia."
-  },
-  {
-   "id": "ep-0017",
-   "dificuldade": 1,
-   "tema": "História no Brasil",
-   "enunciado": "Em que ano foi criada a Petrobras, instituindo o monopólio estatal do petróleo?",
-   "tipo": "multipla",
-   "alternativas": [
-    "1919",
-    "1941",
-    "1939",
-    "1953",
-    "1997"
-   ],
-   "correta": 3,
-   "explicacao": "Em 1953, no governo Vargas, foi criada a Petrobras com o monopólio estatal, dando partida decisiva às pesquisas do petróleo brasileiro."
-  },
-  {
-   "id": "ep-0018",
-   "dificuldade": 3,
-   "tema": "História do petróleo",
-   "enunciado": "Segundo o curso, qual fator dos anos 70 impulsionou avanços nos métodos sísmicos e na recuperação avançada?",
-   "tipo": "multipla",
-   "alternativas": [
-    "A proibição do uso de petróleo como combustível",
-    "As elevações bruscas de preço do petróleo e o fato de as reservas dos EUA estarem “esgotadas”",
-    "A descoberta do pré-sal brasileiro",
-    "A abundância de petróleo barato no Oriente Médio",
-    "A queda de 60% nos custos de exploração"
-   ],
-   "correta": 1,
-   "explicacao": "Nos anos 70 houve choques de preço, grandes descobertas no Mar do Norte e no México e reservas americanas em declínio, o que estimulou tecnologia sísmica e recuperação avançada."
-  },
-  {
-   "id": "ep-0019",
-   "dificuldade": 3,
-   "tema": "História do petróleo",
-   "enunciado": "O que caracterizou as décadas de 80 e 90, segundo a linha do tempo apresentada?",
-   "tipo": "multipla",
-   "alternativas": [
-    "Proibição de exportação de petróleo",
-    "Abandono da exploração offshore",
-    "Fim do uso de sísmica 3D",
-    "Descoberta do primeiro campo comercial brasileiro",
-    "Avanços tecnológicos que reduziram custos, com reservas maiores e custos de E&P cerca de 60% menores em 1996 em relação a 1980"
-   ],
-   "correta": 4,
-   "explicacao": "A tecnologia criou um novo ciclo econômico: em 1996 as reservas provadas eram ~60% maiores que em 1980 e os custos médios de exploração e produção tinham caído ~60%."
-  },
-  {
    "id": "ep-0020",
    "dificuldade": 1,
    "tema": "Composição do petróleo",
@@ -572,22 +396,6 @@
    "explicacao": "Verdadeiro. Já a sísmica de refração registra ondas refratadas nos contatos litológicos que voltam à superfície por incidirem num ângulo determinado."
   },
   {
-   "id": "ep-0037",
-   "dificuldade": 2,
-   "tema": "Bacias brasileiras",
-   "enunciado": "Pelos dados apresentados, como se distribui aproximadamente a área sedimentar brasileira?",
-   "tipo": "multipla",
-   "alternativas": [
-    "Cerca de 6,4 milhões de km², todos no mar",
-    "Cerca de 1,5 milhão de km² no total, todo no mar",
-    "Cerca de 64 milhões de km²",
-    "Cerca de 6,4 milhões de km² no total, dos quais ~4,9 em terra e ~1,5 no mar",
-    "Cerca de 0,78 milhão de km² em terra e 4,9 no mar"
-   ],
-   "correta": 3,
-   "explicacao": "Total ~6,4 MM km²: terra ~4,9 MM km²; mar ~1,5 MM km² (0,78 até 400 m de lâmina d'água e 0,74 além de 400 m)."
-  },
-  {
    "id": "ep-0038",
    "dificuldade": 1,
    "tema": "Exploração",
@@ -647,38 +455,6 @@
    ],
    "correta": 1,
    "explicacao": "Falso. Indícios mostram que houve petróleo, mas a acumulação pode ser pequena, residual ou com baixa permeabilidade. É preciso avaliar com perfis e testes."
-  },
-  {
-   "id": "ep-0042",
-   "dificuldade": 2,
-   "tema": "Concessão",
-   "enunciado": "No fluxo dos períodos exploratórios (regime de concessão), o que vem após a avaliação de uma descoberta, quando ela é viável?",
-   "tipo": "multipla",
-   "alternativas": [
-    "A declaração de comercialidade e a entrada na fase de produção",
-    "A apresentação da garantia financeira do 1º período",
-    "A devolução imediata de toda a área",
-    "A assinatura do contrato de concessão",
-    "O início do 1º período exploratório"
-   ],
-   "correta": 0,
-   "explicacao": "Fluxo: contrato → períodos exploratórios → perfuração → notificação de descoberta → avaliação → declaração de comercialidade (sim) → fase de produção. Se não for comercial, a área é devolvida."
-  },
-  {
-   "id": "ep-0043",
-   "dificuldade": 3,
-   "tema": "Concessão",
-   "enunciado": "No fluxo genérico dos períodos exploratórios, o que acontece se a concessionária decide NÃO ingressar no 2º período exploratório?",
-   "tipo": "multipla",
-   "alternativas": [
-    "Apresenta notificação e plano de devolução da área e recebe de volta a garantia financeira do 1º período",
-    "Declara comercialidade sem perfurar",
-    "Passa automaticamente para a fase de produção",
-    "Mantém a área indefinidamente sem atividades",
-    "É obrigada a perfurar dois poços adicionais"
-   ],
-   "correta": 0,
-   "explicacao": "Sem ingresso no 2º período, a área é devolvida (notificação + plano de devolução) e a garantia financeira do 1º período é devolvida. Ingressando, apresenta nova garantia e tem perfuração obrigatória de um poço."
   },
   {
    "id": "ep-0044",
@@ -1423,22 +1199,6 @@
    "explicacao": "Os mandris são peças da coluna com alojamento para as válvulas de gas lift, por onde o gás injetado no anular passa para dentro da coluna."
   },
   {
-   "id": "ep-0090",
-   "dificuldade": 1,
-   "tema": "Elevação",
-   "enunciado": "Pelos dados apresentados (CONEPETRO, 2010), qual método de elevação tem o maior número de aplicações no Brasil?",
-   "tipo": "multipla",
-   "alternativas": [
-    "Bombeio por cavidades progressivas (BCP)",
-    "Bombeio mecânico",
-    "Bombeio centrífugo submerso (BCS)",
-    "Poço surgente",
-    "Gas lift contínuo"
-   ],
-   "correta": 1,
-   "explicacao": "O bombeio mecânico (o famoso “cavalinho de pau”) tinha cerca de 5.849 aplicações de um total de ~8.474, principalmente em campos terrestres."
-  },
-  {
    "id": "ep-0091",
    "dificuldade": 2,
    "tema": "Elevação",
@@ -1682,22 +1442,6 @@
    "explicacao": "I, II e III corretas. IV está errada: destilar em frações é refino (downstream). O tratador de óleo remove água e sais para enquadrar o óleo."
   },
   {
-   "id": "ep-0106",
-   "dificuldade": 1,
-   "tema": "Transporte e refino",
-   "enunciado": "Quais modais de transporte de petróleo e derivados foram apresentados no curso?",
-   "tipo": "multipla",
-   "alternativas": [
-    "Dutos, navios, caminhões-tanque e vagões ferroviários",
-    "Somente aviões cargueiros",
-    "Apenas dutos",
-    "Apenas caminhões",
-    "Apenas navios"
-   ],
-   "correta": 0,
-   "explicacao": "O petróleo e os derivados são transportados por dutos (oleodutos e gasodutos), navios petroleiros, caminhões e trens."
-  },
-  {
    "id": "ep-0107",
    "dificuldade": 2,
    "tema": "Transporte e refino",
@@ -1820,186 +1564,171 @@
   },
   {
    "id": "ep-f003",
-   "frente": "Drake, 1859",
-   "verso": "Pensilvânia (EUA), 21 m de profundidade, ~2 m³/dia. Início da indústria moderna."
-  },
-  {
-   "id": "ep-f004",
-   "frente": "James Young, 1850",
-   "verso": "Escócia: petróleo a partir de carvão e xisto betuminoso + processos de refinação."
-  },
-  {
-   "id": "ep-f005",
-   "frente": "Marcos do Brasil",
-   "verso": "1858: decreto de Olinda (BA). 1897: Bofete (SP), 488 m. 1939: Lobato (BA), DNPM-163, 210 m. 1941: Candeias (BA), 1º campo comercial. 1953: Petrobras."
-  },
-  {
-   "id": "ep-f006",
    "frente": "Origem da palavra petróleo",
    "verso": "Latim: petrus (pedra) + oleum (óleo)."
   },
   {
-   "id": "ep-f007",
+   "id": "ep-f004",
    "frente": "Frações por nº de carbonos",
    "verso": "Gás C1–C4 · gasolina C5–C10 · querosene C12–C18 · diesel C12+ · lubrificante C20–C34 · resíduo (parafina, asfalto)."
   },
   {
-   "id": "ep-f008",
+   "id": "ep-f005",
    "frente": "Grupos de métodos exploratórios",
    "verso": "Indicações diretas, geofísicos (sísmica de reflexão/refração, gravimetria, magnetometria), geológicos e geoquímicos."
   },
   {
-   "id": "ep-f009",
+   "id": "ep-f006",
    "frente": "Gravimetria × Magnetometria",
    "verso": "Gravimetria: campo gravitacional, contrastes de densidade. Magnetometria: suscetibilidade magnética das rochas."
   },
   {
-   "id": "ep-f010",
+   "id": "ep-f007",
    "frente": "Reflexão × Refração",
    "verso": "Reflexão: ondas refletidas em interfaces. Refração: ondas refratadas que voltam à superfície (exige V2 > V1 e ângulo crítico)."
   },
   {
-   "id": "ep-f011",
+   "id": "ep-f008",
    "frente": "Sísmica 3D",
    "verso": "Representação volumétrica mais detalhada do reservatório. Não elimina a perfuração nem a interpretação."
   },
   {
-   "id": "ep-f012",
+   "id": "ep-f009",
    "frente": "BSR",
    "verso": "Refletor que imita o fundo do mar: base da zona de estabilidade de hidratos (gás livre abaixo)."
   },
   {
-   "id": "ep-f013",
+   "id": "ep-f010",
    "frente": "Área sedimentar brasileira",
    "verso": "~6,4 MM km²: 4,9 em terra e 1,5 no mar."
   },
   {
-   "id": "ep-f014",
+   "id": "ep-f011",
    "frente": "Descoberta comercial",
    "verso": "Quando a produção é economicamente viável (indício ≠ descoberta comercial)."
   },
   {
-   "id": "ep-f015",
+   "id": "ep-f012",
    "frente": "Amostras de calha",
    "verso": "Fragmentos da broca trazidos pelo fluido. Coleta a cada 3, 6, 9 ou 18 m (depende da finalidade do poço). Descrição em lupa binocular → PAG."
   },
   {
-   "id": "ep-f016",
+   "id": "ep-f013",
    "frente": "Detector de gás",
    "verso": "Identifica HC gasosos (leves e totais), ajuda a prevenir kicks e blowouts e detecta HC sem fluorescência."
   },
   {
-   "id": "ep-f017",
+   "id": "ep-f014",
    "frente": "Mancha de óleo",
    "verso": "Preta e viscosa: óleo morto. Castanho-clara: óleo de boa qualidade."
   },
   {
-   "id": "ep-f018",
+   "id": "ep-f015",
    "frente": "Corte",
    "verso": "HC sai dos poros com solvente (tricloroetano). Rapidez: imediato, moderado, provocado. Forma: radial ou aureolar."
   },
   {
-   "id": "ep-f019",
+   "id": "ep-f016",
    "frente": "Testemunho × Amostra lateral",
    "verso": "Testemunho: durante a perfuração, qualquer metragem. Lateral: depois, em zonas escolhidas por perfis, ~2\" × 1\"."
   },
   {
-   "id": "ep-f020",
+   "id": "ep-f017",
    "frente": "COT mínimo",
    "verso": "1% em folhelhos, 0,5% em calcilutitos. Geradoras efetivas de maior interesse: COT > 3%."
   },
   {
-   "id": "ep-f021",
+   "id": "ep-f018",
    "frente": "Taxa de transformação (TT)",
    "verso": "(S2o − S2r)/S2o: fração do potencial original já convertida em petróleo."
   },
   {
-   "id": "ep-f022",
+   "id": "ep-f019",
    "frente": "Plataforma fixa (SM)",
    "verso": "Águas rasas (~200 m), jaqueta em estacas + módulos, sem compensador."
   },
   {
-   "id": "ep-f023",
+   "id": "ep-f020",
    "frente": "Auto-elevável (PA)",
    "verso": "Pernas no fundo; fixa, não afetada pelo tempo; baixo custo; lâmina d'água de até ~120 m."
   },
   {
-   "id": "ep-f024",
+   "id": "ep-f021",
    "frente": "Semissubmersível (SS)",
    "verso": "Mais estável que navio; ancorada ou DP; precisa de compensador."
   },
   {
-   "id": "ep-f025",
+   "id": "ep-f022",
    "frente": "Navio-sonda (NS)",
    "verso": "Propulsão própria, grande armazenagem, menos estável que a SS; ancorado ou DP; compensador."
   },
   {
-   "id": "ep-f026",
+   "id": "ep-f023",
    "frente": "Perfuração × Completação",
    "verso": "Perfuração: perfurar, revestir, cimentar. Completação: canhoneio, avaliação, estimulação, coluna, mandris, tubing hanger, DHSV, sai o BOP e entra a ANM."
   },
   {
-   "id": "ep-f027",
+   "id": "ep-f024",
    "frente": "Poço telescópico",
    "verso": "Fases 36\" → 26\" → 17 1/2\" → 12 1/4\" → 8 1/2\" (revestimentos 30\", 20\", 13 3/8\", 9 5/8\", 7\")."
   },
   {
-   "id": "ep-f028",
+   "id": "ep-f025",
    "frente": "Malhas de injeção",
    "verso": "Five-spot P/I = 1 · Seven-spot P/I = 2 · Nine-spot P/I = 3."
   },
   {
-   "id": "ep-f029",
+   "id": "ep-f026",
    "frente": "Elevação natural × artificial",
    "verso": "Natural (surgente): a pressão do reservatório basta. Artificial: gas lift, bombeio mecânico, BCS, BCP."
   },
   {
-   "id": "ep-f030",
+   "id": "ep-f027",
    "frente": "Regimes de fluxo vertical",
    "verso": "Bolha → golfada → transição → anular-nevoeiro (com mais gás)."
   },
   {
-   "id": "ep-f031",
+   "id": "ep-f028",
    "frente": "Índice de produtividade",
    "verso": "IP = q / (Pe − Pwf)."
   },
   {
-   "id": "ep-f032",
+   "id": "ep-f029",
    "frente": "Ponto de operação",
    "verso": "Cruzamento da curva de IPR (reservatório) com a de TPR (coluna)."
   },
   {
-   "id": "ep-f033",
+   "id": "ep-f030",
    "frente": "Perda de carga vertical",
    "verso": "ΔP total = ΔP elevação (hidrostática) + ΔP fricção + ΔP aceleração."
   },
   {
-   "id": "ep-f034",
+   "id": "ep-f031",
    "frente": "BCS × BCP",
    "verso": "BCS: motor elétrico no fundo + bomba centrífuga. BCP: motor na superfície gira hastes; rotor dentro do estator."
   },
   {
-   "id": "ep-f035",
+   "id": "ep-f032",
    "frente": "Caminho do óleo no FPSO",
    "verso": "Aquecedores (13→90 °C) → separador de produção → tratador de óleo (60 °C) → separador atmosférico → tanques → off-loading."
   },
   {
-   "id": "ep-f036",
+   "id": "ep-f033",
    "frente": "Caminho do gás no FPSO",
    "verso": "Baixa (0,18) → booster → 9 kgf/cm² → K.O. drum → turbocompressor (200) → glicol → exportação / combustível / gas lift."
   },
   {
-   "id": "ep-f037",
+   "id": "ep-f034",
    "frente": "Caminho da água no FPSO",
    "verso": "300–1.000 ppm → hidrociclones (200) → flotador (15) → TOG < 15 ppm: mar; > 15: volta."
   },
   {
-   "id": "ep-f038",
+   "id": "ep-f035",
    "frente": "Destilação",
    "verso": "Separa por ponto de ebulição: leves no topo (gás, nafta), pesados embaixo (resíduos)."
   },
   {
-   "id": "ep-f039",
+   "id": "ep-f036",
    "frente": "Gerações da petroquímica",
    "verso": "1ª: craqueamento → eteno, propeno, BTX. 2ª: polimerização → PE, PP, PVC. 3ª: transformadores de plástico."
   }

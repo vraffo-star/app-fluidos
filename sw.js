@@ -1,6 +1,6 @@
 // Service worker: casca da app em cache-first (versionada) e data/ em network-first.
 // Ao mudar qualquer arquivo da casca, aumente VERSAO para que a atualização chegue aos celulares.
-const VERSAO = 'v3';
+const VERSAO = 'v4';
 const CASCA = `fluidos-casca-${VERSAO}`;
 const DADOS = 'fluidos-dados';
 const ESPERA_REDE_MS = 4000;

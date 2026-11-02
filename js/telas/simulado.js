@@ -38,11 +38,27 @@ export function subSimulado(raiz, partes, moldura) {
 
   function desenhar() {
     parar();
-    const s = store.simulado();
+    let s = store.simulado();
+    if (s && !s.fim) s = semRemovidas(s);
     if (!s) entrada();
     else if (s.fim) resultado(s);
     else if (Date.now() >= s.inicio + DURACAO_MS) finalizar(s);
     else prova(s);
+  }
+
+  // Tira do simulado em andamento as perguntas que saíram dos dados (total, posição e respostas).
+  function semRemovidas(s) {
+    const vivos = s.ids.filter((id) => pergunta(id));
+    if (vivos.length === s.ids.length) return s;
+    if (!vivos.length) {
+      store.definirSimulado(null);
+      return null;
+    }
+    s.pos = Math.min(s.ids.slice(0, s.pos).filter((id) => pergunta(id)).length, vivos.length - 1);
+    s.ids = vivos;
+    for (const id in s.resp) if (!pergunta(id)) delete s.resp[id];
+    store.definirSimulado(s);
+    return s;
   }
 
   function entrada() {
@@ -77,12 +93,10 @@ export function subSimulado(raiz, partes, moldura) {
     const total = s.ids.length;
     const q = pergunta(s.ids[s.pos]);
     if (!q) {
-      // Pergunta que saiu dos dados: tira do simulado e segue.
-      s.ids.splice(s.pos, 1);
-      s.pos = Math.min(s.pos, Math.max(0, s.ids.length - 1));
-      store.definirSimulado(s);
-      if (s.ids.length) prova(s);
-      else { store.definirSimulado(null); desenhar(); }
+      // Pergunta que saiu dos dados (não deveria acontecer: desenhar() já limpa).
+      const limpo = semRemovidas(s);
+      if (limpo && pergunta(limpo.ids[limpo.pos])) prova(limpo);
+      else desenhar();
       return;
     }
     const respondidas = s.ids.filter((id) => s.resp[id] !== undefined).length;

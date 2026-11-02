@@ -127,38 +127,6 @@
    "explicacao": "Núcleo = ferro e níquel, muito quente. O interno é sólido (~1.216 km) e o externo é líquido (~2.270 km)."
   },
   {
-   "id": "geo-0009",
-   "dificuldade": 1,
-   "tema": "História do petróleo",
-   "enunciado": "O marco do início da exploração comercial moderna de petróleo é:",
-   "tipo": "multipla",
-   "alternativas": [
-    "O poço do “Coronel” Drake, em Titusville (Pensilvânia, EUA), em 1859",
-    "A primeira perfilagem dos irmãos Schlumberger, em 1927",
-    "A descoberta do pré-sal em 2006",
-    "O uso de betume pelos fenícios para calafetar barcos",
-    "A criação da Petrobras, em 1953"
-   ],
-   "correta": 0,
-   "explicacao": "Em 27/08/1859 Drake encontrou óleo a 21 m de profundidade em Titusville, com vazão de ~2 m³/dia — o “Drake Day”, início da exploração comercial."
-  },
-  {
-   "id": "geo-0010",
-   "dificuldade": 2,
-   "tema": "História do petróleo",
-   "enunciado": "O que mudou na exploração de petróleo do início do século XX para hoje?",
-   "tipo": "multipla",
-   "alternativas": [
-    "A exploração passou a depender apenas da magnetometria",
-    "Hoje basta encontrar uma rocha reservatório para garantir um campo",
-    "Abandonou-se completamente a geologia de superfície",
-    "Hoje se perfura apenas onde há exsudações visíveis",
-    "Passou-se da busca por indícios superficiais e “achologia” para a procura da convergência dos elementos de um sistema petrolífero"
-   ],
-   "correta": 4,
-   "explicacao": "Antes se procurava óleo perto de indícios de superfície e se perfurava desenfreadamente ao redor. Hoje o objetivo é encontrar a convergência de geradora, reservatório, selo e trapa."
-  },
-  {
    "id": "geo-0011",
    "dificuldade": 1,
    "tema": "Origem do petróleo",
@@ -1340,22 +1308,6 @@
    "explicacao": "Jazida mais profunda = categoria 6; jazida mais rasa = categoria 5. Extensão (3) delimita a mesma acumulação; pioneiro adjacente (4) testa área vizinha."
   },
   {
-   "id": "geo-0085",
-   "dificuldade": 1,
-   "tema": "Poços",
-   "enunciado": "Pela norma da ANP, os campos de petróleo no mar e em terra recebem, respectivamente, nomes de:",
-   "tipo": "multipla",
-   "alternativas": [
-    "Santos; personagens históricos",
-    "Rios; montanhas",
-    "Pássaros; peixes",
-    "Estados; cidades",
-    "Peixes e outros organismos marinhos; pássaros"
-   ],
-   "correta": 4,
-   "explicacao": "Campos marítimos: nomes de peixes e organismos marinhos (por exemplo, Marlim). Campos terrestres: nomes de pássaros."
-  },
-  {
    "id": "geo-0086",
    "dificuldade": 2,
    "tema": "Poços",
@@ -1948,99 +1900,6 @@
    "explicacao": "Gerenciamento = acompanhar a produção e agregar valor ao ativo. Caracterização = estudos para simulação de fluxo, adensamento de malha, novos poços e recuperação secundária/terciária."
   },
   {
-   "id": "geo-0123",
-   "dificuldade": 1,
-   "tema": "Margem Equatorial",
-   "enunciado": "A Margem Equatorial brasileira é apresentada pela Petrobras como:",
-   "tipo": "multipla",
-   "alternativas": [
-    "A principal área produtora do pré-sal",
-    "A última grande fronteira exploratória do país",
-    "Uma área sem potencial petrolífero",
-    "Uma bacia exclusivamente terrestre",
-    "Uma bacia madura em declínio de produção"
-   ],
-   "correta": 1,
-   "explicacao": "Com a necessidade de repor reservas, a Margem Equatorial (Foz do Amazonas, Pará-Maranhão, Barreirinhas, Ceará, Potiguar) é tratada como nova e última fronteira exploratória."
-  },
-  {
-   "id": "geo-0124",
-   "dificuldade": 2,
-   "tema": "Margem Equatorial",
-   "enunciado": "Por que as descobertas na Guiana e no Suriname aumentaram o interesse pela Margem Equatorial brasileira?",
-   "tipo": "multipla",
-   "alternativas": [
-    "Porque há compatibilidade de sistema petrolífero entre essas bacias e as da Margem Equatorial brasileira",
-    "Porque a legislação da Guiana proíbe exploração offshore",
-    "Porque as bacias brasileiras são idênticas ao pré-sal de Santos",
-    "Porque a Guiana não tem mais reservas",
-    "Porque o petróleo da Guiana migra para o Brasil"
-   ],
-   "correta": 0,
-   "explicacao": "A Guiana passou de nada a mais de 11 bilhões de barris estimados. Como o sistema petrolífero é compatível com o das bacias brasileiras vizinhas, espera-se potencial semelhante."
-  },
-  {
-   "id": "geo-0125",
-   "dificuldade": 2,
-   "tema": "Margem Equatorial",
-   "enunciado": "O bloco FZA-M-59 (poço Morpho), na Foz do Amazonas, tem aproximadamente qual lâmina d'água e distância da costa?",
-   "tipo": "multipla",
-   "alternativas": [
-    "Cerca de 100 m de lâmina d'água e 2 km da costa",
-    "Cerca de 2.880 m de lâmina d'água e 175 km da costa",
-    "Cerca de 300 m de lâmina d'água e 10 km da costa",
-    "Cerca de 6.000 m de lâmina d'água e 50 km da costa",
-    "Cerca de 1.500 m de lâmina d'água e 540 km da costa"
-   ],
-   "correta": 1,
-   "explicacao": "Pelos dados apresentados: lâmina d'água ~2.880 m, ~175 km da costa e ~540 km da foz do Rio Amazonas — águas ultraprofundas (>1.500 m)."
-  },
-  {
-   "id": "geo-0126",
-   "dificuldade": 2,
-   "tema": "Margem Equatorial",
-   "enunciado": "Segundo a apresentação, em maio de 2023 o IBAMA indeferiu o licenciamento do bloco FZA-M-59 e a Petrobras pediu reconsideração da decisão.",
-   "tipo": "vf",
-   "alternativas": [
-    "Verdadeiro",
-    "Falso"
-   ],
-   "correta": 0,
-   "explicacao": "Verdadeiro. O indeferimento foi em 17/05/2023 e o pedido de reconsideração em 25/05/2023, depois de a Petrobras ter atendido às solicitações do IBAMA em fevereiro de 2023."
-  },
-  {
-   "id": "geo-0127",
-   "dificuldade": 3,
-   "tema": "Margem Equatorial",
-   "enunciado": "Segundo a apresentação, mesmo em cenários de transição energética alinhados ao Acordo de Paris, por que se defende a exploração de novas fronteiras no Brasil?",
-   "tipo": "multipla",
-   "alternativas": [
-    "Porque as energias renováveis serão proibidas",
-    "Porque a demanda de petróleo continua essencial e o petróleo brasileiro poderia substituir outros produzidos com mais emissões",
-    "Porque o pré-sal já está esgotado",
-    "Porque o Acordo de Paris exige aumento da produção",
-    "Porque a demanda mundial de petróleo deve crescer sem limite até 2100"
-   ],
-   "correta": 1,
-   "explicacao": "O argumento é de “dupla resiliência” (econômica e ambiental): a demanda cai, mas continua essencial, e o óleo brasileiro, de menor intensidade de emissões, substituiria produções mais poluentes. Isso também garante segurança e soberania energética."
-  },
-  {
-   "id": "geo-0128",
-   "dificuldade": 2,
-   "tema": "Margem Equatorial",
-   "enunciado": "O que é a AAAS (Avaliação Ambiental de Área Sedimentar)?",
-   "tipo": "multipla",
-   "alternativas": [
-    "Um teste de formação exigido pelo IBAMA",
-    "Um tipo de poço estratigráfico",
-    "Uma licença de perfuração emitida pela ANP",
-    "Um plano de emergência para vazamentos",
-    "Um estudo de planejamento para o leilão de blocos, sob responsabilidade do MME e do MMA"
-   ],
-   "correta": 4,
-   "explicacao": "A AAAS (Portaria 198/2012) é um estudo de planejamento prévio ao leilão. A Petrobras argumentou que suas conclusões só deveriam valer para áreas ainda a serem outorgadas."
-  },
-  {
    "id": "geo-0129",
    "dificuldade": 3,
    "tema": "Sistema petrolífero",
@@ -2330,11 +2189,6 @@
    "id": "geo-f038",
    "frente": "VOIP, VR, FR, Np e reserva",
    "verso": "VR = VOIP × FR. Np = produzido até a data. Reserva = o que ainda pode ser produzido."
-  },
-  {
-   "id": "geo-f039",
-   "frente": "Margem Equatorial",
-   "verso": "Última fronteira (FZA, PAMA, BAR, CE, POT). Bloco FZA-M-59: ~2.880 m de lâmina d'água, 175 km da costa."
   }
  ]
 }

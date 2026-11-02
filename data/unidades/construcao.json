@@ -1,0 +1,2269 @@
+{
+ "id": "construcao",
+ "perguntas": [
+  {
+   "id": "cp-0001",
+   "dificuldade": 1,
+   "tema": "Fluido de perfuração",
+   "enunciado": "O fluido de perfuração (lama) pode ser líquido ou gasoso e ajuda a remover os cascalhos gerados pela broca.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "Verdadeiro. Fluido de perfuração é uma mistura líquida ou gasosa que auxilia na remoção dos cascalhos, além de resfriar e limpar a broca e controlar pressões."
+  },
+  {
+   "id": "cp-0002",
+   "dificuldade": 1,
+   "tema": "Pressão hidrostática",
+   "enunciado": "Qual é a expressão da pressão hidrostática (psi) usada no curso, com massa específica em lb/gal e altura em metros?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Ph = 1,42 × ρ × h",
+    "Ph = ρ × h ÷ 0,17",
+    "Ph = 0,17 × h ÷ ρ",
+    "Ph = 0,17 × ρ × h",
+    "Ph = 0,17 × ρ ÷ h"
+   ],
+   "correta": 3,
+   "explicacao": "Ph = 0,17 × ρ (lb/gal) × h (m), resultado em psi. O 0,17 já embute a conversão de unidades."
+  },
+  {
+   "id": "cp-0003",
+   "dificuldade": 1,
+   "tema": "Classificação de poços",
+   "enunciado": "Pela profundidade, um poço é classificado como profundo quando passa de:",
+   "tipo": "multipla",
+   "alternativas": [
+    "2.500 m",
+    "4.000 m",
+    "1.500 m",
+    "3.500 m",
+    "5.000 m"
+   ],
+   "correta": 0,
+   "explicacao": "Rasos: até 1.500 m. Médios: 1.500 a 2.500 m. Profundos: acima de 2.500 m."
+  },
+  {
+   "id": "cp-0004",
+   "dificuldade": 1,
+   "tema": "Classificação de poços",
+   "enunciado": "Como se chama o poço cuja trajetória é desviada de propósito para atingir um alvo que não está logo abaixo da locação?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Onshore",
+    "Exploratório",
+    "Vertical",
+    "Direcional",
+    "Especial"
+   ],
+   "correta": 3,
+   "explicacao": "Poço direcional é aquele em que a trajetória é desviada intencionalmente para alcançar objetivos fora da vertical da locação."
+  },
+  {
+   "id": "cp-0005",
+   "dificuldade": 1,
+   "tema": "Classificação de poços",
+   "enunciado": "Quanto à localização, um poço perfurado no mar é chamado de:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Marítimo (offshore)",
+    "Multilateral",
+    "Raso",
+    "Terrestre (onshore)",
+    "Explotatório"
+   ],
+   "correta": 0,
+   "explicacao": "Localização: terrestre (onshore) ou marítimo (offshore)."
+  },
+  {
+   "id": "cp-0006",
+   "dificuldade": 1,
+   "tema": "Classificação de poços",
+   "enunciado": "Qual categoria de poço é perfurada para produzir (ou injetar) em uma jazida já descoberta?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Explotatório",
+    "Exploratório",
+    "Poço pioneiro",
+    "Poço estratigráfico",
+    "Poço de extensão"
+   ],
+   "correta": 0,
+   "explicacao": "Pela finalidade: exploratórios (buscam acumulações), explotatórios (desenvolvimento/produção) e especiais. Pioneiro, extensão e estratigráfico são tipos de exploratórios."
+  },
+  {
+   "id": "cp-0007",
+   "dificuldade": 1,
+   "tema": "Equipamentos de sonda",
+   "enunciado": "Qual equipamento mantém a coluna de perfuração suspensa na mesa rotativa durante as conexões?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Colar de segurança",
+    "Chave flutuante",
+    "Cunhas",
+    "Estabilizador",
+    "Swivel"
+   ],
+   "correta": 2,
+   "explicacao": "As cunhas seguram a coluna na mesa rotativa durante as conexões. A chave flutuante dá o torque de aperto, e o colar de segurança evita a queda da coluna no poço se ela escorregar pelas cunhas."
+  },
+  {
+   "id": "cp-0008",
+   "dificuldade": 1,
+   "tema": "Coluna de perfuração",
+   "enunciado": "A principal função dos comandos (drill collars) é:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Transmitir rotação ao kelly",
+    "Fornecer peso sobre a broca e dar estabilidade à coluna",
+    "Fazer a transição gradual entre tubos de perfuração e revestimento",
+    "Circular o fluido de perfuração até o anular",
+    "Sustentar a torre da sonda"
+   ],
+   "correta": 1,
+   "explicacao": "Os comandos têm parede espessa e fornecem peso sobre a broca (PSB), dando também estabilidade à coluna."
+  },
+  {
+   "id": "cp-0009",
+   "dificuldade": 1,
+   "tema": "Sistema de rotação",
+   "enunciado": "Qual equipamento permite perfurar em seções de tubos (≈ 27 m), substituindo o conjunto kelly + mesa rotativa?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Estabilizador",
+    "Bucha do kelly",
+    "Top drive",
+    "Motor de fundo",
+    "Swivel"
+   ],
+   "correta": 2,
+   "explicacao": "Com o top drive a perfuração avança de seção em seção (≈ 27 m, três tubos), reduzindo conexões. Na mesa rotativa a perfuração é de tubo em tubo (≈ 9 m)."
+  },
+  {
+   "id": "cp-0010",
+   "dificuldade": 1,
+   "tema": "Sistema de circulação",
+   "enunciado": "Qual o tipo de bomba de lama mais comum nas sondas de perfuração?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Centrífuga de um estágio",
+    "Peristáltica",
+    "De diafragma simples",
+    "Triplex (três cilindros)",
+    "De engrenagens"
+   ],
+   "correta": 3,
+   "explicacao": "As bombas de lama são tipicamente triplex, com três cilindros (pistões) que injetam fluido a cada ciclo (stroke)."
+  },
+  {
+   "id": "cp-0011",
+   "dificuldade": 1,
+   "tema": "Sonda de perfuração",
+   "enunciado": "Numa escala de embarque 14 × 14, o profissional fica 14 dias a bordo e 14 dias de folga.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "Verdadeiro. As escalas (7×7, 14×14, 21×21, 28×28, 7×14, 14×21) indicam dias embarcado × dias de folga. O regime de trabalho é de 12 h × 12 h."
+  },
+  {
+   "id": "cp-0012",
+   "dificuldade": 1,
+   "tema": "Segurança do poço",
+   "enunciado": "Qual conjunto pertence ao sistema de segurança do poço?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Swivel e kelly",
+    "Peneiras e desareiador",
+    "BOP e choke manifold",
+    "Mesa rotativa e top drive",
+    "Bomba triplex e mangotes"
+   ],
+   "correta": 2,
+   "explicacao": "O sistema de segurança do poço (controle de kicks para evitar blowout) inclui o BOP, o choke manifold e as linhas de choke e kill."
+  },
+  {
+   "id": "cp-0013",
+   "dificuldade": 1,
+   "tema": "Organograma de sonda",
+   "enunciado": "Quem é o Tool Pusher (encarregado) em uma sonda?",
+   "tipo": "multipla",
+   "alternativas": [
+    "O geólogo que acompanha as formações",
+    "O responsável geral pelas operações e pela equipe da sonda",
+    "O químico responsável pelo fluido",
+    "O técnico de manutenção",
+    "O operador da torre"
+   ],
+   "correta": 1,
+   "explicacao": "O encarregado (tool pusher) coordena a sonda. Abaixo dele vêm o sondador, o assistente, o torrista, o plataformista e o auxiliar."
+  },
+  {
+   "id": "cp-0014",
+   "dificuldade": 1,
+   "tema": "Tanque de lama",
+   "enunciado": "O controle de nível dos tanques de lama ajuda a identificar indícios de kick e de perda de circulação.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "Verdadeiro. Ganho de volume nos tanques indica entrada de fluido da formação (kick). Perda de volume indica perda de circulação."
+  },
+  {
+   "id": "cp-0015",
+   "dificuldade": 1,
+   "tema": "Tipos de sondas",
+   "enunciado": "Qual sonda marítima tem casco de navio, sendo muito usada em águas profundas?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Sonda helitransportada",
+    "Plataforma auto-elevatória",
+    "Plataforma fixa de produção",
+    "Navio-sonda",
+    "Sonda convencional"
+   ],
+   "correta": 3,
+   "explicacao": "Sondas marítimas: plataforma modulada, auto-elevatória (PA), semissubmersível (SS) e navio-sonda (NS)."
+  },
+  {
+   "id": "cp-0016",
+   "dificuldade": 1,
+   "tema": "Revestimentos",
+   "enunciado": "Os tubos de revestimento têm comprimento médio de aproximadamente 12 m.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "Verdadeiro. Os tubos de revestimento têm cerca de 12 m, enquanto os tubos de perfuração têm cerca de 9 m."
+  },
+  {
+   "id": "cp-0017",
+   "dificuldade": 1,
+   "tema": "Revestimentos",
+   "enunciado": "Qual revestimento é o mais raso e sustenta os sedimentos superficiais inconsolidados?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Condutor",
+    "Tieback",
+    "Liner de produção",
+    "Intermediário",
+    "De produção"
+   ],
+   "correta": 0,
+   "explicacao": "O revestimento condutor tem pequena profundidade e sustenta sedimentos superficiais inconsolidados. É cravado, cimentado ou jateado (offshore)."
+  },
+  {
+   "id": "cp-0018",
+   "dificuldade": 1,
+   "tema": "Revestimentos",
+   "enunciado": "Qual diâmetro típico de poço corresponde ao revestimento de 9 5/8 pol?",
+   "tipo": "multipla",
+   "alternativas": [
+    "12 1/4 pol",
+    "17 1/2 pol",
+    "8 1/2 pol",
+    "36 pol",
+    "26 pol"
+   ],
+   "correta": 0,
+   "explicacao": "Pares típicos (poço/revestimento): 36/30, 26/20, 17 1/2 / 13 3/8, 12 1/4 / 9 5/8 e 8 1/2 / 7."
+  },
+  {
+   "id": "cp-0019",
+   "dificuldade": 1,
+   "tema": "Perfilagem",
+   "enunciado": "A perfilagem consiste em:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Circular o fluido para limpar o poço",
+    "Retirar peixes do poço",
+    "Injetar cimento atrás do revestimento",
+    "Medir a densidade da lama no tanque",
+    "Obter informações do poço por ferramentas descidas a cabo (wireline) ou na coluna"
+   ],
+   "correta": 4,
+   "explicacao": "A perfilagem é a leitura do poço em busca de informações, com ferramentas a cabo ou na coluna. Inclui perfis acústicos para avaliar a cimentação."
+  },
+  {
+   "id": "cp-0020",
+   "dificuldade": 1,
+   "tema": "Integridade de poços",
+   "enunciado": "Como se chama o conjunto de elementos que impede o fluxo não intencional de fluidos da formação para o meio externo e entre intervalos do poço?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Coluna Secundária de Base",
+    "Controle de Sistemas de Base",
+    "Conjunto Solidário de Barreiras (CSB)",
+    "Centro de Segurança de Brocas",
+    "Controle de Sistemas de Bombeio"
+   ],
+   "correta": 2,
+   "explicacao": "O CSB é o conjunto solidário de barreiras. Existem o CSB primário (controle primário do poço) e o secundário."
+  },
+  {
+   "id": "cp-0021",
+   "dificuldade": 1,
+   "tema": "Integridade de poços",
+   "enunciado": "O fluido de perfuração pode fazer parte do conjunto solidário de barreiras (CSB).",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "Verdadeiro. Para isso é preciso ter coluna hidrostática (volume e extensão) e propriedades adequadas, sobretudo densidade."
+  },
+  {
+   "id": "cp-0022",
+   "dificuldade": 1,
+   "tema": "Ciclo do poço",
+   "enunciado": "Se após perfurar a última fase o poço for considerado inviável, o que acontece?",
+   "tipo": "multipla",
+   "alternativas": [
+    "É reperfurado na mesma fase",
+    "É completado e testado",
+    "Recebe um novo revestimento condutor",
+    "Segue direto para a produção",
+    "Ele é abandonado"
+   ],
+   "correta": 4,
+   "explicacao": "Fluxo da construção: perfuração da última fase → avaliação. Viável: revestimento, cimentação e completação. Inviável: abandono."
+  },
+  {
+   "id": "cp-0023",
+   "dificuldade": 1,
+   "tema": "Parâmetros de perfuração",
+   "enunciado": "Quais são parâmetros de perfuração de poços?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Profundidade, LDA e cota altimétrica",
+    "Densidade da lama, API e salinidade",
+    "Idade da formação, temperatura e pH",
+    "Torque, litologia e porosidade",
+    "Peso sobre a broca, rotação da broca e vazão de bombeio"
+   ],
+   "correta": 4,
+   "explicacao": "Os parâmetros controlados na perfuração são o peso sobre a broca (PSB), a rotação e a vazão de bombeio."
+  },
+  {
+   "id": "cp-0024",
+   "dificuldade": 1,
+   "tema": "Estaleiro",
+   "enunciado": "Como se chama a estrutura metálica de vigas apoiadas acima do solo, em frente à sonda, que mantém as tubulações paralelas e permite acesso por uma passarela?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Torre",
+    "Bloco de coroamento",
+    "Estabilizador",
+    "Estaleiro",
+    "Top drive"
+   ],
+   "correta": 3,
+   "explicacao": "O estaleiro é a estrutura onde ficam estocadas as tubulações paralelas, com passarela para o manuseio até a sonda."
+  },
+  {
+   "id": "cp-0025",
+   "dificuldade": 2,
+   "tema": "Pressão hidrostática",
+   "enunciado": "Qual a pressão hidrostática no fundo de um poço vertical de 3.000 m cheio com fluido de 10,0 lb/gal?",
+   "tipo": "multipla",
+   "alternativas": [
+    "4.250 psi",
+    "5.100 psi",
+    "3.000 psi",
+    "6.000 psi",
+    "5.800 psi"
+   ],
+   "correta": 1,
+   "explicacao": "Ph = 0,17 × 10,0 × 3.000 = 5.100 psi."
+  },
+  {
+   "id": "cp-0026",
+   "dificuldade": 2,
+   "tema": "Pressão hidrostática",
+   "enunciado": "Um poço direcional tem profundidade medida de 2.300 m e vertical de 1.800 m. Com lama de 9,8 lb/gal, qual a pressão hidrostática no fundo?",
+   "tipo": "multipla",
+   "alternativas": [
+    "1.299 psi",
+    "2.999 psi",
+    "3.500 psi",
+    "3.832 psi",
+    "2.230 psi"
+   ],
+   "correta": 1,
+   "explicacao": "A hidrostática depende da profundidade vertical (1.800 m): 0,17 × 9,8 × 1.800 ≈ 2.999 psi. Usar a medida (2.300 m) daria 3.832 psi, erro comum."
+  },
+  {
+   "id": "cp-0027",
+   "dificuldade": 2,
+   "tema": "Revestimentos",
+   "enunciado": "Assinale a alternativa INCORRETA sobre as funções das colunas de revestimento:",
+   "tipo": "incorreta",
+   "alternativas": [
+    "Sustentar equipamentos",
+    "Evitar a contaminação de aquíferos",
+    "Prover meios de controle de pressões",
+    "Prevenir o desmoronamento das paredes do poço",
+    "Aumentar a permeabilidade da formação produtora"
+   ],
+   "correta": 4,
+   "explicacao": "O revestimento isola e protege; não aumenta permeabilidade do reservatório. As outras funções são típicas: evitar contaminação, dar estabilidade, controlar pressões, sustentar equipamentos."
+  },
+  {
+   "id": "cp-0028",
+   "dificuldade": 2,
+   "tema": "Fases do poço",
+   "enunciado": "Assinale a INCORRETA. O número de fases e o comprimento de cada fase dependem de:",
+   "tipo": "incorreta",
+   "alternativas": [
+    "Do diâmetro da broca disponível em estoque",
+    "Da janela operacional prevista",
+    "Da ocorrência de kicks",
+    "Da perda de fluido para as formações",
+    "Do desmoronamento das paredes"
+   ],
+   "correta": 0,
+   "explicacao": "Fases são definidas por critérios técnicos de geopressões e estabilidade: janela operacional, kicks, desmoronamento e perda de circulação."
+  },
+  {
+   "id": "cp-0029",
+   "dificuldade": 2,
+   "tema": "Revestimentos",
+   "enunciado": "Por que o revestimento de superfície precisa ser cimentado em toda a sua extensão?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque fica exposto ao reservatório",
+    "Porque substitui o revestimento condutor",
+    "Porque o cimento reduz a pressão de poros",
+    "Porque suporta o peso dos equipamentos de segurança de cabeça de poço e dos revestimentos seguintes",
+    "Porque é descido sempre como liner"
+   ],
+   "correta": 3,
+   "explicacao": "O revestimento de superfície serve de base para os equipamentos de segurança de cabeça de poço, e os revestimentos subsequentes se apoiam nele."
+  },
+  {
+   "id": "cp-0030",
+   "dificuldade": 2,
+   "tema": "Revestimentos",
+   "enunciado": "O revestimento intermediário costuma ser cimentado:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Apenas na superfície",
+    "Nunca, para facilitar a retirada",
+    "Em toda a extensão, como o de superfície",
+    "Somente com cimento espumado",
+    "Somente na parte inferior, cobrindo os intervalos a isolar"
+   ],
+   "correta": 4,
+   "explicacao": "O intermediário é cimentado só na parte inferior, contemplando os isolamentos necessários. Pode ser sustentado na cabeça do poço ou assentado como liner."
+  },
+  {
+   "id": "cp-0031",
+   "dificuldade": 2,
+   "tema": "Operações rotineiras",
+   "enunciado": "Na perfuração com mesa rotativa, a conexão é feita a cada:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Dois comandos",
+    "Uma seção de três tubos (≈ 27 m)",
+    "Um tubo (≈ 9 m)",
+    "Cem metros perfurados",
+    "Uma estaca"
+   ],
+   "correta": 2,
+   "explicacao": "Mesa rotativa: tubo a tubo (≈ 9 m). Top drive: seção de ≈ 27 m."
+  },
+  {
+   "id": "cp-0032",
+   "dificuldade": 2,
+   "tema": "Operações rotineiras",
+   "enunciado": "O que é uma manobra curta?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Retirada e descida parciais da coluna, até uma profundidade determinada",
+    "Só a retirada completa da coluna",
+    "Uma conexão de tubo durante a perfuração",
+    "A retirada total e a descida total da coluna",
+    "Só a descida completa da coluna"
+   ],
+   "correta": 0,
+   "explicacao": "Manobra: operação completa de retirar e descer a coluna. Meia manobra: só a retirada ou só a descida. Manobra curta: retirada e descida parciais."
+  },
+  {
+   "id": "cp-0033",
+   "dificuldade": 2,
+   "tema": "Coluna de perfuração",
+   "enunciado": "Qual vantagem dos tubos pesados (heavy weight) em relação aos comandos?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Dispensam o uso de estabilizadores",
+    "Facilidade de manuseio, menor torque e arraste e menor risco de prisão",
+    "Eliminam a necessidade de tubos de perfuração",
+    "Maior peso por metro",
+    "Maior resistência à compressão que os comandos"
+   ],
+   "correta": 1,
+   "explicacao": "Os HW fazem a transição gradual entre DC e DP e reduzem torque, arraste e risco de prisão, além de serem mais fáceis de manusear."
+  },
+  {
+   "id": "cp-0034",
+   "dificuldade": 2,
+   "tema": "Coluna de perfuração",
+   "enunciado": "A função do substituto de cruzamento (crossover) é:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Absorver as vibrações",
+    "Conectar a broca à coluna",
+    "Permitir a conexão de tubos com roscas e diâmetros diferentes",
+    "Içar os comandos",
+    "Estabilizar a coluna no poço"
+   ],
+   "correta": 2,
+   "explicacao": "Substitutos: içamento (movimentar comandos), broca (conectar a broca) e cruzamento (unir roscas e diâmetros distintos)."
+  },
+  {
+   "id": "cp-0035",
+   "dificuldade": 2,
+   "tema": "Coluna de perfuração",
+   "enunciado": "Quais são os principais esforços considerados no dimensionamento da coluna de perfuração?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Corrosão e fadiga térmica",
+    "Somente torque e temperatura",
+    "Colapso e pressão externa apenas",
+    "Tração, compressão, torque, arraste e vibrações",
+    "Apenas tração e pressão interna"
+   ],
+   "correta": 3,
+   "explicacao": "O dimensionamento considera tração, compressão, torque, arraste (drag) e vibrações."
+  },
+  {
+   "id": "cp-0036",
+   "dificuldade": 2,
+   "tema": "Fatores de flutuação",
+   "enunciado": "Qual o fator de flutuação (Ff = 1 − PL/65,5) para lama de 13,1 lb/gal?",
+   "tipo": "multipla",
+   "alternativas": [
+    "1,20",
+    "0,80",
+    "0,93",
+    "0,87",
+    "0,20"
+   ],
+   "correta": 1,
+   "explicacao": "Ff = 1 − 13,1/65,5 = 1 − 0,20 = 0,80. Quanto mais pesada a lama, menor o fator e menor o peso aparente da coluna."
+  },
+  {
+   "id": "cp-0037",
+   "dificuldade": 2,
+   "tema": "Peso sobre a broca",
+   "enunciado": "Na expressão PSB = (PDC·hDC + PHW·hHW) · Ff · Fs, o que representa Fs = 0,80?",
+   "tipo": "multipla",
+   "alternativas": [
+    "A fração de tubos de perfuração",
+    "A relação entre torque e arraste",
+    "Um fator de segurança que limita o PSB a 80% do peso flutuado de DC + HW",
+    "A eficiência da bomba",
+    "O fator de flutuação da lama"
+   ],
+   "correta": 2,
+   "explicacao": "O PSB usa só o peso dos comandos e HW (flutuado), e Fs = 0,80 é uma margem de segurança para que a parte superior fique sempre sob tração."
+  },
+  {
+   "id": "cp-0038",
+   "dificuldade": 2,
+   "tema": "Volumetria",
+   "enunciado": "Um tubo de perfuração com ID de 4,276 pol. Qual a capacidade interna (bbl/m), usando Cap = ID² × 0,0031871?",
+   "tipo": "multipla",
+   "alternativas": [
+    "≈ 0,583 bbl/m",
+    "≈ 0,013 bbl/m",
+    "≈ 0,058 bbl/m",
+    "≈ 1,000 bbl/m",
+    "≈ 0,136 bbl/m"
+   ],
+   "correta": 2,
+   "explicacao": "Cap = 4,276² × 0,0031871 = 18,28 × 0,0031871 ≈ 0,058 bbl/m."
+  },
+  {
+   "id": "cp-0039",
+   "dificuldade": 2,
+   "tema": "Volumetria",
+   "enunciado": "Qual a capacidade anular (bbl/m) entre poço de 12 1/4 pol e tubo de 5 pol (OD)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "≈ 0,08 bbl/m",
+    "≈ 0,15 bbl/m",
+    "≈ 0,40 bbl/m",
+    "≈ 0,48 bbl/m",
+    "≈ 1,25 bbl/m"
+   ],
+   "correta": 2,
+   "explicacao": "Cap.a = (12,25² − 5²) × 0,0031871 = (150,06 − 25) × 0,0031871 ≈ 0,40 bbl/m."
+  },
+  {
+   "id": "cp-0040",
+   "dificuldade": 2,
+   "tema": "Volumetria",
+   "enunciado": "Quanto vale a conversão correta usada no curso entre volumes?",
+   "tipo": "multipla",
+   "alternativas": [
+    "1 m³ = 39,37 bbl e 1 bbl = 3,78 L",
+    "1 m³ = 1,59 bbl e 1 bbl = 629 L",
+    "1 m³ = 6,29 bbl e 1 bbl = 159 L",
+    "1 m³ = 10 bbl e 1 bbl = 1 L",
+    "1 m³ = 3,28 bbl e 1 bbl = 100 L"
+   ],
+   "correta": 2,
+   "explicacao": "Conversões: 1 bbl = 159 L, 1 m³ = 6,29 bbl, 1 m = 3,281 pés e 1 kg = 2,205 lb."
+  },
+  {
+   "id": "cp-0041",
+   "dificuldade": 2,
+   "tema": "Sistema de circulação",
+   "enunciado": "Qual a capacidade da bomba (bbl/stroke) com camisa de 6 pol, curso de 10 pol e eficiência de 90%, usando qp = D²·L·Ep / 411.765,7?",
+   "tipo": "multipla",
+   "alternativas": [
+    "≈ 7,9 bbl/stroke",
+    "≈ 0,79 bbl/stroke",
+    "≈ 0,079 bbl/stroke",
+    "≈ 0,008 bbl/stroke",
+    "≈ 0,018 bbl/stroke"
+   ],
+   "correta": 2,
+   "explicacao": "qp = 6² × 10 × 90 / 411.765,7 = 32.400 / 411.765,7 ≈ 0,0787 bbl/stroke."
+  },
+  {
+   "id": "cp-0042",
+   "dificuldade": 2,
+   "tema": "Sistema de circulação",
+   "enunciado": "A bomba do exemplo anterior (0,0787 bbl/stroke) opera a 120 SPM. Qual a vazão?",
+   "tipo": "multipla",
+   "alternativas": [
+    "≈ 3,1 bbl/min",
+    "≈ 15 bbl/min",
+    "≈ 9,4 bbl/min",
+    "≈ 94 bbl/min",
+    "≈ 0,66 bbl/min"
+   ],
+   "correta": 2,
+   "explicacao": "Q = qp × SPM = 0,0787 × 120 ≈ 9,44 bbl/min."
+  },
+  {
+   "id": "cp-0043",
+   "dificuldade": 2,
+   "tema": "Sistema de circulação",
+   "enunciado": "Com vazão de 7 bbl/min e volume anular de 560 bbl, qual o tempo de bottoms-up?",
+   "tipo": "multipla",
+   "alternativas": [
+    "80 min",
+    "40 min",
+    "8 min",
+    "3.920 min",
+    "20 min"
+   ],
+   "correta": 0,
+   "explicacao": "Tbottoms-up = Van / Q = 560 / 7 = 80 min. O tempo surface-to-bit usa o volume interno da coluna."
+  },
+  {
+   "id": "cp-0044",
+   "dificuldade": 2,
+   "tema": "Sistema de circulação",
+   "enunciado": "Qual a diferença entre surface-to-bit e bottoms-up?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Surface-to-bit usa o volume anular e bottoms-up, o da coluna",
+    "Surface-to-bit só vale em poço revestido",
+    "São o mesmo tempo, com nomes diferentes",
+    "Bottoms-up é o tempo para parar a bomba",
+    "Surface-to-bit é o tempo do fluido da superfície até a broca; bottoms-up, da broca de volta à superfície pelo anular"
+   ],
+   "correta": 4,
+   "explicacao": "Tsurf-to-bit = Vcol / Q (descida pelo interior da coluna). Tbottoms-up = Van / Q (retorno pelo anular, que traz o cascalho gerado)."
+  },
+  {
+   "id": "cp-0045",
+   "dificuldade": 2,
+   "tema": "Mud pulse",
+   "enunciado": "A telemetria por pulsos de lama (mud pulse) transmite dados da ferramenta de fundo até a superfície por meio de:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Variações de pressão no próprio fluido de perfuração",
+    "Sinais de rádio através da rocha",
+    "Vibração mecânica da coluna",
+    "Cabo elétrico dentro dos tubos",
+    "Fibra óptica no anular"
+   ],
+   "correta": 0,
+   "explicacao": "Na telemetria mud pulse, a ferramenta gera pulsos de pressão no fluido, decodificados na superfície. Depende do fluido, e essa é uma conexão com as propriedades do fluido."
+  },
+  {
+   "id": "cp-0046",
+   "dificuldade": 2,
+   "tema": "Tanque de lama",
+   "enunciado": "Aumento de volume nos tanques com a bomba desligada é indício de:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Enceramento da broca",
+    "Perda de circulação",
+    "Formação de reboco espesso",
+    "Eficiência de bomba elevada",
+    "Influxo de fluido da formação (kick)"
+   ],
+   "correta": 4,
+   "explicacao": "Ganho de volume nos tanques sem bombear significa que fluido da formação está entrando no poço: kick."
+  },
+  {
+   "id": "cp-0047",
+   "dificuldade": 1,
+   "tema": "Pressões no poço",
+   "enunciado": "A pressão que provoca o rompimento da formação é a:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Pressão de abandono",
+    "Pressão de poros",
+    "Pressão de circulação",
+    "Pressão hidrostática",
+    "Pressão de fratura"
+   ],
+   "correta": 4,
+   "explicacao": "Pressão de fratura é aquela que rompe a formação, de forma casual ou proposital."
+  },
+  {
+   "id": "cp-0048",
+   "dificuldade": 1,
+   "tema": "Pressões no poço",
+   "enunciado": "Como se chama a pressão dos fluidos contidos nos poros da formação?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Pressão de absorção",
+    "Pressão de poros (ou pressão da formação)",
+    "Pressão de bombeio",
+    "Pressão geostática",
+    "Pressão de fratura"
+   ],
+   "correta": 1,
+   "explicacao": "Pressão de poros (ou da formação) é a pressão exercida pelos fluidos presentes nos poros da rocha."
+  },
+  {
+   "id": "cp-0049",
+   "dificuldade": 1,
+   "tema": "Pressões no poço",
+   "enunciado": "A pressão de circulação é a pressão de bombeio necessária para circular o fluido, devida às perdas de carga por atrito com os equipamentos.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "Verdadeiro. Envolve equipamentos de superfície, interior da coluna, jatos da broca e anular."
+  },
+  {
+   "id": "cp-0050",
+   "dificuldade": 1,
+   "tema": "Janela operacional",
+   "enunciado": "Para perfurar com segurança, a pressão hidrostática do fluido deve ficar entre a pressão de poros e a pressão de fratura.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "Verdadeiro. Abaixo da pressão de poros pode haver kick. Acima da de fratura há risco de fraturar a formação e perder circulação."
+  },
+  {
+   "id": "cp-0051",
+   "dificuldade": 1,
+   "tema": "Prisão de coluna",
+   "enunciado": "Excesso de argila aderida na broca, prejudicando a perfuração, é chamado de:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Desmoronamento",
+    "Acunhamento",
+    "Pescaria",
+    "Prisão diferencial",
+    "Enceramento de broca"
+   ],
+   "correta": 4,
+   "explicacao": "Enceramento de broca é o acúmulo de argila aderida à broca, o que reduz a taxa de penetração."
+  },
+  {
+   "id": "cp-0052",
+   "dificuldade": 1,
+   "tema": "Prisão de coluna",
+   "enunciado": "A prisão por diferencial de pressão ocorre normalmente com a coluna:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Subindo com circulação",
+    "Já fora do poço",
+    "Parada, em repouso",
+    "Em perfuração com alto PSB",
+    "Em rotação rápida"
+   ],
+   "correta": 2,
+   "explicacao": "Na prisão diferencial a coluna fica em repouso contra uma formação permeável (reboco), sem poder subir, descer ou girar, mas com circulação normal."
+  },
+  {
+   "id": "cp-0053",
+   "dificuldade": 1,
+   "tema": "Pescaria",
+   "enunciado": "Em pescaria, o que é o peixe?",
+   "tipo": "multipla",
+   "alternativas": [
+    "O fluido contaminado por gás",
+    "Qualquer equipamento ou material que ficou no poço",
+    "O tampão de cimento de abandono",
+    "A broca nova antes da descida",
+    "O cascalho que retorna na peneira"
+   ],
+   "correta": 1,
+   "explicacao": "Peixe é qualquer objeto no poço (parte da coluna quebrada, cone, mordente, cabo). Pescaria é a operação para retirá-lo."
+  },
+  {
+   "id": "cp-0054",
+   "dificuldade": 1,
+   "tema": "Perfuração direcional",
+   "enunciado": "Na prática, existe poço 100% vertical, sem qualquer desvio.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 1,
+   "explicacao": "Falso. Não existe poço 100% vertical. Os desvios precisam ser controlados e corrigidos se passarem de certos limites."
+  },
+  {
+   "id": "cp-0055",
+   "dificuldade": 1,
+   "tema": "Integridade de poços",
+   "enunciado": "A Resolução ANP nº 46/2016 trata do:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Preço do petróleo",
+    "Descarte de fluidos de perfuração",
+    "Classificação de reservas",
+    "Licenciamento ambiental de sondas",
+    "Sistema de Gerenciamento da Integridade de Poços (SGIP)"
+   ],
+   "correta": 4,
+   "explicacao": "A Resolução ANP 46/2016 estabelece o SGIP e as 17 práticas de gestão ao longo do ciclo de vida do poço."
+  },
+  {
+   "id": "cp-0056",
+   "dificuldade": 1,
+   "tema": "Projeto de poço",
+   "enunciado": "Para que servem os poços de correlação no projeto de um novo poço?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Medir a pressão do reservatório em produção",
+    "Descartar o fluido do poço novo",
+    "Servir de reserva de lama",
+    "Fornecer informações de poços vizinhos já perfurados para apoiar o planejamento",
+    "Substituir o projeto de revestimento"
+   ],
+   "correta": 3,
+   "explicacao": "Poços de correlação trazem dados reais (geologia, pressões, problemas) de poços próximos e reduzem incertezas do projeto."
+  },
+  {
+   "id": "cp-0057",
+   "dificuldade": 1,
+   "tema": "Cimentação",
+   "enunciado": "Qual equipamento no fundo do revestimento facilita a descida e impede o retorno do cimento para dentro da coluna?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Estabilizador",
+    "Sapata flutuante / colar flutuante",
+    "Substituto de içamento",
+    "Cunha",
+    "Kelly"
+   ],
+   "correta": 1,
+   "explicacao": "A sapata (ou o colar) flutuante tem válvula de retenção. Com autofill, o fluido preenche o revestimento durante a descida."
+  },
+  {
+   "id": "cp-0058",
+   "dificuldade": 1,
+   "tema": "Projeto de poço",
+   "enunciado": "O projeto de poço inclui o projeto de fluido de perfuração, o de revestimento e cimentação e o de abandono.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "Verdadeiro. O projeto contém dados gerais, esquema do poço, roteiro de perfuração, programa de brocas, previsões de tempo e custo, fluido, revestimento/cimentação e abandono."
+  },
+  {
+   "id": "cp-0059",
+   "dificuldade": 2,
+   "tema": "Gradiente de pressão",
+   "enunciado": "Uma formação com gradiente de pressão de poros de 1,60 psi/m é considerada:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Anormalmente baixa",
+    "Subnormal",
+    "Normal",
+    "Anormalmente alta",
+    "Hidrostática"
+   ],
+   "correta": 3,
+   "explicacao": "Gf < 1,42 psi/m: anormalmente baixa. 1,42 a 1,53: normal. Gf > 1,53: anormalmente alta."
+  },
+  {
+   "id": "cp-0060",
+   "dificuldade": 2,
+   "tema": "Gradiente de pressão",
+   "enunciado": "Uma formação com gradiente de pressão de poros de 1,30 psi/m é classificada como:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Anormalmente baixa",
+    "Normal",
+    "Anormalmente alta",
+    "Transicional",
+    "Geostática"
+   ],
+   "correta": 0,
+   "explicacao": "1,30 < 1,42 psi/m, então a pressão é anormalmente baixa (risco de perda de circulação)."
+  },
+  {
+   "id": "cp-0061",
+   "dificuldade": 2,
+   "tema": "Gradiente de pressão",
+   "enunciado": "Um gradiente de pressão de poros de 1,48 psi/m corresponde a pressão:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Zero",
+    "Igual à de fratura",
+    "Normal",
+    "Anormalmente alta",
+    "Anormalmente baixa"
+   ],
+   "correta": 2,
+   "explicacao": "A faixa normal vai de 1,42 a 1,53 psi/m."
+  },
+  {
+   "id": "cp-0062",
+   "dificuldade": 2,
+   "tema": "Janela operacional",
+   "enunciado": "A janela operacional é o intervalo de massa específica do fluido entre:",
+   "tipo": "multipla",
+   "alternativas": [
+    "A pressão de bombeio e a pressão na cabeça",
+    "A pressão de poros (limite inferior) e a pressão de fratura (limite superior)",
+    "A pressão geostática e a atmosférica",
+    "O peso da coluna e o peso da lama",
+    "A pressão de circulação e a hidrostática"
+   ],
+   "correta": 1,
+   "explicacao": "É a faixa de massa específica equivalente em que o fluido controla o poço sem fraturar a formação."
+  },
+  {
+   "id": "cp-0063",
+   "dificuldade": 2,
+   "tema": "Pressão de absorção",
+   "enunciado": "O teste de absorção (leak-off) consiste em:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Bombear fluido a baixa vazão com o BOP fechado até a formação começar a absorver",
+    "Cimentar com o poço aberto",
+    "Medir a densidade do fluido na saída",
+    "Circular em alta vazão com a broca no fundo",
+    "Abrir o poço e observar o nível"
+   ],
+   "correta": 0,
+   "explicacao": "A pressão de absorção é a pressão em que a formação começa a absorver o fluido. Dela se calcula a massa específica equivalente de absorção."
+  },
+  {
+   "id": "cp-0064",
+   "dificuldade": 2,
+   "tema": "Massa específica equivalente",
+   "enunciado": "Sapata a 1.200 m, lama de 10,5 lb/gal e pressão na cabeça de 1.500 psi no teste de absorção. Qual a massa específica equivalente de absorção?",
+   "tipo": "multipla",
+   "alternativas": [
+    "≈ 17,85 lb/gal",
+    "≈ 7,35 lb/gal",
+    "≈ 21,5 lb/gal",
+    "≈ 10,5 lb/gal",
+    "≈ 12,0 lb/gal"
+   ],
+   "correta": 0,
+   "explicacao": "ρeq = PL + P / (0,17 × H) = 10,5 + 1.500 / (0,17 × 1.200) = 10,5 + 7,35 = 17,85 lb/gal."
+  },
+  {
+   "id": "cp-0065",
+   "dificuldade": 2,
+   "tema": "Massa específica equivalente",
+   "enunciado": "Pressão de 4.463 psi num ponto a 2.500 m. Qual a massa específica equivalente?",
+   "tipo": "multipla",
+   "alternativas": [
+    "≈ 8,7 lb/gal",
+    "≈ 10,5 lb/gal",
+    "≈ 12,85 lb/gal",
+    "≈ 11,5 lb/gal",
+    "≈ 17,9 lb/gal"
+   ],
+   "correta": 1,
+   "explicacao": "ρeq = P / (0,17 × H) = 4.463 / (0,17 × 2.500) ≈ 10,5 lb/gal."
+  },
+  {
+   "id": "cp-0066",
+   "dificuldade": 2,
+   "tema": "Tubo em U",
+   "enunciado": "Ao final da perfuração, o poço tem fluido de 11,0 lb/gal na coluna e 10,2 lb/gal no anular. Como os fluidos tendem a se comportar?",
+   "tipo": "multipla",
+   "alternativas": [
+    "O nível do anular sobe até o BOP",
+    "O nível do anular tende a descer",
+    "Os dois níveis tendem a descer",
+    "O nível permanece estático",
+    "O nível do fluido na coluna tende a descer"
+   ],
+   "correta": 4,
+   "explicacao": "Há maior pressão hidrostática dentro da coluna (fluido mais pesado) do que no anular, então o fluido da coluna desce e empurra o do anular para cima (efeito tubo em U)."
+  },
+  {
+   "id": "cp-0067",
+   "dificuldade": 2,
+   "tema": "Prisão de coluna",
+   "enunciado": "Excesso de cascalho na peneira, aumento da pressão de bombeio e torque elevado durante a perfuração indicam:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Kick de gás",
+    "Enceramento apenas",
+    "Prisão diferencial",
+    "Desmoronamento das paredes (prisão por desmoronamento)",
+    "Perda total de circulação"
+   ],
+   "correta": 3,
+   "explicacao": "No desmoronamento, as paredes caem no anular. Causas: peso do fluido insuficiente, perda de circulação e falta de inibição do fluido."
+  },
+  {
+   "id": "cp-0068",
+   "dificuldade": 2,
+   "tema": "Prisão de coluna",
+   "enunciado": "Qual a causa de prisão por diferencial de pressão?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Alta diferença entre hidrostática e pressão de poros, com alto filtrado e reboco espesso em formação porosa",
+    "Excesso de rotação da coluna",
+    "Fluido muito leve que permite desmoronamento",
+    "Uso de broca de diâmetro maior que o previsto",
+    "Presença de peixe no fundo"
+   ],
+   "correta": 0,
+   "explicacao": "Pressão hidrostática bem acima da de poros, reboco espesso, alto filtrado e formações porosas pressionam a coluna contra a parede."
+  },
+  {
+   "id": "cp-0069",
+   "dificuldade": 2,
+   "tema": "Prisão de coluna",
+   "enunciado": "Assinale a INCORRETA sobre a prisão por diferencial de pressão:",
+   "tipo": "incorreta",
+   "alternativas": [
+    "Ocorre com a coluna parada",
+    "A circulação e a pressão de bombeio permanecem normais",
+    "A circulação é interrompida e a pressão de bombeio aumenta de imediato",
+    "A coluna não se move para cima, para baixo nem gira",
+    "Alto filtrado e reboco espesso favorecem o problema"
+   ],
+   "correta": 2,
+   "explicacao": "Diferente do desmoronamento, na prisão diferencial a circulação e a pressão de bombeio são normais, e a coluna fica presa por causa do reboco."
+  },
+  {
+   "id": "cp-0070",
+   "dificuldade": 2,
+   "tema": "Prisão de coluna",
+   "enunciado": "Aumento da pressão de bombeio, perda de circulação e prisão após drag elevado caracterizam:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Lavagem da coluna",
+    "Acunhamento",
+    "Enceramento da broca",
+    "Prisão diferencial",
+    "Tubo em U"
+   ],
+   "correta": 1,
+   "explicacao": "No acunhamento, a coluna fica presa após troca de broca ou testemunhagem, fechamento do poço, desmoronamento ou retirada com drag elevado."
+  },
+  {
+   "id": "cp-0071",
+   "dificuldade": 2,
+   "tema": "Perfuração direcional",
+   "enunciado": "Qual das causas pode provocar tortuosidade (inclinação não desejada) do poço?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Parâmetros de perfuração equilibrados",
+    "Boa estabilização da coluna",
+    "Uso de fluido inibido",
+    "Mudança brusca no peso sobre a broca",
+    "Circulação com alta vazão"
+   ],
+   "correta": 3,
+   "explicacao": "Causas: variação das características das formações, mudança brusca de PSB, coluna não estabilizada e desbalanceamento dos parâmetros."
+  },
+  {
+   "id": "cp-0072",
+   "dificuldade": 2,
+   "tema": "Integridade de poços",
+   "enunciado": "O ciclo de vida de poço abrange as etapas de:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Apenas perfuração e produção",
+    "Perfuração, transporte e venda",
+    "Projeto, construção, produção, intervenção e abandono",
+    "Prospecção, sísmica e refino",
+    "Construção e descomissionamento da plataforma"
+   ],
+   "correta": 2,
+   "explicacao": "O SGIP se aplica ao ciclo de vida: projeto, construção, produção, intervenção e abandono, marítimos e terrestres."
+  },
+  {
+   "id": "cp-0073",
+   "dificuldade": 2,
+   "tema": "Integridade de poços",
+   "enunciado": "Durante a perfuração, qual é o papel do fluido de perfuração no conceito de barreiras?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Não tem papel de barreira",
+    "Segunda barreira (controle secundário)",
+    "Primeira barreira (controle primário do poço)",
+    "Barreira apenas no abandono",
+    "Barreira só em poços terrestres"
+   ],
+   "correta": 2,
+   "explicacao": "O fluido, com sua coluna hidrostática, é a barreira primária. O BOP é a barreira secundária (CSB secundário)."
+  },
+  {
+   "id": "cp-0074",
+   "dificuldade": 2,
+   "tema": "Integridade de poços",
+   "enunciado": "Para o fluido servir de elemento do CSB, o que é necessário?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Apenas baixo filtrado",
+    "Apenas viscosidade alta",
+    "Coluna hidrostática adequada (volume e extensão) e densidade apropriada",
+    "Cor e odor controlados",
+    "Ser sempre à base de óleo"
+   ],
+   "correta": 2,
+   "explicacao": "É preciso manter a coluna com volume e extensão adequados e propriedades corretas (especialmente densidade) para equilibrar a pressão da formação."
+  },
+  {
+   "id": "cp-0075",
+   "dificuldade": 2,
+   "tema": "Integridade de poços",
+   "enunciado": "Qual informação é fundamental para se pensar em CSB e fluido?",
+   "tipo": "multipla",
+   "alternativas": [
+    "O custo diário da sonda",
+    "A cor da formação",
+    "O tipo de broca",
+    "A janela operacional (pressão de poros e de fratura)",
+    "O número de tripulantes"
+   ],
+   "correta": 3,
+   "explicacao": "Sem conhecer o intervalo entre pressão de poros e de fratura, não é possível definir a densidade que mantém o poço seguro."
+  },
+  {
+   "id": "cp-0076",
+   "dificuldade": 2,
+   "tema": "Abandono",
+   "enunciado": "No projeto de abandono do exemplo do curso, onde são posicionados os tampões de cimento?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Somente na cabeça de poço",
+    "Apenas no fundo do poço",
+    "No espaço anular do revestimento condutor",
+    "Dentro da broca",
+    "Na superfície, na sapata do revestimento e na zona permeável"
+   ],
+   "correta": 4,
+   "explicacao": "Tampões de abandono: superfície, sapata e zona permeável (cerca de 30 m cada, com testes de peso ou de pressão)."
+  },
+  {
+   "id": "cp-0077",
+   "dificuldade": 2,
+   "tema": "Cimentação",
+   "enunciado": "Qual das alternativas NÃO é uma função da cimentação de revestimento?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Aumentar a permeabilidade do reservatório",
+    "Permitir o fluxo controlado de fluidos",
+    "Dar estabilidade mecânica ao poço",
+    "Isolamento hidráulico entre zonas permeáveis",
+    "Proteger o revestimento contra fluidos agressivos"
+   ],
+   "correta": 0,
+   "explicacao": "A cimentação isola, estabiliza e protege o revestimento. Aumentar permeabilidade não é função da cimentação."
+  },
+  {
+   "id": "cp-0078",
+   "dificuldade": 2,
+   "tema": "Cimentação",
+   "enunciado": "Squeeze (compressão de cimento), tampões e recimentação são tipos de:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Cimentação secundária (corretiva)",
+    "Perfilagem",
+    "Controle de sólidos",
+    "Testemunhagem",
+    "Manobra de coluna"
+   ],
+   "correta": 0,
+   "explicacao": "Além da cimentação primária atrás do revestimento, existem operações de correção e de abandono: squeeze, tampões e recimentação."
+  },
+  {
+   "id": "cp-0079",
+   "dificuldade": 2,
+   "tema": "Revestimentos",
+   "enunciado": "O que pode ocorrer se o revestimento não for preenchido com fluido durante a descida?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Aumento da pressão de poros",
+    "Redução do tempo de cimentação",
+    "Nada, apenas gasto de fluido",
+    "Flutuação e/ou colapso do revestimento",
+    "Formação de enceramento"
+   ],
+   "correta": 3,
+   "explicacao": "Revestimento vazio flutua e fica sujeito a diferença entre pressão externa e interna, podendo colapsar. Por isso se usa o auto fill."
+  },
+  {
+   "id": "cp-0080",
+   "dificuldade": 2,
+   "tema": "Manobras",
+   "enunciado": "Por que o poço deve ser completado com fluido durante as manobras de retirada de coluna?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Para reduzir o peso da lama",
+    "Para evitar a formação de reboco",
+    "Para resfriar a broca",
+    "Para manter o nível de fluido e, assim, a pressão hidrostática segura",
+    "Para aumentar a vazão de bombeio"
+   ],
+   "correta": 3,
+   "explicacao": "Ao retirar a coluna, o nível cai pelo volume de aço retirado. É preciso repor o fluido para manter pressões estabilizadas e evitar kick."
+  },
+  {
+   "id": "cp-0081",
+   "dificuldade": 2,
+   "tema": "LDA",
+   "enunciado": "Qual lâmina d'água (LDA) caracteriza águas profundas?",
+   "tipo": "multipla",
+   "alternativas": [
+    "De 1.500 a 3.000 m",
+    "De 0 a 300 m",
+    "Acima de 1.500 m",
+    "Abaixo de 50 m",
+    "De 300 a 1.500 m"
+   ],
+   "correta": 4,
+   "explicacao": "0–300 m: águas rasas. 300–1.500 m: profundas. Acima de 1.500 m: ultraprofundas."
+  },
+  {
+   "id": "cp-0082",
+   "dificuldade": 3,
+   "tema": "Pressão hidrostática",
+   "enunciado": "Três poços: A (PV 3.000 m, 10,0 lb/gal), B (PV 2.400 m, 12,0 lb/gal) e C (PV 3.500 m, 8,6 lb/gal). Qual tem a maior pressão hidrostática no fundo?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Poço A (5.100 psi)",
+    "Poço B (4.896 psi)",
+    "Os poços A e C são iguais",
+    "Poço C (≈ 5.117 psi)",
+    "Os poços A e B são iguais"
+   ],
+   "correta": 3,
+   "explicacao": "A: 0,17 × 10 × 3.000 = 5.100. B: 0,17 × 12 × 2.400 = 4.896. C: 0,17 × 8,6 × 3.500 ≈ 5.117 psi. A mais leve pode vencer se for mais profunda."
+  },
+  {
+   "id": "cp-0083",
+   "dificuldade": 3,
+   "tema": "Massa específica equivalente",
+   "enunciado": "Um poço de 2.500 m tem 1.000 m de fluido de 9 lb/gal e 1.500 m de 11,5 lb/gal, com 1.000 psi na cabeça. Qual a massa específica equivalente no fundo?",
+   "tipo": "multipla",
+   "alternativas": [
+    "≈ 11,5 lb/gal",
+    "≈ 9,0 lb/gal",
+    "≈ 15,3 lb/gal",
+    "≈ 10,5 lb/gal",
+    "≈ 12,85 lb/gal"
+   ],
+   "correta": 4,
+   "explicacao": "Ph = 0,17 × (9×1.000 + 11,5×1.500) = 4.463 psi. Somando 1.000 psi: 5.463. ρeq = 5.463 / (0,17 × 2.500) = 12,85 lb/gal."
+  },
+  {
+   "id": "cp-0084",
+   "dificuldade": 3,
+   "tema": "Pressão de absorção",
+   "enunciado": "Teste de absorção: lama de 9,0 lb/gal, sapata a 1.800 m (vertical) e pressão de absorção na cabeça de 1.200 psi. Qual a massa específica equivalente?",
+   "tipo": "multipla",
+   "alternativas": [
+    "≈ 15,2 lb/gal",
+    "≈ 3,9 lb/gal",
+    "≈ 10,4 lb/gal",
+    "≈ 12,9 lb/gal",
+    "≈ 9,0 lb/gal"
+   ],
+   "correta": 3,
+   "explicacao": "ρeq = 9,0 + 1.200 / (0,17 × 1.800) = 9,0 + 3,92 ≈ 12,9 lb/gal."
+  },
+  {
+   "id": "cp-0085",
+   "dificuldade": 3,
+   "tema": "Janela operacional",
+   "enunciado": "Perfurando uma formação com pressão de poros equivalente a 11,2 lb/gal, o operador usa lama de 10,8 lb/gal. O que é mais provável?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Perda de circulação por fraturamento",
+    "Enceramento da broca",
+    "Influxo de fluido da formação (kick), por estar abaixo da pressão de poros",
+    "Prisão diferencial intensa",
+    "Nada, pois a lama está dentro da janela"
+   ],
+   "correta": 2,
+   "explicacao": "Se ρlama < ρporos, a pressão do poço é menor que a da formação e há risco de influxo (kick), podendo evoluir para blowout."
+  },
+  {
+   "id": "cp-0086",
+   "dificuldade": 3,
+   "tema": "Janela operacional",
+   "enunciado": "Em uma fase, a janela operacional vai de 11,0 a 13,2 lb/gal e a lama está em 13,5 lb/gal. O que tende a acontecer?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Prisão por desmoronamento por falta de peso",
+    "Kick de gás",
+    "Colapso por baixa pressão",
+    "Fraturamento da formação e perda de circulação",
+    "Redução do filtrado"
+   ],
+   "correta": 3,
+   "explicacao": "Ao passar da pressão de fratura (13,2), a formação rompe e o fluido é perdido. Pode acabar causando perda de controle por redução do nível."
+  },
+  {
+   "id": "cp-0087",
+   "dificuldade": 3,
+   "tema": "Controle de poço",
+   "enunciado": "Por que aumentar muito o peso do fluido para combater um kick pode ser perigoso?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Porque o fluido pesado evapora",
+    "Porque pode ultrapassar a pressão de fratura e causar perda de circulação",
+    "Porque aumenta a pressão de poros",
+    "Porque elimina o reboco",
+    "Porque reduz a vazão da bomba a zero"
+   ],
+   "correta": 1,
+   "explicacao": "O fluido precisa ficar dentro da janela operacional. Acima da pressão de fratura, perde-se circulação e o nível cai, o que pode piorar o controle do poço."
+  },
+  {
+   "id": "cp-0088",
+   "dificuldade": 3,
+   "tema": "Pressão de circulação",
+   "enunciado": "Durante a circulação, a pressão no fundo do poço em relação à condição estática é:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Igual, pois a hidrostática não muda",
+    "Menor, pela ausência de fluido no anular",
+    "Maior, pela perda de carga por atrito no anular (ECD)",
+    "Menor, porque a bomba suga o fluido",
+    "Zero, porque o fluido está em movimento"
+   ],
+   "correta": 2,
+   "explicacao": "Ao circular, a perda de carga no anular soma-se à hidrostática, elevando a densidade equivalente de circulação. Em janelas estreitas isso pode fraturar a formação."
+  },
+  {
+   "id": "cp-0089",
+   "dificuldade": 3,
+   "tema": "Manobras",
+   "enunciado": "Ao retirar a coluna rapidamente, pode ocorrer redução da pressão no fundo (pistoneio). Qual o risco principal?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Entrada de fluido da formação no poço (kick)",
+    "Perda de circulação por fraturamento",
+    "Aumento imediato da pressão de fratura",
+    "Enceramento da broca",
+    "Prisão diferencial garantida"
+   ],
+   "correta": 0,
+   "explicacao": "O pistoneio reduz a pressão no fundo. Se ficar abaixo da pressão de poros, entra fluido. Por isso a retirada é lenta e o poço é completado com fluido."
+  },
+  {
+   "id": "cp-0090",
+   "dificuldade": 2,
+   "tema": "Prisão de coluna",
+   "enunciado": "Sobre prisão de coluna, analise as afirmativas:",
+   "tipo": "combinacao",
+   "afirmativas": [
+    "I. Na prisão diferencial, a circulação permanece normal.",
+    "II. O desmoronamento é favorecido por peso de fluido insuficiente e falta de inibição.",
+    "III. O enceramento de broca é causado por excesso de areia aderida à broca."
+   ],
+   "alternativas": [
+    "Apenas I",
+    "Apenas I e II",
+    "Apenas II e III",
+    "Apenas I e III",
+    "I, II e III"
+   ],
+   "correta": 1,
+   "explicacao": "I e II estão corretas. III está errada: o enceramento é causado por argila aderida à broca, não areia."
+  },
+  {
+   "id": "cp-0091",
+   "dificuldade": 3,
+   "tema": "Integridade de poços",
+   "enunciado": "Analise as afirmativas sobre integridade de poços:",
+   "tipo": "combinacao",
+   "afirmativas": [
+    "I. O fluido de perfuração é a barreira primária durante a perfuração.",
+    "II. Para o fluido servir de barreira, a densidade deve estar dentro da janela operacional.",
+    "III. O CSB secundário é o primeiro conjunto de barreiras estabelecido para o controle do poço."
+   ],
+   "alternativas": [
+    "Apenas I",
+    "Apenas II",
+    "Apenas I e II",
+    "Apenas II e III",
+    "I, II e III"
+   ],
+   "correta": 2,
+   "explicacao": "I e II estão corretas. III é falsa: o CSB primário é o primeiro. O secundário é o segundo conjunto."
+  },
+  {
+   "id": "cp-0092",
+   "dificuldade": 3,
+   "tema": "Pressões",
+   "enunciado": "Sobre pressões no poço, avalie:",
+   "tipo": "combinacao",
+   "afirmativas": [
+    "I. A pressão hidrostática depende da massa específica do fluido e da profundidade vertical.",
+    "II. A pressão de fratura deve ser superada para evitar perda de circulação.",
+    "III. A pressão de absorção é aquela em que a formação começa a absorver o fluido."
+   ],
+   "alternativas": [
+    "Apenas I",
+    "Apenas I e III",
+    "Apenas II",
+    "Apenas II e III",
+    "I, II e III"
+   ],
+   "correta": 1,
+   "explicacao": "I e III corretas. II é falsa: para evitar perda de circulação, a pressão do poço deve ficar abaixo da de fratura."
+  },
+  {
+   "id": "cp-0093",
+   "dificuldade": 2,
+   "tema": "Pressão de absorção",
+   "enunciado": "O teste de absorção é feito com o BOP aberto e alta vazão de bombeio.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 1,
+   "explicacao": "Falso. É feito a baixa vazão com o BOP fechado, observando a pressão em que a formação começa a absorver."
+  },
+  {
+   "id": "cp-0094",
+   "dificuldade": 2,
+   "tema": "Gradiente de pressão",
+   "enunciado": "Gradientes de pressão entre 1,42 e 1,53 psi/m são considerados pressão normal de formação.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "Verdadeiro. Abaixo de 1,42 é anormalmente baixa e acima de 1,53 é anormalmente alta."
+  },
+  {
+   "id": "cp-0095",
+   "dificuldade": 3,
+   "tema": "Pressão hidrostática",
+   "enunciado": "Num poço direcional, a pressão hidrostática deve ser calculada com a profundidade medida, pois o fluido ocupa todo o comprimento do poço.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 1,
+   "explicacao": "Falso. A pressão hidrostática depende da altura vertical da coluna (profundidade vertical), não do comprimento medido."
+  },
+  {
+   "id": "cp-0096",
+   "dificuldade": 1,
+   "tema": "Tipos de sondas",
+   "enunciado": "Em qual caso se usa uma sonda terrestre helitransportada?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Em águas ultraprofundas",
+    "Em regiões de difícil acesso",
+    "Em campos com muitos dutos",
+    "Em poços com mais de 8.000 m",
+    "Somente em poços de abandono"
+   ],
+   "correta": 1,
+   "explicacao": "As sondas terrestres podem ser convencionais, automáticas ou helitransportadas (regiões de difícil acesso). DTM é a desmontagem, transporte e montagem."
+  },
+  {
+   "id": "cp-0097",
+   "dificuldade": 1,
+   "tema": "Coluna de perfuração",
+   "enunciado": "O que significa a sigla BHA?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Borehole Heat Analysis",
+    "Barrier Hole Assembly",
+    "Blowout Hole Alarm",
+    "Bottom Hole Assembly (composição de fundo)",
+    "Basic Hydraulic Adapter"
+   ],
+   "correta": 3,
+   "explicacao": "O BHA é a composição de fundo da coluna: broca, estabilizadores, comandos, substitutos e ferramentas como MWD."
+  },
+  {
+   "id": "cp-0098",
+   "dificuldade": 1,
+   "tema": "Revestimentos",
+   "enunciado": "Qual a ordem crescente de profundidade típica dos revestimentos de um poço?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Condutor, produção, intermediário, superfície",
+    "Produção, intermediário, superfície, condutor",
+    "Intermediário, condutor, produção, superfície",
+    "Superfície, condutor, produção, intermediário",
+    "Condutor, superfície, intermediário, produção"
+   ],
+   "correta": 4,
+   "explicacao": "O revestimento condutor é o mais raso, depois vêm o de superfície, o(s) intermediário(s) e por fim o de produção ou liner de produção."
+  },
+  {
+   "id": "cp-0099",
+   "dificuldade": 1,
+   "tema": "Perfuração direcional",
+   "enunciado": "Em um poço direcional, a profundidade medida é sempre igual à profundidade vertical.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 1,
+   "explicacao": "Falso. Na trajetória desviada, a profundidade medida é maior que a vertical."
+  },
+  {
+   "id": "cp-0100",
+   "dificuldade": 1,
+   "tema": "Perfuração",
+   "enunciado": "Quanto mais eficiente for a limpeza do poço pelo fluido, maior será a quantidade de cascalhos vista nas peneiras.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "Verdadeiro. Um fluido que carrega bem os cascalhos traz mais sólidos à superfície, e as peneiras mostram isso."
+  },
+  {
+   "id": "cp-0101",
+   "dificuldade": 1,
+   "tema": "Sonda de perfuração",
+   "enunciado": "Assinale a INCORRETA. Quais são fontes de energia das sondas?",
+   "tipo": "incorreta",
+   "alternativas": [
+    "Motores diesel",
+    "Redes públicas de energia",
+    "Painéis solares como fonte única e principal",
+    "Turbinas a gás"
+   ],
+   "correta": 2,
+   "explicacao": "As sondas usam motores diesel, turbinas a gás e redes públicas (quando disponíveis)."
+  },
+  {
+   "id": "cp-0102",
+   "dificuldade": 1,
+   "tema": "Coluna de perfuração",
+   "enunciado": "Como se chamam as extremidades roscadas soldadas ao tubo de perfuração (conexão caixa e pino)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Tool joints",
+    "Colares de segurança",
+    "Estabilizadores",
+    "Cunhas",
+    "Substitutos de içamento"
+   ],
+   "correta": 0,
+   "explicacao": "Os tool joints têm conexão caixa e pino e permitem circular o fluido e transmitir a rotação."
+  },
+  {
+   "id": "cp-0103",
+   "dificuldade": 2,
+   "tema": "Segurança do poço",
+   "enunciado": "O que são SIDPP e SICP?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Pressões hidrostática e geostática",
+    "Pressões de abandono e de teste",
+    "Pressões de bombeio e de retorno",
+    "Pressões de fratura e de absorção",
+    "Pressões de fechamento no tubo de perfuração (SIDPP) e no revestimento/anular (SICP)"
+   ],
+   "correta": 4,
+   "explicacao": "Após fechar o poço com um kick, lê-se a SIDPP no tubo e a SICP no anular. Com elas se determina o tipo de kick e se aplica um método de controle."
+  },
+  {
+   "id": "cp-0104",
+   "dificuldade": 2,
+   "tema": "Segurança do poço",
+   "enunciado": "Para que servem as linhas choke e kill do BOP?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Escoar o fluido do poço pelo choke e bombear fluido de controle pela linha kill",
+    "Descartar o cascalho do poço",
+    "Alimentar o top drive",
+    "Transmitir sinais de telemetria",
+    "Resfriar a broca"
+   ],
+   "correta": 0,
+   "explicacao": "Linha de choke: saída controlada do poço (pelo choke manifold). Linha de kill: entrada de fluido pesado para controlar o kick."
+  },
+  {
+   "id": "cp-0105",
+   "dificuldade": 2,
+   "tema": "Segurança do poço",
+   "enunciado": "O fluido que entra no poço num kick pode ser:",
+   "tipo": "multipla",
+   "alternativas": [
+    "Somente gás",
+    "Água, óleo ou gás",
+    "Somente cimento",
+    "Somente fluido de perfuração",
+    "Somente óleo"
+   ],
+   "correta": 1,
+   "explicacao": "Pelas pressões de fechamento se determina se o kick é de água, óleo ou gás, o que define o método de controle."
+  },
+  {
+   "id": "cp-0106",
+   "dificuldade": 2,
+   "tema": "Controle de sólidos",
+   "enunciado": "Qual equipamento é usado para remover sólidos finos (silte) do fluido?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Peneira vibratória",
+    "Desareiador",
+    "Kelly",
+    "Choke manifold",
+    "Dessiltador (hidrociclone)"
+   ],
+   "correta": 4,
+   "explicacao": "A peneira remove os cascalhos maiores. O desareiador, a areia. O dessiltador, o silte. O mud cleaner e as centrífugas refinam a remoção."
+  },
+  {
+   "id": "cp-0107",
+   "dificuldade": 2,
+   "tema": "Sistema de rotação",
+   "enunciado": "Qual a característica do motor de fundo (PDM)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Serve de estabilizador",
+    "Controla o nível dos tanques",
+    "É um tipo de bomba de lama",
+    "Substitui o top drive na superfície",
+    "Gira a broca sem precisar girar toda a coluna"
+   ],
+   "correta": 4,
+   "explicacao": "O motor de fundo é acionado pela circulação do fluido e gira a broca, sendo muito usado em poços direcionais."
+  },
+  {
+   "id": "cp-0108",
+   "dificuldade": 2,
+   "tema": "Mud logging",
+   "enunciado": "Assinale a INCORRETA. O mud logging realiza:",
+   "tipo": "incorreta",
+   "alternativas": [
+    "O registro do fluido de perfuração",
+    "A medição dos parâmetros de perfuração",
+    "A cimentação do revestimento",
+    "O controle de níveis dos tanques",
+    "A análise de gases, inclusive detecção de H2S"
+   ],
+   "correta": 2,
+   "explicacao": "O mud logging mede e registra parâmetros, analisa gases e faz comunicação e controle, mas não executa a cimentação."
+  },
+  {
+   "id": "cp-0109",
+   "dificuldade": 2,
+   "tema": "Volumetria",
+   "enunciado": "Três tanques ativos de 6 × 3,2 × 3 m. Qual o volume total em barris?",
+   "tipo": "multipla",
+   "alternativas": [
+    "≈ 460 bbl",
+    "≈ 173 bbl",
+    "≈ 10.900 bbl",
+    "≈ 2.340 bbl",
+    "≈ 1.087 bbl"
+   ],
+   "correta": 4,
+   "explicacao": "Cada tanque: 6 × 3,2 × 3 = 57,6 m³. Três: 172,8 m³ × 6,29 ≈ 1.087 bbl."
+  },
+  {
+   "id": "cp-0110",
+   "dificuldade": 2,
+   "tema": "Volumetria",
+   "enunciado": "Quantos barris cabem em 1.000 m de anular entre poço de 12 1/4 pol e tubo de 5 pol?",
+   "tipo": "multipla",
+   "alternativas": [
+    "≈ 58 bbl",
+    "≈ 480 bbl",
+    "≈ 399 bbl",
+    "≈ 40 bbl",
+    "≈ 1.250 bbl"
+   ],
+   "correta": 2,
+   "explicacao": "Cap.a ≈ 0,3986 bbl/m (ver cálculo anterior), então 1.000 m × 0,3986 ≈ 399 bbl."
+  },
+  {
+   "id": "cp-0111",
+   "dificuldade": 2,
+   "tema": "Peso da coluna",
+   "enunciado": "Qual o fator de flutuação para lama de 10,2 lb/gal?",
+   "tipo": "multipla",
+   "alternativas": [
+    "1,16",
+    "0,84",
+    "0,90",
+    "0,67",
+    "0,16"
+   ],
+   "correta": 1,
+   "explicacao": "Ff = 1 − 10,2/65,5 = 1 − 0,156 ≈ 0,84."
+  },
+  {
+   "id": "cp-0112",
+   "dificuldade": 3,
+   "tema": "Peso da coluna",
+   "enunciado": "Poço de 2.500 m com lama de 10,2 lb/gal. Coluna: 12 DC de 101 lb/pé, 18 HW de 49 lb/pé, restante DP de 19,5 lb/pé, tubos de 9,5 m. Qual o peso máximo sobre a broca (Fs = 0,80)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "≈ 23,7 t",
+    "≈ 12,5 t",
+    "≈ 79 t",
+    "≈ 29,6 t",
+    "≈ 19,9 t"
+   ],
+   "correta": 4,
+   "explicacao": "Peso no ar de DC + HW ≈ 17,1 + 12,5 = 29,6 t. PSB = 29,6 × 0,84 × 0,80 ≈ 19,9 t. O peso total da coluna no poço é ≈ 79 t."
+  },
+  {
+   "id": "cp-0113",
+   "dificuldade": 3,
+   "tema": "Peso da coluna",
+   "enunciado": "Com o mesmo poço (2.500 m, lama de 10,2 lb/gal), qual o peso aproximado da coluna no poço (flutuado)?",
+   "tipo": "multipla",
+   "alternativas": [
+    "≈ 20 t",
+    "≈ 30 t",
+    "≈ 65 t",
+    "≈ 94 t",
+    "≈ 79 t"
+   ],
+   "correta": 4,
+   "explicacao": "Pc = (PDC·hDC + PHW·hHW + PDP·hDP) × Ff ≈ (17,1 + 12,5 + 64,3) × 0,84 ≈ 79 t. Sem flutuação seriam ≈ 94 t."
+  },
+  {
+   "id": "cp-0114",
+   "dificuldade": 3,
+   "tema": "Peso da coluna",
+   "enunciado": "Ao aumentar o peso da lama, o que acontece com o peso aparente da coluna no poço e com o PSB máximo?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Ambos aumentam",
+    "Ambos diminuem, pois o fator de flutuação cai",
+    "O peso aumenta e o PSB cai",
+    "O peso aparente cai e o PSB sobe",
+    "Nenhum muda, pois só a profundidade importa"
+   ],
+   "correta": 1,
+   "explicacao": "Ff = 1 − PL/65,5 diminui com a lama mais pesada, reduzindo o peso aparente e o PSB."
+  },
+  {
+   "id": "cp-0115",
+   "dificuldade": 3,
+   "tema": "Sistema de circulação",
+   "enunciado": "Bomba com 0,0787 bbl/stroke a 250 SPM, volume anular de 562,7 bbl. Qual o tempo de bottoms-up?",
+   "tipo": "multipla",
+   "alternativas": [
+    "≈ 6,8 min",
+    "≈ 286 min",
+    "≈ 28,6 min",
+    "≈ 71,5 min",
+    "≈ 2,9 min"
+   ],
+   "correta": 2,
+   "explicacao": "Q = 0,0787 × 250 ≈ 19,7 bbl/min. Tbottoms-up = 562,7 / 19,7 ≈ 28,6 min."
+  },
+  {
+   "id": "cp-0116",
+   "dificuldade": 3,
+   "tema": "Sistema de circulação",
+   "enunciado": "Com a mesma bomba (19,7 bbl/min) e volume interno da coluna de 134,27 bbl, qual o tempo surface-to-bit?",
+   "tipo": "multipla",
+   "alternativas": [
+    "≈ 68 min",
+    "≈ 2.640 min",
+    "≈ 28,6 min",
+    "≈ 6,8 min",
+    "≈ 0,15 min"
+   ],
+   "correta": 3,
+   "explicacao": "Tsurf-to-bit = Vcol / Q = 134,27 / 19,7 ≈ 6,8 min."
+  },
+  {
+   "id": "cp-0117",
+   "dificuldade": 3,
+   "tema": "Pressão hidrostática",
+   "enunciado": "Quatro poços: P1 (PV 4.000 m, 10,0 lb/gal), P2 (PV 3.500 m, 11,0), P3 (PV 5.000 m, 8,5) e P4 (PV 2.800 m, 14,0). Qual tem a maior pressão hidrostática no fundo?",
+   "tipo": "multipla",
+   "alternativas": [
+    "P1",
+    "P3",
+    "P2",
+    "P4",
+    "Os quatro têm valores iguais"
+   ],
+   "correta": 1,
+   "explicacao": "P1: 6.800 psi. P2: 6.545. P3: 7.225. P4: 6.664. A profundidade maior mais que compensa a menor massa específica."
+  },
+  {
+   "id": "cp-0118",
+   "dificuldade": 3,
+   "tema": "Janela operacional",
+   "enunciado": "Qual a melhor condição de uso do peso de fluido na construção de um poço, considerando segurança, custo e taxa de penetração?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Constante, independentemente da profundidade",
+    "Acima da pressão de poros com uma pequena margem de segurança e abaixo da pressão de fratura",
+    "O mais pesado possível, abaixo da de fratura",
+    "Igual à pressão de fratura em todas as fases",
+    "Abaixo da pressão de poros para aumentar a taxa de penetração"
+   ],
+   "correta": 1,
+   "explicacao": "Fluido muito pesado gasta material e reduz a taxa de penetração (hold-down). Muito leve não controla o poço. O ideal é ficar um pouco acima da pressão de poros."
+  },
+  {
+   "id": "cp-0119",
+   "dificuldade": 3,
+   "tema": "Prisão diferencial",
+   "enunciado": "Qual combinação de propriedades do fluido mais favorece a prisão diferencial?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Hidrostática abaixo da pressão de poros",
+    "Hidrostática igual à pressão de poros, filtrado baixo e reboco fino",
+    "Filtrado nulo e densidade mínima",
+    "Hidrostática bem acima da pressão de poros, filtrado alto e reboco espesso",
+    "Fluido gasoso sem reboco"
+   ],
+   "correta": 3,
+   "explicacao": "O sobrebalanço grande, o filtrado alto e o reboco espesso aumentam a área de contato e a força que pressiona a coluna contra a parede."
+  },
+  {
+   "id": "cp-0120",
+   "dificuldade": 3,
+   "tema": "Prisão de coluna",
+   "enunciado": "Um poço apresenta aumento súbito de torque, muito cascalho na peneira e aumento da pressão de bombeio. Qual a ação mais coerente?",
+   "tipo": "multipla",
+   "alternativas": [
+    "Reduzir o peso do fluido ao mínimo",
+    "Aumentar o filtrado para ajudar a circular",
+    "Avaliar peso e inibição do fluido e melhorar a limpeza, suspeitando de desmoronamento",
+    "Retirar a coluna rapidamente sem circular",
+    "Parar a circulação e deixar a coluna em repouso"
+   ],
+   "correta": 2,
+   "explicacao": "Os sintomas indicam desmoronamento. As causas: peso insuficiente, perda de circulação e fluido pouco inibido. A ação é circular, limpar e avaliar o fluido."
+  },
+  {
+   "id": "cp-0121",
+   "dificuldade": 2,
+   "tema": "Sonda e equipamentos",
+   "enunciado": "Sobre a sonda e seus equipamentos, marque as afirmativas corretas:",
+   "tipo": "combinacao",
+   "afirmativas": [
+    "I. O top drive permite perfurar em seções de tubos, reduzindo conexões e manobras.",
+    "II. O top drive permite retirar a coluna com rotação e circulação.",
+    "III. Os comandos têm parede fina e foram desenhados para suportar principalmente tração."
+   ],
+   "alternativas": [
+    "Apenas I",
+    "Apenas I e II",
+    "Apenas II e III",
+    "Apenas I e III",
+    "I, II e III"
+   ],
+   "correta": 1,
+   "explicacao": "I e II estão corretas. III é falsa: comandos têm parede espessa e fornecem peso."
+  },
+  {
+   "id": "cp-0122",
+   "dificuldade": 3,
+   "tema": "Pressões e fluido",
+   "enunciado": "Sobre pressões e fluido de perfuração, marque as afirmativas corretas:",
+   "tipo": "combinacao",
+   "afirmativas": [
+    "I. A perda de circulação pode ocorrer quando a pressão no poço ultrapassa a de fratura.",
+    "II. Um kick é um influxo indesejado de fluido da formação para o poço.",
+    "III. A variação da densidade do fluido ao longo da construção do poço pode indicar problemas operacionais."
+   ],
+   "alternativas": [
+    "Apenas I",
+    "Apenas II e III",
+    "Apenas I e II",
+    "I, II e III",
+    "Apenas I e III"
+   ],
+   "correta": 3,
+   "explicacao": "Todas estão corretas. Variação de densidade de entrada e saída pode sinalizar kick, perda, contaminação ou problemas de limpeza."
+  },
+  {
+   "id": "cp-0123",
+   "dificuldade": 3,
+   "tema": "Sondas e perfuração",
+   "enunciado": "Analise:",
+   "tipo": "combinacao",
+   "afirmativas": [
+    "I. A principal função do drill pipe é fornecer peso sobre a broca.",
+    "II. A estabilidade da coluna vem dos tubos e acessórios do BHA.",
+    "III. O motor de fundo deve ser sempre usado em rochas mais duras para aumentar a rotação."
+   ],
+   "alternativas": [
+    "Apenas I",
+    "Apenas II",
+    "Apenas III",
+    "Apenas I e II",
+    "Nenhuma está correta"
+   ],
+   "correta": 1,
+   "explicacao": "Só II está correta. A função do DP é circular fluido e transmitir rotação (o peso vem dos DC/HW). III é um absurdo conceitual: o uso do motor de fundo não é regra para rochas duras."
+  },
+  {
+   "id": "cp-0124",
+   "dificuldade": 2,
+   "tema": "Perda de circulação",
+   "enunciado": "A perda de circulação de um poço é causada pela alta pressão de poros da formação.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 1,
+   "explicacao": "Falso. A perda de circulação costuma ocorrer quando a pressão no poço supera a resistência da formação (fratura) ou em formações muito permeáveis ou cavernosas. Alta pressão de poros causa kick."
+  },
+  {
+   "id": "cp-0125",
+   "dificuldade": 2,
+   "tema": "Revestimento",
+   "enunciado": "O liner é um revestimento que se estende da superfície até o fundo do poço.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 1,
+   "explicacao": "Falso. O liner é suspenso próximo à sapata do revestimento anterior e não chega à superfície."
+  },
+  {
+   "id": "cp-0126",
+   "dificuldade": 2,
+   "tema": "Top drive",
+   "enunciado": "O top drive permite retirar a coluna com rotação e circulação.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "Verdadeiro. Essa é uma vantagem operacional em trechos com risco de prisão."
+  },
+  {
+   "id": "cp-0127",
+   "dificuldade": 3,
+   "tema": "Perfuração",
+   "enunciado": "Uma perfuração com peso de lama muito acima do necessário reduz a taxa de penetração e aumenta o custo com materiais adensantes.",
+   "tipo": "vf",
+   "alternativas": [
+    "Verdadeiro",
+    "Falso"
+   ],
+   "correta": 0,
+   "explicacao": "Verdadeiro. A sobrepressão excessiva dificulta a remoção da rocha sob a broca (efeito hold-down) e encarece o fluido."
+  }
+ ],
+ "flashcards": [
+  {
+   "id": "cp-f001",
+   "frente": "Fluido de perfuração",
+   "verso": "Mistura líquida ou gasosa que remove cascalhos, resfria e limpa a broca e controla as pressões da formação."
+  },
+  {
+   "id": "cp-f002",
+   "frente": "Pressão hidrostática",
+   "verso": "Ph (psi) = 0,17 × ρ (lb/gal) × h (m). Usa a profundidade VERTICAL."
+  },
+  {
+   "id": "cp-f003",
+   "frente": "Pressão de poros",
+   "verso": "Pressão dos fluidos nos poros da formação. Normal: 1,42–1,53 psi/m. Baixa: < 1,42. Alta: > 1,53."
+  },
+  {
+   "id": "cp-f004",
+   "frente": "Pressão de fratura",
+   "verso": "Pressão que rompe a formação, de forma casual ou proposital."
+  },
+  {
+   "id": "cp-f005",
+   "frente": "Pressão de absorção (leak-off)",
+   "verso": "Pressão em que a formação começa a absorver o fluido. Testada com baixa vazão e BOP fechado."
+  },
+  {
+   "id": "cp-f006",
+   "frente": "Massa específica equivalente",
+   "verso": "ρeq = P / (0,17 × H). Na absorção: ρeq = ρL + Pabs / (0,17 × Hsapata)."
+  },
+  {
+   "id": "cp-f007",
+   "frente": "Pressão de circulação",
+   "verso": "Pressão de bombeio para vencer as perdas de carga: superfície, interior da coluna, jatos da broca e anular."
+  },
+  {
+   "id": "cp-f008",
+   "frente": "Janela operacional",
+   "verso": "Faixa entre a pressão de poros (limite inferior) e a pressão de fratura (limite superior)."
+  },
+  {
+   "id": "cp-f009",
+   "frente": "Kick e blowout",
+   "verso": "Kick: influxo indesejado de fluido da formação. Blowout: kick fora de controle."
+  },
+  {
+   "id": "cp-f010",
+   "frente": "Poço por finalidade",
+   "verso": "Exploratórios, explotatórios e especiais."
+  },
+  {
+   "id": "cp-f011",
+   "frente": "Poço por geometria",
+   "verso": "Verticais, direcionais e multilaterais."
+  },
+  {
+   "id": "cp-f012",
+   "frente": "Poço por profundidade",
+   "verso": "Raso: até 1.500 m · Médio: 1.500–2.500 m · Profundo: > 2.500 m."
+  },
+  {
+   "id": "cp-f013",
+   "frente": "LDA (lâmina d'água)",
+   "verso": "0–300 m: rasas · 300–1.500 m: profundas · > 1.500 m: ultraprofundas."
+  },
+  {
+   "id": "cp-f014",
+   "frente": "Sondas terrestres",
+   "verso": "Convencional, automática e helitransportada (regiões de difícil acesso). DTM = desmontagem, transporte e montagem."
+  },
+  {
+   "id": "cp-f015",
+   "frente": "Sondas marítimas",
+   "verso": "Plataforma modulada, auto-elevatória (PA), semissubmersível (SS) e navio-sonda (NS)."
+  },
+  {
+   "id": "cp-f016",
+   "frente": "Equipe da sonda",
+   "verso": "Geólogo, químico/eng. de fluidos, fiscal (company man), encarregado (tool pusher), sondador, torrista, plataformista."
+  },
+  {
+   "id": "cp-f017",
+   "frente": "Escalas de embarque",
+   "verso": "7×7, 14×14, 21×21, 28×28, 7×14, 14×21. Regime de trabalho: 12 h × 12 h."
+  },
+  {
+   "id": "cp-f018",
+   "frente": "Sistemas da sonda",
+   "verso": "Sustentação de cargas · Geração de energia · Movimentação de carga · Rotação · Circulação · Segurança do poço · Monitoração · Subsuperfície (coluna)."
+  },
+  {
+   "id": "cp-f019",
+   "frente": "Sistema de rotação",
+   "verso": "Mesa rotativa + kelly + swivel (tubo a tubo ≈ 9 m); top drive (seções ≈ 27 m); motor de fundo (gira só a broca)."
+  },
+  {
+   "id": "cp-f020",
+   "frente": "Sistema de circulação",
+   "verso": "Bombas triplex, linhas, coluna, broca, anular, peneiras e tanques de lama."
+  },
+  {
+   "id": "cp-f021",
+   "frente": "Segurança do poço",
+   "verso": "BOP, choke manifold, linhas de choke e kill. Pressões de fechamento: SIDPP (tubo) e SICP (anular)."
+  },
+  {
+   "id": "cp-f022",
+   "frente": "Coluna de perfuração",
+   "verso": "Broca + comandos (DC) + tubos pesados (HW) + tubos de perfuração (DP) + estabilizadores e substitutos."
+  },
+  {
+   "id": "cp-f023",
+   "frente": "Comandos (DC)",
+   "verso": "Parede espessa; dão peso sobre a broca e estabilidade. Lisos ou espiralados."
+  },
+  {
+   "id": "cp-f024",
+   "frente": "Tubos pesados (HW)",
+   "verso": "Transição entre DC e DP; menos torque, arraste e risco de prisão."
+  },
+  {
+   "id": "cp-f025",
+   "frente": "Tubos de perfuração (DP)",
+   "verso": "Circulam o fluido e transmitem rotação. Têm tool joints (caixa e pino)."
+  },
+  {
+   "id": "cp-f026",
+   "frente": "Substitutos",
+   "verso": "Içamento (movimentar comandos), broca (conectar a broca), cruzamento (unir roscas diferentes)."
+  },
+  {
+   "id": "cp-f027",
+   "frente": "Manuseio da coluna",
+   "verso": "Chave flutuante (torque), cunhas (suspendem a coluna), colar de segurança (evita queda no poço)."
+  },
+  {
+   "id": "cp-f028",
+   "frente": "Manobra",
+   "verso": "Completa: retirar e descer. Meia manobra: só uma. Manobra curta: retirada e descida parciais."
+  },
+  {
+   "id": "cp-f029",
+   "frente": "Peso da coluna no poço",
+   "verso": "Pc = (PDC·hDC + PHW·hHW + PDP·hDP) × Ff. Ff = 1 − PL/65,5."
+  },
+  {
+   "id": "cp-f030",
+   "frente": "Peso máximo sobre a broca",
+   "verso": "PSB = (PDC·hDC + PHW·hHW) × Ff × Fs, com Fs = 0,80."
+  },
+  {
+   "id": "cp-f031",
+   "frente": "Capacidade da bomba triplex",
+   "verso": "qp (bbl/stroke) = D² · L · Ep / 411.765,7 (D e L em pol, Ep em %)."
+  },
+  {
+   "id": "cp-f032",
+   "frente": "Vazão e tempos",
+   "verso": "Q = qp × SPM. Surface-to-bit = Vcol / Q. Bottoms-up = Van / Q."
+  },
+  {
+   "id": "cp-f033",
+   "frente": "Capacidades volumétricas",
+   "verso": "Interna: ID² × 0,0031871 (bbl/m). Anular: (D² − OD²) × 0,0031871. Volume = cap × H."
+  },
+  {
+   "id": "cp-f034",
+   "frente": "Conversões",
+   "verso": "1 bbl = 159 L · 1 m³ = 6,29 bbl · 1 m = 3,281 pés · 1 kg = 2,205 lb."
+  },
+  {
+   "id": "cp-f035",
+   "frente": "Fases do poço",
+   "verso": "Condutor (30″, 20″, 13⅜″) → superfície → intermediário → liner/produção (9⅝″, 7″, 5½″)."
+  },
+  {
+   "id": "cp-f036",
+   "frente": "Par poço/revestimento",
+   "verso": "36/30 · 26/20 · 17½/13⅜ · 12¼/9⅝ · 8½/7."
+  },
+  {
+   "id": "cp-f037",
+   "frente": "Revestimento de superfície",
+   "verso": "Cimentado em toda a extensão; base para equipamentos de segurança de cabeça de poço."
+  },
+  {
+   "id": "cp-f038",
+   "frente": "Revestimento intermediário",
+   "verso": "Isola zonas de pressão, perda e desmoronamento; cimentado só na parte inferior."
+  },
+  {
+   "id": "cp-f039",
+   "frente": "Número de fases",
+   "verso": "Definido por janela operacional, kicks, desmoronamento e perda de circulação."
+  },
+  {
+   "id": "cp-f040",
+   "frente": "Funções da cimentação",
+   "verso": "Isolamento hidráulico, estabilidade mecânica, proteção do revestimento e fluxo controlado."
+  },
+  {
+   "id": "cp-f041",
+   "frente": "Cimentação secundária",
+   "verso": "Squeeze (compressão), tampões e recimentação."
+  },
+  {
+   "id": "cp-f042",
+   "frente": "Completar o poço nas manobras",
+   "verso": "Repor fluido para manter a hidrostática e evitar kick. Na descida do revestimento, evita flutuação e colapso."
+  },
+  {
+   "id": "cp-f043",
+   "frente": "Acunhamento",
+   "verso": "Prisão após drag alto, troca de broca ou testemunhagem. Aumenta pressão de bombeio."
+  },
+  {
+   "id": "cp-f044",
+   "frente": "Prisão por desmoronamento",
+   "verso": "Peso insuficiente, perda de circulação e falta de inibição. Muito cascalho e torque alto."
+  },
+  {
+   "id": "cp-f045",
+   "frente": "Prisão diferencial",
+   "verso": "Coluna parada contra reboco espesso, filtrado alto, forte sobrebalanço. Circulação normal."
+  },
+  {
+   "id": "cp-f046",
+   "frente": "Enceramento de broca",
+   "verso": "Excesso de argila aderida à broca."
+  },
+  {
+   "id": "cp-f047",
+   "frente": "Pescaria",
+   "verso": "Operação para retirar o peixe (qualquer objeto que ficou no poço)."
+  },
+  {
+   "id": "cp-f048",
+   "frente": "SGIP – ANP 46/2016",
+   "verso": "Sistema de gerenciamento da integridade de poços: 17 práticas ao longo do ciclo de vida (projeto, construção, produção, intervenção e abandono)."
+  },
+  {
+   "id": "cp-f049",
+   "frente": "CSB",
+   "verso": "Conjunto solidário de barreiras. Primário (1º controle) e secundário (2º). O fluido com hidrostática correta é a barreira primária durante a perfuração."
+  },
+  {
+   "id": "cp-f050",
+   "frente": "Fluido como barreira",
+   "verso": "Exige coluna hidrostática (volume e extensão), densidade adequada e conhecimento da janela operacional."
+  },
+  {
+   "id": "cp-f051",
+   "frente": "Projeto de poço",
+   "verso": "Dados gerais, esquema, roteiro, brocas, tempo, custo, fluido, revestimento e cimentação, abandono."
+  }
+ ]
+}

@@ -1,6 +1,6 @@
 // Regras da aba Estudar: quantas perguntas novas estão pendentes e como a sessão é montada.
 import * as store from './store.js';
-import { dadosIndice, listaUnidades, todasPerguntas } from './dados.js';
+import { dadosIndice, listaUnidades, pergunta, todasPerguntas } from './dados.js';
 import { hoje, diasEntre, somarDias } from './datas.js';
 import { embaralhar } from './util.js';
 
@@ -73,6 +73,21 @@ export function montarSessao(tamanho = Math.min(TAM_SESSAO, pendentes())) {
     if (!avancou) break;
   }
   return embaralhar(escolhidas).map((q) => q.id);
+}
+
+// Sessão salva sem as perguntas que saíram dos dados: o total, a posição e as respostas
+// passam a contar só as que existem. Se não sobrar nenhuma, a sessão é descartada.
+export function sessaoAtual() {
+  const s = store.sessao();
+  if (!s) return null;
+  const vivos = s.ids.filter((id) => pergunta(id));
+  if (vivos.length !== s.ids.length) {
+    s.pos = s.ids.slice(0, s.pos).filter((id) => pergunta(id)).length;
+    s.ids = vivos;
+    for (const id in s.resp) if (!pergunta(id)) delete s.resp[id];
+    store.definirSessao(vivos.length ? s : null);
+  }
+  return vivos.length ? s : null;
 }
 
 // Racha: dias seguidos com pelo menos 1 pergunta respondida.

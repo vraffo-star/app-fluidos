@@ -2,7 +2,7 @@ import * as store from '../store.js';
 import { pergunta } from '../dados.js';
 import { hoje } from '../datas.js';
 import { esc, plural, fmtTempo } from '../util.js';
-import { pendentes, montarSessao, bancoEsgotado, TAM_SESSAO } from '../estudo.js';
+import { pendentes, montarSessao, bancoEsgotado, sessaoAtual, TAM_SESSAO } from '../estudo.js';
 import { telaPergunta, htmlItemRespondido } from './pergunta.js';
 
 // Pausas longas (app em segundo plano) não entram no tempo da sessão.
@@ -26,14 +26,8 @@ export function telaEstudar(raiz) {
   }
 
   function desenhar() {
-    let s = store.sessao();
-
-    // Pula ids que por algum motivo já não existam nos dados.
-    if (s) {
-      const antes = s.pos;
-      while (s.pos < s.ids.length && !pergunta(s.ids[s.pos])) s.pos++;
-      if (s.pos !== antes) store.definirSessao(s);
-    }
+    // Sem as perguntas que saíram dos dados.
+    let s = sessaoAtual();
     // Resultado de um dia anterior não fica preso na tela.
     if (s && s.pos >= s.ids.length && s.data !== hoje()) {
       store.definirSessao(null);

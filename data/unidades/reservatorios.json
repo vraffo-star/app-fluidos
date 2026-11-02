@@ -335,22 +335,6 @@
    "explicacao": "A porosidade é função do grau de compactação, que depende da profundidade máxima já atingida. Folhelhos (argilosos) compactam muito mais que arenitos, cujo arcabouço de grãos rígidos sustenta o espaço poroso."
   },
   {
-   "id": "res-0022",
-   "dificuldade": 2,
-   "tema": "Compressibilidade",
-   "enunciado": "Segundo o curso, a compressibilidade influi em quais compressibilidades?",
-   "tipo": "multipla",
-   "alternativas": [
-    "Da sísmica, da gravimetria e da magnetometria",
-    "Do revestimento, do cimento e da broca",
-    "Do óleo, do gás e da água apenas",
-    "Da rocha matriz, dos poros e total da rocha",
-    "Do separador, do tratador e do flare"
-   ],
-   "correta": 3,
-   "explicacao": "A porosidade depende da compactação; a compressibilidade se divide em compressibilidade da matriz, dos poros e total da rocha."
-  },
-  {
    "id": "res-0023",
    "dificuldade": 2,
    "tema": "Compressibilidade",
@@ -1771,38 +1755,6 @@
    "explicacao": "Sísmica: oportunidades e modelo geológico. Poços: identificar fluido e calibrar a sísmica. Testes: produtividade e delimitação. Produção: desempenho e resposta a métodos suplementares."
   },
   {
-   "id": "res-0111",
-   "dificuldade": 2,
-   "tema": "Reservas",
-   "enunciado": "Pelos dados apresentados, quais países tinham as maiores reservas provadas de petróleo em 2020?",
-   "tipo": "multipla",
-   "alternativas": [
-    "Brasil e Argentina",
-    "Venezuela e Arábia Saudita",
-    "EUA e China",
-    "Nigéria e Angola",
-    "Noruega e Reino Unido"
-   ],
-   "correta": 1,
-   "explicacao": "Venezuela (~303,8 bilhões de barris) e Arábia Saudita (~297,5) lideravam; o Brasil aparecia em 16º, com ~11,9 bilhões."
-  },
-  {
-   "id": "res-0112",
-   "dificuldade": 2,
-   "tema": "Reservas",
-   "enunciado": "Na matriz energética mundial de 2021 apresentada, qual fonte tinha a maior participação?",
-   "tipo": "multipla",
-   "alternativas": [
-    "Carvão mineral (~50%)",
-    "Petróleo e derivados (~31,5%)",
-    "Hidráulica (~25%)",
-    "Nuclear (~20%)",
-    "Gás natural (~45%)"
-   ],
-   "correta": 1,
-   "explicacao": "Petróleo ~31,5%, carvão ~26,9%, gás natural ~22,8%, biomassa ~9,3%, nuclear ~5% e hidráulica ~2,5%."
-  },
-  {
    "id": "res-0113",
    "dificuldade": 2,
    "tema": "Reservas",
@@ -2235,11 +2187,6 @@
    "id": "res-f044",
    "frente": "Definição de reserva (data)",
    "verso": "Soma da produção futura a partir de uma data até o limite econômico ou contratual."
-  },
-  {
-   "id": "res-f045",
-   "frente": "Maiores reservas (2020)",
-   "verso": "Venezuela ~304 e Arábia Saudita ~298 bilhões de bbl. Brasil: 16º (~11,9)."
   }
  ]
 }

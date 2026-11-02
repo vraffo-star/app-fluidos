@@ -1,11 +1,11 @@
 import * as store from '../store.js';
 import { plural } from '../util.js';
-import { pendentes, bancoEsgotado, racha } from '../estudo.js';
+import { pendentes, bancoEsgotado, racha, sessaoAtual } from '../estudo.js';
 import { vencidas as revisoesVencidas } from '../revisao.js';
 import { iniciarSessao } from './estudar.js';
 
 function htmlCartaoDoDia() {
-  const s = store.sessao();
+  const s = sessaoAtual();
   const emCurso = s && s.pos < s.ids.length;
   const n = pendentes();
 
@@ -88,7 +88,7 @@ export function telaInicio(raiz) {
     </section>`;
 
   raiz.querySelector('#estudar')?.addEventListener('click', () => {
-    const s = store.sessao();
+    const s = sessaoAtual();
     if (!s || s.pos >= s.ids.length) iniciarSessao();
     location.hash = '#/estudar';
   });
